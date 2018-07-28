@@ -21,7 +21,14 @@ Software notes:
 
 To Compile and run it on Ubuntu:
 
-checkout the code to /root/rolesim/clean-v1-opt1
+Checkout the code to /root/rolesim/clean-v1-opt1
+
+Then run: 
+```
+./rsimrun -h 
+```
+
+If the command above works on your system then you don't need to re-compile the code. Else To Compile and run it on Ubuntu:
 
 ```
 cd /root/rolesim/clean-v1-opt1;rm rsimrun;g++ -W -Wall -pedantic -o rsimrun -p *.cpp -std=c++11
@@ -49,7 +56,11 @@ For big RDF files you first need to generate common-pairs-list file. Please use:
 
 
 Let's assume you compile the program to a file called rsimrun:
-"./rsimrun -h" will display a help menu.
+
+The following will display a help menu: 
+```
+./rsimrun -h 
+```
 
 ```
 Description:
