@@ -1,0 +1,32 @@
+<http://dbpedia.org/resource/Alabama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Alabama> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "33.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Alabama> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-86.66666666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Alabama> <http://www.georss.org/georss/point> "33.0 -86.66666666666667"@en .
+<http://dbpedia.org/resource/Algeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Algeria> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "29.5734571"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Algeria> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "2.3730469"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Algeria> <http://www.georss.org/georss/point> "29.5734571 2.3730469"@en .
+<http://dbpedia.org/resource/Alaska> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Alaska> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "64.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Alaska> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-153.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Alaska> <http://www.georss.org/georss/point> "64.0 -153.0"@en .
+<http://dbpedia.org/resource/Apollo_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Apollo_8> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "8.1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Apollo_8> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-165.01666666666668"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Apollo_8> <http://www.georss.org/georss/point> "8.1 -165.01666666666668"@en .
+<http://dbpedia.org/resource/Apollo_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Apollo_11> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "0.6740805555555556"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Apollo_11> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "23.472969444444445"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Apollo_11> <http://www.georss.org/georss/point> "0.6740805555555556 23.472969444444445"@en .
+<http://dbpedia.org/resource/Atlantic_Ocean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Atlantic_Ocean> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Atlantic_Ocean> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-30.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Atlantic_Ocean> <http://www.georss.org/georss/point> "0.0 -30.0"@en .
+<http://dbpedia.org/resource/Aruba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Aruba> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "12.316666666666666"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Aruba> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-70.01666666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Aruba> <http://www.georss.org/georss/point> "12.316666666666666 -70.01666666666667"@en .
+<http://dbpedia.org/resource/Aruba> <http://www.w3.org/2003/01/geo/fake/far> <http://dbpedia.org/resource/Algeria> .
+<http://dbpedia.org/resource/Algeria> <http://www.w3.org/2003/01/geo/fake/in> <http://dbpedia.org/resource/Africa> .
+<http://dbpedia.org/resource/Alaska> <http://www.w3.org/2003/01/geo/fake/not_in> <http://dbpedia.org/resource/Africa> .
+<http://dbpedia.org/resource/Atlantic_Ocean> <http://www.w3.org/2003/01/geo/fake/far> <http://dbpedia.org/resource/Algeria> .

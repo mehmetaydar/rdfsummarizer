@@ -1,0 +1,101 @@
+﻿Build started 7/18/2018 10:33:30 PM.
+     1>Project "C:\Users\maydar\Documents\Visual Studio 2013\Projects\clean-v1-opt1\RoleSim_Jaccard.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Graph.cpp main.cpp
+         main.cpp
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\Util.h(56): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\Util.h(62): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\Util.h(55): warning C4101: 'len' : unreferenced local variable
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\StringSim.h(44): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\StringSim.h(49): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\StringSim.h(51): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(211): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>main.cpp(212): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>main.cpp(218): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>main.cpp(219): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>main.cpp(329): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(86) : see declaration of 'ctime'
+     1>main.cpp(453): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(458): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(486): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(491): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(496): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Graph.cpp
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\Util.h(56): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\Util.h(62): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\Util.h(55): warning C4101: 'len' : unreferenced local variable
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\StringSim.h(44): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\StringSim.h(49): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maydar\documents\visual studio 2013\projects\clean-v1-opt1\StringSim.h(51): warning C4018: '<' : signed/unsigned mismatch
+     1>Graph.cpp(42): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(148): warning C4244: '=' : conversion from 'unsigned __int64' to 'float', possible loss of data
+     1>Graph.cpp(262): warning C4101: 'i' : unreferenced local variable
+     1>Graph.cpp(307): warning C4101: 'i' : unreferenced local variable
+     1>Graph.cpp(407): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>Graph.cpp(651): warning C4101: 'c_dest' : unreferenced local variable
+     1>Graph.cpp(737): warning C4101: 'vid2' : unreferenced local variable
+     1>Graph.cpp(739): warning C4101: 'pairOIndex' : unreferenced local variable
+     1>Graph.cpp(737): warning C4101: 'vid1' : unreferenced local variable
+     1>Graph.cpp(837): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(865): warning C4800: 'unsigned __int64' : forcing value to bool 'true' or 'false' (performance warning)
+     1>Graph.cpp(987): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(991): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1077): warning C4800: 'unsigned __int64' : forcing value to bool 'true' or 'false' (performance warning)
+     1>Graph.cpp(1078): warning C4800: 'unsigned __int64' : forcing value to bool 'true' or 'false' (performance warning)
+     1>Graph.cpp(1095): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1144): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1208): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1235): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1256): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>Graph.cpp(1260): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>Graph.cpp(1280): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1366): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Graph.cpp(1398): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1369): warning C4101: 'index' : unreferenced local variable
+     1>Graph.cpp(1369): warning C4101: 'vmin_lastprocessed' : unreferenced local variable
+     1>Graph.cpp(1467): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1475): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1496): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Graph.cpp(1594): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1607): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1624): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1626): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1695): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1708): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1725): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1787): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1788): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1887): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(1913): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2018): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2027): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2032): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2042): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2044): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2116): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2166): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2170): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2190): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2206): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2184): warning C4101: 'idx3' : unreferenced local variable
+     1>Graph.cpp(2184): warning C4101: 'idx2' : unreferenced local variable
+     1>Graph.cpp(2222): warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2236): warning C4267: '+=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Graph.cpp(2354): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Graph.cpp(2365): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Graph.cpp(2398): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Graph.cpp(2404): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\maydar\Documents\Visual Studio 2013\Projects\clean-v1-opt1\x64\Debug\RoleSim_Jaccard.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\maydar\Documents\Visual Studio 2013\Projects\clean-v1-opt1\x64\Debug\RoleSim_Jaccard.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\maydar\Documents\Visual Studio 2013\Projects\clean-v1-opt1\x64\Debug\RoleSim_Jaccard.lib" /MACHINE:X64 x64\Debug\Conf.obj
+         x64\Debug\Graph.obj
+         x64\Debug\main.obj
+         x64\Debug\SimMatrix.obj
+         x64\Debug\StringSim.obj
+         x64\Debug\Util.obj
+         RoleSim_Jaccard.vcxproj -> C:\Users\maydar\Documents\Visual Studio 2013\Projects\clean-v1-opt1\x64\Debug\RoleSim_Jaccard.exe
+     1>Done Building Project "C:\Users\maydar\Documents\Visual Studio 2013\Projects\clean-v1-opt1\RoleSim_Jaccard.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.90

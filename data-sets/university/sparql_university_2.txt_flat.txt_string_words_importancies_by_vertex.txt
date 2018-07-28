@@ -1,0 +1,579 @@
+(<http://dbpedia.org/resource/David_Naylor>) (0) :
+	(Frank : 0.037 - 3.7%
+	(Vivek : 0.037 - 3.7%
+	) : 0.037 - 3.7%
+	15 : 0.037 - 3.7%
+	1954-10-26+02:00 : 0.037 - 3.7%
+	2005-10-01+02:00 : 0.037 - 3.7%
+	2013 : 0.037 - 3.7%
+	Canadian : 0.037 - 3.7%
+	Christopher : 0.037 - 3.7%
+	David : 0.037 - 3.7%
+	Goel : 0.037 - 3.7%
+	Iacobucci : 0.037 - 3.7%
+	Ilse : 0.037 - 3.7%
+	Karline : 0.037 - 3.7%
+	Max : 0.037 - 3.7%
+	Melinda : 0.037 - 3.7%
+	Naylor : 0.037 - 3.7%
+	Naylor, : 0.037 - 3.7%
+	October, : 0.037 - 3.7%
+	President : 0.037 - 3.7%
+	Sam : 0.037 - 3.7%
+	Toronto : 0.037 - 3.7%
+	Treurnicht : 0.037 - 3.7%
+	University : 0.037 - 3.7%
+	of : 0.037 - 3.7%
+	physician : 0.037 - 3.7%
+	the : 0.037 - 3.7%
+(<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/David_Naylor>) (1) :
+(<http://dbpedia.org/resource/Toronto>) (2) :
+	-4 : 0.0106 - 1.06%
+	-5 : 0.0106 - 1.06%
+	1 : 0.0106 - 1.06%
+	125 : 0.0106 - 1.06%
+	1749 : 0.0106 - 1.06%
+	1750 : 0.0106 - 1.06%
+	1793-08-27+02:00 : 0.0106 - 1.06%
+	1834-03-06+02:00 : 0.0106 - 1.06%
+	1998-01-01+02:00 : 0.0106 - 1.06%
+	2011 : 0.0106 - 1.06%
+	220 : 0.0106 - 1.06%
+	24 : 0.0106 - 1.06%
+	2615060 : 0.0106 - 1.06%
+	30 : 0.0106 - 1.06%
+	4149 : 0.0106 - 1.06%
+	416437647 : 0.0106 - 1.06%
+	42 : 0.0106 - 1.06%
+	43 : 0.0106 - 1.06%
+	5132794 : 0.0106 - 1.06%
+	5583064 : 0.0106 - 1.06%
+	630 : 0.0106 - 1.06%
+	7.jpg : 0.0106 - 1.06%
+	7125 : 0.0106 - 1.06%
+	76 : 0.0106 - 1.06%
+	79 : 0.0106 - 1.06%
+	85 : 0.0106 - 1.06%
+	Arms.jpg : 0.0106 - 1.06%
+	Bluffs : 0.0106 - 1.06%
+	Building, : 0.0106 - 1.06%
+	CA-ON : 0.0106 - 1.06%
+	CN : 0.0106 - 1.06%
+	Canada : 0.0106 - 1.06%
+	Casa : 0.0106 - 1.06%
+	City : 0.0106 - 1.06%
+	Coat : 0.0106 - 1.06%
+	Code : 0.0106 - 1.06%
+	Council : 0.0106 - 1.06%
+	Country : 0.0106 - 1.06%
+	Deputy : 0.0106 - 1.06%
+	District : 0.0106 - 1.06%
+	Diversity : 0.0106 - 1.06%
+	Downtown : 0.0106 - 1.06%
+	Edward : 0.0106 - 1.06%
+	Established : 0.0106 - 1.06%
+	FEUZB : 0.0106 - 1.06%
+	Financial : 0.0106 - 1.06%
+	Flag : 0.0106 - 1.06%
+	Flag.svg : 0.0106 - 1.06%
+	From : 0.0106 - 1.06%
+	GNBC : 0.0106 - 1.06%
+	Hall, : 0.0106 - 1.06%
+	Islands, : 0.0106 - 1.06%
+	Lake : 0.0106 - 1.06%
+	Legislative : 0.0106 - 1.06%
+	Location : 0.0106 - 1.06%
+	Logo.png : 0.0106 - 1.06%
+	Loma, : 0.0106 - 1.06%
+	Map : 0.0106 - 1.06%
+	Mayor : 0.0106 - 1.06%
+	Metric : 0.0106 - 1.06%
+	Montage : 0.0106 - 1.06%
+	N : 0.0106 - 1.06%
+	NTS : 0.0106 - 1.06%
+	Ontario : 0.0106 - 1.06%
+	Ontario.png : 0.0106 - 1.06%
+	Our : 0.0106 - 1.06%
+	Portal:Toronto, : 0.0106 - 1.06%
+	Postal : 0.0106 - 1.06%
+	Prince : 0.0106 - 1.06%
+	Scarborough : 0.0106 - 1.06%
+	Settled : 0.0106 - 1.06%
+	Strength : 0.0106 - 1.06%
+	Toronto : 0.0106 - 1.06%
+	Torontonian : 0.0106 - 1.06%
+	Tower : 0.0106 - 1.06%
+	Viaduct, : 0.0106 - 1.06%
+	W : 0.0106 - 1.06%
+	and : 0.0106 - 1.06%
+	area : 0.0106 - 1.06%
+	arms : 0.0106 - 1.06%
+	census : 0.0106 - 1.06%
+	code : 0.0106 - 1.06%
+	featuring : 0.0106 - 1.06%
+	from : 0.0106 - 1.06%
+	in : 0.0106 - 1.06%
+	its : 0.0106 - 1.06%
+	left: : 0.0106 - 1.06%
+	metropolitan : 0.0106 - 1.06%
+	no : 0.0106 - 1.06%
+	of : 0.0106 - 1.06%
+	province : 0.0106 - 1.06%
+	span : 0.0106 - 1.06%
+	the : 0.0106 - 1.06%
+	top : 0.0106 - 1.06%
+(<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Toronto>) (3) :
+(<http://dbpedia.org/resource/Lester_Lefton>) (4) :
+	11 : 0.0556 - 5.56%
+	1946-07-27+02:00 : 0.0556 - 5.56%
+	2006-07-01+02:00 : 0.0556 - 5.56%
+	2012 : 0.0556 - 5.56%
+	2014-07-01+02:00 : 0.0556 - 5.56%
+	American : 0.0556 - 5.56%
+	Educator : 0.0556 - 5.56%
+	Lefton : 0.0556 - 5.56%
+	Lefton, : 0.0556 - 5.56%
+	Lester : 0.0556 - 5.56%
+	Linda : 0.0556 - 5.56%
+	Photo : 0.0556 - 5.56%
+	President : 0.0556 - 5.56%
+	Taken : 0.0556 - 5.56%
+	in : 0.0556 - 5.56%
+	incumbent : 0.0556 - 5.56%
+	of : 0.0556 - 5.56%
+	psychologist : 0.0556 - 5.56%
+(<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lester_Lefton>) (5) :
+(<http://dbpedia.org/resource/Cleveland>) (6) :
+	& : 0.0122 - 1.22%
+	1 : 0.0122 - 1.22%
+	1.jpg : 0.0122 - 1.22%
+	10 : 0.0122 - 1.22%
+	11 : 0.0122 - 1.22%
+	12.35 : 0.0122 - 1.22%
+	1796 : 0.0122 - 1.22%
+	1814 : 0.0122 - 1.22%
+	1836 : 0.0122 - 1.22%
+	1863-04-09+02:00 : 0.0122 - 1.22%
+	1971.8 : 0.0122 - 1.22%
+	199 : 0.0122 - 1.22%
+	20 : 0.0122 - 1.22%
+	200 : 0.0122 - 1.22%
+	201.24 : 0.0122 - 1.22%
+	2010 : 0.0122 - 1.22%
+	2012 : 0.0122 - 1.22%
+	2068283 : 0.0122 - 1.22%
+	213.6 : 0.0122 - 1.22%
+	216 : 0.0122 - 1.22%
+	23 : 0.0122 - 1.22%
+	250 : 0.0122 - 1.22%
+	28 : 0.0122 - 1.22%
+	3497711 : 0.0122 - 1.22%
+	39 : 0.0122 - 1.22%
+	390928 : 0.0122 - 1.22%
+	396815 : 0.0122 - 1.22%
+	4 : 0.0122 - 1.22%
+	4.77 : 0.0122 - 1.22%
+	40 : 0.0122 - 1.22%
+	41 : 0.0122 - 1.22%
+	441 : 0.0122 - 1.22%
+	5107 : 0.0122 - 1.22%
+	56 : 0.0122 - 1.22%
+	6 : 0.0122 - 1.22%
+	653 : 0.0122 - 1.22%
+	760 : 0.0122 - 1.22%
+	77.7 : 0.0122 - 1.22%
+	81 : 0.0122 - 1.22%
+	82.47 : 0.0122 - 1.22%
+	BLS : 0.0122 - 1.22%
+	Career : 0.0122 - 1.22%
+	City : 0.0122 - 1.22%
+	Cleveland : 0.0122 - 1.22%
+	Cleveland, : 0.0122 - 1.22%
+	Cleveland-CuyahogaCoOH.png : 0.0122 - 1.22%
+	Clevelander : 0.0122 - 1.22%
+	County : 0.0122 - 1.22%
+	Cuyahoga : 0.0122 - 1.22%
+	Division : 0.0122 - 1.22%
+	Fire : 0.0122 - 1.22%
+	First : 0.0122 - 1.22%
+	Flag : 0.0122 - 1.22%
+	Founded : 0.0122 - 1.22%
+	Frank : 0.0122 - 1.22%
+	G. : 0.0122 - 1.22%
+	GNIS : 0.0122 - 1.22%
+	ID : 0.0122 - 1.22%
+	Imperial : 0.0122 - 1.22%
+	Incorporated : 0.0122 - 1.22%
+	Jackson : 0.0122 - 1.22%
+	Kelly : 0.0122 - 1.22%
+	Location : 0.0122 - 1.22%
+	Montage : 0.0122 - 1.22%
+	N : 0.0122 - 1.22%
+	Ohio : 0.0122 - 1.22%
+	Ohio.svg : 0.0122 - 1.22%
+	Patrick : 0.0122 - 1.22%
+	Progress : 0.0122 - 1.22%
+	Prosperity : 0.0122 - 1.22%
+	Responder : 0.0122 - 1.22%
+	US-OH : 0.0122 - 1.22%
+	USA : 0.0122 - 1.22%
+	W : 0.0122 - 1.22%
+	feature : 0.0122 - 1.22%
+	in : 0.0122 - 1.22%
+	inline,title : 0.0122 - 1.22%
+	of : 0.0122 - 1.22%
+	right : 0.0122 - 1.22%
+	seal-T.png : 0.0122 - 1.22%
+	−4 : 0.0122 - 1.22%
+	−5 : 0.0122 - 1.22%
+(<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cleveland>) (7) :
+(<http://dbpedia.org/resource/Kent_State_University>) (8) :
+	1.091E8 : 0.0385 - 3.85%
+	16 : 0.0385 - 3.85%
+	1910 : 0.0385 - 3.85%
+	196000 : 0.0385 - 3.85%
+	220 : 0.0385 - 3.85%
+	22968 : 0.0385 - 3.85%
+	2458 : 0.0385 - 3.85%
+	2799 : 0.0385 - 3.85%
+	28998 : 0.0385 - 3.85%
+	35776 : 0.0385 - 3.85%
+	41891 : 0.0385 - 3.85%
+	6030 : 0.0385 - 3.85%
+	6115 : 0.0385 - 3.85%
+	Action : 0.0385 - 3.85%
+	Blue : 0.0385 - 3.85%
+	Eagle : 0.0385 - 3.85%
+	Excellence : 0.0385 - 3.85%
+	Flash : 0.0385 - 3.85%
+	Gold : 0.0385 - 3.85%
+	Golden : 0.0385 - 3.85%
+	In : 0.0385 - 3.85%
+	Kent : 0.0385 - 3.85%
+	State : 0.0385 - 3.85%
+	University : 0.0385 - 3.85%
+	and : 0.0385 - 3.85%
+	the : 0.0385 - 3.85%
+(<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kent_State_University>) (9) :
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>) (10) :
+	$1.6 : 0.0213 - 2.13%
+	(PMS : 0.0213 - 2.13%
+	164 : 0.0213 - 2.13%
+	1826 : 0.0213 - 2.13%
+	1880 : 0.0213 - 2.13%
+	19 : 0.0213 - 2.13%
+	1967 : 0.0213 - 2.13%
+	200 : 0.0213 - 2.13%
+	2400 : 0.0213 - 2.13%
+	294), : 0.0213 - 2.13%
+	37 : 0.0213 - 2.13%
+	4 : 0.0213 - 2.13%
+	4227 : 0.0213 - 2.13%
+	53 : 0.0213 - 2.13%
+	5458 : 0.0213 - 2.13%
+	7545) : 0.0213 - 2.13%
+	88 : 0.0213 - 2.13%
+	89 : 0.0213 - 2.13%
+	99 : 0.0213 - 2.13%
+	Beyond : 0.0213 - 2.13%
+	Blue : 0.0213 - 2.13%
+	CIT: : 0.0213 - 2.13%
+	CWRU : 0.0213 - 2.13%
+	CWRU: : 0.0213 - 2.13%
+	Case : 0.0213 - 2.13%
+	Division : 0.0213 - 2.13%
+	Grey : 0.0213 - 2.13%
+	III : 0.0213 - 2.13%
+	NCAA : 0.0213 - 2.13%
+	Possible : 0.0213 - 2.13%
+	Reserve : 0.0213 - 2.13%
+	Semester : 0.0213 - 2.13%
+	The : 0.0213 - 2.13%
+	Think : 0.0213 - 2.13%
+	UAA : 0.0213 - 2.13%
+	US : 0.0213 - 2.13%
+	University : 0.0213 - 2.13%
+	Urban, : 0.0213 - 2.13%
+	WRU: : 0.0213 - 2.13%
+	Western : 0.0213 - 2.13%
+	White : 0.0213 - 2.13%
+	and : 0.0213 - 2.13%
+	billion : 0.0213 - 2.13%
+	of : 0.0213 - 2.13%
+	seal : 0.0213 - 2.13%
+	seal.svg : 0.0213 - 2.13%
+	the : 0.0213 - 2.13%
+(<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Case_Western_Reserve_University>) (11) :
+(<http://dbpedia.org/resource/Kent,_Ohio>) (12) :
+	0.11 : 0.00833 - 0.833%
+	0.28 : 0.00833 - 0.833%
+	1 : 0.00833 - 0.833%
+	100 : 0.00833 - 0.833%
+	101 : 0.00833 - 0.833%
+	103 : 0.00833 - 0.833%
+	1050 : 0.00833 - 0.833%
+	1217 : 0.00833 - 0.833%
+	17 : 0.00833 - 0.833%
+	1805 : 0.00833 - 0.833%
+	1867 : 0.00833 - 0.833%
+	2 : 0.00833 - 0.833%
+	2.02 : 0.00833 - 0.833%
+	2.46 : 0.00833 - 0.833%
+	2.83 : 0.00833 - 0.833%
+	2.85 : 0.00833 - 0.833%
+	2.jpg : 0.00833 - 0.833%
+	20 : 0.00833 - 0.833%
+	2009 : 0.00833 - 0.833%
+	2010 : 0.00833 - 0.833%
+	2012 : 0.00833 - 0.833%
+	21 : 0.00833 - 0.833%
+	23 : 0.00833 - 0.833%
+	23.75 : 0.00833 - 0.833%
+	2395512 : 0.00833 - 0.833%
+	24.04 : 0.00833 - 0.833%
+	25 : 0.00833 - 0.833%
+	26 : 0.00833 - 0.833%
+	28904 : 0.00833 - 0.833%
+	29807 : 0.00833 - 0.833%
+	3.13 : 0.00833 - 0.833%
+	3.15 : 0.00833 - 0.833%
+	3.22 : 0.00833 - 0.833%
+	3.36 : 0.00833 - 0.833%
+	3.57 : 0.00833 - 0.833%
+	3.61 : 0.00833 - 0.833%
+	3.87 : 0.00833 - 0.833%
+	30 : 0.00833 - 0.833%
+	3152 : 0.00833 - 0.833%
+	320 : 0.00833 - 0.833%
+	330234 : 0.00833 - 0.833%
+	34 : 0.00833 - 0.833%
+	36 : 0.00833 - 0.833%
+	38 : 0.00833 - 0.833%
+	39 : 0.00833 - 0.833%
+	40 : 0.00833 - 0.833%
+	41 : 0.00833 - 0.833%
+	43 : 0.00833 - 0.833%
+	44 : 0.00833 - 0.833%
+	442404424244243 : 0.00833 - 0.833%
+	45 : 0.00833 - 0.833%
+	48 : 0.00833 - 0.833%
+	50 : 0.00833 - 0.833%
+	51 : 0.00833 - 0.833%
+	56 : 0.00833 - 0.833%
+	60 : 0.00833 - 0.833%
+	62 : 0.00833 - 0.833%
+	63 : 0.00833 - 0.833%
+	64 : 0.00833 - 0.833%
+	65 : 0.00833 - 0.833%
+	70 : 0.00833 - 0.833%
+	72 : 0.00833 - 0.833%
+	74 : 0.00833 - 0.833%
+	76 : 0.00833 - 0.833%
+	80 : 0.00833 - 0.833%
+	81 : 0.00833 - 0.833%
+	82 : 0.00833 - 0.833%
+	84 : 0.00833 - 0.833%
+	88 : 0.00833 - 0.833%
+	9 : 0.00833 - 0.833%
+	9.17 : 0.00833 - 0.833%
+	9.28 : 0.00833 - 0.833%
+	94 : 0.00833 - 0.833%
+	95 : 0.00833 - 0.833%
+	August : 0.00833 - 0.833%
+	Channel : 0.00833 - 0.833%
+	City : 0.00833 - 0.833%
+	County, : 0.00833 - 0.833%
+	Dave : 0.00833 - 0.833%
+	Downtown : 0.00833 - 0.833%
+	Fiala : 0.00833 - 0.833%
+	Founded : 0.00833 - 0.833%
+	GNIS : 0.00833 - 0.833%
+	ID : 0.00833 - 0.833%
+	Imperial : 0.00833 - 0.833%
+	Incorporated : 0.00833 - 0.833%
+	Jerry : 0.00833 - 0.833%
+	Kent : 0.00833 - 0.833%
+	Kent, : 0.00833 - 0.833%
+	Kent.png : 0.00833 - 0.833%
+	Kentite : 0.00833 - 0.833%
+	Kentlogo.png : 0.00833 - 0.833%
+	Location : 0.00833 - 0.833%
+	N : 0.00833 - 0.833%
+	November : 0.00833 - 0.833%
+	Ohio : 0.00833 - 0.833%
+	Portage : 0.00833 - 0.833%
+	Ruller : 0.00833 - 0.833%
+	September : 0.00833 - 0.833%
+	States : 0.00833 - 0.833%
+	The : 0.00833 - 0.833%
+	Tree : 0.00833 - 0.833%
+	US-OH : 0.00833 - 0.833%
+	USA : 0.00833 - 0.833%
+	United : 0.00833 - 0.833%
+	W : 0.00833 - 0.833%
+	Weather : 0.00833 - 0.833%
+	Y : 0.00833 - 0.833%
+	ZIP : 0.00833 - 0.833%
+	codes : 0.00833 - 0.833%
+	feature : 0.00833 - 0.833%
+	in : 0.00833 - 0.833%
+	inline,title : 0.00833 - 0.833%
+	of : 0.00833 - 0.833%
+	the : 0.00833 - 0.833%
+	−12 : 0.00833 - 0.833%
+	−22 : 0.00833 - 0.833%
+	−4 : 0.00833 - 0.833%
+	−5 : 0.00833 - 0.833%
+	−6 : 0.00833 - 0.833%
+(<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kent,_Ohio>) (13) :
+(<http://dbpedia.org/resource/Barbara_Snyder>) (14) :
+	( : 0.0476 - 4.76%
+	) : 0.0476 - 4.76%
+	1955-07-23+02:00 : 0.0476 - 4.76%
+	2007-07-01+02:00 : 0.0476 - 4.76%
+	Barbara : 0.0476 - 4.76%
+	Case : 0.0476 - 4.76%
+	Chicago : 0.0476 - 4.76%
+	J. : 0.0476 - 4.76%
+	Law : 0.0476 - 4.76%
+	Michael : 0.0476 - 4.76%
+	Ohio : 0.0476 - 4.76%
+	President : 0.0476 - 4.76%
+	R. : 0.0476 - 4.76%
+	Reserve : 0.0476 - 4.76%
+	School : 0.0476 - 4.76%
+	Snyder : 0.0476 - 4.76%
+	Snyder, : 0.0476 - 4.76%
+	State : 0.0476 - 4.76%
+	University : 0.0476 - 4.76%
+	Western : 0.0476 - 4.76%
+	of : 0.0476 - 4.76%
+(<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Barbara_Snyder>) (15) :
+(<http://dbpedia.org/resource/University_of_Toronto>) (16) :
+	1 : 0.0256 - 2.56%
+	12 : 0.0256 - 2.56%
+	13464 : 0.0256 - 2.56%
+	14 : 0.0256 - 2.56%
+	15 : 0.0256 - 2.56%
+	16 : 0.0256 - 2.56%
+	17 : 0.0256 - 2.56%
+	1827-03-15+02:00 : 0.0256 - 2.56%
+	19 : 0.0256 - 2.56%
+	20 : 0.0256 - 2.56%
+	22 : 0.0256 - 2.56%
+	25 : 0.0256 - 2.56%
+	2547 : 0.0256 - 2.56%
+	26 : 0.0256 - 2.56%
+	28 : 0.0256 - 2.56%
+	280 : 0.0256 - 2.56%
+	3 : 0.0256 - 2.56%
+	33795 : 0.0256 - 2.56%
+	35 : 0.0256 - 2.56%
+	42 : 0.0256 - 2.56%
+	44 : 0.0256 - 2.56%
+	4590 : 0.0256 - 2.56%
+	47 : 0.0256 - 2.56%
+	As : 0.0256 - 2.56%
+	C$1.663 : 0.0256 - 2.56%
+	College : 0.0256 - 2.56%
+	King's : 0.0256 - 2.56%
+	Toronto : 0.0256 - 2.56%
+	Torontonensis : 0.0256 - 2.56%
+	Universitas : 0.0256 - 2.56%
+	University : 0.0256 - 2.56%
+	Urban, : 0.0256 - 2.56%
+	a : 0.0256 - 2.56%
+	ages : 0.0256 - 2.56%
+	billion : 0.0256 - 2.56%
+	of : 0.0256 - 2.56%
+	the : 0.0256 - 2.56%
+	through : 0.0256 - 2.56%
+	tree : 0.0256 - 2.56%
+(<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/University_of_Toronto>) (17) :
+(<http://dbpedia.org/resource/University_System_of_Ohio>) (26) :
+(<http://dbpedia.org/resource/Association_of_Public_and_Land-grant_Universities>) (27) :
+(<http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools>) (28) :
+(<http://dbpedia.org/resource/Association_of_American_Universities>) (29) :
+(<http://dbpedia.org/resource/Association_of_Commonwealth_Universities>) (30) :
+(<http://dbpedia.org/resource/U15_Group_of_Canadian_Research_Universities>) (31) :
+(<http://dbpedia.org/resource/International_Association_of_Universities>) (32) :
+(<http://dbpedia.org/resource/Universities_Research_Association>) (33) :
+(<http://dbpedia.org/resource/Association_of_Universities_and_Colleges_of_Canada>) (34) :
+(<http://dbpedia.org/resource/University_of_Oxford>) (35) :
+(<http://dbpedia.org/resource/University_of_Rochester>) (36) :
+(<http://dbpedia.org/resource/Northeastern_University>) (37) :
+(<http://dbpedia.org/resource/National_Collegiate_Athletic_Association>) (69) :
+(<http://dbpedia.org/resource/Mid-American_Conference>) (70) :
+(<http://dbpedia.org/resource/Division_I_(NCAA)>) (71) :
+(<http://dbpedia.org/resource/Canadian_University_Field_Lacrosse_Association>) (75) :
+(<http://dbpedia.org/resource/Canadian_Interuniversity_Sport>) (76) :
+(<http://dbpedia.org/resource/Ontario_University_Athletics>) (77) :
+(<http://dbpedia.org/resource/Ontario>) (89) :
+(<http://dbpedia.org/resource/Woodstock,_Ontario>) (90) :
+(<http://dbpedia.org/resource/Canada>) (91) :
+(<http://dbpedia.org/resource/Brookline,_Massachusetts>) (92) :
+(<http://dbpedia.org/resource/Massachusetts>) (93) :
+(<http://dbpedia.org/resource/Federal_Information_Processing_Standards>) (101) :
+(<http://dbpedia.org/resource/Suburb>) (103) :
+(<http://dbpedia.org/resource/College_town>) (104) :
+(<http://dbpedia.org/resource/Michael_Wilson_(Canadian_politician)>) (109) :
+(<http://dbpedia.org/resource/United_States>) (120) :
+(<http://dbpedia.org/resource/Pickering,_Ontario>) (126) :
+(<http://dbpedia.org/resource/Municipal_corporation>) (151) :
+(<http://dbpedia.org/resource/Merger_(politics)>) (152) :
+(<http://dbpedia.org/resource/John_Haymaker>) (169) :
+(<http://dbpedia.org/resource/Mayor%E2%80%93council_government>) (170) :
+(<http://dbpedia.org/resource/Rob_Ford>) (171) :
+(<http://dbpedia.org/resource/Council%E2%80%93manager_government>) (172) :
+(<http://dbpedia.org/resource/Toronto_City_Council>) (207) :
+(<http://dbpedia.org/resource/Norm_Kelly>) (208) :
+(<http://dbpedia.org/resource/Member_of_parliament>) (212) :
+(<http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)>) (213) :
+(<http://dbpedia.org/resource/List_of_mayors_of_Toronto>) (214) :
+(<http://dbpedia.org/resource/Mayor>) (217) :
+(<http://dbpedia.org/resource/City_manager>) (218) :
+(<http://dbpedia.org/resource/Marvin_Kent>) (256) :
+(<http://dbpedia.org/resource/Name_of_Toronto>) (257) :
+(<http://dbpedia.org/resource/The_Forest_City>) (258) :
+(<http://dbpedia.org/resource/Kent_State_Golden_Flashes>) (259) :
+(<http://dbpedia.org/resource/Spartan_army>) (260) :
+(<http://dbpedia.org/resource/Toronto_Varsity_Blues>) (262) :
+(<http://dbpedia.org/resource/Markham,_Ontario>) (263) :
+(<http://dbpedia.org/resource/Vaughan>) (264) :
+(<http://dbpedia.org/resource/Brampton>) (265) :
+(<http://dbpedia.org/resource/Combined_Statistical_Area>) (283) :
+(<http://dbpedia.org/resource/Demonym>) (284) :
+(<http://dbpedia.org/resource/List_of_M_postal_codes_of_Canada>) (300) :
+(<http://dbpedia.org/resource/Robert_J._Birgeneau>) (309) :
+(<http://dbpedia.org/resource/Carol_Cartwright>) (312) :
+(<http://dbpedia.org/resource/Edward_M._Hundert>) (313) :
+(<http://dbpedia.org/resource/Meric_Gertler>) (314) :
+(<http://dbpedia.org/resource/Professor>) (315) :
+(<http://dbpedia.org/resource/Ohio>) (327) :
+(<http://dbpedia.org/resource/City>) (332) :
+(<http://dbpedia.org/resource/East_York>) (347) :
+(<http://dbpedia.org/resource/Old_Toronto>) (348) :
+(<http://dbpedia.org/resource/Scarborough,_Ontario>) (349) :
+(<http://dbpedia.org/resource/York,_Ontario>) (350) :
+(<http://dbpedia.org/resource/North_York>) (351) :
+(<http://dbpedia.org/resource/Etobicoke>) (352) :
+(<http://dbpedia.org/resource/Cuyahoga_County,_Ohio>) (353) :
+(<http://dbpedia.org/resource/Portage_County,_Ohio>) (354) :
+(<http://dbpedia.org/resource/Provinces_and_territories_of_Canada>) (355) :
+(<http://dbpedia.org/resource/Amalgamation_of_Toronto>) (356) :
+(<http://dbpedia.org/resource/List_of_counties_in_Ohio>) (358) :
+(<http://dbpedia.org/resource/List_of_sovereign_states>) (359) :
+(<http://dbpedia.org/resource/U.S._state>) (360) :
+(<http://dbpedia.org/resource/Eastern_Time_Zone>) (367) :
+(<http://dbpedia.org/resource/Dudince>) (369) :
+(<http://dbpedia.org/resource/Slovakia>) (370) :
+(<http://dbpedia.org/resource/Public_university>) (371) :
+(<http://dbpedia.org/resource/Private_university>) (372) :
+(<http://www.president.utoronto.ca/>) (384) :
+(<http://www.city.cleveland.oh.us/>) (385) :
+(<http://www.kent.edu>) (386) :
+(<http://www.case.edu/>) (387) :
+(<http://kentohio.org>) (388) :
+(<http://www.utoronto.ca>) (389) :
+(<http://dbpedia.org/resource/Mississauga>) (390) :
+(<http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2>) (393) :

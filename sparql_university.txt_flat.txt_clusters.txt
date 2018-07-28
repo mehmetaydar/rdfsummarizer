@@ -1,0 +1,273 @@
+CLUSTER LIST:
+
+C-Cleveland>
+	<http://dbpedia.org/resource/Toronto> (10) (9)
+	<http://dbpedia.org/resource/Kent,_Ohio> (6) (12)
+	<http://dbpedia.org/resource/Cleveland> (30) (10)
+
+C-Kent_State_University>
+	<http://dbpedia.org/resource/Kent_State_University> (0) (11)
+
+C-Ohio>
+	<http://dbpedia.org/resource/Ohio> (4) (0)
+
+C-Case_Western_Reserve_University>
+	<http://dbpedia.org/resource/Case_Western_Reserve_University> (5) (9)
+
+C-University_of_Toronto>
+	<http://dbpedia.org/resource/University_of_Toronto> (8) (8)
+
+C-David_Naylor>
+	<http://dbpedia.org/resource/David_Naylor> (14) (7)
+
+C-Lester_Lefton>
+	<http://dbpedia.org/resource/Lester_Lefton> (17) (6)
+
+C-Barbara_Snyder>
+	<http://dbpedia.org/resource/Barbara_Snyder> (20) (1)
+
+C-Private_university>
+	<http://dbpedia.org/resource/Private_university> (22) (0)
+
+C-Public_university>
+	<http://dbpedia.org/resource/Public_university> (23) (0)
+
+C-United_States>
+	<http://dbpedia.org/resource/United_States> (24) (0)
+
+C->-1
+	<http://www.case.edu/> (26) (0)
+
+C-www.utoronto.ca>
+	<http://www.utoronto.ca> (27) (0)
+
+C->-2
+	<http://www.kentohio.org/> (28) (0)
+
+C->-3
+	<http://www.president.utoronto.ca/> (29) (0)
+
+C->-4
+	<http://www.city.cleveland.oh.us/> (31) (0)
+
+C-www.kent.edu>
+	<http://www.kent.edu> (32) (0)
+
+C-College_town>
+	<http://dbpedia.org/resource/College_town> (33) (0)
+
+C-Suburb>
+	<http://dbpedia.org/resource/Suburb> (34) (0)
+
+C-John_Haymaker>
+	<http://dbpedia.org/resource/John_Haymaker> (44) (0)
+
+C-City>
+	<http://dbpedia.org/resource/City> (45) (0)
+
+C-Eastern_Time_Zone_(North_America)>
+	<http://dbpedia.org/resource/Eastern_Time_Zone_(North_America)> (69) (0)
+
+C-Massachusetts>
+	<http://dbpedia.org/resource/Massachusetts> (72) (0)
+
+C-Woodstock,_Ontario>
+	<http://dbpedia.org/resource/Woodstock,_Ontario> (73) (0)
+
+C-Brookline,_Massachusetts>
+	<http://dbpedia.org/resource/Brookline,_Massachusetts> (74) (0)
+
+C-Professor>
+	<http://dbpedia.org/resource/Professor> (75) (0)
+
+Printing Un-clusterred Nodes:
+"196000" (1) (0)
+"27855" (2) (0)
+"42185" (3) (0)
+"Kent" (7) (0)
+"University of Toronto" (9) (0)
+"Toronto" (11) (0)
+"Case Western Reserve University" (12) (0)
+"Kent State University" (13) (0)
+"David Naylor" (15) (0)
+"Naylor, David" (16) (0)
+"Lester Lefton" (18) (0)
+"Lefton, Lester" (19) (0)
+"Snyder, Barbara" (21) (0)
+"Canada" (25) (0)
+"Urban," (35) (0)
+"15" (36) (0)
+"1910" (37) (0)
+"CIT: 1880" (38) (0)
+"WRU: 1826" (39) (0)
+"CWRU: 1967" (40) (0)
+"28904" (41) (0)
+"396815" (42) (0)
+"2615060" (43) (0)
+"City" (46) (0)
+"24" (47) (0)
+"213" (48) (0)
+"630" (49) (0)
+"1796" (50) (0)
+"1805" (51) (0)
+"1814" (52) (0)
+"1836" (53) (0)
+"1867" (54) (0)
+"1793-08-27" (55) (0)
+"1834-03-06" (56) (0)
+"1998-01-01" (57) (0)
+"November 1805" (58) (0)
+"Kent, Ohio" (59) (0)
+"Cleveland , 1981-2010 normals" (60) (0)
+"41" (61) (0)
+"43" (62) (0)
+"9" (63) (0)
+"28" (64) (0)
+"42" (65) (0)
+"216" (66) (0)
+"330234" (67) (0)
+"416647" (68) (0)
+"1946-07-27" (70) (0)
+"1954-10-26" (71) (0)
+"Educator" (76) (0)
+"Woodstock, Ontario" (77) (0)
+
+CLUSTER RELATIONS:
+
+------------
+Summary Graph Stability: 92.2222 %
+------------
+
+C-Cleveland>
+	Class Stability Ratio:53.3333 %
+	Class Property Coverage Ratio:21.6216 %
+	C-Cleveland>	<http://dbpedia.org/property/website>	C->-2  (stability: 33.3333 % )
+	C-Cleveland>	<http://dbpedia.org/property/website>	C->-4  (stability: 33.3333 % )
+	C-Cleveland>	<http://dbpedia.org/property/founder>	C-John_Haymaker>  (stability: 33.3333 % )
+	C-Cleveland>	<http://dbpedia.org/property/settlementType>	C-City>  (stability: 66.6667 % )
+	C-Cleveland>	<http://dbpedia.org/property/timezone>	C-Eastern_Time_Zone_(North_America)>  (stability: 100 % )
+
+C-Kent_State_University>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:61.5385 %
+	C-Kent_State_University>	<http://dbpedia.org/property/state>	C-Ohio>  (stability: 100 % )
+	C-Kent_State_University>	<http://dbpedia.org/property/type>	C-Public_university>  (stability: 100 % )
+	C-Kent_State_University>	<http://dbpedia.org/property/country>	C-United_States>  (stability: 100 % )
+	C-Kent_State_University>	<http://dbpedia.org/property/website>	C-www.kent.edu>  (stability: 100 % )
+	C-Kent_State_University>	<http://dbpedia.org/property/president>	C-Lester_Lefton>  (stability: 100 % )
+	C-Kent_State_University>	<http://dbpedia.org/property/city>	C-Cleveland>  (stability: 100 % )
+	C-Kent_State_University>	<http://dbpedia.org/property/campus>	C-College_town>  (stability: 100 % )
+	C-Kent_State_University>	<http://dbpedia.org/property/campus>	C-Suburb>  (stability: 100 % )
+
+C-Ohio>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-Case_Western_Reserve_University>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:54.5455 %
+	C-Case_Western_Reserve_University>	<http://dbpedia.org/property/state>	C-Ohio>  (stability: 100 % )
+	C-Case_Western_Reserve_University>	<http://dbpedia.org/property/type>	C-Private_university>  (stability: 100 % )
+	C-Case_Western_Reserve_University>	<http://dbpedia.org/property/country>	C-United_States>  (stability: 100 % )
+	C-Case_Western_Reserve_University>	<http://dbpedia.org/property/website>	C->-1  (stability: 100 % )
+	C-Case_Western_Reserve_University>	<http://dbpedia.org/property/president>	C-Barbara_Snyder>  (stability: 100 % )
+	C-Case_Western_Reserve_University>	<http://dbpedia.org/property/city>	C-Cleveland>  (stability: 100 % )
+
+C-University_of_Toronto>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:50 %
+	C-University_of_Toronto>	<http://dbpedia.org/property/type>	C-Public_university>  (stability: 100 % )
+	C-University_of_Toronto>	<http://dbpedia.org/property/website>	C-www.utoronto.ca>  (stability: 100 % )
+	C-University_of_Toronto>	<http://dbpedia.org/property/president>	C-David_Naylor>  (stability: 100 % )
+	C-University_of_Toronto>	<http://dbpedia.org/property/city>	C-Cleveland>  (stability: 100 % )
+
+C-David_Naylor>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:37.5 %
+	C-David_Naylor>	<http://dbpedia.org/property/website>	C->-3  (stability: 100 % )
+	C-David_Naylor>	<http://dbpedia.org/property/birthPlace>	C-Woodstock,_Ontario>  (stability: 100 % )
+	C-David_Naylor>	<http://dbpedia.org/property/profession>	C-Professor>  (stability: 100 % )
+
+C-Lester_Lefton>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:44.4444 %
+	C-Lester_Lefton>	<http://dbpedia.org/property/birthPlace>	C-Massachusetts>  (stability: 100 % )
+	C-Lester_Lefton>	<http://dbpedia.org/property/birthPlace>	C-Brookline,_Massachusetts>  (stability: 100 % )
+	C-Lester_Lefton>	<http://dbpedia.org/property/placeOfBirth>	C-Massachusetts>  (stability: 100 % )
+	C-Lester_Lefton>	<http://dbpedia.org/property/placeOfBirth>	C-Brookline,_Massachusetts>  (stability: 100 % )
+
+C-Barbara_Snyder>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:0 %
+
+C-Private_university>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-Public_university>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-United_States>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C->-1
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-www.utoronto.ca>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C->-2
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C->-3
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C->-4
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-www.kent.edu>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-College_town>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-Suburb>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-John_Haymaker>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-City>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-Eastern_Time_Zone_(North_America)>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-Massachusetts>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-Woodstock,_Ontario>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-Brookline,_Massachusetts>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %
+
+C-Professor>
+	Class Stability Ratio:100 %
+	Class Property Coverage Ratio:100 %

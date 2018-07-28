@@ -1,0 +1,305 @@
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/David_Naylor>) (14,0) :	sim: 0.717
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.091	9.1%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.091	9.1%
+	<http://dbpedia.org/property/office> ( 53 ) : 0.091	9.1%
+	<http://dbpedia.org/property/shortDescription> ( 65 ) : 0.091	9.1%
+	<http://dbpedia.org/property/spouse> ( 69 ) : 0.091	9.1%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.091	9.1%
+	<http://purl.org/dc/elements/1.1/description> ( 81 ) : 0.091	9.1%
+	<http://xmlns.com/foaf/0.1/givenName> ( 82 ) : 0.091	9.1%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.091	9.1%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.091	9.1%
+	<http://xmlns.com/foaf/0.1/surname> ( 88 ) : 0.091	9.1%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Lester_Lefton>) (14,4) :	sim: 0.664
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.100	10.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.100	10.0%
+	<http://dbpedia.org/property/shortDescription> ( 65 ) : 0.100	10.0%
+	<http://dbpedia.org/property/spouse> ( 69 ) : 0.100	10.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.100	10.0%
+	<http://purl.org/dc/elements/1.1/description> ( 81 ) : 0.100	10.0%
+	<http://xmlns.com/foaf/0.1/givenName> ( 82 ) : 0.100	10.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.100	10.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.100	10.0%
+	<http://xmlns.com/foaf/0.1/surname> ( 88 ) : 0.100	10.0%
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/David_Naylor>) (4,0) :	sim: 0.597
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.100	10.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.100	10.0%
+	<http://dbpedia.org/property/shortDescription> ( 65 ) : 0.100	10.0%
+	<http://dbpedia.org/property/spouse> ( 69 ) : 0.100	10.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.100	10.0%
+	<http://purl.org/dc/elements/1.1/description> ( 81 ) : 0.100	10.0%
+	<http://xmlns.com/foaf/0.1/givenName> ( 82 ) : 0.100	10.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.100	10.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.100	10.0%
+	<http://xmlns.com/foaf/0.1/surname> ( 88 ) : 0.100	10.0%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Cleveland>) (12,6) :	sim: 0.575
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.042	4.2%
+	<http://dbpedia.org/property/blank1Name> ( 9 ) : 0.042	4.2%
+	<http://dbpedia.org/property/coordinatesDisplay> ( 18 ) : 0.042	4.2%
+	<http://dbpedia.org/property/coordinatesRegion> ( 19 ) : 0.042	4.2%
+	<http://dbpedia.org/property/establishedTitle> ( 25 ) : 0.042	4.2%
+	<http://dbpedia.org/property/imageMap> ( 33 ) : 0.042	4.2%
+	<http://dbpedia.org/property/imageSeal> ( 35 ) : 0.042	4.2%
+	<http://dbpedia.org/property/imageSkyline> ( 37 ) : 0.042	4.2%
+	<http://dbpedia.org/property/latns> ( 41 ) : 0.042	4.2%
+	<http://dbpedia.org/property/leaderName> ( 42 ) : 0.042	4.2%
+	<http://dbpedia.org/property/longew> ( 45 ) : 0.042	4.2%
+	<http://dbpedia.org/property/mapCaption> ( 46 ) : 0.042	4.2%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.042	4.2%
+	<http://dbpedia.org/property/officialName> ( 54 ) : 0.042	4.2%
+	<http://dbpedia.org/property/pushpinMap> ( 61 ) : 0.042	4.2%
+	<http://dbpedia.org/property/pushpinMapCaption> ( 62 ) : 0.042	4.2%
+	<http://dbpedia.org/property/unitPref> ( 75 ) : 0.042	4.2%
+	<http://dbpedia.org/property/utcOffset> ( 76 ) : 0.042	4.2%
+	<http://dbpedia.org/property/utcOffsetDst> ( 77 ) : 0.042	4.2%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.042	4.2%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.042	4.2%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.042	4.2%
+	<http://dbpedia.org/ontology/leaderTitle> ( 86 ) : 0.042	4.2%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.042	4.2%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/Kent_State_University>) (10,8) :	sim: 0.575
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.125	12.5%
+	<http://dbpedia.org/property/colors> ( 17 ) : 0.125	12.5%
+	<http://dbpedia.org/property/motto> ( 48 ) : 0.125	12.5%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.125	12.5%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.125	12.5%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.125	12.5%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.125	12.5%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.125	12.5%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Toronto>) (6,2) :	sim: 0.476
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.048	4.8%
+	<http://dbpedia.org/property/blank1Name> ( 9 ) : 0.048	4.8%
+	<http://dbpedia.org/property/coordinatesRegion> ( 19 ) : 0.048	4.8%
+	<http://dbpedia.org/property/establishedTitle> ( 25 ) : 0.048	4.8%
+	<http://dbpedia.org/property/imageFlag> ( 32 ) : 0.048	4.8%
+	<http://dbpedia.org/property/imageMap> ( 33 ) : 0.048	4.8%
+	<http://dbpedia.org/property/imageSkyline> ( 37 ) : 0.048	4.8%
+	<http://dbpedia.org/property/latns> ( 41 ) : 0.048	4.8%
+	<http://dbpedia.org/property/longew> ( 45 ) : 0.048	4.8%
+	<http://dbpedia.org/property/mapCaption> ( 46 ) : 0.048	4.8%
+	<http://dbpedia.org/property/motto> ( 48 ) : 0.048	4.8%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.048	4.8%
+	<http://dbpedia.org/property/officialName> ( 54 ) : 0.048	4.8%
+	<http://dbpedia.org/property/pushpinMap> ( 61 ) : 0.048	4.8%
+	<http://dbpedia.org/property/pushpinMapCaption> ( 62 ) : 0.048	4.8%
+	<http://dbpedia.org/property/unitPref> ( 75 ) : 0.048	4.8%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.048	4.8%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.048	4.8%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.048	4.8%
+	<http://dbpedia.org/ontology/leaderTitle> ( 86 ) : 0.048	4.8%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.048	4.8%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (16,10) :	sim: 0.469
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.125	12.5%
+	<http://dbpedia.org/property/campus> ( 12 ) : 0.125	12.5%
+	<http://dbpedia.org/property/endowment> ( 22 ) : 0.125	12.5%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.125	12.5%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.125	12.5%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.125	12.5%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.125	12.5%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.125	12.5%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Toronto>) (12,2) :	sim: 0.467
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.045	4.5%
+	<http://dbpedia.org/property/blank1Name> ( 9 ) : 0.045	4.5%
+	<http://dbpedia.org/property/coordinatesRegion> ( 19 ) : 0.045	4.5%
+	<http://dbpedia.org/property/establishedTitle> ( 25 ) : 0.045	4.5%
+	<http://dbpedia.org/property/imageCaption> ( 31 ) : 0.045	4.5%
+	<http://dbpedia.org/property/imageMap> ( 33 ) : 0.045	4.5%
+	<http://dbpedia.org/property/imageSkyline> ( 37 ) : 0.045	4.5%
+	<http://dbpedia.org/property/latns> ( 41 ) : 0.045	4.5%
+	<http://dbpedia.org/property/longew> ( 45 ) : 0.045	4.5%
+	<http://dbpedia.org/property/mapCaption> ( 46 ) : 0.045	4.5%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.045	4.5%
+	<http://dbpedia.org/property/officialName> ( 54 ) : 0.045	4.5%
+	<http://dbpedia.org/property/populationDemonym> ( 56 ) : 0.045	4.5%
+	<http://dbpedia.org/property/postalCodeType> ( 57 ) : 0.045	4.5%
+	<http://dbpedia.org/property/pushpinMap> ( 61 ) : 0.045	4.5%
+	<http://dbpedia.org/property/pushpinMapCaption> ( 62 ) : 0.045	4.5%
+	<http://dbpedia.org/property/unitPref> ( 75 ) : 0.045	4.5%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.045	4.5%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.045	4.5%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.045	4.5%
+	<http://dbpedia.org/ontology/leaderTitle> ( 86 ) : 0.045	4.5%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.045	4.5%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Kent_State_University>) (16,8) :	sim: 0.442
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.167	16.7%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.167	16.7%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.167	16.7%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.167	16.7%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Kent_State_University>) (14,8) :	sim: 0.354
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Kent_State_University>,<http://dbpedia.org/resource/Lester_Lefton>) (8,4) :	sim: 0.339
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/Lester_Lefton>) (10,4) :	sim: 0.335
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.167	16.7%
+	<http://dbpedia.org/property/caption> ( 13 ) : 0.167	16.7%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.167	16.7%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.167	16.7%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.167	16.7%
+(<http://dbpedia.org/resource/Kent_State_University>,<http://dbpedia.org/resource/David_Naylor>) (8,0) :	sim: 0.329
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Barbara_Snyder>) (16,14) :	sim: 0.327
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Lester_Lefton>) (16,4) :	sim: 0.324
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/David_Naylor>) (16,0) :	sim: 0.316
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Kent_State_University>,<http://dbpedia.org/resource/Cleveland>) (8,6) :	sim: 0.305
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.143	14.3%
+	<http://dbpedia.org/property/motto> ( 48 ) : 0.143	14.3%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.143	14.3%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.143	14.3%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.143	14.3%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.143	14.3%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.143	14.3%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (14,10) :	sim: 0.298
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/David_Naylor>) (10,0) :	sim: 0.286
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Kent_State_University>,<http://dbpedia.org/resource/Toronto>) (8,2) :	sim: 0.282
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.143	14.3%
+	<http://dbpedia.org/property/motto> ( 48 ) : 0.143	14.3%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.143	14.3%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.143	14.3%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.143	14.3%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.143	14.3%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.143	14.3%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/Cleveland>) (10,6) :	sim: 0.281
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.143	14.3%
+	<http://dbpedia.org/property/motto> ( 48 ) : 0.143	14.3%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.143	14.3%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.143	14.3%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.143	14.3%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.143	14.3%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.143	14.3%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Cleveland>) (16,6) :	sim: 0.273
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.167	16.7%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.167	16.7%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.167	16.7%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.167	16.7%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/Toronto>) (10,2) :	sim: 0.265
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.143	14.3%
+	<http://dbpedia.org/property/motto> ( 48 ) : 0.143	14.3%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.143	14.3%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.143	14.3%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.143	14.3%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.143	14.3%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.143	14.3%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Kent_State_University>) (12,8) :	sim: 0.264
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.167	16.7%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.167	16.7%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.167	16.7%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.167	16.7%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Kent,_Ohio>) (16,12) :	sim: 0.263
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.167	16.7%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.167	16.7%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.167	16.7%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.167	16.7%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Toronto>) (16,2) :	sim: 0.259
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.167	16.7%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.167	16.7%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.167	16.7%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.167	16.7%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Lester_Lefton>) (6,4) :	sim: 0.256
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Cleveland>) (14,6) :	sim: 0.254
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/David_Naylor>) (6,0) :	sim: 0.254
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (12,10) :	sim: 0.249
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.167	16.7%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.167	16.7%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.167	16.7%
+	<http://xmlns.com/foaf/0.1/nick> ( 84 ) : 0.167	16.7%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.167	16.7%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Lester_Lefton>) (12,4) :	sim: 0.231
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/David_Naylor>) (12,0) :	sim: 0.230
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Kent,_Ohio>) (14,12) :	sim: 0.229
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/Toronto>) (4,2) :	sim: 0.228
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Toronto>,<http://dbpedia.org/resource/David_Naylor>) (2,0) :	sim: 0.227
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Toronto>) (14,2) :	sim: 0.225
+	<http://www.w3.org/2000/01/rdf-schema#label> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 51 ) : 0.200	20.0%
+	<http://dbpedia.org/ontology/abstract> ( 80 ) : 0.200	20.0%
+	<http://xmlns.com/foaf/0.1/name> ( 83 ) : 0.200	20.0%
+	<http://www.w3.org/2000/01/rdf-schema#comment> ( 87 ) : 0.200	20.0%

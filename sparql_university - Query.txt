@@ -1,0 +1,33 @@
+SELECT ?s ?p ?o WHERE {
+?s ?p ?o .
+FILTER (?s IN 
+            (
+<http://dbpedia.org/resource/Kent_State_University>,
+<http://dbpedia.org/resource/University_of_Chicago>,
+<http://dbpedia.org/resource/University_of_Toronto>,
+<http://dbpedia.org/resource/Kent,_Ohio>,
+<http://dbpedia.org/resource/Chicago>,
+<http://dbpedia.org/resource/Toronto>,
+<http://dbpedia.org/resource/Ohio>,
+<http://dbpedia.org/resource/Illinois>,
+<http://dbpedia.org/resource/Ontario>,
+<http://dbpedia.org/resource/Lester_Lefton>,
+<http://dbpedia.org/resource/Robert_Zimmer>,
+<http://dbpedia.org/resource/David_Naylor>,
+<http://dbpedia.org/resource/United_States>,
+<http://dbpedia.org/resource/Canada>
+            )) .
+FILTER (!?p IN 
+            (
+<http://www.w3.org/2000/01/rdf-schema#comment>,
+<http://dbpedia.org/ontology/abstract>,
+<http://dbpedia.org/ontology/wikiPageExternalLink>,
+<http://dbpedia.org/ontology/thumbnail>,
+<http://xmlns.com/foaf/0.1/depiction>,
+<http://purl.org/dc/terms/subject>,
+<http://dbpedia.org/property/altCoat>,
+<http://dbpedia.org/property/altFlag>
+	    )).
+FILTER regex(?p, "^http://dbpedia.org/property", "i")	
+
+} 

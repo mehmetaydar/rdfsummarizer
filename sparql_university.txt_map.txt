@@ -1,0 +1,108 @@
+-vertex_mapping-
+78
+36 $|$ "15"
+55 $|$ "1793-08-27"
+50 $|$ "1796"
+51 $|$ "1805"
+52 $|$ "1814"
+56 $|$ "1834-03-06"
+53 $|$ "1836"
+54 $|$ "1867"
+37 $|$ "1910"
+70 $|$ "1946-07-27"
+71 $|$ "1954-10-26"
+1 $|$ "196000"
+57 $|$ "1998-01-01"
+48 $|$ "213"
+66 $|$ "216"
+47 $|$ "24"
+43 $|$ "2615060"
+2 $|$ "27855"
+64 $|$ "28"
+41 $|$ "28904"
+67 $|$ "330234"
+42 $|$ "396815"
+61 $|$ "41"
+68 $|$ "416647"
+65 $|$ "42"
+3 $|$ "42185"
+62 $|$ "43"
+49 $|$ "630"
+63 $|$ "9"
+38 $|$ "CIT: 1880"
+40 $|$ "CWRU: 1967"
+25 $|$ "Canada"
+12 $|$ "Case Western Reserve University"
+46 $|$ "City"
+60 $|$ "Cleveland , 1981-2010 normals"
+15 $|$ "David Naylor"
+76 $|$ "Educator"
+13 $|$ "Kent State University"
+7 $|$ "Kent"
+59 $|$ "Kent, Ohio"
+19 $|$ "Lefton, Lester"
+18 $|$ "Lester Lefton"
+16 $|$ "Naylor, David"
+58 $|$ "November 1805"
+21 $|$ "Snyder, Barbara"
+11 $|$ "Toronto"
+9 $|$ "University of Toronto"
+35 $|$ "Urban,"
+39 $|$ "WRU: 1826"
+77 $|$ "Woodstock, Ontario"
+20 $|$ <http://dbpedia.org/resource/Barbara_Snyder>
+74 $|$ <http://dbpedia.org/resource/Brookline,_Massachusetts>
+5 $|$ <http://dbpedia.org/resource/Case_Western_Reserve_University>
+45 $|$ <http://dbpedia.org/resource/City>
+30 $|$ <http://dbpedia.org/resource/Cleveland>
+33 $|$ <http://dbpedia.org/resource/College_town>
+14 $|$ <http://dbpedia.org/resource/David_Naylor>
+69 $|$ <http://dbpedia.org/resource/Eastern_Time_Zone_(North_America)>
+44 $|$ <http://dbpedia.org/resource/John_Haymaker>
+6 $|$ <http://dbpedia.org/resource/Kent,_Ohio>
+0 $|$ <http://dbpedia.org/resource/Kent_State_University>
+17 $|$ <http://dbpedia.org/resource/Lester_Lefton>
+72 $|$ <http://dbpedia.org/resource/Massachusetts>
+4 $|$ <http://dbpedia.org/resource/Ohio>
+22 $|$ <http://dbpedia.org/resource/Private_university>
+75 $|$ <http://dbpedia.org/resource/Professor>
+23 $|$ <http://dbpedia.org/resource/Public_university>
+34 $|$ <http://dbpedia.org/resource/Suburb>
+10 $|$ <http://dbpedia.org/resource/Toronto>
+24 $|$ <http://dbpedia.org/resource/United_States>
+8 $|$ <http://dbpedia.org/resource/University_of_Toronto>
+73 $|$ <http://dbpedia.org/resource/Woodstock,_Ontario>
+26 $|$ <http://www.case.edu/>
+31 $|$ <http://www.city.cleveland.oh.us/>
+32 $|$ <http://www.kent.edu>
+28 $|$ <http://www.kentohio.org/>
+29 $|$ <http://www.president.utoronto.ca/>
+27 $|$ <http://www.utoronto.ca>
+-label_mapping-
+26
+0 $|$ <http://dbpedia.org/property/alumni>
+19 $|$ <http://dbpedia.org/property/areaCode>
+14 $|$ <http://dbpedia.org/property/areaTotalKm>
+22 $|$ <http://dbpedia.org/property/birthDate>
+23 $|$ <http://dbpedia.org/property/birthPlace>
+9 $|$ <http://dbpedia.org/property/campus>
+8 $|$ <http://dbpedia.org/property/city>
+5 $|$ <http://dbpedia.org/property/country>
+21 $|$ <http://dbpedia.org/property/dateOfBirth>
+10 $|$ <http://dbpedia.org/property/established>
+15 $|$ <http://dbpedia.org/property/establishedDate>
+12 $|$ <http://dbpedia.org/property/founder>
+17 $|$ <http://dbpedia.org/property/latd>
+18 $|$ <http://dbpedia.org/property/latm>
+16 $|$ <http://dbpedia.org/property/location>
+3 $|$ <http://dbpedia.org/property/name>
+25 $|$ <http://dbpedia.org/property/placeOfBirth>
+11 $|$ <http://dbpedia.org/property/populationTotal>
+7 $|$ <http://dbpedia.org/property/president>
+24 $|$ <http://dbpedia.org/property/profession>
+13 $|$ <http://dbpedia.org/property/settlementType>
+2 $|$ <http://dbpedia.org/property/state>
+1 $|$ <http://dbpedia.org/property/students>
+20 $|$ <http://dbpedia.org/property/timezone>
+4 $|$ <http://dbpedia.org/property/type>
+6 $|$ <http://dbpedia.org/property/website>

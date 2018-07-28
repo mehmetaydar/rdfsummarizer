@@ -1,0 +1,1119 @@
+CLUSTER LIST:
+
+C-David_Naylor>
+	<http://dbpedia.org/resource/David_Naylor> (0) (11)
+
+C-Tallahassee,_Florida>
+	<http://dbpedia.org/resource/Tallahassee,_Florida> (1) (37)
+
+C-Toronto>
+	<http://dbpedia.org/resource/Toronto> (2) (36)
+
+C-Virginia>
+	<http://dbpedia.org/resource/Virginia> (3) (21)
+
+C-Drew_Gilpin_Faust>
+	<http://dbpedia.org/resource/Drew_Gilpin_Faust> (4) (13)
+
+C-Lester_Lefton>
+	<http://dbpedia.org/resource/Lester_Lefton> (5) (10)
+
+C-Patrick_Deane_(professor)>
+	<http://dbpedia.org/resource/Patrick_Deane_(professor)> (6) (8)
+
+C-British_Columbia>
+	<http://dbpedia.org/resource/British_Columbia> (7) (17)
+
+C-California>
+	<http://dbpedia.org/resource/California> (8) (44)
+
+C-Cambridge,_Massachusetts>
+	<http://dbpedia.org/resource/Cambridge,_Massachusetts> (9) (23)
+
+C-Cleveland>
+	<http://dbpedia.org/resource/Cleveland> (10) (27)
+
+CLUSTER: 12
+	** (46) (10)
+
+CLUSTER: 13
+	Empire  (47) (0)
+
+CLUSTER: 14
+	* (48) (6)
+
+CLUSTER: 15
+	California (49) (0)
+
+CLUSTER: 16
+	Coast (50) (0)
+
+CLUSTER: 17
+	*** (51) (2)
+
+CLUSTER: 18
+	Angeles Metropolitan Area (52) (0)
+
+CLUSTER: 19
+	Diego metropolitan area (53) (0)
+
+CLUSTER: 20
+	Empire (54) (0)
+
+CLUSTER: 21
+	Valley" (55) (0)
+
+CLUSTER: 22
+	Coast (California) (57) (0)
+
+CLUSTER: 23
+	Francisco Bay Area (58) (0)
+
+CLUSTER: 24
+	Nevada" (59) (0)
+
+CLUSTER: 25
+	57 (125) (0)
+
+CLUSTER: 26
+	32 (126) (0)
+
+CLUSTER: 27
+	28 (127) (0)
+
+CLUSTER: 28
+	2 (128) (0)
+
+CLUSTER: 29
+	2.2%" (129) (0)
+
+C-Hamilton,_Ontario>
+	<http://dbpedia.org/resource/Hamilton,_Ontario> (251) (27)
+
+C-Kent_State_University>
+	<http://dbpedia.org/resource/Kent_State_University> (252) (5)
+
+C-New_Jersey>
+	<http://dbpedia.org/resource/New_Jersey> (253) (39)
+
+C-Ohio>
+	<http://dbpedia.org/resource/Ohio> (254) (28)
+
+C-Ontario>
+	<http://dbpedia.org/resource/Ontario> (255) (19)
+
+C-Princeton_University>
+	<http://dbpedia.org/resource/Princeton_University> (256) (15)
+
+C-Stanford_University>
+	<http://dbpedia.org/resource/Stanford_University> (257) (15)
+
+C-Princeton,_New_Jersey>
+	<http://dbpedia.org/resource/Princeton,_New_Jersey> (258) (26)
+
+C-Blacksburg,_Virginia>
+	<http://dbpedia.org/resource/Blacksburg,_Virginia> (259) (23)
+
+CLUSTER: 39
+	|name="noteLargest"|group=note". (267) (1)
+
+CLUSTER: 40
+	|name="noteLargest"|group=note" (268) (0)
+
+C-Stanford,_California>
+	<http://dbpedia.org/resource/Stanford,_California> (424) (14)
+
+C-University_of_British_Columbia>
+	<http://dbpedia.org/resource/University_of_British_Columbia> (425) (16)
+
+C-Case_Western_Reserve_University>
+	<http://dbpedia.org/resource/Case_Western_Reserve_University> (426) (11)
+
+C-Florida_State_University>
+	<http://dbpedia.org/resource/Florida_State_University> (427) (12)
+
+C-Harvard_University>
+	<http://dbpedia.org/resource/Harvard_University> (428) (26)
+
+C-Kent,_Ohio>
+	<http://dbpedia.org/resource/Kent,_Ohio> (429) (34)
+
+C-Barbara_Snyder>
+	<http://dbpedia.org/resource/Barbara_Snyder> (430) (8)
+
+C-McMaster_University>
+	<http://dbpedia.org/resource/McMaster_University> (431) (8)
+
+C-University_of_Toronto>
+	<http://dbpedia.org/resource/University_of_Toronto> (432) (9)
+
+C-Kelowna>
+	<http://dbpedia.org/resource/Kelowna> (433) (26)
+
+C-United_States>
+	<http://dbpedia.org/resource/United_States> (541) (36)
+
+C-John_L._Hennessy>
+	<http://dbpedia.org/resource/John_L._Hennessy> (542) (8)
+
+C-Charles_W._Steger>
+	<http://dbpedia.org/resource/Charles_W._Steger> (543) (12)
+
+C-Garnett_S._Stokes>
+	<http://dbpedia.org/resource/Garnett_S._Stokes> (544) (5)
+
+C-Virginia_Tech>
+	<http://dbpedia.org/resource/Virginia_Tech> (545) (17)
+
+C-Canada>
+	<http://dbpedia.org/resource/Canada> (546) (25)
+
+C-Florida>
+	<http://dbpedia.org/resource/Florida> (547) (28)
+
+C-Massachusetts>
+	<http://dbpedia.org/resource/Massachusetts> (548) (37)
+
+C-Christopher_L._Eisgruber>
+	<http://dbpedia.org/resource/Christopher_L._Eisgruber> (549) (13)
+
+CLUSTER: 60
+	Agricultural and Mechanical College and Polytechnic Institute  (601) (0)
+
+CLUSTER: 61
+	Polytechnic Institute" (602) (0)
+
+Printing Un-clusterred Nodes:
+"Settled" (11) (0)
+"Navy blue flag with the circular Seal of Virginia centered on it." (12) (0)
+"Coat of arms of Toronto" (13) (0)
+"President of" (14) (0)
+"N/A" (15) (0)
+"center" (16) (0)
+"Welcome sign at Fort Irwin National Training Center" (17) (0)
+"Beale Air Force Base main gate" (18) (0)
+"Coast Guard Island in the Oakland Estuary" (19) (0)
+"The main gate of Camp Pendleton" (20) (0)
+"Carl Vinson, Nimitz and Ronald Reagan at North Island Naval Air Station" (21) (0)
+"(Colombie-Britannique )" (22) (0)
+"no" (23) (0)
+"Constance Rooke" (24) (0)
+"Wine" (25) (0)
+"Christopher David Naylor" (26) (0)
+"Catharine Drew Gilpin" (27) (0)
+"New York City, New York, U.S." (28) (0)
+"FEUZB" (29) (0)
+"GNIS feature ID" (30) (0)
+"GNBC Code" (31) (0)
+"NTS Map" (32) (0)
+"Drew Gilpin Faust in 2011" (33) (0)
+"Lefton Photo Taken in 2012" (34) (0)
+"Toronto" (35) (0)
+"California: Outline • Index" (36) (0)
+"Patrick Kelly" (37) (0)
+"Karline Naylor" (38) (0)
+"Max Naylor" (39) (0)
+"Melinda Naylor" (40) (0)
+"Sam Naylor" (41) (0)
+"Jessica Rosenberg" (42) (0)
+"Leah Rosenberg" (43) (0)
+"Coat of Arms of British Columbia.png" (44) (0)
+"* Eastern California (45) (0)
+"* Central Valley (56) (0)
+"Blue & Gold" (60) (0)
+"inline,title" (61) (0)
+"display=inline,title" (62) (0)
+"US-FL" (63) (0)
+"CA-ON" (64) (0)
+"US-MA" (65) (0)
+"US-OH" (66) (0)
+"February 2012" (67) (0)
+"August 2012" (68) (0)
+"Virginian" (69) (0)
+"British Columbian" (70) (0)
+"Californian" (71) (0)
+"horizontal" (72) (0)
+"Provincial" (73) (0)
+"Established" (74) (0)
+"City" (75) (0)
+"Incorporated" (76) (0)
+"Founded" (77) (0)
+"−2" (78) (0)
+"First Responder BLS" (79) (0)
+"Flag of Virginia.svg" (80) (0)
+"Flag of British Columbia.svg" (81) (0)
+"Flag of California.svg" (82) (0)
+"Flag of Toronto" (83) (0)
+"right" (84) (0)
+"United States Armed Forces in California. From left to right: Fort Irwin, Camp Pendleton, NAS North Island, Beale Air Force Base, and Coast Guard Island" (85) (0)
+"Colony of Virginia" (86) (0)
+"California Republic" (87) (0)
+"Commonwealth of Virginia" (88) (0)
+"State of California" (89) (0)
+"C$47,579" (90) (0)
+"C$217.749 billion" (91) (0)
+"Terry McAuliffe" (92) (0)
+"Jerry Brown" (93) (0)
+"Fort Irwin National Training Center - Welcome sign - 1.jpg" (94) (0)
+"Beale-afb-main-gate-sign.jpg" (95) (0)
+"Camp Pendleton front gate.jpg" (96) (0)
+"Coast Guard Island May 2009.jpg" (97) (0)
+"Three Carriers at NAS North Island.jpg" (98) (0)
+"City of Toronto Logo.png" (99) (0)
+"Downtown Tallahassee" (100) (0)
+"From top left: Downtown Toronto featuring the CN Tower and Financial District from the Toronto Islands, City Hall, the Ontario Legislative Building, Casa Loma, Prince Edward Viaduct, and the Scarborough Bluffs" (101) (0)
+"Clockwise from top left: Christ Church, University Hall at Harvard University, Ray and Maria Stata Center at the Massachusetts Institute of Technology, the Cambridge skyline and the Charles River at night, and Cambridge City Hall." (102) (0)
+"Flag of Tallahassee, Florida.png" (103) (0)
+"Toronto Flag.svg" (104) (0)
+"Flag of Cleveland, Ohio.svg" (105) (0)
+"Leon County Florida Incorporated and Unincorporated areas Tallahassee Highlighted.svg" (106) (0)
+"Toronto Location in Ontario.png" (107) (0)
+"Cambridge ma highlight.png" (108) (0)
+"Cleveland-CuyahogaCoOH.png" (109) (0)
+"Seal of Tallahassee, Florida.png" (110) (0)
+"Sealofcambridgema.gif" (111) (0)
+"Cleveland seal-T.png" (112) (0)
+"Toronto Coat of Arms.jpg" (113) (0)
+"Skyline.png" (114) (0)
+"Montage of Toronto 7.jpg" (115) (0)
+"Cambridge Montage.jpg" (116) (0)
+"Montage Cleveland 1.jpg" (117) (0)
+"Y" (118) (0)
+"US-VA" (119) (0)
+"CA-BC" (120) (0)
+"US-CA" (121) (0)
+"Canada: Alberta, Northwest Territories, Yukon. U.S.A: Alaska, Idaho, Montana, Washington" (122) (0)
+"English 94.6%, Spanish 5.4%" (123) (0)
+"(As of 2007) (124) (0)
+"N" (130) (0)
+"Frank G. Jackson" (131) (0)
+"Council" (132) (0)
+"Deputy Mayor" (133) (0)
+"Mayor" (134) (0)
+"Vice Mayor" (135) (0)
+"religion" (136) (0)
+"Legislative Assembly of British Columbia" (137) (0)
+"Ralph Northam" (138) (0)
+"Gavin Newsom" (139) (0)
+"Tallahassee, Florida , 1981–2010 normals, extremes 1892–present" (140) (0)
+"Cambridge, MA" (141) (0)
+"W" (142) (0)
+"−86.0" (143) (0)
+"−282" (144) (0)
+"Badwater Basin in" (145) (0)
+"Virginia in United States.svg" (146) (0)
+"British Columbia in Canada.svg" (147) (0)
+"California in United States.svg" (148) (0)
+"Location in Leon County and the state of Florida" (149) (0)
+"Location of Toronto and its census metropolitan area in the province of Ontario" (150) (0)
+"Location in Middlesex County in Massachusetts" (151) (0)
+"Location in Cuyahoga County" (152) (0)
+"Virginia is located on the Atlantic coast along the line that divides the Northern and Southern halves of the United States. It runs mostly east to west. It includes a small peninsula across a bay which is discontinuous with the rest of the state." (153) (0)
+"US$61,021" (154) (0)
+""Florida's Capital City"" (155) (0)
+"Diversity Our Strength" (156) (0)
+""Literis Antiquis Novis Institutis Decora."  It can be translated as: "Distinguished for Classical Learning and New Institutions."" (157) (0)
+"Progress & Prosperity" (158) (0)
+"I have found it" (159) (0)
+"Portal:Toronto, Ontario" (160) (0)
+"South African" (161) (0)
+""Tally"" (162) (0)
+"Old Dominion; Mother of Presidents; Mother of States" (163) (0)
+"The Golden State" (164) (0)
+"Pacific Ocean" (165) (0)
+"President of the University of Toronto" (166) (0)
+"President of Harvard University" (167) (0)
+"Acting President of the University of Winnipeg" (168) (0)
+"City of Tallahassee" (169) (0)
+"City of Toronto" (170) (0)
+"Cambridge, Massachusetts" (171) (0)
+"City of Cleveland" (172) (0)
+"English" (173) (0)
+"New York, New York" (174) (0)
+"Clevelander" (175) (0)
+"Torontonian" (176) (0)
+"Postal code span" (177) (0)
+"ZIP code" (178) (0)
+"VA" (179) (0)
+"BC" (180) (0)
+"CA" (181) (0)
+"green" (182) (0)
+"(Frank Iacobucci )" (183) (0)
+"(Vivek Goel )" (184) (0)
+"Educator" (185) (0)
+"Canada" (186) (0)
+"Location of Toronto in Canada" (187) (0)
+"Cambridge, Massachusetts, U.S." (188) (0)
+"percent" (189) (0)
+"California 1.svg" (190) (0)
+"Seal of Virginia.svg" (191) (0)
+"Seal of California.svg" (192) (0)
+"Canadian physician" (193) (0)
+"American historian, president of Harvard University" (194) (0)
+"American psychologist" (195) (0)
+""I Love You, California"" (196) (0)
+"NOAA" (197) (0)
+"Lake Ontario" (198) (0)
+"/ Pacific Ocean" (199) (0)
+"Ilse Treurnicht" (200) (0)
+"Linda Lefton" (201) (0)
+"expanded" (202) (0)
+"Leon" (203) (0)
+"Country" (204) (0)
+"State" (205) (0)
+"incumbent" (206) (0)
+"October, 2013" (207) (0)
+"Mountain  UTC−8 & −7" (208) (0)
+"PDT" (209) (0)
+"PST" (210) (0)
+"Articles Relating to Tallahassee and Leon County" (211) (0)
+"The Old Dominion" (212) (0)
+"Topics related to Virginia" (213) (0)
+"President and Vice-Chancellor of McMaster University" (214) (0)
+"President of University of Winnipeg" (215) (0)
+"Religion in California" (216) (0)
+"#ddd" (217) (0)
+"Calif., Cali.," (218) (0)
+"section" (219) (0)
+"Standard time" (220) (0)
+"Summer time" (221) (0)
+"US" (222) (0)
+"Metric" (223) (0)
+"Imperial" (224) (0)
+"Lieutenant Governor" (225) (0)
+"Tallahassee" (226) (0)
+"www.virginia.gov" (227) (0)
+"www.gov.bc.ca" (228) (0)
+"A circular seal with the words "Virginia" on the top and "Sic Semper Tyrannis" on the bottom. In the center, a woman wearing a blue toga and Athenian helmet stands on the chest of dead man wearing a purple breastplate and skirt. The woman holds a spear and sheathed sword. The man holds a broken chain while his crown lies away from the figures. Orange leaves encircle the seal." (229) (0)
+"David" (230) (0)
+"Drew Gilpin" (231) (0)
+"Lester" (232) (0)
+"Patrick" (233) (0)
+"David Naylor" (234) (0)
+"Naylor, David" (235) (0)
+"Tallahassee, Florida" (236) (0)
+"Drew Gilpin Faust" (237) (0)
+"Faust, Drew Gilpin" (238) (0)
+"Lester Lefton" (239) (0)
+"Lefton, Lester" (240) (0)
+"Patrick Deane" (241) (0)
+"Deane, Patrick" (242) (0)
+"T.O., T-Dot, Hogtown, The Queen City, Toronto the Good, The City Within a Park" (243) (0)
+"MPPs" (244) (0)
+"MPs" (245) (0)
+"City Manager" (246) (0)
+"Naylor" (247) (0)
+"Faust" (248) (0)
+"Lefton" (249) (0)
+"Deane" (250) (0)
+"declared retroactively on" (260) (0)
+"Horse" (261) (0)
+"None" (262) (0)
+"Semester" (263) (0)
+"Quarter" (264) (0)
+"Suburban," (265) (0)
+"Suburban, ref|It is often claimed that Stanford has the largest contiguous campus in the world (or the United States) but that depends on definitions.  Berry College with over , Paul Smith's College with , and the United States Air Force Academy with  are larger but are not usually classified as universities.  Duke University at  does have more land, but it is not contiguous. However the University of the South has over (266) (0)
+"Trenton" (269) (0)
+"Seal of Stanford University" (270) (0)
+"Hamilton" (271) (0)
+"New Jersey: Outline • Index" (272) (0)
+"Ohio: Outline • Index" (273) (0)
+"Coat of Arms of Ontario.png" (274) (0)
+"Kent State Blue and Kent State Gold" (275) (0)
+"Buff and Blue" (276) (0)
+"Orange and black" (277) (0)
+"Cardinal and white" (278) (0)
+"US-NJ" (279) (0)
+"region:US_type:city" (280) (0)
+"United States" (281) (0)
+"U.S." (282) (0)
+"April 2013" (283) (0)
+"December 2011" (284) (0)
+"−6" (285) (0)
+"New Jerseyan , New Jerseyite" (286) (0)
+"Ohioan; Buckeye" (287) (0)
+"Ontarian" (288) (0)
+"Atlantic Ocean" (289) (0)
+"−8" (290) (0)
+"Old Nassau.ogg" (291) (0)
+"Flag of New Jersey.svg" (292) (0)
+"Flag of Ohio.svg" (293) (0)
+"Flag of Ontario.svg" (294) (0)
+"Flag of Hamilton, Ontario" (295) (0)
+"Province of New Jersey" (296) (0)
+"College of New Jersey" (297) (0)
+"Isotelus maximus, a trilobite" (298) (0)
+"The Stanford Daily" (299) (0)
+"Newspaper" (300) (0)
+"State of New Jersey" (301) (0)
+"State of Ohio" (302) (0)
+"C$48,971" (303) (0)
+"C$654.561 billion" (304) (0)
+"Ohio Flint" (305) (0)
+"Chris Christie" (306) (0)
+"Skyline of downtown Hamilton" (307) (0)
+"A view of downtown Blacksburg" (308) (0)
+"Flag of Hamilton.svg" (309) (0)
+"Map of Ontario HAMILTON.svg" (310) (0)
+"Census Bureau map of Princeton Township, New Jersey.gif" (311) (0)
+"Map of Mercer County highlighting Princeton.jpg" (312) (0)
+"Map of USA VA.svg" (313) (0)
+"VAMap-doton-Blacksburg.PNG" (314) (0)
+"Stanford University seal 2003.svg" (315) (0)
+"Hamilton Coat of Arms.PNG" (316) (0)
+"HamiltonOntarioSkylineC.JPG" (317) (0)
+"Blacksburg-downtown-mainst.jpg" (318) (0)
+"−16" (319) (0)
+"English  71.3%" (320) (0)
+"Other 14.1%" (321) (0)
+"Spanish 14.6%" (322) (0)
+"English 93.3%" (323) (0)
+"Other 4.5%" (324) (0)
+"Spanish 2.2%" (325) (0)
+"capital" (326) (0)
+"Universitas Princetoniensis" (327) (0)
+"Linda McDermott" (328) (0)
+"Liz Lempert" (329) (0)
+"Robert W. Bruschi" (330) (0)
+"Ron Rordam" (331) (0)
+"Legislative Assembly of Ontario" (332) (0)
+"Princeton, NJ" (333) (0)
+"Blacksburg, Virginia" (334) (0)
+"Ontario logo.jpg" (335) (0)
+"Ohio River at" (336) (0)
+"New Jersey in United States.svg" (337) (0)
+"Ohio in United States.svg" (338) (0)
+"Ontario in Canada.svg" (339) (0)
+"Location in the province of Ontario, Canada" (340) (0)
+"Census Bureau map of the former Princeton Township , New Jersey" (341) (0)
+"Princeton highlighted in Mercer County. Inset map: Mercer County highlighted in the State of New Jersey." (342) (0)
+"Blacksburg's location within Virginia" (343) (0)
+"Virginia's location within the United States" (344) (0)
+"Flash the Golden Eagle" (345) (0)
+"Together Aspire – Together Achieve" (346) (0)
+"Excellence In Action" (347) (0)
+"Liberty and prosperity" (348) (0)
+""With God all things are possible."" (349) (0)
+"Ut Incepit Fidelis Sic Permanet" (350) (0)
+"Under God's Power She Flourishes" (351) (0)
+"The wind of freedom blows" (352) (0)
+"Leland Stanford Junior University" (353) (0)
+"Ambitious City, Steeltown, The Hammer" (354) (0)
+"The Garden State" (355) (0)
+"Birthplace of Aviation; The Heart of It All" (356) (0)
+"The Buckeye State; The Mother of Presidents;" (357) (0)
+"Tigers" (358) (0)
+"•  Lake Erie" (359) (0)
+"City of Hamilton" (360) (0)
+"Princeton" (361) (0)
+"De facto: English" (362) (0)
+"De jure: None" (363) (0)
+"Fruit: Pawpaw" (364) (0)
+"Wild flower: Great white trillium" (365) (0)
+"Hamiltonian" (366) (0)
+"Princetonian" (367) (0)
+"auto" (368) (0)
+"L0R, L8E to L8W, L9A to L9C, L9G to L9H, L9K" (369) (0)
+"ZIP codes" (370) (0)
+"NJ" (371) (0)
+"OH" (372) (0)
+"ON" (373) (0)
+"USA Ohio" (374) (0)
+"Location in Ohio" (375) (0)
+"need to specify a number. If not here, then in demographics or economy" (376) (0)
+"Ellipse sign 33.svg" (377) (0)
+"OH-2.svg" (378) (0)
+"Seal of New Jersey.svg" (379) (0)
+"Seal_of_New_Jersey.svg" (380) (0)
+"Seal of Ohio.svg" (381) (0)
+"So Much to Discover" (382) (0)
+"yes" (383) (0)
+"Honeoye" (384) (0)
+""Beautiful Ohio"" (385) (0)
+""Hang On Sloopy"" (386) (0)
+"Weather Channel" (387) (0)
+"Homefacts.com" (388) (0)
+"•" (389) (0)
+"Career" (390) (0)
+"New Jersey" (391) (0)
+"autocollapse" (392) (0)
+"California" (393) (0)
+"Central: UTC-6/-5" (394) (0)
+"Eastern: UTC-5" (395) (0)
+"Eastern: UTC-5/-4" (396) (0)
+"The Buckeye State" (397) (0)
+"Topics related to Ohio" (398) (0)
+"Links to related articles" (399) (0)
+"Old Nassau" (400) (0)
+"Capital of the United States of America" (401) (0)
+"background:black;color:#FF6600" (402) (0)
+"background:#FFFFFF;color:#8C1515;border:1px solid #8C1515;" (403) (0)
+"N.J." (404) (0)
+"−5" (405) (0)
+"−4" (406) (0)
+"www.nj.gov" (407) (0)
+"www.ohio.gov" (408) (0)
+"www.ontario.ca" (409) (0)
+"Cleveland" (410) (0)
+"Kent State University" (411) (0)
+"Princeton University" (412) (0)
+"Stanford University" (413) (0)
+"Princeton, New Jersey" (414) (0)
+"The Forest City" (415) (0)
+"Golden Flashes" (416) (0)
+"Cardinal" (417) (0)
+"College of New Jersey (1746–1896)" (418) (0)
+"City Council" (419) (0)
+"Administrator" (420) (0)
+"Clerk" (421) (0)
+"New Jerseyan (official), New Jerseyite" (422) (0)
+"Ohioan; Buckeye (colloq.)" (423) (0)
+"Ohio State University ( )" (434) (0)
+"University of Chicago Law School ( )" (435) (0)
+"NCAA Division III UAA" (436) (0)
+"Vancouver:, Okanagan:208.6 ha ," (437) (0)
+"Urban," (438) (0)
+"Urban area" (439) (0)
+"Main Campus:" (440) (0)
+"The University of British Columbia seal" (441) (0)
+"The seal of Case Western Reserve University" (442) (0)
+"Seal of Harvard University" (443) (0)
+"Kelowna" (444) (0)
+"Suzanne Labarge" (445) (0)
+"University Endowment Lands and Kelowna" (446) (0)
+"CWRU Blue (PMS 294), White and CWRU Grey (PMS 7545)" (447) (0)
+"Garnet  and Gold" (448) (0)
+"Crimson" (449) (0)
+"Blue and Gold" (450) (0)
+"Maroon and Grey" (451) (0)
+"Category:Harvard University" (452) (0)
+"q13371" (453) (0)
+"August 2010" (454) (0)
+"−12" (455) (0)
+"C$1.16 billion" (456) (0)
+"US $1.6 billion" (457) (0)
+"US$548 million" (458) (0)
+"US$32.3 billion" (459) (0)
+"C$1.663 billion" (460) (0)
+"CIT: 1880" (461) (0)
+"CWRU: 1967" (462) (0)
+"WRU: 1826" (463) (0)
+"November 1805" (464) (0)
+"Fight for FSU" (465) (0)
+"McGill University College of British Columbia" (466) (0)
+"King's College" (467) (0)
+"'Hail, U.B.C'.; 'High on Olympus'" (468) (0)
+"The Harvard Crimson" (469) (0)
+"School Song" (470) (0)
+"Downtown Kent, September 2009" (471) (0)
+"Kelowna's skyline from West Kelowna" (472) (0)
+"Flag of Kelowna, British Columbia.svg" (473) (0)
+"Santa_Clara_County_California_Incorporated_and_Unincorporated_areas_Stanford_Highlighted.svg" (474) (0)
+"Ohio Portage Kent.png" (475) (0)
+"UBC COA.svg" (476) (0)
+"Case Western Reserve University seal.svg" (477) (0)
+"FSU_seal.svg" (478) (0)
+"Harvard Wreath Logo 1.svg" (479) (0)
+"Kentlogo.png" (480) (0)
+"Coat of Arms of Kelowna, British Columbia.svg" (481) (0)
+"Downtown Kent Ohio 2.jpg" (482) (0)
+"Kelowna Skyline.jpg" (483) (0)
+"−22" (484) (0)
+"Universitas Harvardiana" (485) (0)
+"Universitas Torontonensis" (486) (0)
+"Dave Ruller" (487) (0)
+"Jerry Fiala" (488) (0)
+"Walter Gray" (489) (0)
+"Kent, Ohio" (490) (0)
+"Location in Santa Clara County and the state of California" (491) (0)
+"Location in Portage County, Ohio" (492) (0)
+"Mac the Marauder" (493) (0)
+"Think Beyond the Possible" (494) (0)
+"Vires, artes, mores" (495) (0)
+"Veritas" (496) (0)
+""Fruitful in Unity"" (497) (0)
+"It Is Yours" (498) (0)
+"It is up to you" (499) (0)
+"Strength, Skill, Character" (500) (0)
+"Truth" (501) (0)
+"All things cohere in Christ" (502) (0)
+"As a tree through the ages" (503) (0)
+"The Tree City" (504) (0)
+"K-Town" (505) (0)
+"President of Case Western Reserve University" (506) (0)
+"Stanford" (507) (0)
+"City of Kent, Ohio" (508) (0)
+"Kentite" (509) (0)
+"Arvind Gupta" (510) (0)
+"David Farrar  and Cynthia Mathieson" (511) (0)
+"Garnett S. Stokes" (512) (0)
+"USA" (513) (0)
+"Location in the United States" (514) (0)
+"Portal:Harvard University" (515) (0)
+"The Weather Channel" (516) (0)
+"Michael J. Snyder" (517) (0)
+"Florida" (518) (0)
+"background:#FFFFFF;color:#991111;border:1px solid #991111;" (519) (0)
+"The University of British Columbia" (520) (0)
+"McMaster University" (521) (0)
+"University of Toronto" (522) (0)
+"Barbara" (523) (0)
+"Case Western Reserve University" (524) (0)
+"Florida State University" (525) (0)
+"Harvard University" (526) (0)
+"Kent" (527) (0)
+"Barbara Snyder" (528) (0)
+"Barbara R. Snyder" (529) (0)
+"Snyder, Barbara" (530) (0)
+"UBC Thunderbirds" (531) (0)
+"Spartans" (532) (0)
+"Seminoles" (533) (0)
+"Harvard Crimson" (534) (0)
+"Marauders" (535) (0)
+"Varsity Blues" (536) (0)
+"McGill University College of British Columbia (1906–1915)" (537) (0)
+"King's College (1827–1849)" (538) (0)
+"City manager" (539) (0)
+"Snyder" (540) (0)
+"Does not include insular areas and United States Minor Outlying Islands, which have their own ISO 3166 codes." (550) (0)
+"Invent the Future" (551) (0)
+"President of Virginia Polytechnic Institute and State University" (552) (0)
+"APLUORAUURA" (553) (0)
+"Incumbent" (554) (0)
+"Villanova University" (555) (0)
+"University of Chicago Law School" (556) (0)
+"Oxford University" (557) (0)
+"Projection of North America with the United States in green" (558) (0)
+"Projection of North America with Canada in green" (559) (0)
+"Christopher Ludwig Eisgruber" (560) (0)
+"Rural" (561) (0)
+"One World Trade Center, built in its place" (562) (0)
+"The former World Trade Center in Lower Manhattan on 9/11" (563) (0)
+"Virginia Tech Seal" (564) (0)
+"Ethnic origins of people in Canada" (565) (0)
+"Florida: Outline • Index" (566) (0)
+"Massachusetts: Outline • Index" (567) (0)
+"Danny" (568) (0)
+"Gold" (569) (0)
+"Black" (570) (0)
+"Blue" (571) (0)
+"Gray" (572) (0)
+"Green" (573) (0)
+"Red" (574) (0)
+"White" (575) (0)
+"Chicago Maroon and Burnt Orange" (576) (0)
+"Blue, Green, Cranberry" (577) (0)
+"the United States" (578) (0)
+"United States of America" (579) (0)
+"USD" (580) (0)
+"CAD" (581) (0)
+"dd-mm-yyyy mm-dd-yyyy yyyy-mm-dd" (582) (0)
+"Canadian" (583) (0)
+"Floridian" (584) (0)
+"Bay Stater  Massachusite  Massachusettsian" (585) (0)
+"vertical" (586) (0)
+"US$754.55 Million" (587) (0)
+"Flag of Florida.svg" (588) (0)
+"Flag_of_Massachusetts.svg" (589) (0)
+"Key lime pie, Orange" (590) (0)
+"Cranberry, Corn muffin, Navy bean, Boston cream pie, Chocolate chip cookie, Boston cream donut" (591) (0)
+"Harvard University and MIT are both widely regarded as in the top handful of universities worldwide for academic research in a myriad of disciplines." (592) (0)
+"English is the official language of at least 28 states; some sources give higher figures, based on differing definitions of "official". English and Hawaiian are both official languages in the state of Hawaii." (593) (0)
+"English is the de facto language of American government and the sole language spoken at home by 80 percent of Americans aged five and older. 28 states and 5 territories have made English an official language. Other official languages include Hawaiian, Samoan, Chamorro, Carolinian, and Spanish." (594) (0)
+"Whether the United States or China is larger has been disputed. The figure given is from the U.S. Central Intelligence Agency's The World Factbook. Other sources give smaller figures. All authoritative calculations of the country's size include only the 50 states and the District of Columbia, not the territories." (595) (0)
+"The population estimate is of people whose usual residence is within the 50 states and the District of Columbia, regardless of nationality. It does not include those living in the territories (596) (0)
+"See Time in the United States for details about laws governing time zones in the United States." (597) (0)
+"Florida Territory" (598) (0)
+"Province of Massachusetts Bay" (599) (0)
+"* Virginia Agricultural and Mechanical College  (600) (0)
+"Campus size" (603) (0)
+"State of Florida" (604) (0)
+"Commonwealth of Massachusetts" (605) (0)
+"Rick Scott" (606) (0)
+"increase" (607) (0)
+"OneWorldTradeCenter.jpg" (608) (0)
+"WTC smoking on 9-11.jpeg" (609) (0)
+"MIT_Building_10_and_the_Great_Dome,_Cambridge_MA.jpg" (610) (0)
+"HarvardWidenerLibrary.jpg" (611) (0)
+"Great Seal of the United States (612) (0)
+"Flag of the United States.svg" (613) (0)
+"Flag of Canada.svg" (614) (0)
+"USA orthographic.svg" (615) (0)
+"Canada (616) (0)
+"Virginiatechseal.svg" (617) (0)
+"English 73.36%" (618) (0)
+"Spanish 19.54%" (619) (0)
+"n/89/106247" (620) (0)
+"Carlos López-Cantera" (621) (0)
+"Vacant" (622) (0)
+"Florida in United States.svg" (623) (0)
+"Massachusetts in United States.svg" (624) (0)
+"Ut Prosim" (625) (0)
+"Ense petit placidam sub libertate quietem" (626) (0)
+"(By the sword we seek peace, but peace only under liberty)" (627) (0)
+"That I May Serve" (628) (0)
+"By the sword she seeks peace under liberty" (629) (0)
+""The Star-Spangled Banner"" (630) (0)
+"File:Star Spangled Banner instrumental.ogg" (631) (0)
+""O Canada"" (632) (0)
+"File:Canada - Official Anthem (Instrumental).ogg" (633) (0)
+""In God we trust"" (634) (0)
+"The Sunshine State" (635) (0)
+"The Bay State, The Old Colony State, The Codfish State" (636) (0)
+"Provost of Stanford University" (637) (0)
+"President of Stanford University" (638) (0)
+"President of Princeton University" (639) (0)
+"City of Kelowna" (640) (0)
+"none" (641) (0)
+"Richmond, Virginia" (642) (0)
+"Lafayette, Indiana, United States" (643) (0)
+"FL" (644) (0)
+"MA" (645) (0)
+"Lawyer, constitutional scholar, university administrator" (646) (0)
+"Mark G. McNamee" (647) (0)
+"Canada British Columbia" (648) (0)
+"Location of Kelowna in British Columbia" (649) (0)
+"nontheist" (650) (0)
+"Florida 27.svg" (651) (0)
+"MA Route 24.svg" (652) (0)
+""God Save the Queen"" (653) (0)
+"Seal of Florida.svg" (654) (0)
+"Seal_of_Massachusetts.svg" (655) (0)
+"Marco Rubio" (656) (0)
+"New England Neptune, Neptunea lyrata decemcostata" (657) (0)
+"Schooner Ernestina" (658) (0)
+"American academic administrator" (659) (0)
+"American academic" (660) (0)
+"American lawyer and university president" (661) (0)
+"Charles Steger signature.png" (662) (0)
+"Make It Yours," (663) (0)
+"The Spirit of America" (664) (0)
+""Old Folks at Home"" (665) (0)
+"All Hail to Massachusetts" (666) (0)
+"from Great Britain" (667) (0)
+"from the United Kingdom" (668) (0)
+"Basketball" (669) (0)
+"Lori Martin" (670) (0)
+"Texas" (671) (0)
+"Great Seal" (672) (0)
+"Coat of Arms" (673) (0)
+"present" (674) (0)
+"A real-time language for small processors: design, definition and implementation" (675) (0)
+"Pacific Daylight Time" (676) (0)
+"Virginia Tech president" (677) (0)
+"Topics related to Florida" (678) (0)
+"The Bay State" (679) (0)
+"Topics related to Massachusetts" (680) (0)
+"color:black; background-color:white;" (681) (0)
+"background:#15317E; color:#fff" (682) (0)
+"Fla." (683) (0)
+"Mass." (684) (0)
+"Land-Grant" (685) (0)
+"Peninsula and "Big Bend" region" (686) (0)
+"Panhandle west of the Apalachicola River" (687) (0)
+"=" (688) (0)
+"−5 to −10" (689) (0)
+"−3.5 to −8" (690) (0)
+"−4 to −10" (691) (0)
+"−2.5 to −7" (692) (0)
+"www.myflorida.com" (693) (0)
+"Except U.S. Virgin Islands." (694) (0)
+"Virginia Tech" (695) (0)
+"John L." (696) (0)
+"Charles W." (697) (0)
+"Garnett S." (698) (0)
+"Christopher L." (699) (0)
+"Hennessy, John L." (700) (0)
+"John Leroy Hennessy" (701) (0)
+"John L. Hennessy" (702) (0)
+"Charles W. Steger" (703) (0)
+"Steger, Charles W." (704) (0)
+"Stokes, Garnett S." (705) (0)
+"Virginia Polytechnic Institute" (706) (0)
+"and State University" (707) (0)
+"Christopher L. Eisgruber" (708) (0)
+"Eisgruber, Christopher L." (709) (0)
+"Hokies" (710) (0)
+"* Virginia Polytechnic Institute (1944–1970)" (711) (0)
+"* Virginia Agricultural and Mechanical College and Polytechnic Institute (1896–1944)" (712) (0)
+"* Virginia Agricultural and Mechanical College (1892–1896)" (713) (0)
+"MP" (714) (0)
+"MLAs" (715) (0)
+"President" (716) (0)
+"Vice President" (717) (0)
+"Chief Justice" (718) (0)
+"Monarch" (719) (0)
+"Prime Minister" (720) (0)
+"American" (721) (0)
+"Bay Stater (official) Massachusite (traditional) Massachusettsian (archaic)" (722) (0)
+"Hennessy" (723) (0)
+"Steger" (724) (0)
+"Stokes" (725) (0)
+"Eisgruber" (726) (0)
+
+CLUSTER RELATIONS:
+
+C-David_Naylor>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Tallahassee,_Florida>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Toronto>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Virginia>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Drew_Gilpin_Faust>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Lester_Lefton>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Patrick_Deane_(professor)>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-British_Columbia>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-California>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Cambridge,_Massachusetts>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Cleveland>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+CLUSTER: 12
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+	CLUSTER: 12	Inland	CLUSTER: 13
+	CLUSTER: 12	Inland	CLUSTER: 20
+	CLUSTER: 12	South	CLUSTER: 16
+	CLUSTER: 12	San	CLUSTER: 23
+	CLUSTER: 12	Imperial	CLUSTER: 21
+	CLUSTER: 12	Central	CLUSTER: 15
+	CLUSTER: 12	North	CLUSTER: 22
+	CLUSTER: 12	Sierra	CLUSTER: 24
+	CLUSTER: 12	Spanish	CLUSTER: 27
+	CLUSTER: 12	Chinese	CLUSTER: 28
+	CLUSTER: 12	Tagalog	CLUSTER: 29
+
+CLUSTER: 13
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 14
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+	CLUSTER: 14	Southern	CLUSTER: 15
+	CLUSTER: 14	Coastal	CLUSTER: 15
+	CLUSTER: 14	Northern	CLUSTER: 15
+	CLUSTER: 14	English	CLUSTER: 25
+	CLUSTER: 14	Multilingual	CLUSTER: 26
+	CLUSTER: 14	Virginia	CLUSTER: 60
+	CLUSTER: 14	Virginia	CLUSTER: 61
+
+CLUSTER: 15
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 16
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 17
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+	CLUSTER: 17	Los	CLUSTER: 18
+	CLUSTER: 17	San	CLUSTER: 19
+
+CLUSTER: 18
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 19
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 20
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 21
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 22
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 23
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 24
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 25
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 26
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 27
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 28
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 29
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Hamilton,_Ontario>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Kent_State_University>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-New_Jersey>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Ohio>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Ontario>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Princeton_University>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Stanford_University>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Princeton,_New_Jersey>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Blacksburg,_Virginia>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+CLUSTER: 39
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+	CLUSTER: 39	|name="noteLargest"|group=note".	CLUSTER: 40
+
+CLUSTER: 40
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Stanford,_California>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-University_of_British_Columbia>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Case_Western_Reserve_University>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Florida_State_University>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Harvard_University>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Kent,_Ohio>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Barbara_Snyder>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-McMaster_University>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-University_of_Toronto>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Kelowna>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-United_States>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-John_L._Hennessy>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Charles_W._Steger>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Garnett_S._Stokes>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Virginia_Tech>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Canada>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Florida>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Massachusetts>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+C-Christopher_L._Eisgruber>
+	Stability Ratio:100 %
+	Property Coverage Ratio:0 %
+
+CLUSTER: 60
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+CLUSTER: 61
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %

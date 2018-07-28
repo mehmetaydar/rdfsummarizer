@@ -1,0 +1,144 @@
+
+
+Min threshold: 0	Max threshold: 1
+threshold: 0	 stability: 100	 summaryGraph_cRMSD: 0
+clusters: 1	labelsSize: 383
+clusteredPercentage: %3.24675
+avg_members_in_clusters: %5
+value = summaryGraphStability
+value: 100
+threshold: 0.1	 stability: 100	 summaryGraph_cRMSD: 0
+clusters: 1	labelsSize: 383
+clusteredPercentage: %3.24675
+avg_members_in_clusters: %5
+value = summaryGraphStability
+value: 100
+threshold: 0.2	 stability: 100	 summaryGraph_cRMSD: 0.349927
+clusters: 4	labelsSize: 383
+clusteredPercentage: %8.44156
+avg_members_in_clusters: %3.25
+value = summaryGraphStability
+value: 100
+threshold: 0.3	 stability: 100	 summaryGraph_cRMSD: 2.64266
+clusters: 8	labelsSize: 383
+clusteredPercentage: %18.1818
+avg_members_in_clusters: %3.5
+value = summaryGraphStability
+value: 100
+threshold: 0.4	 stability: 100	 summaryGraph_cRMSD: 2.62907
+clusters: 8	labelsSize: 383
+clusteredPercentage: %47.4026
+avg_members_in_clusters: %9.125
+value = summaryGraphStability
+value: 100
+threshold: 0.5	 stability: 100	 summaryGraph_cRMSD: 0.828711
+clusters: 5	labelsSize: 383
+clusteredPercentage: %68.1818
+avg_members_in_clusters: %21
+value = summaryGraphStability
+value: 100
+threshold: 0.6	 stability: 100	 summaryGraph_cRMSD: 1.23567
+clusters: 5	labelsSize: 383
+clusteredPercentage: %76.6234
+avg_members_in_clusters: %23.6
+value = summaryGraphStability
+value: 100
+threshold: 0.7	 stability: 100	 summaryGraph_cRMSD: 0.504752
+clusters: 3	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %40.6667
+value = summaryGraphStability
+value: 100
+threshold: 0.8	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %122
+value = summaryGraphStability
+value: 100
+threshold: 0.9	 stability: 72.9167	 summaryGraph_cRMSD: 0.590164
+clusters: 2	labelsSize: 383
+clusteredPercentage: %80.5195
+avg_members_in_clusters: %62
+value = summaryGraphStability
+value: 72.9167
+
+opt_threshold: 0.8
+opt-value: 100
+opt-stability: 100
+opt-cRMSD: 0.0901639
+opt-clusteredPercentage: 79.2208
+
+
+Min threshold: 0.7	Max threshold: 0.9
+threshold: 0.7	 stability: 100	 summaryGraph_cRMSD: 0.504752
+clusters: 3	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %40.6667
+value = summaryGraphStability
+value: 100
+threshold: 0.72	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %122
+value = summaryGraphStability
+value: 100
+threshold: 0.74	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %122
+value = summaryGraphStability
+value: 100
+threshold: 0.76	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %122
+value = summaryGraphStability
+value: 100
+threshold: 0.78	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %122
+value = summaryGraphStability
+value: 100
+threshold: 0.8	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %122
+value = summaryGraphStability
+value: 100
+threshold: 0.82	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %122
+value = summaryGraphStability
+value: 100
+threshold: 0.84	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %122
+value = summaryGraphStability
+value: 100
+threshold: 0.86	 stability: 72.9167	 summaryGraph_cRMSD: 0.590164
+clusters: 2	labelsSize: 383
+clusteredPercentage: %80.5195
+avg_members_in_clusters: %62
+value = summaryGraphStability
+value: 72.9167
+threshold: 0.88	 stability: 72.9167	 summaryGraph_cRMSD: 0.590164
+clusters: 2	labelsSize: 383
+clusteredPercentage: %80.5195
+avg_members_in_clusters: %62
+value = summaryGraphStability
+value: 72.9167
+threshold: 0.9	 stability: 72.9167	 summaryGraph_cRMSD: 0.590164
+clusters: 2	labelsSize: 383
+clusteredPercentage: %80.5195
+avg_members_in_clusters: %62
+value = summaryGraphStability
+value: 72.9167
+
+opt_threshold: 0.84
+opt-value: 100
+opt-stability: 100
+opt-cRMSD: 0.0901639
+opt-clusteredPercentage: 79.2208

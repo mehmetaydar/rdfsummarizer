@@ -1,0 +1,87 @@
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/alumni> "196000" .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/students> "27855" .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/students> "42185" .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Ohio> .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Ohio> .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/name> "Kent" .
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/name> "University of Toronto" .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/name> "Toronto" .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/name> "Case Western Reserve University" .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/name> "Kent State University" .
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/name> "David Naylor" .
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/name> "Naylor, David" .
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/name> "Lester Lefton" .
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/name> "Lefton, Lester" .
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/name> "Snyder, Barbara" .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Private_university> .
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Public_university> .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Public_university> .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/country> "Canada" .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/website> <http://www.case.edu/> .
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/website> <http://www.utoronto.ca> .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/website> <http://www.kentohio.org/> .
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/website> <http://www.president.utoronto.ca/> .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/website> <http://www.city.cleveland.oh.us/> .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/website> <http://www.kent.edu> .
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/David_Naylor> .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/Lester_Lefton> .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/Barbara_Snyder> .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Cleveland> .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Kent,_Ohio> .
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Toronto> .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/campus> <http://dbpedia.org/resource/College_town> .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/campus> <http://dbpedia.org/resource/Suburb> .
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/campus> "Urban," .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/campus> "Urban," .
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/established> "15" .
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/established> "1910" .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/established> "CIT: 1880" .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/established> "WRU: 1826" .
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/established> "CWRU: 1967" .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/populationTotal> "28904" .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationTotal> "396815" .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/populationTotal> "2615060" .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/John_Haymaker> .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/settlementType> <http://dbpedia.org/resource/City> .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/settlementType> <http://dbpedia.org/resource/City> .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/settlementType> "City" .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/areaTotalKm> "24" .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/areaTotalKm> "213" .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/areaTotalKm> "630" .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/establishedDate> "1796" .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedDate> "1805" .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/establishedDate> "1814" .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/establishedDate> "1836" .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedDate> "1867" .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/establishedDate> "1793-08-27" .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/establishedDate> "1834-03-06" .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/establishedDate> "1998-01-01" .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedDate> "November 1805" .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/location> "Kent, Ohio" .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/location> "Cleveland , 1981-2010 normals" .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/latd> "41" .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/latd> "41" .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/latd> "43" .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/latm> "9" .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/latm> "28" .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/latm> "42" .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/areaCode> "216" .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/areaCode> "330234" .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/areaCode> "416647" .
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Time_Zone_(North_America)> .
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Time_Zone_(North_America)> .
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Time_Zone_(North_America)> .
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/dateOfBirth> "1946-07-27" .
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/dateOfBirth> "1954-10-26" .
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/birthDate> "1946-07-27" .
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/birthDate> "1954-10-26" .
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Massachusetts> .
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Woodstock,_Ontario> .
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Brookline,_Massachusetts> .
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/profession> <http://dbpedia.org/resource/Professor> .
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/profession> "Educator" .
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Massachusetts> .
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Brookline,_Massachusetts> .
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/placeOfBirth> "Woodstock, Ontario" .

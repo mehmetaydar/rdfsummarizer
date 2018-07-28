@@ -1,0 +1,644 @@
+-vertex_mapping-
+394
+310 $|$ "(Frank Iacobucci )"
+311 $|$ "(Vivek Goel )"
+382 $|$ "-4"
+380 $|$ "-5"
+62 $|$ "0.11"
+60 $|$ "0.28"
+63 $|$ "1"
+132 $|$ "1.091E8"
+368 $|$ "10"
+81 $|$ "100"
+201 $|$ "101"
+198 $|$ "103"
+128 $|$ "1050"
+227 $|$ "11"
+21 $|$ "12"
+59 $|$ "12.35"
+289 $|$ "1217"
+166 $|$ "125"
+308 $|$ "13464"
+392 $|$ "14"
+277 $|$ "15"
+68 $|$ "16"
+325 $|$ "164"
+44 $|$ "17"
+58 $|$ "1749"
+18 $|$ "1750"
+142 $|$ "1793-08-27+02:00"
+145 $|$ "1796"
+148 $|$ "1805"
+146 $|$ "1814"
+141 $|$ "1827-03-15+02:00"
+143 $|$ "1834-03-06+02:00"
+147 $|$ "1836"
+136 $|$ "1863-04-09+02:00"
+149 $|$ "1867"
+72 $|$ "19"
+137 $|$ "1910"
+86 $|$ "1946-07-27+02:00"
+85 $|$ "1954-10-26+02:00"
+87 $|$ "1955-07-23+02:00"
+20 $|$ "196000"
+288 $|$ "1971.8"
+130 $|$ "199"
+144 $|$ "1998-01-01+02:00"
+161 $|$ "2"
+192 $|$ "2.02"
+271 $|$ "2.46"
+123 $|$ "2.83"
+233 $|$ "2.85"
+135 $|$ "20"
+186 $|$ "200"
+364 $|$ "2005-10-01+02:00"
+365 $|$ "2006-07-01+02:00"
+366 $|$ "2007-07-01+02:00"
+48 $|$ "201.24"
+280 $|$ "2010"
+279 $|$ "2011"
+278 $|$ "2012"
+363 $|$ "2014-07-01+02:00"
+295 $|$ "2068283"
+226 $|$ "21"
+54 $|$ "213.6"
+46 $|$ "216"
+391 $|$ "22"
+220 $|$ "220"
+373 $|$ "22968"
+160 $|$ "23"
+49 $|$ "23.75"
+95 $|$ "2395512"
+225 $|$ "24"
+55 $|$ "24.04"
+157 $|$ "2400"
+156 $|$ "2458"
+173 $|$ "25"
+324 $|$ "250"
+158 $|$ "2547"
+122 $|$ "26"
+296 $|$ "2615060"
+341 $|$ "2799"
+67 $|$ "28"
+221 $|$ "280"
+298 $|$ "28904"
+345 $|$ "28998"
+293 $|$ "29807"
+228 $|$ "3"
+200 $|$ "3.13"
+42 $|$ "3.15"
+268 $|$ "3.22"
+80 $|$ "3.36"
+329 $|$ "3.57"
+236 $|$ "3.61"
+197 $|$ "3.87"
+98 $|$ "30"
+291 $|$ "3152"
+131 $|$ "320"
+47 $|$ "330234"
+376 $|$ "33795"
+191 $|$ "34"
+281 $|$ "3497711"
+23 $|$ "35"
+374 $|$ "35776"
+267 $|$ "36"
+379 $|$ "37"
+159 $|$ "38"
+99 $|$ "39"
+292 $|$ "390928"
+297 $|$ "396815"
+326 $|$ "4"
+61 $|$ "4.77"
+41 $|$ "40"
+202 $|$ "41"
+287 $|$ "4149"
+45 $|$ "416437647"
+346 $|$ "41891"
+65 $|$ "42"
+375 $|$ "4227"
+82 $|$ "43"
+74 $|$ "44"
+301 $|$ "441"
+302 $|$ "442404424244243"
+270 $|$ "45"
+342 $|$ "4590"
+22 $|$ "47"
+232 $|$ "48"
+266 $|$ "50"
+235 $|$ "51"
+290 $|$ "5107"
+299 $|$ "5132794"
+64 $|$ "53"
+307 $|$ "5458"
+294 $|$ "5583064"
+206 $|$ "56"
+84 $|$ "6"
+40 $|$ "60"
+305 $|$ "6030"
+306 $|$ "6115"
+269 $|$ "62"
+79 $|$ "63"
+53 $|$ "630"
+196 $|$ "64"
+193 $|$ "65"
+127 $|$ "653"
+162 $|$ "70"
+52 $|$ "7125"
+124 $|$ "72"
+328 $|$ "74"
+129 $|$ "76"
+344 $|$ "760"
+50 $|$ "77.7"
+222 $|$ "79"
+199 $|$ "80"
+223 $|$ "81"
+78 $|$ "82"
+56 $|$ "82.47"
+195 $|$ "84"
+333 $|$ "85"
+43 $|$ "88"
+167 $|$ "89"
+204 $|$ "9"
+51 $|$ "9.17"
+57 $|$ "9.28"
+237 $|$ "94"
+330 $|$ "95"
+66 $|$ "99"
+335 $|$ "American psychologist"
+242 $|$ "As a tree through the ages"
+121 $|$ "August 2010"
+253 $|$ "Barbara R. Snyder"
+134 $|$ "C$1.663 billion"
+118 $|$ "CA-ON"
+138 $|$ "CIT: 1880"
+116 $|$ "CWRU Blue (PMS 294), White and CWRU Grey (PMS 7545)"
+139 $|$ "CWRU: 1967"
+318 $|$ "Canada"
+334 $|$ "Canadian physician"
+343 $|$ "Career"
+182 $|$ "Case Western Reserve University seal.svg"
+251 $|$ "Case Western Reserve University"
+88 $|$ "Christopher David Naylor"
+275 $|$ "City of Cleveland"
+276 $|$ "City of Kent, Ohio"
+174 $|$ "City of Toronto Logo.png"
+274 $|$ "City of Toronto"
+331 $|$ "City"
+249 $|$ "Cleveland Division of Fire"
+183 $|$ "Cleveland seal-T.png"
+248 $|$ "Cleveland"
+180 $|$ "Cleveland-CuyahogaCoOH.png"
+282 $|$ "Clevelander"
+24 $|$ "Coat of arms of Toronto"
+215 $|$ "Council"
+357 $|$ "Country"
+210 $|$ "Dave Ruller"
+244 $|$ "David Naylor"
+216 $|$ "Deputy Mayor"
+238 $|$ "Diversity Our Strength"
+189 $|$ "Downtown Kent Ohio 2.jpg"
+176 $|$ "Downtown Kent, September 2009"
+316 $|$ "Educator"
+153 $|$ "Established"
+240 $|$ "Excellence In Action"
+94 $|$ "FEUZB"
+164 $|$ "First Responder BLS"
+178 $|$ "Flag of Cleveland, Ohio.svg"
+165 $|$ "Flag of Toronto"
+234 $|$ "Flash the Golden Eagle"
+154 $|$ "Founded"
+209 $|$ "Frank G. Jackson"
+175 $|$ "From top left: Downtown Toronto featuring the CN Tower and Financial District from the Toronto Islands, City Hall, the Ontario Legislative Building, Casa Loma, Prince Edward Viaduct, and the Scarborough Bluffs"
+96 $|$ "GNBC Code"
+97 $|$ "GNIS feature ID"
+338 $|$ "Ilse Treurnicht"
+378 $|$ "Imperial"
+155 $|$ "Incorporated"
+211 $|$ "Jerry Fiala"
+111 $|$ "Karline Naylor"
+115 $|$ "Kent State Blue and Kent State Gold"
+250 $|$ "Kent State University"
+252 $|$ "Kent"
+219 $|$ "Kent, Ohio"
+286 $|$ "Kentite"
+184 $|$ "Kentlogo.png"
+168 $|$ "King's College"
+337 $|$ "Lake Ontario"
+106 $|$ "Lefton Photo Taken in 2012"
+247 $|$ "Lefton, Lester"
+246 $|$ "Lester Lefton"
+339 $|$ "Linda Lefton"
+230 $|$ "Location in Cuyahoga County"
+322 $|$ "Location in Ohio"
+231 $|$ "Location in Portage County, Ohio"
+323 $|$ "Location in the United States"
+229 $|$ "Location of Toronto and its census metropolitan area in the province of Ontario"
+321 $|$ "Location of Toronto in Canada"
+112 $|$ "Max Naylor"
+113 $|$ "Melinda Naylor"
+377 $|$ "Metric"
+340 $|$ "Michael J. Snyder"
+188 $|$ "Montage Cleveland 1.jpg"
+187 $|$ "Montage of Toronto 7.jpg"
+205 $|$ "N"
+73 $|$ "NCAA Division III UAA"
+100 $|$ "NTS Map"
+245 $|$ "Naylor, David"
+150 $|$ "November 1805"
+362 $|$ "October, 2013"
+181 $|$ "Ohio Portage Kent.png"
+38 $|$ "Ohio State University ( )"
+110 $|$ "Patrick Kelly"
+243 $|$ "Portal:Toronto, Ontario"
+303 $|$ "Postal code span"
+273 $|$ "President of Case Western Reserve University"
+272 $|$ "President of the University of Toronto"
+25 $|$ "President of"
+239 $|$ "Progress & Prosperity"
+114 $|$ "Sam Naylor"
+102 $|$ "Semester"
+19 $|$ "Settled"
+254 $|$ "Snyder, Barbara"
+261 $|$ "The Tree City"
+336 $|$ "The Weather Channel"
+107 $|$ "The seal of Case Western Reserve University"
+241 $|$ "Think Beyond the Possible"
+185 $|$ "Toronto Coat of Arms.jpg"
+177 $|$ "Toronto Flag.svg"
+179 $|$ "Toronto Location in Ontario.png"
+108 $|$ "Toronto"
+285 $|$ "Torontonian"
+133 $|$ "US $1.6 billion"
+119 $|$ "US-OH"
+319 $|$ "USA Ohio"
+320 $|$ "USA"
+203 $|$ "Universitas Torontonensis"
+39 $|$ "University of Chicago Law School ( )"
+255 $|$ "University of Toronto"
+105 $|$ "Urban,"
+224 $|$ "W"
+140 $|$ "WRU: 1826"
+190 $|$ "Y"
+304 $|$ "ZIP codes"
+361 $|$ "incumbent"
+117 $|$ "inline,title"
+83 $|$ "no"
+317 $|$ "right"
+125 $|$ "−12"
+194 $|$ "−22"
+383 $|$ "−4"
+381 $|$ "−5"
+163 $|$ "−6"
+356 $|$ <http://dbpedia.org/resource/Amalgamation_of_Toronto>
+29 $|$ <http://dbpedia.org/resource/Association_of_American_Universities>
+30 $|$ <http://dbpedia.org/resource/Association_of_Commonwealth_Universities>
+27 $|$ <http://dbpedia.org/resource/Association_of_Public_and_Land-grant_Universities>
+34 $|$ <http://dbpedia.org/resource/Association_of_Universities_and_Colleges_of_Canada>
+14 $|$ <http://dbpedia.org/resource/Barbara_Snyder>
+265 $|$ <http://dbpedia.org/resource/Brampton>
+92 $|$ <http://dbpedia.org/resource/Brookline,_Massachusetts>
+91 $|$ <http://dbpedia.org/resource/Canada>
+76 $|$ <http://dbpedia.org/resource/Canadian_Interuniversity_Sport>
+75 $|$ <http://dbpedia.org/resource/Canadian_University_Field_Lacrosse_Association>
+312 $|$ <http://dbpedia.org/resource/Carol_Cartwright>
+10 $|$ <http://dbpedia.org/resource/Case_Western_Reserve_University>
+332 $|$ <http://dbpedia.org/resource/City>
+218 $|$ <http://dbpedia.org/resource/City_manager>
+6 $|$ <http://dbpedia.org/resource/Cleveland>
+104 $|$ <http://dbpedia.org/resource/College_town>
+283 $|$ <http://dbpedia.org/resource/Combined_Statistical_Area>
+172 $|$ <http://dbpedia.org/resource/Council%E2%80%93manager_government>
+353 $|$ <http://dbpedia.org/resource/Cuyahoga_County,_Ohio>
+0 $|$ <http://dbpedia.org/resource/David_Naylor>
+284 $|$ <http://dbpedia.org/resource/Demonym>
+71 $|$ <http://dbpedia.org/resource/Division_I_(NCAA)>
+369 $|$ <http://dbpedia.org/resource/Dudince>
+347 $|$ <http://dbpedia.org/resource/East_York>
+367 $|$ <http://dbpedia.org/resource/Eastern_Time_Zone>
+313 $|$ <http://dbpedia.org/resource/Edward_M._Hundert>
+352 $|$ <http://dbpedia.org/resource/Etobicoke>
+101 $|$ <http://dbpedia.org/resource/Federal_Information_Processing_Standards>
+32 $|$ <http://dbpedia.org/resource/International_Association_of_Universities>
+169 $|$ <http://dbpedia.org/resource/John_Haymaker>
+12 $|$ <http://dbpedia.org/resource/Kent,_Ohio>
+259 $|$ <http://dbpedia.org/resource/Kent_State_Golden_Flashes>
+8 $|$ <http://dbpedia.org/resource/Kent_State_University>
+4 $|$ <http://dbpedia.org/resource/Lester_Lefton>
+300 $|$ <http://dbpedia.org/resource/List_of_M_postal_codes_of_Canada>
+358 $|$ <http://dbpedia.org/resource/List_of_counties_in_Ohio>
+214 $|$ <http://dbpedia.org/resource/List_of_mayors_of_Toronto>
+359 $|$ <http://dbpedia.org/resource/List_of_sovereign_states>
+263 $|$ <http://dbpedia.org/resource/Markham,_Ontario>
+256 $|$ <http://dbpedia.org/resource/Marvin_Kent>
+93 $|$ <http://dbpedia.org/resource/Massachusetts>
+170 $|$ <http://dbpedia.org/resource/Mayor%E2%80%93council_government>
+217 $|$ <http://dbpedia.org/resource/Mayor>
+213 $|$ <http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)>
+212 $|$ <http://dbpedia.org/resource/Member_of_parliament>
+152 $|$ <http://dbpedia.org/resource/Merger_(politics)>
+314 $|$ <http://dbpedia.org/resource/Meric_Gertler>
+109 $|$ <http://dbpedia.org/resource/Michael_Wilson_(Canadian_politician)>
+70 $|$ <http://dbpedia.org/resource/Mid-American_Conference>
+390 $|$ <http://dbpedia.org/resource/Mississauga>
+151 $|$ <http://dbpedia.org/resource/Municipal_corporation>
+257 $|$ <http://dbpedia.org/resource/Name_of_Toronto>
+69 $|$ <http://dbpedia.org/resource/National_Collegiate_Athletic_Association>
+208 $|$ <http://dbpedia.org/resource/Norm_Kelly>
+28 $|$ <http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools>
+351 $|$ <http://dbpedia.org/resource/North_York>
+37 $|$ <http://dbpedia.org/resource/Northeastern_University>
+327 $|$ <http://dbpedia.org/resource/Ohio>
+348 $|$ <http://dbpedia.org/resource/Old_Toronto>
+89 $|$ <http://dbpedia.org/resource/Ontario>
+77 $|$ <http://dbpedia.org/resource/Ontario_University_Athletics>
+126 $|$ <http://dbpedia.org/resource/Pickering,_Ontario>
+354 $|$ <http://dbpedia.org/resource/Portage_County,_Ohio>
+372 $|$ <http://dbpedia.org/resource/Private_university>
+315 $|$ <http://dbpedia.org/resource/Professor>
+355 $|$ <http://dbpedia.org/resource/Provinces_and_territories_of_Canada>
+371 $|$ <http://dbpedia.org/resource/Public_university>
+171 $|$ <http://dbpedia.org/resource/Rob_Ford>
+309 $|$ <http://dbpedia.org/resource/Robert_J._Birgeneau>
+349 $|$ <http://dbpedia.org/resource/Scarborough,_Ontario>
+370 $|$ <http://dbpedia.org/resource/Slovakia>
+260 $|$ <http://dbpedia.org/resource/Spartan_army>
+103 $|$ <http://dbpedia.org/resource/Suburb>
+258 $|$ <http://dbpedia.org/resource/The_Forest_City>
+2 $|$ <http://dbpedia.org/resource/Toronto>
+207 $|$ <http://dbpedia.org/resource/Toronto_City_Council>
+262 $|$ <http://dbpedia.org/resource/Toronto_Varsity_Blues>
+360 $|$ <http://dbpedia.org/resource/U.S._state>
+31 $|$ <http://dbpedia.org/resource/U15_Group_of_Canadian_Research_Universities>
+120 $|$ <http://dbpedia.org/resource/United_States>
+33 $|$ <http://dbpedia.org/resource/Universities_Research_Association>
+26 $|$ <http://dbpedia.org/resource/University_System_of_Ohio>
+35 $|$ <http://dbpedia.org/resource/University_of_Oxford>
+36 $|$ <http://dbpedia.org/resource/University_of_Rochester>
+16 $|$ <http://dbpedia.org/resource/University_of_Toronto>
+264 $|$ <http://dbpedia.org/resource/Vaughan>
+90 $|$ <http://dbpedia.org/resource/Woodstock,_Ontario>
+350 $|$ <http://dbpedia.org/resource/York,_Ontario>
+388 $|$ <http://kentohio.org>
+15 $|$ <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Barbara_Snyder>
+11 $|$ <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Case_Western_Reserve_University>
+7 $|$ <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cleveland>
+1 $|$ <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/David_Naylor>
+13 $|$ <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kent,_Ohio>
+9 $|$ <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kent_State_University>
+5 $|$ <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lester_Lefton>
+3 $|$ <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Toronto>
+17 $|$ <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/University_of_Toronto>
+387 $|$ <http://www.case.edu/>
+385 $|$ <http://www.city.cleveland.oh.us/>
+386 $|$ <http://www.kent.edu>
+384 $|$ <http://www.president.utoronto.ca/>
+389 $|$ <http://www.utoronto.ca>
+393 $|$ <http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2>
+-label_mapping-
+246
+9 $|$ <http://dbpedia.org/property/affiliations>
+10 $|$ <http://dbpedia.org/property/almaMater>
+3 $|$ <http://dbpedia.org/property/alumni>
+11 $|$ <http://dbpedia.org/property/aprHighF>
+12 $|$ <http://dbpedia.org/property/aprLowF>
+13 $|$ <http://dbpedia.org/property/aprPrecipitationInch>
+14 $|$ <http://dbpedia.org/property/aprRecordHighF>
+15 $|$ <http://dbpedia.org/property/aprRecordLowF>
+16 $|$ <http://dbpedia.org/property/areaCode>
+17 $|$ <http://dbpedia.org/property/areaLandKm>
+18 $|$ <http://dbpedia.org/property/areaLandSqMi>
+19 $|$ <http://dbpedia.org/property/areaMetroKm>
+20 $|$ <http://dbpedia.org/property/areaTotalKm>
+21 $|$ <http://dbpedia.org/property/areaTotalSqMi>
+22 $|$ <http://dbpedia.org/property/areaUrbanKm>
+23 $|$ <http://dbpedia.org/property/areaWaterKm>
+24 $|$ <http://dbpedia.org/property/areaWaterSqMi>
+25 $|$ <http://dbpedia.org/property/arwuCan>
+4 $|$ <http://dbpedia.org/property/arwuEng>
+5 $|$ <http://dbpedia.org/property/arwuLife>
+235 $|$ <http://dbpedia.org/property/arwuMed>
+26 $|$ <http://dbpedia.org/property/arwuNu>
+6 $|$ <http://dbpedia.org/property/arwuSci>
+27 $|$ <http://dbpedia.org/property/arwuSoc>
+28 $|$ <http://dbpedia.org/property/arwuW>
+29 $|$ <http://dbpedia.org/property/athletics>
+30 $|$ <http://dbpedia.org/property/augHighF>
+31 $|$ <http://dbpedia.org/property/augLowF>
+32 $|$ <http://dbpedia.org/property/augPrecipitationInch>
+33 $|$ <http://dbpedia.org/property/augRecordHighF>
+34 $|$ <http://dbpedia.org/property/augRecordLowF>
+35 $|$ <http://dbpedia.org/property/b>
+36 $|$ <http://dbpedia.org/property/battalions>
+37 $|$ <http://dbpedia.org/property/birthDate>
+38 $|$ <http://dbpedia.org/property/birthName>
+39 $|$ <http://dbpedia.org/property/birthPlace>
+40 $|$ <http://dbpedia.org/property/blank1Info>
+41 $|$ <http://dbpedia.org/property/blank1Name>
+42 $|$ <http://dbpedia.org/property/blankInfo>
+43 $|$ <http://dbpedia.org/property/blankName>
+44 $|$ <http://dbpedia.org/property/calendar>
+45 $|$ <http://dbpedia.org/property/campus>
+46 $|$ <http://dbpedia.org/property/caption>
+47 $|$ <http://dbpedia.org/property/center>
+48 $|$ <http://dbpedia.org/property/chancellor>
+49 $|$ <http://dbpedia.org/property/chief>
+50 $|$ <http://dbpedia.org/property/children>
+51 $|$ <http://dbpedia.org/property/city>
+52 $|$ <http://dbpedia.org/property/colors>
+53 $|$ <http://dbpedia.org/property/coordinatesDisplay>
+54 $|$ <http://dbpedia.org/property/coordinatesRegion>
+55 $|$ <http://dbpedia.org/property/country>
+56 $|$ <http://dbpedia.org/property/date>
+57 $|$ <http://dbpedia.org/property/dateOfBirth>
+58 $|$ <http://dbpedia.org/property/decHighF>
+59 $|$ <http://dbpedia.org/property/decLowF>
+60 $|$ <http://dbpedia.org/property/decPrecipitationInch>
+61 $|$ <http://dbpedia.org/property/decRecordHighF>
+62 $|$ <http://dbpedia.org/property/decRecordLowF>
+63 $|$ <http://dbpedia.org/property/east>
+64 $|$ <http://dbpedia.org/property/elevationFt>
+65 $|$ <http://dbpedia.org/property/elevationM>
+66 $|$ <http://dbpedia.org/property/endowment>
+67 $|$ <http://dbpedia.org/property/engines>
+68 $|$ <http://dbpedia.org/property/established>
+69 $|$ <http://dbpedia.org/property/establishedDate>
+70 $|$ <http://dbpedia.org/property/establishedTitle>
+71 $|$ <http://dbpedia.org/property/faculty>
+72 $|$ <http://dbpedia.org/property/febHighF>
+73 $|$ <http://dbpedia.org/property/febLowF>
+74 $|$ <http://dbpedia.org/property/febPrecipitationInch>
+75 $|$ <http://dbpedia.org/property/febRecordHighF>
+76 $|$ <http://dbpedia.org/property/febRecordLowF>
+77 $|$ <http://dbpedia.org/property/fireboats>
+78 $|$ <http://dbpedia.org/property/firstresponderblsorals>
+79 $|$ <http://dbpedia.org/property/flagLink>
+80 $|$ <http://dbpedia.org/property/flagSize>
+81 $|$ <http://dbpedia.org/property/forbes>
+82 $|$ <http://dbpedia.org/property/formerNames>
+83 $|$ <http://dbpedia.org/property/founder>
+84 $|$ <http://dbpedia.org/property/governmentType>
+0 $|$ <http://dbpedia.org/property/hasPhotoCollection>
+85 $|$ <http://dbpedia.org/property/hazmat>
+86 $|$ <http://dbpedia.org/property/hrlrN>
+87 $|$ <http://dbpedia.org/property/hrlrW>
+88 $|$ <http://dbpedia.org/property/imageBlankEmblem>
+89 $|$ <http://dbpedia.org/property/imageCaption>
+90 $|$ <http://dbpedia.org/property/imageFlag>
+91 $|$ <http://dbpedia.org/property/imageMap>
+92 $|$ <http://dbpedia.org/property/imageName>
+93 $|$ <http://dbpedia.org/property/imageSeal>
+94 $|$ <http://dbpedia.org/property/imageShield>
+95 $|$ <http://dbpedia.org/property/imageSize>
+96 $|$ <http://dbpedia.org/property/imageSkyline>
+97 $|$ <http://dbpedia.org/property/imperialFirst>
+98 $|$ <http://dbpedia.org/property/janHighF>
+99 $|$ <http://dbpedia.org/property/janLowF>
+100 $|$ <http://dbpedia.org/property/janPrecipitationInch>
+101 $|$ <http://dbpedia.org/property/janRecordHighF>
+102 $|$ <http://dbpedia.org/property/janRecordLowF>
+103 $|$ <http://dbpedia.org/property/julHighF>
+104 $|$ <http://dbpedia.org/property/julLowF>
+105 $|$ <http://dbpedia.org/property/julPrecipitationInch>
+106 $|$ <http://dbpedia.org/property/julRecordHighF>
+107 $|$ <http://dbpedia.org/property/julRecordLowF>
+108 $|$ <http://dbpedia.org/property/junHighF>
+109 $|$ <http://dbpedia.org/property/junLowF>
+110 $|$ <http://dbpedia.org/property/junPrecipitationInch>
+111 $|$ <http://dbpedia.org/property/junRecordHighF>
+112 $|$ <http://dbpedia.org/property/junRecordLowF>
+113 $|$ <http://dbpedia.org/property/latd>
+114 $|$ <http://dbpedia.org/property/latinName>
+115 $|$ <http://dbpedia.org/property/latitude>
+116 $|$ <http://dbpedia.org/property/latm>
+117 $|$ <http://dbpedia.org/property/latns>
+118 $|$ <http://dbpedia.org/property/lats>
+119 $|$ <http://dbpedia.org/property/leaderName>
+120 $|$ <http://dbpedia.org/property/leaderTitle>
+121 $|$ <http://dbpedia.org/property/location>
+122 $|$ <http://dbpedia.org/property/logo>
+123 $|$ <http://dbpedia.org/property/longd>
+124 $|$ <http://dbpedia.org/property/longew>
+125 $|$ <http://dbpedia.org/property/longitude>
+126 $|$ <http://dbpedia.org/property/longm>
+127 $|$ <http://dbpedia.org/property/longs>
+128 $|$ <http://dbpedia.org/property/macMed>
+129 $|$ <http://dbpedia.org/property/mapCaption>
+130 $|$ <http://dbpedia.org/property/mapsize>
+131 $|$ <http://dbpedia.org/property/marHighF>
+132 $|$ <http://dbpedia.org/property/marLowF>
+133 $|$ <http://dbpedia.org/property/marPrecipitationInch>
+134 $|$ <http://dbpedia.org/property/marRecordHighF>
+135 $|$ <http://dbpedia.org/property/marRecordLowF>
+136 $|$ <http://dbpedia.org/property/mascot>
+137 $|$ <http://dbpedia.org/property/mayHighF>
+138 $|$ <http://dbpedia.org/property/mayLowF>
+139 $|$ <http://dbpedia.org/property/mayPrecipitationInch>
+140 $|$ <http://dbpedia.org/property/mayRecordHighF>
+141 $|$ <http://dbpedia.org/property/mayRecordLowF>
+142 $|$ <http://dbpedia.org/property/motto>
+143 $|$ <http://dbpedia.org/property/mottoeng>
+144 $|$ <http://dbpedia.org/property/n>
+145 $|$ <http://dbpedia.org/property/name>
+146 $|$ <http://dbpedia.org/property/namedFor>
+147 $|$ <http://dbpedia.org/property/nickname>
+148 $|$ <http://dbpedia.org/property/north>
+149 $|$ <http://dbpedia.org/property/northwest>
+150 $|$ <http://dbpedia.org/property/novHighF>
+151 $|$ <http://dbpedia.org/property/novLowF>
+152 $|$ <http://dbpedia.org/property/novPrecipitationInch>
+153 $|$ <http://dbpedia.org/property/novRecordHighF>
+154 $|$ <http://dbpedia.org/property/novRecordLowF>
+155 $|$ <http://dbpedia.org/property/octHighF>
+156 $|$ <http://dbpedia.org/property/octLowF>
+157 $|$ <http://dbpedia.org/property/octPrecipitationInch>
+158 $|$ <http://dbpedia.org/property/octRecordHighF>
+159 $|$ <http://dbpedia.org/property/octRecordLowF>
+160 $|$ <http://dbpedia.org/property/office>
+161 $|$ <http://dbpedia.org/property/officialName>
+162 $|$ <http://dbpedia.org/property/order>
+163 $|$ <http://dbpedia.org/property/placeOfBirth>
+164 $|$ <http://dbpedia.org/property/popEstAsOf>
+165 $|$ <http://dbpedia.org/property/populationAsOf>
+167 $|$ <http://dbpedia.org/property/populationBlank1Title>
+168 $|$ <http://dbpedia.org/property/populationBlank2Title>
+166 $|$ <http://dbpedia.org/property/populationBlank>
+169 $|$ <http://dbpedia.org/property/populationDemonym>
+170 $|$ <http://dbpedia.org/property/populationDensityKm>
+171 $|$ <http://dbpedia.org/property/populationDensitySqMi>
+172 $|$ <http://dbpedia.org/property/populationEst>
+173 $|$ <http://dbpedia.org/property/populationMetro>
+174 $|$ <http://dbpedia.org/property/populationTotal>
+175 $|$ <http://dbpedia.org/property/populationUrban>
+176 $|$ <http://dbpedia.org/property/postalCode>
+177 $|$ <http://dbpedia.org/property/postalCodeType>
+178 $|$ <http://dbpedia.org/property/postgrad>
+179 $|$ <http://dbpedia.org/property/predecessor>
+180 $|$ <http://dbpedia.org/property/president>
+181 $|$ <http://dbpedia.org/property/profession>
+182 $|$ <http://dbpedia.org/property/province>
+183 $|$ <http://dbpedia.org/property/pushpinLabelPosition>
+184 $|$ <http://dbpedia.org/property/pushpinMap>
+185 $|$ <http://dbpedia.org/property/pushpinMapCaption>
+186 $|$ <http://dbpedia.org/property/pushpinMapsize>
+187 $|$ <http://dbpedia.org/property/qsW>
+188 $|$ <http://dbpedia.org/property/rescues>
+189 $|$ <http://dbpedia.org/property/residence>
+190 $|$ <http://dbpedia.org/property/s>
+191 $|$ <http://dbpedia.org/property/sepHighF>
+192 $|$ <http://dbpedia.org/property/sepLowF>
+193 $|$ <http://dbpedia.org/property/sepPrecipitationInch>
+194 $|$ <http://dbpedia.org/property/sepRecordHighF>
+195 $|$ <http://dbpedia.org/property/sepRecordLowF>
+1 $|$ <http://dbpedia.org/property/settledDate>
+2 $|$ <http://dbpedia.org/property/settledTitle>
+196 $|$ <http://dbpedia.org/property/settlementType>
+7 $|$ <http://dbpedia.org/property/shieldLink>
+197 $|$ <http://dbpedia.org/property/shieldSize>
+198 $|$ <http://dbpedia.org/property/shortDescription>
+199 $|$ <http://dbpedia.org/property/singleLine>
+200 $|$ <http://dbpedia.org/property/source>
+201 $|$ <http://dbpedia.org/property/south>
+202 $|$ <http://dbpedia.org/property/spouse>
+203 $|$ <http://dbpedia.org/property/staff>
+204 $|$ <http://dbpedia.org/property/staffing>
+205 $|$ <http://dbpedia.org/property/state>
+206 $|$ <http://dbpedia.org/property/stations>
+207 $|$ <http://dbpedia.org/property/strength>
+208 $|$ <http://dbpedia.org/property/students>
+209 $|$ <http://dbpedia.org/property/subdivisionName>
+210 $|$ <http://dbpedia.org/property/subdivisionType>
+211 $|$ <http://dbpedia.org/property/successor>
+212 $|$ <http://dbpedia.org/property/taskForce>
+213 $|$ <http://dbpedia.org/property/termEnd>
+214 $|$ <http://dbpedia.org/property/termStart>
+236 $|$ <http://dbpedia.org/property/thesArthum>
+237 $|$ <http://dbpedia.org/property/thesEngtech>
+238 $|$ <http://dbpedia.org/property/thesHeal>
+239 $|$ <http://dbpedia.org/property/thesLife>
+215 $|$ <http://dbpedia.org/property/thesN>
+240 $|$ <http://dbpedia.org/property/thesPhyssci>
+241 $|$ <http://dbpedia.org/property/thesRch>
+242 $|$ <http://dbpedia.org/property/thesRep>
+243 $|$ <http://dbpedia.org/property/thesSocsci>
+244 $|$ <http://dbpedia.org/property/thesTch>
+216 $|$ <http://dbpedia.org/property/thesW>
+217 $|$ <http://dbpedia.org/property/timezone>
+218 $|$ <http://dbpedia.org/property/timezoneDst>
+219 $|$ <http://dbpedia.org/property/trucks>
+221 $|$ <http://dbpedia.org/property/twin1Country>
+220 $|$ <http://dbpedia.org/property/twin>
+222 $|$ <http://dbpedia.org/property/type>
+223 $|$ <http://dbpedia.org/property/undergrad>
+224 $|$ <http://dbpedia.org/property/uniname>
+225 $|$ <http://dbpedia.org/property/unitPref>
+8 $|$ <http://dbpedia.org/property/university>
+226 $|$ <http://dbpedia.org/property/usnwrNu>
+227 $|$ <http://dbpedia.org/property/utcOffset>
+228 $|$ <http://dbpedia.org/property/utcOffsetDst>
+229 $|$ <http://dbpedia.org/property/v>
+230 $|$ <http://dbpedia.org/property/wamoNu>
+231 $|$ <http://dbpedia.org/property/website>
+232 $|$ <http://dbpedia.org/property/west>
+245 $|$ <http://dbpedia.org/property/wordnet_type>
+233 $|$ <http://dbpedia.org/property/yearRecordHighF>
+234 $|$ <http://dbpedia.org/property/yearRecordLowF>

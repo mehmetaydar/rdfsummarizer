@@ -1,0 +1,1086 @@
+<http://dbpedia.org/resource/David_Naylor> <http://www.w3.org/2000/01/rdf-schema#label> "David Naylor".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://www.w3.org/2000/01/rdf-schema#label> "Tallahassee, Florida".
+<http://dbpedia.org/resource/Toronto> <http://www.w3.org/2000/01/rdf-schema#label> "Toronto".
+<http://dbpedia.org/resource/Virginia> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://www.w3.org/2000/01/rdf-schema#label> "Drew Gilpin Faust".
+<http://dbpedia.org/resource/Lester_Lefton> <http://www.w3.org/2000/01/rdf-schema#label> "Lester Lefton".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://www.w3.org/2000/01/rdf-schema#label> "Patrick Deane (professor)".
+<http://dbpedia.org/resource/British_Columbia> <http://www.w3.org/2000/01/rdf-schema#label> "British Columbia".
+<http://dbpedia.org/resource/California> <http://www.w3.org/2000/01/rdf-schema#label> "California".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://www.w3.org/2000/01/rdf-schema#label> "Cambridge, Massachusetts".
+<http://dbpedia.org/resource/Cleveland> <http://www.w3.org/2000/01/rdf-schema#label> "Cleveland".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/settledTitle> "Settled".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/flagalt> "Navy blue flag with the circular Seal of Virginia centered on it.".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/shieldLink> "Coat of arms of Toronto".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/university> "President of".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/after> "N/A".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/align> "center".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/alt> "Welcome sign at Fort Irwin National Training Center".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/alt> "Beale Air Force Base main gate".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/alt> "Coast Guard Island in the Oakland Estuary".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/alt> "The main gate of Camp Pendleton".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/alt> "Carl Vinson, Nimitz and Ronald Reagan at North Island Naval Air Station".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/alternatename> "(Colombie-Britannique )".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/b> "no".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/b> "no".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://dbpedia.org/property/before> "Constance Rooke".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/beverage> "Wine".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/birthName> "Christopher David Naylor".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/birthName> "Catharine Drew Gilpin".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/birthPlace> "New York City, New York, U.S.".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/blank1Info> "FEUZB".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/blank1Name> "GNIS feature ID".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/blank1Name> "GNBC Code".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/blank1Name> "GNIS feature ID".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/blank1Name> "GNIS feature ID".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/blankName> "NTS Map".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/caption> "Drew Gilpin Faust in 2011".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/caption> "Lefton Photo Taken in 2012".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/center> "Toronto".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/centre> "California: Outline • Index".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/chief> "Patrick Kelly".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/children> "Karline Naylor".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/children> "Max Naylor".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/children> "Melinda Naylor".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/children> "Sam Naylor".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/children> "Jessica Rosenberg".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/children> "Leah Rosenberg".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/coatofarms> "Coat of Arms of British Columbia.png".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/col> "* Eastern California
+** Inland Empire 
+* Southern California
+** South Coast
+*** Los Angeles Metropolitan Area
+*** San Diego metropolitan area
+** Inland Empire
+** Imperial Valley".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/col> "* Central Valley
+* Coastal California
+* Northern California
+** Central California
+** North Coast (California)
+** San Francisco Bay Area
+** Sierra Nevada".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/colors> "Blue & Gold".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/coordinatesDisplay> "inline,title".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/coordinatesDisplay> "display=inline,title".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/coordinatesDisplay> "inline,title".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/coordinatesRegion> "US-FL".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/coordinatesRegion> "CA-ON".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/coordinatesRegion> "US-MA".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/coordinatesRegion> "US-OH".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/date> "February 2012".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/date> "August 2012".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/demonym> "Virginian".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/demonym> "British Columbian".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/demonym> "Californian".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/direction> "horizontal".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/entityadjective> "Provincial".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/establishedTitle> "Established".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/establishedTitle> "Established".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/establishedTitle> "City".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/establishedTitle> "Incorporated".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/establishedTitle> "Settled".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/establishedTitle> "Founded".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/establishedTitle> "Incorporated".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/febRecordLowF> "−2".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/firstresponderblsorals> "First Responder BLS".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/flag> "Flag of Virginia.svg".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/flag> "Flag of British Columbia.svg".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/flag> "Flag of California.svg".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/flagLink> "Flag of Toronto".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/float> "right".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/footer> "United States Armed Forces in California. From left to right: Fort Irwin, Camp Pendleton, NAS North Island, Beale Air Force Base, and Coast Guard Island".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/footerAlign> "center".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/former> "Colony of Virginia".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/former> "California Republic".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/fullname> "Commonwealth of Virginia".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/fullname> "State of California".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/gdpPerCapita> "C$47,579".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/gdpTotal> "C$217.749 billion".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/governor> "Terry McAuliffe".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/governor> "Jerry Brown".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/image> "Fort Irwin National Training Center - Welcome sign - 1.jpg".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/image> "Beale-afb-main-gate-sign.jpg".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/image> "Camp Pendleton front gate.jpg".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/image> "Coast Guard Island May 2009.jpg".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/image> "Three Carriers at NAS North Island.jpg".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageBlankEmblem> "City of Toronto Logo.png".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/imageCaption> "Downtown Tallahassee".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageCaption> "From top left: Downtown Toronto featuring the CN Tower and Financial District from the Toronto Islands, City Hall, the Ontario Legislative Building, Casa Loma, Prince Edward Viaduct, and the Scarborough Bluffs".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/imageCaption> "Clockwise from top left: Christ Church, University Hall at Harvard University, Ray and Maria Stata Center at the Massachusetts Institute of Technology, the Cambridge skyline and the Charles River at night, and Cambridge City Hall.".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/imageFlag> "Flag of Tallahassee, Florida.png".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageFlag> "Toronto Flag.svg".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/imageFlag> "Flag of Cleveland, Ohio.svg".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/imageMap> "Leon County Florida Incorporated and Unincorporated areas Tallahassee Highlighted.svg".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageMap> "Toronto Location in Ontario.png".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/imageMap> "Cambridge ma highlight.png".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/imageMap> "Cleveland-CuyahogaCoOH.png".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/imageSeal> "Seal of Tallahassee, Florida.png".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/imageSeal> "Sealofcambridgema.gif".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/imageSeal> "Cleveland seal-T.png".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageShield> "Toronto Coat of Arms.jpg".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/imageSkyline> "Skyline.png".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageSkyline> "Montage of Toronto 7.jpg".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/imageSkyline> "Cambridge Montage.jpg".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/imageSkyline> "Montage Cleveland 1.jpg".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/imperialFirst> "Y".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/imperialFirst> "Y".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/isocode> "US-VA".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/isocode> "CA-BC".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/isocode> "US-CA".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/landborders> "Canada: Alberta, Northwest Territories, Yukon. U.S.A: Alaska, Idaho, Montana, Washington".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/languages> "English 94.6%, Spanish 5.4%".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/languages> "(As of 2007)
+* English 57.4%
+* Multilingual 32.8%
+** Spanish 28.5%
+** Chinese 2.8%
+** Tagalog 2.2%".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/leaderName> "Frank G. Jackson".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/leaderTitle> "Council".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/leaderTitle> "Deputy Mayor".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/leaderTitle> "Vice Mayor".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/left> "religion".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/legislature> "Legislative Assembly of British Columbia".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/lieutenantGovernor> "Ralph Northam".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/lieutenantGovernor> "Gavin Newsom".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/location> "Tallahassee, Florida , 1981–2010 normals, extremes 1892–present".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/location> "Cambridge, MA".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/lowestelev> "−86.0".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/lowestelevus> "−282".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/lowestpoint> "Badwater Basin in".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/map> "Virginia in United States.svg".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/map> "British Columbia in Canada.svg".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/map> "California in United States.svg".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/mapCaption> "Location in Leon County and the state of Florida".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/mapCaption> "Location of Toronto and its census metropolitan area in the province of Ontario".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/mapCaption> "Location in Middlesex County in Massachusetts".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/mapCaption> "Location in Cuyahoga County".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/mapalt> "Virginia is located on the Atlantic coast along the line that divides the Northern and Southern halves of the United States. It runs mostly east to west. It includes a small peninsula across a bay which is discontinuous with the rest of the state.".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/medianhouseholdincome> "US$61,021".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/motto> ""Florida's Capital City"".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/motto> "Diversity Our Strength".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/motto> ""Literis Antiquis Novis Institutis Decora."  It can be translated as: "Distinguished for Classical Learning and New Institutions."".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/motto> "Progress & Prosperity".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/mottoenglish> "I have found it".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/n> "no".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/n> "Portal:Toronto, Ontario".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/name> "David Naylor".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/name> "Naylor, David".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/name> "Tallahassee, Florida".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/name> "Toronto".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/name> "Virginia".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/name> "Drew Gilpin Faust".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/name> "Faust, Drew Gilpin".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/name> "Lester Lefton".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/name> "Lefton, Lester".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://dbpedia.org/property/name> "Patrick Deane".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://dbpedia.org/property/name> "Deane, Patrick".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/name> "British Columbia".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/name> "California".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/name> "Cleveland".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/name> "Cleveland Division of Fire".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://dbpedia.org/property/nationality> "South African".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/nickname> ""Tally"".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/nickname> "Old Dominion; Mother of Presidents; Mother of States".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/nickname> "The Golden State".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/northwest> "Pacific Ocean".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/office> "President of the University of Toronto".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/office> "President of Harvard University".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://dbpedia.org/property/office> "Acting President of the University of Winnipeg".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/officialName> "City of Tallahassee".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/officialName> "City of Toronto".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/officialName> "Cambridge, Massachusetts".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/officialName> "City of Cleveland".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/officiallang> "English".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/officiallang> "English".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/placeOfBirth> "New York, New York".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationBlank> "Clevelander".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/populationDemonym> "Torontonian".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/postalCodeType> "Postal code span".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/postalCodeType> "ZIP code".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/postalabbreviation> "VA".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/postalabbreviation> "BC".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/postalabbreviation> "CA".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/precipitationColour> "green".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/predecessor> "(Frank Iacobucci )".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/predecessor> "(Vivek Goel )".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://dbpedia.org/property/predecessor> "Constance Rooke".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/profession> "Educator".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/pushpinMap> "Canada".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/pushpinMapCaption> "Location of Toronto in Canada".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/q> "no".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/residence> "Cambridge, Massachusetts, U.S.".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/right> "percent".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/routeMarker> "California 1.svg".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/s> "no".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/s> "no".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/seal> "Seal of Virginia.svg".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/seal> "Seal of California.svg".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/settlementType> "City".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/settlementType> "City".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/shortDescription> "Canadian physician".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/property/shortDescription> "American historian, president of Harvard University".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/shortDescription> "American psychologist".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/singleLine> "Y".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/singleLine> "Y".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/song> ""I Love You, California"".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/source> "NOAA".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/south> "Lake Ontario".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/southwest> "/ Pacific Ocean".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/spouse> "Ilse Treurnicht".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/spouse> "Linda Lefton".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/state> "expanded".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/subdivisionName> "Leon".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionType> "Country".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/subdivisionType> "Country".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/subdivisionType> "State".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/successor> "incumbent".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/termEnd> "October, 2013".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/timezone> "Mountain  UTC−8 & −7".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/timezone> "PDT".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/timezone> "PST".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/title> "Articles Relating to Tallahassee and Leon County".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/title> "The Old Dominion".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/title> "Topics related to Virginia".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://dbpedia.org/property/title> "President and Vice-Chancellor of McMaster University".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://dbpedia.org/property/title> "President of University of Winnipeg".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/title> "Religion in California".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/titlebar> "#ddd".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/totalType> "City".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/tradabbreviation> "Calif., Cali.,".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/type> "section".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/tz1where> "Standard time".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/tz2where> "Summer time".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/unitPref> "US".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/unitPref> "Metric".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/property/unitPref> "Imperial".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/v> "no".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/v> "no".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/viceroytype> "Lieutenant Governor".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/voy> "Tallahassee".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/website> "www.virginia.gov".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/property/website> "www.gov.bc.ca".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/property/west> "Pacific Ocean".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/wikt> "no".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/property/yearRecordLowF> "−2".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/property/sealalt> "A circular seal with the words "Virginia" on the top and "Sic Semper Tyrannis" on the bottom. In the center, a woman wearing a blue toga and Athenian helmet stands on the chest of dead man wearing a purple breastplate and skirt. The woman holds a spear and sheathed sword. The man holds a broken chain while his crown lies away from the figures. Orange leaves encircle the seal.".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/ontology/abstract> "Christopher David Naylor, OC FRCPC FRSC (born October 26, 1954) is a Canadian physician, medical researcher and former president of the University of Toronto.".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/ontology/abstract> "Tallahassee /ˌtæləˈhæsi/ is the capital of the U.S. state of Florida. It is the county seat and only incorporated municipality in Leon County, and is the 125th largest city in the United States. Tallahassee became the capital of Florida, then the Florida Territory, in 1824. In 2010, the population recorded by the U.S. Census Bureau was 181,376, and the Tallahassee metropolitan area is 375,371 as of 2012.Tallahassee is a college town with two public universities: Florida State University, a large research university, and Florida A&M University, the country's largest historically black university. It is also home to Tallahassee Community College, and branches of several other institutions.Tallahassee is a center for trade and agriculture in the Florida Panhandle and is served by Tallahassee Regional Airport. With one of the fastest growing manufacturing and high tech economies in Florida, its major private employers include a General Dynamics Land Systems manufacturing facility (military and combat applications), the Municipal Code Corporation, which specializes in the publication of county legal references; and a number of national law firms, lobbying organizations, trade associations and professional associations, including the Florida Bar and the Florida Chamber of Commerce. It is recognized as a regional center for scientific research, and is home to the National High Magnetic Field Laboratory, the largest and highest-powered magnet research laboratory in the world.".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/ontology/abstract> "Toronto (/tɵˈrɒntoʊ/, local /ˈtrɒnoʊ/) is the most populous city in Canada and the provincial capital of Ontario. It is located in Southern Ontario on the northwestern shore of Lake Ontario. The history of Toronto began in the late 18th century when the British Crown purchased its land from the Mississaugas of the New Credit. The settlement established there became York, which lieutenant governor John Graves Simcoe designated as the capital of Upper Canada. The city was ransacked in the Battle of York during the War of 1812. In 1834, York became a city and renamed Toronto. It was damaged in two huge fires in 1849 and 1904. Since 1954, the city occasionally expanded its borders through amalgamation with surrounding municipalities, most recently occurring in 1998.According to the 2011 Census, the city has 2.6 million residents, making it the fifth-most populous city in North America. However, in 2012, the municipal government published a population estimate of 2,791,140, which led to media reports claiming Toronto as the fourth most populous city in North America and the most populous Great Lakes city, surpassing Chicago. The census metropolitan area (CMA) had a population of 5,583,064, and the Greater Toronto Area (GTA) had a population of 6,054,191 in the 2011 Census. Toronto is at the heart of the Greater Toronto Area, and of the densely populated region in Southern Ontario known as the Golden Horseshoe. Its cosmopolitan and international population reflects its role as an important destination for immigrants to Canada. Toronto is one of the world's most diverse cities by percentage of non-native-born residents, with about 49% of the population born outside Canada.As Canada's commercial capital, it is home to the Toronto Stock Exchange and the five largest banks in the nation. Leading economic sectors in the city include finance, business services, telecommunications, aerospace, transportation, media, arts, publishing, software production, medical research, education, tourism, and engineering. Toronto is considered an alpha world city by the Globalization and World Cities (GaWC) study group. The city is also consistently rated as one of the world's most livable cities by the Economist Intelligence Unit and the Mercer Quality of Living Survey.".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/ontology/abstract> "Virginia (/vərˈdʒɪnjə/), officially the Commonwealth of Virginia, is a U.S. state located in the South Atlantic region of the United States. Virginia is nicknamed the "Old Dominion" due to its status as a former dominion of the English Crown, and "Mother of Presidents" due to the most U.S. presidents having been born there. The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which provide habitat for much of its flora and fauna. The capital of the Commonwealth is Richmond; Virginia Beach is the most populous city, and Fairfax County is the most populous political subdivision. The Commonwealth's estimated population as of 2013 is over 8.2 million.The area's history begins with several indigenous groups, including the Powhatan. In 1607 the London Company established the Colony of Virginia as the first permanent New World English colony. Slave labor and the land acquired from displaced Native American tribes each played a significant role in the colony's early politics and plantation economy. Virginia was one of the 13 Colonies in the American Revolution and joined the Confederacy in the American Civil War, during which Richmond was made the Confederate capital and Virginia's northwestern counties seceded to form the state of West Virginia. Although the Commonwealth was under single-party rule for nearly a century following Reconstruction, both major national parties are competitive in modern Virginia.The Virginia General Assembly is the oldest continuous law-making body in the New World. The state government has been repeatedly ranked most effective by the Pew Center on the States. It is unique in how it treats cities and counties equally, manages local roads, and prohibits its governors from serving consecutive terms. Virginia's economy has many sectors: agriculture in the Shenandoah Valley; federal agencies in Northern Virginia, including the headquarters of the Department of Defense and CIA; and military facilities in Hampton Roads, the site of the region's main seaport. Virginia's economy transitioned from primarily agricultural to industrial during the 1960s and 1970s, and in 2002 computer chips became the state's leading export.".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://dbpedia.org/ontology/abstract> "Catharine Drew Gilpin Faust (born September 18, 1947)is an American historian, college administrator and the President of Harvard University. Faust is the first woman to serve as Harvard's president and the university's 28th president overall. Faust is the fifth woman to serve as president of an Ivy League university and is the former dean of the Radcliffe Institute for Advanced Study. Faust is also Harvard's first president since 1672 without an undergraduate or graduate degree from Harvard.".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/ontology/abstract> "Lester A. Lefton is an American academic and higher education administrator. He was the President of Kent State University (2006–2014). He has 35 years of experience in higher education, having served for 25 years at a public institution and nine at private institutions. During his career, he has been a psychology professor, dean and provost, as well as a psychology textbook author.Born in Brookline, Massachusetts, Lefton completed his bachelor's in psychology from Northeastern University in Boston in 1969. He earned his doctorate in experimental psychology, specializing in visual perception and focusing on cognitive psychology in 1974 from the University of Rochester, where he held a U.S. Public Health Service Predoctoral Fellowship.".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://dbpedia.org/ontology/abstract> "Patrick Deane (born December 9, 1956) is the seventh and current president and vice-chancellor of McMaster University.Born in 1956 and raised in South Africa, he studied English and law at the University of Witwatersrand. In 1978, he emigrated to Canada, studying English literature at the University of Western Ontario. There he would earn his M.A. in 1980 and a Ph.D in 1985. From 1984-84, Deane was also a Queen Elizabeth II Scholar.Deane's professional career began in 1986, working as a faculty member of the University of Toronto's Department of English. He would however return to Western in 1988, when the university's Department of English extended an invitation for him to teach there. Deane had eventually became the vice-chair of the department in 1993, and the chair of the department in 1997. In 2001, Deane had accepted a position with the University of Winnipeg as their Vice-President (Academic). During his time at Winnipeg, he was also the chief officer of the Inter-Universities North. In 2002, with the resignation of the university's president, Deane was made the acting-president of the university in 2003. During his tenure as acting-president, Deane oversaw the elimination of the university's large accumulated debt, without the cancellation of any programs or loss of jobs. Deane eventually handed over the presidency to Lloyd Axworthy, and was appointed as provost at the university. In 2005, Deane accepted a position at Queen's University as the Vice-Principal of Academics of the university, providing academic leadership to all seven faculties and schools, the Office of the Registrar, Institutional Planning and Analysis, and Student Affairs.Deane's appointment as the next President of McMaster University was announced on October 15, 2009, following the approval of the University's Board of Governors. On July 1, 2010, Deane assumed the role as McMaster's President and he was formally installed at the University's fall convocation ceremony on November 19, 2010.".
+<http://dbpedia.org/resource/British_Columbia> <http://dbpedia.org/ontology/abstract> "British Columbia /ˌbrɪtɪʃ kəˈlʌmbiə/, also commonly referred to by its initials BC or B.C., (French: Colombie-Britannique, C.-B.) is a province located on the West Coast of Canada. British Columbia is also a component of the Pacific Northwest, along with the U.S. states of Oregon and Washington. The province's name was chosen by Queen Victoria in 1858, reflecting its origins as the British remainder of the Columbia District of the Hudson's Bay Company. In 1871, it became the sixth province of Canada. Its Latin motto is Splendor sine occasu ("Splendour without Diminishment").The capital of British Columbia is Victoria, the 15th largest metropolitan region in Canada, named for the Queen that created the Colony of British Columbia. The largest city is Vancouver, the third-largest metropolitan area in Canada, the largest in Western Canada, and the second largest in the Pacific Northwest. In October 2013, British Columbia had an estimated population of 4,606,371 (about two and a half million of whom were in Greater Vancouver). The province is currently governed by the BC Liberal Party, led by Premier Christy Clark, who became leader as a result of the party election on February 26, 2011 and who led her party to an election victory on May 14, 2013.British Columbia's economy is largely resource-based. It is the endpoint of transcontinental railways and the site of major Pacific ports, which enable international trade. Though less than five percent of its vast 944,735 km2 (364,764 sq mi) land is arable, the province is agriculturally rich (particularly in the Fraser and Okanagan Valleys) because of its mild weather. Its climate encourages outdoor recreation and tourism, though its economic mainstay has long been resource extraction, principally logging, farming, and mining. Vancouver, the province's largest city and metropolitan area, also serves as the headquarters of many of the Western-based natural resource companies. It also benefits from a strong housing market and a per-capita income well above the national average. While the coast of BC and certain valleys in the south-central part of the province have mild weather, the majority of BC's land mass experiences a cold winter temperate climate similar to the rest of Canada. The Northeast corner of BC has a Subarctic climate with very cold winters.".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/ontology/abstract> "California (/ˌkælɨˈfɔrnjə/) is a state located on the West Coast of the United States. It is the most populous U.S. state, home to one out of eight Americans (38 million people), and is the third largest state by area (after Alaska and Texas). California is bordered by Oregon to the north, Nevada to the east, Arizona to the southeast, and the Mexican State of Baja California to the south. It is home to the nation's second and fifth most populous census statistical areas (Greater Los Angeles area and San Francisco Bay Area, respectively), and eight of the nation's 50 most populated cities (Los Angeles, San Diego, San Jose, San Francisco, Fresno, Sacramento, Long Beach, and Oakland). Sacramento is the state capital.What is now California was first settled by various Native American tribes before being explored by a number of European expeditions throughout the 16th and 17th centuries. It was then claimed by the Spanish Empire as part of Alta California in the larger territory of New Spain. Alta California became a part of Mexico in 1821 following its successful war for independence, but would later be ceded to the United States in 1848 after the Mexican-American War. The western portion of Alta California was soon organized as the State of California, which was admitted as the 31st state on September 9, 1850. The California Gold Rush starting in 1848 led to dramatic social and demographic change, with large-scale immigration from the U.S. and abroad and an accompanying economic boom.California's diverse geography ranges from the Pacific Coast in the west, to the Sierra Nevada in the east – from the Redwood–Douglas-fir forests of the northwest, to the Mojave Desert areas in the southeast. The center of the state is dominated by the Central Valley, a major agricultural area. California contains both the highest and lowest points in the contiguous United States (Mount Whitney and Death Valley), and has the 3rd longest coastline of all states (after Alaska and Florida). Earthquakes are a common occurrence because of the state's location along the Pacific Ring of Fire: about 37,000 are recorded annually, but most are too small to feel.At least half of the fresh fruit produced in the United States are now cultivated in California, and the state also leads in the production of vegetables. Other important contributors to its economy include aerospace, education, manufacturing, and high-tech industry. If it were a country, it would be the 9th largest economy in the world and the 34th most populous.".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/ontology/abstract> "Cambridge is a city in Middlesex County, Massachusetts, United States, situated directly north of Boston, across the Charles River. It was named in honor of the University of Cambridge in England, an important center of the Puritan theology embraced by the town's founders. Cambridge is home to two of the world's most prominent universities, Harvard University and the Massachusetts Institute of Technology. Cambridge has also been home to Radcliffe College, once one of the leading colleges for women in the United States before it merged with Harvard. According to the 2010 Census, the city's population was 105,162. It is the fifth most populous city in the state, behind Boston, Worcester, Springfield, and Lowell. Cambridge was one of the two seats of Middlesex County prior to the abolition of county government in 1997; Lowell was the other.".
+<http://dbpedia.org/resource/David_Naylor> <http://purl.org/dc/elements/1.1/description> "Canadian physician".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://purl.org/dc/elements/1.1/description> "American historian, president of Harvard University".
+<http://dbpedia.org/resource/Lester_Lefton> <http://purl.org/dc/elements/1.1/description> "American psychologist".
+<http://dbpedia.org/resource/David_Naylor> <http://xmlns.com/foaf/0.1/givenName> "David".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://xmlns.com/foaf/0.1/givenName> "Drew Gilpin".
+<http://dbpedia.org/resource/Lester_Lefton> <http://xmlns.com/foaf/0.1/givenName> "Lester".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://xmlns.com/foaf/0.1/givenName> "Patrick".
+<http://dbpedia.org/resource/David_Naylor> <http://xmlns.com/foaf/0.1/name> "David Naylor".
+<http://dbpedia.org/resource/David_Naylor> <http://xmlns.com/foaf/0.1/name> "Naylor, David".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://xmlns.com/foaf/0.1/name> "Tallahassee, Florida".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://xmlns.com/foaf/0.1/name> "City of Tallahassee".
+<http://dbpedia.org/resource/Toronto> <http://xmlns.com/foaf/0.1/name> "Toronto".
+<http://dbpedia.org/resource/Toronto> <http://xmlns.com/foaf/0.1/name> "City of Toronto".
+<http://dbpedia.org/resource/Virginia> <http://xmlns.com/foaf/0.1/name> "Commonwealth of Virginia".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://xmlns.com/foaf/0.1/name> "Drew Gilpin Faust".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://xmlns.com/foaf/0.1/name> "Faust, Drew Gilpin".
+<http://dbpedia.org/resource/Lester_Lefton> <http://xmlns.com/foaf/0.1/name> "Lester Lefton".
+<http://dbpedia.org/resource/Lester_Lefton> <http://xmlns.com/foaf/0.1/name> "Lefton, Lester".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://xmlns.com/foaf/0.1/name> "Patrick Deane".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://xmlns.com/foaf/0.1/name> "Deane, Patrick".
+<http://dbpedia.org/resource/California> <http://xmlns.com/foaf/0.1/name> "State of California".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://xmlns.com/foaf/0.1/name> "Cambridge, Massachusetts".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://xmlns.com/foaf/0.1/nick> ""Tally"".
+<http://dbpedia.org/resource/Toronto> <http://xmlns.com/foaf/0.1/nick> "T.O., T-Dot, Hogtown, The Queen City, Toronto the Good, The City Within a Park".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://dbpedia.org/ontology/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/ontology/leaderTitle> "Council".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/ontology/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/ontology/leaderTitle> "Deputy Mayor".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/ontology/leaderTitle> "MPPs".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/ontology/leaderTitle> "MPs".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/ontology/leaderTitle> "City Manager".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/ontology/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://dbpedia.org/ontology/leaderTitle> "Vice Mayor".
+<http://dbpedia.org/resource/Virginia> <http://dbpedia.org/ontology/demonym> "Virginian".
+<http://dbpedia.org/resource/California> <http://dbpedia.org/ontology/demonym> "Californian".
+<http://dbpedia.org/resource/David_Naylor> <http://www.w3.org/2000/01/rdf-schema#comment> "Christopher David Naylor, OC FRCPC FRSC (born October 26, 1954) is a Canadian physician, medical researcher and former president of the University of Toronto.".
+<http://dbpedia.org/resource/Tallahassee,_Florida> <http://www.w3.org/2000/01/rdf-schema#comment> "Tallahassee /ˌtæləˈhæsi/ is the capital of the U.S. state of Florida. It is the county seat and only incorporated municipality in Leon County, and is the 125th largest city in the United States. Tallahassee became the capital of Florida, then the Florida Territory, in 1824. In 2010, the population recorded by the U.S.".
+<http://dbpedia.org/resource/Toronto> <http://www.w3.org/2000/01/rdf-schema#comment> "Toronto (/tɵˈrɒntoʊ/, local /ˈtrɒnoʊ/) is the most populous city in Canada and the provincial capital of Ontario. It is located in Southern Ontario on the northwestern shore of Lake Ontario. The history of Toronto began in the late 18th century when the British Crown purchased its land from the Mississaugas of the New Credit. The settlement established there became York, which lieutenant governor John Graves Simcoe designated as the capital of Upper Canada.".
+<http://dbpedia.org/resource/Virginia> <http://www.w3.org/2000/01/rdf-schema#comment> "Virginia (/vərˈdʒɪnjə/), officially the Commonwealth of Virginia, is a U.S. state located in the South Atlantic region of the United States. Virginia is nicknamed the "Old Dominion" due to its status as a former dominion of the English Crown, and "Mother of Presidents" due to the most U.S. presidents having been born there. The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which provide habitat for much of its flora and fauna.".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://www.w3.org/2000/01/rdf-schema#comment> "Catharine Drew Gilpin Faust (born September 18, 1947)is an American historian, college administrator and the President of Harvard University. Faust is the first woman to serve as Harvard's president and the university's 28th president overall. Faust is the fifth woman to serve as president of an Ivy League university and is the former dean of the Radcliffe Institute for Advanced Study. Faust is also Harvard's first president since 1672 without an undergraduate or graduate degree from Harvard.".
+<http://dbpedia.org/resource/Lester_Lefton> <http://www.w3.org/2000/01/rdf-schema#comment> "Lester A. Lefton is an American academic and higher education administrator. He was the President of Kent State University (2006–2014). He has 35 years of experience in higher education, having served for 25 years at a public institution and nine at private institutions.".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://www.w3.org/2000/01/rdf-schema#comment> "Patrick Deane (born December 9, 1956) is the seventh and current president and vice-chancellor of McMaster University.Born in 1956 and raised in South Africa, he studied English and law at the University of Witwatersrand. In 1978, he emigrated to Canada, studying English literature at the University of Western Ontario. There he would earn his M.A. in 1980 and a Ph.D in 1985.".
+<http://dbpedia.org/resource/British_Columbia> <http://www.w3.org/2000/01/rdf-schema#comment> "British Columbia /ˌbrɪtɪʃ kəˈlʌmbiə/, also commonly referred to by its initials BC or B.C., (French: Colombie-Britannique, C.-B.) is a province located on the West Coast of Canada. British Columbia is also a component of the Pacific Northwest, along with the U.S. states of Oregon and Washington. The province's name was chosen by Queen Victoria in 1858, reflecting its origins as the British remainder of the Columbia District of the Hudson's Bay Company.".
+<http://dbpedia.org/resource/California> <http://www.w3.org/2000/01/rdf-schema#comment> "California (/ˌkælɨˈfɔrnjə/) is a state located on the West Coast of the United States. It is the most populous U.S. state, home to one out of eight Americans (38 million people), and is the third largest state by area (after Alaska and Texas). California is bordered by Oregon to the north, Nevada to the east, Arizona to the southeast, and the Mexican State of Baja California to the south.".
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> <http://www.w3.org/2000/01/rdf-schema#comment> "Cambridge is a city in Middlesex County, Massachusetts, United States, situated directly north of Boston, across the Charles River. It was named in honor of the University of Cambridge in England, an important center of the Puritan theology embraced by the town's founders. Cambridge is home to two of the world's most prominent universities, Harvard University and the Massachusetts Institute of Technology.".
+<http://dbpedia.org/resource/David_Naylor> <http://xmlns.com/foaf/0.1/surname> "Naylor".
+<http://dbpedia.org/resource/Drew_Gilpin_Faust> <http://xmlns.com/foaf/0.1/surname> "Faust".
+<http://dbpedia.org/resource/Lester_Lefton> <http://xmlns.com/foaf/0.1/surname> "Lefton".
+<http://dbpedia.org/resource/Patrick_Deane_(professor)> <http://xmlns.com/foaf/0.1/surname> "Deane".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://www.w3.org/2000/01/rdf-schema#label> "Hamilton, Ontario".
+<http://dbpedia.org/resource/Kent_State_University> <http://www.w3.org/2000/01/rdf-schema#label> "Kent State University".
+<http://dbpedia.org/resource/New_Jersey> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey".
+<http://dbpedia.org/resource/Ohio> <http://www.w3.org/2000/01/rdf-schema#label> "Ohio".
+<http://dbpedia.org/resource/Ontario> <http://www.w3.org/2000/01/rdf-schema#label> "Ontario".
+<http://dbpedia.org/resource/Princeton_University> <http://www.w3.org/2000/01/rdf-schema#label> "Princeton University".
+<http://dbpedia.org/resource/Stanford_University> <http://www.w3.org/2000/01/rdf-schema#label> "Stanford University".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://www.w3.org/2000/01/rdf-schema#label> "Princeton, New Jersey".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://www.w3.org/2000/01/rdf-schema#label> "Blacksburg, Virginia".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/admittanceorder> "declared retroactively on".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/animal> "Horse".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/beverage> "None".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/blank1Name> "GNIS feature ID".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/blank1Name> "GNIS feature ID".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/calendar> "Semester".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/calendar> "Quarter".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/campus> "Suburban,".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/campus> "Suburban, ref|It is often claimed that Stanford has the largest contiguous campus in the world (or the United States) but that depends on definitions.  Berry College with over , Paul Smith's College with , and the United States Air Force Academy with  are larger but are not usually classified as universities.  Duke University at  does have more land, but it is not contiguous. However the University of the South has over .
+|name="noteLargest"|group=note".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/capital> "Trenton".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/caption> "Seal of Stanford University".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/centre> "Hamilton".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/centre> "New Jersey: Outline • Index".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/centre> "Ohio: Outline • Index".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/coatofarms> "Coat of Arms of Ontario.png".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/colors> "Kent State Blue and Kent State Gold".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/colors> "Buff and Blue".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/colors> "Orange and black".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/colors> "Cardinal and white".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/coordinatesDisplay> "inline,title".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/coordinatesDisplay> "inline,title".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/coordinatesDisplay> "inline,title".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/coordinatesRegion> "CA-ON".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/coordinatesRegion> "US-NJ".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/coordinatesRegion> "US-VA".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/coordinatesType> "region:US_type:city".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/country> "United States".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/country> "U.S.".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/dance> "None".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/date> "April 2013".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/date> "December 2011".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/decRecordLowF> "−6".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/demonym> "New Jerseyan , New Jerseyite".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/demonym> "Ohioan; Buckeye".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/demonym> "Ontarian".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/east> "Atlantic Ocean".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/entityadjective> "Provincial".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/establishedTitle> "Founded".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/febRecordLowF> "−8".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/filename> "Old Nassau.ogg".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/flag> "Flag of New Jersey.svg".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/flag> "Flag of Ohio.svg".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/flag> "Flag of Ontario.svg".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/flagLink> "Flag of Hamilton, Ontario".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/former> "Province of New Jersey".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/formerNames> "College of New Jersey".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/fossil> "Isotelus maximus, a trilobite".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/free> "The Stanford Daily".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/freeLabel> "Newspaper".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/fullname> "State of New Jersey".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/fullname> "State of Ohio".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/gdpPerCapita> "C$48,971".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/gdpTotal> "C$654.561 billion".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/gemstone> "None".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/gemstone> "Ohio Flint".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/governor> "Chris Christie".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/grass> "None".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/imageCaption> "Skyline of downtown Hamilton".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/imageCaption> "A view of downtown Blacksburg".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/imageFlag> "Flag of Hamilton.svg".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/imageMap> "Map of Ontario HAMILTON.svg".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/imageMap> "Census Bureau map of Princeton Township, New Jersey.gif".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/imageMap> "Map of Mercer County highlighting Princeton.jpg".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/imageMap> "Map of USA VA.svg".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/imageMap> "VAMap-doton-Blacksburg.PNG".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/imageName> "Stanford University seal 2003.svg".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/imageShield> "Hamilton Coat of Arms.PNG".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/imageSkyline> "HamiltonOntarioSkylineC.JPG".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/imageSkyline> "Blacksburg-downtown-mainst.jpg".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/imperialFirst> "Y".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/imperialFirst> "Y".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/isocode> "US-NJ".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/isocode> "US-OH".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/isocode> "CA-ON".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/janRecordLowF> "−16".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/labelMap> "no".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/languages> "English  71.3%".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/languages> "Other 14.1%".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/languages> "Spanish 14.6%".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/languages> "English 93.3%".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/languages> "Other 4.5%".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/languages> "Spanish 2.2%".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/largestcity> "capital".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/largestcity> "Toronto".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/latinName> "Universitas Princetoniensis".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/leaderName> "Linda McDermott".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/leaderName> "Liz Lempert".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/leaderName> "Robert W. Bruschi".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/leaderName> "Ron Rordam".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/legislature> "Legislative Assembly of Ontario".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/location> "Princeton, NJ".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/location> "Blacksburg, Virginia".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/logo> "Ontario logo.jpg".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/lowestpoint> "Atlantic Ocean".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/lowestpoint> "Ohio River at".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/map> "New Jersey in United States.svg".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/map> "Ohio in United States.svg".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/map> "Ontario in Canada.svg".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/mapCaption> "Location in the province of Ontario, Canada".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/mapCaption> "Census Bureau map of the former Princeton Township , New Jersey".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/mapCaption> "Princeton highlighted in Mercer County. Inset map: Mercer County highlighted in the State of New Jersey.".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/mapCaption> "Blacksburg's location within Virginia".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/mapCaption> "Virginia's location within the United States".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/marineFish> "None".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/marineMammal> "None".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/mascot> "Flash the Golden Eagle".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/mineral> "None".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/motto> "Together Aspire – Together Achieve".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/motto> "Excellence In Action".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/motto> "Liberty and prosperity".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/motto> ""With God all things are possible."".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/motto> "Ut Incepit Fidelis Sic Permanet".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/mottoeng> "Under God's Power She Flourishes".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/mottoeng> "The wind of freedom blows".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/name> "Hamilton".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/name> "Kent State University".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/name> "New Jersey".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/name> "Ohio".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/name> "Ontario".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/name> "Princeton University".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/name> "Stanford University".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/name> "Princeton, New Jersey".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/nativeName> "Leland Stanford Junior University".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/nickname> "Ambitious City, Steeltown, The Hammer".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/nickname> "The Garden State".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/nickname> "Birthplace of Aviation; The Heart of It All".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/nickname> "The Buckeye State; The Mother of Presidents;".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/nickname> "Tigers".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/north> "•  Lake Erie".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/northeast> "Lake Ontario".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/officialName> "City of Hamilton".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/officialName> "Princeton".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/officialName> "Blacksburg, Virginia".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/officiallang> "None".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/officiallang> "None".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/officiallang> "De facto: English".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/officiallang> "De jure: None".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/officiallang> "English".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/other> "Fruit: Pawpaw".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/other> "Wild flower: Great white trillium".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/populationBlank> "Hamiltonian".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/populationDemonym> "Princetonian".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/populationDensityKm> "auto".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/populationDensitySqMi> "auto".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/postalCode> "L0R, L8E to L8W, L9A to L9C, L9G to L9H, L9K".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/postalCodeType> "Postal code span".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/postalCodeType> "ZIP codes".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/postalCodeType> "ZIP codes".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/postalabbreviation> "NJ".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/postalabbreviation> "OH".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/postalabbreviation> "ON".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/precipitationColour> "green".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/pushpinLabelPosition> "right".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/pushpinMap> "USA Ohio".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/pushpinMapCaption> "Location in Ohio".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/reason> "need to specify a number. If not here, then in demographics or economy".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/reptile> "None".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/rock> "None".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/routeMarker> "Ellipse sign 33.svg".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/routeMarker> "OH-2.svg".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/seal> "Seal of New Jersey.svg".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/seal> "Seal_of_New_Jersey.svg".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/seal> "Seal of Ohio.svg".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/settlementType> "City".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/singleLine> "Y".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/singleLine> "Y".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/slogan> "So Much to Discover".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/small> "yes".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/soil> "Honeoye".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/song> "None".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/song> ""Beautiful Ohio"".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/song> ""Hang On Sloopy"".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/source> "Weather Channel".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/source> "Homefacts.com".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/source> "NOAA".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/south> "•".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/staffing> "Career".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/state> "expanded".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/state> "New Jersey".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/state> "autocollapse".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/state> "California".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/state> "autocollapse".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/subdivisionName> "United States".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/subdivisionName> "United States".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/subdivisionType> "Country".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/tartan> "None".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/timezone> "Central: UTC-6/-5".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/timezone> "Eastern: UTC-5".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/timezone> "Eastern: UTC-5/-4".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/title> "The Buckeye State".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/title> "Topics related to Ohio".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/title> "Links to related articles".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/title> "Old Nassau".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/title> "Links to related articles".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/title> "Capital of the United States of America".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/property/titlestyle> "background:black;color:#FF6600".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/property/titlestyle> "background:#FFFFFF;color:#8C1515;border:1px solid #8C1515;".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/tradabbreviation> "N.J.".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/unitPref> "Imperial".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/unitPref> "Imperial".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/property/unitPref> "Imperial".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/utcOffset> "−5".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/utcOffset> "−5".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/utcOffsetDst> "−4".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/property/utcOffsetDst> "−4".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/viceroytype> "Lieutenant Governor".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/website> "www.nj.gov".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/property/website> "www.ohio.gov".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/property/website> "www.ontario.ca".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/property/wildflower> "None".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/property/yearRecordLowF> "−16".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/ontology/abstract> "Cleveland /ˈkliːvlənd/ is a city in the U.S. state of Ohio and is the county seat of Cuyahoga County, the most populous county in the state. The city is located in northeastern Ohio on the southern shore of Lake Erie, approximately 60 miles (97 km) west of the Pennsylvania border. It was founded in 1796 near the mouth of the Cuyahoga River, and became a manufacturing center owing to its location on the lake shore, as well as being connected to numerous canals and railroad lines. Cleveland's economy has diversified sectors that include manufacturing, financial services, healthcare, and biomedical. Cleveland is home to the Rock and Roll Hall of Fame.As of the 2010 Census, the city proper had a total population of 396,815, making Cleveland the 45th largest city in the United States, and the second largest city in Ohio after Columbus. Greater Cleveland, the Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area, ranked 28th largest in the United States with 2,068,283 people in 2011. Cleveland is part of the larger Cleveland-Akron-Canton, OH Combined Statistical Area, which in 2013 had a population of 3,501,538, and ranked as the country's 15th largest CSA.Residents of Cleveland are called "Clevelanders". Nicknames for the city include "The Forest City", "Metropolis of the Western Reserve", "The Rock and Roll Capital of the World", "C-Town", "The Cleve", and the more historical "Sixth City". Due to Lake Erie’s proximity to the city, the Cleveland area is sometimes locally referred to as "The North Coast".".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/ontology/abstract> "Hamilton (/ˈhæməltən/; 2011 population 519,949; UA population 670,580; CMA population 721,053) is a port city in the Canadian province of Ontario. Conceived by George Hamilton when he purchased the Durand farm shortly after the War of 1812, Hamilton has become the centre of a densely populated and industrialized region at the west end of Lake Ontario known as the Golden Horseshoe. On January 1, 2001, the new City of Hamilton was formed through the amalgamation of the former city and the other constituent lower-tier municipalities of the Regional Municipality of Hamilton-Wentworth with the upper-tier regional government. Residents of the old city are known as Hamiltonians. Since 1981, the metropolitan area has been listed as the ninth largest in Canada and the third largest in Ontario.Hamilton is home to the shared Royal Botanical Gardens, the Canadian Warplane Heritage Museum, the Bruce Trail, McMaster University and Mohawk College. The Canadian Football Hall of Fame can be found downtown right beside Hamilton City Hall and across town to the east, the Canadian Football League's Hamilton Tiger-Cats will begin playing at the new Tim Hortons Field in 2014, which is being built as part of the 2015 Pan American Games.Partly because of its diverse environment, numerous TV and film productions have been filmed in Hamilton, regulated by the Hamilton Film and Television Office. A growing arts and culture sector garnered media attention in a 2006 Globe and Mail news article, entitled "Go West, Young Artist," which focused on the growing art scene in Hamilton. The article highlighted local art galleries, recording studios and independent film production.".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/ontology/abstract> "Kent State University (also known as Kent, Kent State, and KSU) is a public research university located in Kent, Ohio, United States. The university has eight campuses around the Northeast Ohio region with the main campus in Kent being the largest. Other campuses are located in Ashtabula, Burton, East Liverpool, Jackson Township, New Philadelphia, Salem, and Warren, Ohio.As of September 2012, Kent State is one of the largest universities in Ohio with an enrollment of 41,891 students in the eight-campus system and 28,998 students at the main campus in Kent. It is ranked by the Carnegie Foundation as one of the top 77 public research universities in the US and one of the top 76 in community engagement. In 2010, Kent State was ranked as one of the top 200 universities in the world by Times Higher Education. Kent State offers over 300 degree programs, among them 250 baccalaureate, 40 associate's, 50 master's, and 23 doctoral programs of study, which include such notable programs as nursing, business, history, library science, aeronautics, journalism, fashion design and the Liquid Crystal Institute.The university was established in 1910 as the Kent State Normal School as a teacher-training school. The first classes were held in 1912 at various locations and in temporary buildings in Kent. Since then, the university has grown to include many additional baccalaureate and graduate programs of study in the arts and sciences, research opportunities, as well as over 1,000 acres (405 ha) and 119 buildings on the Kent campus. During the late 1960s and early 1970s, the university was known internationally for its student activism in opposition to US involvement in the Vietnam war, due mainly to the events of May 4, 1970.".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/ontology/abstract> "New Jersey is a state in the Northeastern and Middle Atlantic regions of the United States. It is bordered on the north and east by New York State, on the southeast and south by the Atlantic Ocean, on the west by Pennsylvania, and on the southwest by Delaware. New Jersey is the fourth-smallest state, but the 11th-most populous and the most densely populated of the 50 United States. New Jersey lies entirely within the combined statistical areas of New York City and Philadelphia. It is also the second-wealthiest U.S. state by median household income, according to the 2008–2012 American Community Survey.The area was inhabited by Native Americans for more than 2,800 years, with historical tribes such as the Lenape along the coast. In the early 17th century, the Dutch and the Swedes made the first European settlements. The English later seized control of the region, naming it the Province of New Jersey. It was granted as a colony to Sir George Carteret and John Berkeley, 1st Baron Berkeley of Stratton. At this time, it was named after the largest of the Channel Islands, Jersey, Carteret's birthplace. New Jersey was the site of several decisive battles during the American Revolutionary War.In the 19th century, factories in cities such as Camden, Paterson, Newark, Trenton, and Elizabeth helped to drive the Industrial Revolution. New Jersey's geographic location at the center of the Northeast megalopolis, between Boston and New York City to the northeast, and Philadelphia, Baltimore, and Washington, D.C., to the southwest, fueled its rapid growth through the process of suburbanization in the 1950s and beyond.".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/ontology/abstract> "Ohio /oʊˈhaɪ.oʊ/ is a state in the Midwestern United States. Ohio is the 34th largest (by area), the 7th most populous, and the 10th most densely populated of the 50 United States. The state's capital and largest city is Columbus.The name "Ohio" originated from Iroquois word ohi-yo’, meaning "great river" or "large creek". The state, originally partitioned from the Northwest Territory, was admitted to the Union as the 17th state (and the first under the Northwest Ordinance) on March 1, 1803. Although there are conflicting narratives regarding the origin of the nickname, Ohio is historically known as the "Buckeye State" (relating to the Ohio buckeye tree) and Ohioans are also known as "Buckeyes".The government of Ohio is composed of the executive branch, led by the Governor; the legislative branch, which comprises the Ohio General Assembly; and the judicial branch, which is led by the Supreme Court. Currently, Ohio occupies 16 seats in the United States House of Representatives. Ohio is known for its status as both a swing state and a bellwether in national elections.".
+<http://dbpedia.org/resource/Ontario> <http://dbpedia.org/ontology/abstract> "Ontario /ɒnˈtɛərioʊ/ is one of the ten provinces of Canada, located in east-central Canada. It is Canada's most populous provinceby a large margin, accounting for nearly 40% of all Canadians, and is the second largest province in total area. Ontario is fourth largest in total area when the territories of the Northwest Territories and Nunavut are included.It is home to the nation's capital city, Ottawa, and the nation's most populous city, Toronto.Ontario is bordered by the province of Manitoba to the west, Hudson Bay and James Bay to the north, and Quebec to the east, and to the south by the U.S. states of Minnesota, Michigan, New York, Ohio and Pennsylvania. All but a small part of Ontario's 2,700 km (1,678 mi) border with the United States follows inland waterways: from the west at Lake of the Woods, eastward along the major rivers and lakes of the Great Lakes/Saint Lawrence River drainage system. These are the Rainy River, the Pigeon River, Lake Superior, the St. Marys River, Lake Huron, the St. Clair River, Lake St. Clair, the Detroit River, Lake Erie, the Niagara River, Lake Ontario and along the St. Lawrence River from Kingston, Ontario, to the Quebec boundary just east of Cornwall, Ontario.Ontario is sometimes conceptually divided into two regions, Northern Ontario and Southern Ontario. The great majority of Ontario's population and its arable land is located in the south. In contrast, the larger, northern part of Ontario is sparsely populated.".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/ontology/abstract> "Princeton University is a private Ivy League research university in Princeton, New Jersey.Founded in 1746 in Elizabeth as the College of New Jersey, Princeton is one of the nine Colonial Colleges established before the American Revolution as well as the fourth chartered institution of higher education in the American colonies. The institution moved to Newark in 1747, then to the current site nine years later where it was renamed as a University in 1896. The present-day College of New Jersey in nearby Ewing Township, New Jersey, is an unrelated institution. Princeton had close ties to the Presbyterian Church, but has never been affiliated with any denomination and today imposes no religious requirements on its students.Princeton provides undergraduate and graduate instruction in the humanities, social sciences, natural sciences, and engineering. It does not have schools of medicine, law, divinity, education, nor business, but it does offer professional degrees through the Woodrow Wilson School of Public and International Affairs, the School of Engineering and Applied Science, the School of Architecture and the Bendheim Center for Finance. The university has ties with the Institute for Advanced Study, Princeton Theological Seminary, and the Westminster Choir College of Rider University. Princeton has been associated with 35 Nobel laureates, 17 National Medal of Science winners, 2 Abel Prize winners, 5 Fields Medalists, and 3 National Humanities Medal recipients.".
+<http://dbpedia.org/resource/Stanford_University> <http://dbpedia.org/ontology/abstract> "Leland Stanford Junior University, commonly referred to as Stanford University, is a private research university in Stanford, California in northwestern Silicon Valley near Palo Alto. Its academic reputation, eminent alumni, influence, and wealth have made it one of the most prestigious universities in the world.The university was founded in 1885 by Leland Stanford, former governor of and U.S. senator from California and leading railroad tycoon, and his wife, Jane Lathrop Stanford, in memory of their son, Leland Stanford, Jr., who died of typhoid fever two months before his 16th birthday in 1884; it opened on October 1, 1891. The university was established as a coeducational and non-denominational institution. Tuition was free until the 1930s. The university struggled financially after Leland Stanford's 1893 death and after much of the campus was damaged by the 1906 San Francisco earthquake. Following World War II, Provost Frederick Terman supported faculty and graduates' entrepreneurialism to build self-sufficient local industry in what would become known as Silicon Valley. By 1970, Stanford was home to a linear accelerator, and was one of the original four ARPANET nodes (precursor to the Internet).Stanford is currently organized into seven academic schools with a student body of approximately 7,000 undergraduates and 8,900 graduates. Its 8,180-acre (3,310 ha) campus is the largest contiguous college campus in the United States. Since 1952, 58 Nobel laureates have been affiliated with the university. It has produced the largest number of Turing Award laureates for a single academic institution and is the alma mater of 30 living billionaires and 17 astronauts. Stanford is also one of the leading producers of members of the United States Congress. Faculty and alumni have founded many companies including Google, Hewlett-Packard, Nike, Sun Microsystems, and Yahoo!, and companies founded by Stanford alumni generate more than $2.7 trillion in annual revenue, equivalent to the 10th-largest economy in the world. Stanford is also home to the papers of Martin Luther King, Jr. Stanford is the most selective research university in the United States, with an acceptance rate of 5.07% for the class of 2018.Stanford competes in 36 varsity sports and is one of two private universities in the Division I FBS Pacific-12 Conference. It has won 104 NCAA championships, the second-most for a university, and has won the NACDA Director's Cup every year since 1994–5.".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/ontology/abstract> "Princeton is a municipality with a borough form of government in Mercer County, New Jersey, United States, that was established on January 1, 2013, through the consolidation of the Borough of Princeton and Princeton Township. As of the 2010 United States Census, the borough's population was 28,572, reflecting the former township's population of 16,265, along with the 12,307 in the former borough.Princeton is best known as the location of Princeton University, which has been sited in the community since 1756. Although Princeton is a "college town", there are other important institutions in the area, including the Institute for Advanced Study, Westminster Choir College, Princeton Theological Seminary, Educational Testing Service (ETS), Opinion Research Corporation, Siemens Corporate Research, Bristol-Myers Squibb, Sarnoff Corporation, FMC Corporation, The Robert Wood Johnson Foundation, Amrep, Church and Dwight, Berlitz International, and Dow Jones & Company.Princeton is roughly equidistant from New York City and Philadelphia. Princeton is close to many major highways that serve both cities, and receives all major TV and radio broadcasts from each.New Jersey's capital is the city of Trenton, but the governor's official residence has been in Princeton since 1945, when Morven in the borough became the first Governor's mansion. It was later replaced by the larger Drumthwacket, a colonial mansion located in the township. Morven became a museum property of the New Jersey Historical Society.Princeton was named No. 15 of the top 100 towns in the United States to Live and Work In by Money Magazine in 2005.Although residents of Princeton (Princetonians) traditionally have a strong community-wide identity, the community had been composed of two separate municipalities: a township and a borough. The central borough was completely surrounded by the township. The Borough seceded from the Township in 1894 in a dispute over school taxes; the two municipalities later formed the Princeton Public Schools, and some other public services were conducted together before they were reunited into a single Princeton in January 2013. The Borough contained Nassau Street, the main commercial street, most of the University campus, and incorporated most of the urban area until the postwar suburbanization. Borough and Township had roughly equal populations.United States Postal ZIP codes for Princeton include 08540, 08541 (Educational Testing Service), 08542 (largely the old Borough), 08543 (PO boxes), and 08544 (the University). The first covers areas outside Princeton proper, including portions of Lawrence, Hopewell, and West Windsor Townships in Mercer County, Montgomery and Franklin Townships in Somerset County, and Plainsboro and South Brunswick Townships in Middlesex County.".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/ontology/abstract> "Blacksburg is an incorporated town located in Montgomery County, Virginia, United States, with a population of 42,620 at the 2010 census.Blacksburg, Christiansburg, and Radford are the three principal jurisdictions of the Blacksburg-Christiansburg-Radford Metropolitan Statistical Area which encompasses those jurisdictions and all of Montgomery, Pulaski, and Giles counties for statistical purposes. The MSA has an estimated population of 159,587 and is currently one of the faster-growing MSAs in Virginia. Blacksburg is dominated economically and demographically by the presence of Virginia Polytechnic Institute and State University (popularly known as Virginia Tech), a Virginia land-grant university. Blacksburg is the largest town in Virginia by population, and the 15th-largest municipality overall. It is larger than several of the commonwealth's independent cities.In spite of the April 16, 2007 legacy, the town (and the university campus) has a long tradition of safety and living satisfaction. In 2011, Businessweek named Blacksburg the "Best Place in the U.S. to Raise Kids.". Also in 2011, readers of Southern Living named Blacksburg the "Best College Town in the South.". Its public transportation system, Blacksburg Transit, which also connects to the neighboring town of Christiansburg, has repetitively received recognition for the quality of its service. Blacksburg High School, which in 2013 unveiled its new state-of-the-art building, is often ranked among the top schools of the nation for its academics, but its Soccer, Track, and Cross Country teams are also among the top in the state.".
+<http://dbpedia.org/resource/Cleveland> <http://xmlns.com/foaf/0.1/name> "Cleveland".
+<http://dbpedia.org/resource/Cleveland> <http://xmlns.com/foaf/0.1/name> "City of Cleveland".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://xmlns.com/foaf/0.1/name> "Hamilton".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://xmlns.com/foaf/0.1/name> "City of Hamilton".
+<http://dbpedia.org/resource/Kent_State_University> <http://xmlns.com/foaf/0.1/name> "Kent State University".
+<http://dbpedia.org/resource/New_Jersey> <http://xmlns.com/foaf/0.1/name> "State of New Jersey".
+<http://dbpedia.org/resource/Ohio> <http://xmlns.com/foaf/0.1/name> "State of Ohio".
+<http://dbpedia.org/resource/Princeton_University> <http://xmlns.com/foaf/0.1/name> "Princeton University".
+<http://dbpedia.org/resource/Princeton_University> <http://xmlns.com/foaf/0.1/name> "Universitas Princetoniensis".
+<http://dbpedia.org/resource/Stanford_University> <http://xmlns.com/foaf/0.1/name> "Stanford University".
+<http://dbpedia.org/resource/Stanford_University> <http://xmlns.com/foaf/0.1/name> "Leland Stanford Junior University".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://xmlns.com/foaf/0.1/name> "Princeton, New Jersey".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://xmlns.com/foaf/0.1/name> "Princeton".
+<http://dbpedia.org/resource/Cleveland> <http://xmlns.com/foaf/0.1/nick> "The Forest City".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://xmlns.com/foaf/0.1/nick> "Ambitious City, Steeltown, The Hammer".
+<http://dbpedia.org/resource/Kent_State_University> <http://xmlns.com/foaf/0.1/nick> "Golden Flashes".
+<http://dbpedia.org/resource/Princeton_University> <http://xmlns.com/foaf/0.1/nick> "Tigers".
+<http://dbpedia.org/resource/Stanford_University> <http://xmlns.com/foaf/0.1/nick> "Cardinal".
+<http://dbpedia.org/resource/Princeton_University> <http://dbpedia.org/ontology/formerName> "College of New Jersey (1746–1896)".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/ontology/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/ontology/leaderTitle> "City Council".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/ontology/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/ontology/leaderTitle> "MPPs".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://dbpedia.org/ontology/leaderTitle> "MPs".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/ontology/leaderTitle> "Administrator".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/ontology/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://dbpedia.org/ontology/leaderTitle> "Clerk".
+<http://dbpedia.org/resource/New_Jersey> <http://dbpedia.org/ontology/demonym> "New Jerseyan (official), New Jerseyite".
+<http://dbpedia.org/resource/Ohio> <http://dbpedia.org/ontology/demonym> "Ohioan; Buckeye (colloq.)".
+<http://dbpedia.org/resource/Cleveland> <http://www.w3.org/2000/01/rdf-schema#comment> "Cleveland /ˈkliːvlənd/ is a city in the U.S. state of Ohio and is the county seat of Cuyahoga County, the most populous county in the state. The city is located in northeastern Ohio on the southern shore of Lake Erie, approximately 60 miles (97 km) west of the Pennsylvania border. It was founded in 1796 near the mouth of the Cuyahoga River, and became a manufacturing center owing to its location on the lake shore, as well as being connected to numerous canals and railroad lines.".
+<http://dbpedia.org/resource/Hamilton,_Ontario> <http://www.w3.org/2000/01/rdf-schema#comment> "Hamilton (/ˈhæməltən/; 2011 population 519,949; UA population 670,580; CMA population 721,053) is a port city in the Canadian province of Ontario. Conceived by George Hamilton when he purchased the Durand farm shortly after the War of 1812, Hamilton has become the centre of a densely populated and industrialized region at the west end of Lake Ontario known as the Golden Horseshoe.".
+<http://dbpedia.org/resource/Kent_State_University> <http://www.w3.org/2000/01/rdf-schema#comment> "Kent State University (also known as Kent, Kent State, and KSU) is a public research university located in Kent, Ohio, United States. The university has eight campuses around the Northeast Ohio region with the main campus in Kent being the largest.".
+<http://dbpedia.org/resource/New_Jersey> <http://www.w3.org/2000/01/rdf-schema#comment> "New Jersey is a state in the Northeastern and Middle Atlantic regions of the United States. It is bordered on the north and east by New York State, on the southeast and south by the Atlantic Ocean, on the west by Pennsylvania, and on the southwest by Delaware. New Jersey is the fourth-smallest state, but the 11th-most populous and the most densely populated of the 50 United States. New Jersey lies entirely within the combined statistical areas of New York City and Philadelphia.".
+<http://dbpedia.org/resource/Ohio> <http://www.w3.org/2000/01/rdf-schema#comment> "Ohio /oʊˈhaɪ.oʊ/ is a state in the Midwestern United States. Ohio is the 34th largest (by area), the 7th most populous, and the 10th most densely populated of the 50 United States. The state's capital and largest city is Columbus.The name "Ohio" originated from Iroquois word ohi-yo’, meaning "great river" or "large creek". The state, originally partitioned from the Northwest Territory, was admitted to the Union as the 17th state (and the first under the Northwest Ordinance) on March 1, 1803.".
+<http://dbpedia.org/resource/Ontario> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontario /ɒnˈtɛərioʊ/ is one of the ten provinces of Canada, located in east-central Canada. It is Canada's most populous provinceby a large margin, accounting for nearly 40% of all Canadians, and is the second largest province in total area.".
+<http://dbpedia.org/resource/Princeton_University> <http://www.w3.org/2000/01/rdf-schema#comment> "Princeton University is a private Ivy League research university in Princeton, New Jersey.Founded in 1746 in Elizabeth as the College of New Jersey, Princeton is one of the nine Colonial Colleges established before the American Revolution as well as the fourth chartered institution of higher education in the American colonies. The institution moved to Newark in 1747, then to the current site nine years later where it was renamed as a University in 1896.".
+<http://dbpedia.org/resource/Stanford_University> <http://www.w3.org/2000/01/rdf-schema#comment> "Leland Stanford Junior University, commonly referred to as Stanford University, is a private research university in Stanford, California in northwestern Silicon Valley near Palo Alto. Its academic reputation, eminent alumni, influence, and wealth have made it one of the most prestigious universities in the world.The university was founded in 1885 by Leland Stanford, former governor of and U.S.".
+<http://dbpedia.org/resource/Princeton,_New_Jersey> <http://www.w3.org/2000/01/rdf-schema#comment> "Princeton is a municipality with a borough form of government in Mercer County, New Jersey, United States, that was established on January 1, 2013, through the consolidation of the Borough of Princeton and Princeton Township.".
+<http://dbpedia.org/resource/Stanford,_California> <http://www.w3.org/2000/01/rdf-schema#label> "Stanford, California".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://www.w3.org/2000/01/rdf-schema#label> "University of British Columbia".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://www.w3.org/2000/01/rdf-schema#label> "Case Western Reserve University".
+<http://dbpedia.org/resource/Florida_State_University> <http://www.w3.org/2000/01/rdf-schema#label> "Florida State University".
+<http://dbpedia.org/resource/Harvard_University> <http://www.w3.org/2000/01/rdf-schema#label> "Harvard University".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://www.w3.org/2000/01/rdf-schema#label> "Kent, Ohio".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://www.w3.org/2000/01/rdf-schema#label> "Barbara Snyder".
+<http://dbpedia.org/resource/McMaster_University> <http://www.w3.org/2000/01/rdf-schema#label> "McMaster University".
+<http://dbpedia.org/resource/University_of_Toronto> <http://www.w3.org/2000/01/rdf-schema#label> "University of Toronto".
+<http://dbpedia.org/resource/Kelowna> <http://www.w3.org/2000/01/rdf-schema#label> "Kelowna".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/almaMater> "Ohio State University ( )".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/almaMater> "University of Chicago Law School ( )".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/athletics> "NCAA Division III UAA".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/b> "no".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/blank1Name> "GNIS feature ID".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/blank1Name> "GNIS feature ID".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/calendar> "Semester".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/calendar> "Semester".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/campus> "Vancouver:, Okanagan:208.6 ha ,".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/campus> "Urban,".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/campus> "Urban area".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/campus> "Main Campus:".
+<http://dbpedia.org/resource/McMaster_University> <http://dbpedia.org/property/campus> "Urban,".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/campus> "Urban,".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/caption> "The University of British Columbia seal".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/caption> "The seal of Case Western Reserve University".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/caption> "Seal of Harvard University".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/center> "Kelowna".
+<http://dbpedia.org/resource/McMaster_University> <http://dbpedia.org/property/chancellor> "Suzanne Labarge".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/city> "University Endowment Lands and Kelowna".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/colors> "CWRU Blue (PMS 294), White and CWRU Grey (PMS 7545)".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/colors> "Garnet  and Gold".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/colors> "Crimson".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/colours> "Blue and Gold".
+<http://dbpedia.org/resource/McMaster_University> <http://dbpedia.org/property/colours> "Maroon and Grey".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/commons> "Category:Harvard University".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/coordinatesDisplay> "inline,title".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/coordinatesDisplay> "inline,title".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/coordinatesRegion> "US-OH".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/coordinatesRegion> "CA-BC".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/coordinatesType> "region:US_type:city".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/country> "United States".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/country> "United States".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/d> "q13371".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/date> "August 2010".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/decRecordLowF> "−12".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/endowment> "C$1.16 billion".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/endowment> "US $1.6 billion".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/endowment> "US$548 million".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/endowment> "US$32.3 billion".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/endowment> "C$1.663 billion".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/established> "CIT: 1880".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/established> "CWRU: 1967".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/established> "WRU: 1826".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedDate> "November 1805".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedTitle> "Founded".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedTitle> "Incorporated".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/febRecordLowF> "−6".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/fightsong> "Fight for FSU".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/formerNames> "McGill University College of British Columbia".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/formerNames> "King's College".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/free> "'Hail, U.B.C'.; 'High on Olympus'".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/free> "The Harvard Crimson".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/freeLabel> "School Song".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/freeLabel> "Newspaper".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/imageCaption> "Downtown Kent, September 2009".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/imageCaption> "Kelowna's skyline from West Kelowna".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/imageFlag> "Flag of Kelowna, British Columbia.svg".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/imageMap> "Santa_Clara_County_California_Incorporated_and_Unincorporated_areas_Stanford_Highlighted.svg".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/imageMap> "Ohio Portage Kent.png".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/imageName> "UBC COA.svg".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/imageName> "Case Western Reserve University seal.svg".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/imageName> "FSU_seal.svg".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/imageName> "Harvard Wreath Logo 1.svg".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/imageSeal> "Kentlogo.png".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/imageShield> "Coat of Arms of Kelowna, British Columbia.svg".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/imageSkyline> "Downtown Kent Ohio 2.jpg".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/imageSkyline> "Kelowna Skyline.jpg".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/imperialFirst> "Y".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/janRecordLowF> "−22".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/latinName> "Universitas Harvardiana".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/latinName> "Universitas Torontonensis".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/leaderName> "Dave Ruller".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/leaderName> "Jerry Fiala".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/leaderName> "Walter Gray".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/location> "Kent, Ohio".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/mapCaption> "Location in Santa Clara County and the state of California".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/mapCaption> "Location in Portage County, Ohio".
+<http://dbpedia.org/resource/McMaster_University> <http://dbpedia.org/property/mascot> "Mac the Marauder".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/metricFirst> "Y".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/motto> "Think Beyond the Possible".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/motto> "Vires, artes, mores".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/motto> "Veritas".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/motto> ""Fruitful in Unity"".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/mottoeng> "It Is Yours".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/mottoeng> "It is up to you".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/mottoeng> "Strength, Skill, Character".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/mottoeng> "Truth".
+<http://dbpedia.org/resource/McMaster_University> <http://dbpedia.org/property/mottoeng> "All things cohere in Christ".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/mottoeng> "As a tree through the ages".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/n> "no".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/name> "The University of British Columbia".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/name> "Case Western Reserve University".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/name> "Florida State University".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/name> "Harvard University".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/name> "Kent".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/name> "Barbara R. Snyder".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/name> "Snyder, Barbara".
+<http://dbpedia.org/resource/McMaster_University> <http://dbpedia.org/property/name> "McMaster University".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/name> "University of Toronto".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/name> "Kelowna".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/nickname> "The Tree City".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/nickname> "K-Town".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/office> "President of Case Western Reserve University".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/officialName> "Stanford".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/officialName> "City of Kent, Ohio".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/populationDemonym> "Kentite".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/populationDensityKm> "auto".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/populationDensitySqMi> "auto".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/postalCodeType> "ZIP codes".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/postalCodeType> "ZIP codes".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/president> "Arvind Gupta".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/provost> "David Farrar  and Cynthia Mathieson".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/provost> "Garnett S. Stokes".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/pushpinMap> "USA".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/pushpinMapCaption> "Location in the United States".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/q> "no".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/s> "Portal:Harvard University".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/shortDescription> "President of Case Western Reserve University".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/singleLine> "Y".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/source> "The Weather Channel".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/species> "no".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/spouse> "Michael J. Snyder".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/property/state> "Florida".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/state> "autocollapse".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/timezoneDst> "PDT".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/title> "Links to related articles".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/titlestyle> "background:#FFFFFF;color:#991111;border:1px solid #991111;".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/property/uniname> "The University of British Columbia".
+<http://dbpedia.org/resource/McMaster_University> <http://dbpedia.org/property/uniname> "McMaster University".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/uniname> "University of Toronto".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/property/unitPref> "US".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/unitPref> "Imperial".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/utcOffset> "−5".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/utcOffsetDst> "−4".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/v> "no".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/voy> "no".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/property/wikt> "no".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/yearRecordLowF> "−22".
+<http://dbpedia.org/resource/Stanford,_California> <http://dbpedia.org/ontology/abstract> "Stanford is a census-designated place (CDP) in Santa Clara County, California, United States and is the home of Stanford University. The population was 13,809 at the 2010 census, with a daily population of 35,000.Stanford is an unincorporated area of Santa Clara County and is adjacent to the city of Palo Alto. Stanford, California is a valid postal address, and has its own post office and ZIP codes: 94305 (campus buildings) and 94309 (post-office boxes). A popular landmark is the Dish.Most of the Stanford University campus is situated within the CDP of Stanford. The Stanford University Medical Center and the Stanford Shopping Center, on the campus periphery, are counted as part of Palo Alto. Its resident population consists of the inhabitants of on-campus housing, including graduate student villages and single-family homes owned by their faculty inhabitants but located on leased Stanford land. A residential neighborhood adjacent to the Stanford campus, College Terrace, featuring streets named after universities and colleges, including Cambridge, Oxford, Harvard and Princeton, is not part of the Stanford CDP but of Palo Alto.".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/ontology/abstract> "The University of British Columbia, commonly referred to as UBC, is a public research university in British Columbia, Canada.Founded in 1908 as the McGill University College of British Columbia, the university became independent and adopted its current name in 1915. It is the oldest institution of higher learning in British Columbia and enrolls over 57,000 students at its Vancouver and Okanagan Valley campuses. UBC's 4.02 km2 (993-acre) Vancouver campus is located within the University Endowment Lands, about 10 km (6.2 mi) from Downtown Vancouver. The 2.09 km2 (516-acre) Kelowna campus, acquired in 2005, is located in the Okanagan Valley.UBC is consistently included among the top three research universities in Canada, and among the top research universities in the world. As of the 2013–2014 school year, UBC was ranked second in Canada among national research universities, and consistently ranks among the top 50 global universities.In 2011, UBC reported the highest entrance requirements for undergraduate admission in Canada. UBC faculty, alumni, and researchers have won seven Nobel Prizes, 68 Rhodes Scholarships, 64 Olympic medals, and alumni include two Canadian prime ministers.UBC is a non-sectarian and coeducational institution, with more than 275,000 living alumni in 120 countries. The university is a member of Universitas 21, the Association of Universities and Colleges of Canada, the Association of Southeast Asian Institutions of Higher Learning, the International Association of Universities, the U15 and the only Canadian member of the Association of Pacific Rim Universities. The university's varsity teams, known as the Thunderbirds, compete in the Canada West Universities Athletic Association of the Canadian Interuniversity Sport.".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/ontology/abstract> "Case Western Reserve University (also known as Case Western Reserve, Case Western, Case, Reserve, and CWRU) is a private research university in Cleveland, Ohio, USA. The university was created in 1967 by the federation of Case Institute of Technology (founded in 1881 by Leonard Case Jr.) and Western Reserve University (founded in 1826 in the area that was once the Connecticut Western Reserve). TIME magazine described the merger as the creation of "Cleveland's Big-Leaguer" university.In U.S. News & World Report's 2013 rankings, Case Western Reserve's undergraduate program ranked 37th among national universities. The University is associated with 16 Nobel Laureates. Other notable alumni include Paul Buchheit, creator and lead developer of Gmail; Craig Newmark, founder of craigslist.org; and Peter Tippett, who developed the anti-virus software, Vaccine, which Symantec purchased and turned into the popular Norton AntiVirus. Case Western Reserve is particularly well known[citation needed] for its medical school, dental school, law school, Frances Payne Bolton School of Nursing, Department of Biomedical Engineering and its biomedical teaching and research capabilities. Case Western is a member of the Association of American Universities.The university is approximately five miles (8 km) east of downtown Cleveland in University Circle. It is contained within a 550-acre (220 ha) area containing numerous educational, medical, and cultural institutions. Case Western Reserve has a number of programs taught in conjunction with nearby institutions, including the Cleveland Clinic, the University Hospitals of Cleveland, the Louis Stokes Cleveland Department of Veteran's Affairs Medical Center, Cleveland Institute of Music, the Cleveland Hearing & Speech Center, the Cleveland Museum of Art, the Cleveland Museum of Natural History, and the Cleveland Play House.Case Western Reserve was the site of the famous Michelson-Morley interferometer experiment, conducted in 1887 by A. A. Michelson of Case School of Applied Science and E. W. Morley of Western Reserve University. This experiment proved the non-existence of the luminiferous ether and was later cited as convincing evidence in support of special relativity as proposed by Albert Einstein in 1905. Michelson became the first American to win a Nobel Prize in science. The commemorative Michelson-Morley Memorial Fountain is located on campus, near where the actual experiment was performed.".
+<http://dbpedia.org/resource/Florida_State_University> <http://dbpedia.org/ontology/abstract> "The Florida State University (commonly referred to as Florida State or FSU) is a space-grant and sea-grant public research university located in the state capital city of Tallahassee, Florida, United States. It is a research university with very high research activity as determined by the Carnegie Foundation. The university comprises 16 separate colleges and more than 110 centers, facilities, labs and institutes that offer more than 300 programs of study, including professional programs. Florida State is home to Florida's only National Laboratory – the National High Magnetic Field Laboratory and is the birthplace of the commercially viable anti-cancer drug Taxol. Florida State University also operates The John & Mable Ringling Museum of Art, the State Art Museum of Florida and one of the largest museum/university complexes in the nation. Florida State University is accredited by the Southern Association of Colleges and Schools as a Level VI public institution.Florida State was established in 1851 and is located on the oldest continuous site of higher education in the state of Florida. In 1905 Florida State earned Florida's first Rhodes Scholar. In 1935 Florida State University was awarded the first chapter of Phi Beta Kappa in Florida and is among the ten percent of American universities to have earned a chapter of the national academic honor society. In 1977 Florida State University earned the first female Rhodes Scholar in Florida. In 2010 Florida State University was named a "Budget Ivy" university by the Fiske Guide to Getting into the Right College. In 2012 U.S. News & World Report ranked Florida State the most efficient National University in the United States. Florida State University is one of two Florida public universities to immediately qualify as a "preeminent university" by law under Florida Senate Bill 1076, signed by Governor Rick Scott in 2013.The Florida State University is home to nationally ranked programs in many academic areas, including the sciences, engineering, social policy, film, music, theater, dance, visual art, business, political science, psychology, social work, medicine, and law. The university is also known for its undergraduate study abroad options: according to Uni in the USA, "the large numbers of students that study abroad nicely compliment the students that study here from abroad."Florida State is a member of the Atlantic Coast Conference and has won thirteen national athletic championships as well as multiple individual competitor NCAA championship awards.".
+<http://dbpedia.org/resource/Harvard_University> <http://dbpedia.org/ontology/abstract> "Harvard University is a private Ivy League research university in Cambridge, Massachusetts, whose history, influence and wealth have made it one of the most prestigious universities in the world.Established in 1636 by the Massachusetts legislature and soon thereafter named for John Harvard (its first benefactor), Harvard is the United States' oldest institution of higher learning, and the Harvard Corporation (formally, the President and Fellows of Harvard College) is its first chartered corporation. Although never formally affiliated with any denomination, the early College primarily trained Congregation­alist and Unitarian clergy. Its curriculum and student body were gradually secularized during the 18th century, and by the 19th century Harvard had emerged as the central cultural establishment among Boston elites. Following the American Civil War, President Charles W. Eliot's long tenure (1869–1909) transformed the college and affiliated professional schools into a modern research university; Harvard was a founding member of the Association of American Universities in 1900. James Bryant Conant led the university through the Great Depression and World War II and began to reform the curriculum and liberalize admissions after the war. The undergraduate college became coeducational after its 1977 merger with Radcliffe College.The University is organized into eleven separate academic units—ten faculties and the Radcliffe Institute for Advanced Study—with campuses throughout the Boston metropolitan area: its 209-acre (85 ha) main campus is centered on Harvard Yard in Cambridge, approximately 3 miles (5 km) northwest of Boston; the business school and athletics facilities, including Harvard Stadium, are located across the Charles River in the Allston neighborhood of Boston and the medical, dental, and public health schools are in the Longwood Medical Area. Eight U.S. presidents have been graduates, and some 150 Nobel Laureates have been affiliated as students, faculty, or staff. Harvard is also the alma mater of 62 living billionaires and 335 Rhodes Scholars, the most in the country. The Harvard University Library is also the largest academic library in the United States.Harvard has the largest financial endowment of any academic institution in the world, standing at $32.3 billion as of June 2013.".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/ontology/abstract> "Kent is a city in the U.S. state of Ohio and the largest city in Portage County. It is located along the Cuyahoga River in Northeast Ohio on the western edge of the county. The population was 28,904 in the 2010 Census and 29,807 in the 2012 estimate. The city is counted as part of the Akron Metropolitan Statistical Area and the larger Cleveland-Akron-Canton Combined Statistical Area.Part of the Connecticut Western Reserve, Kent was settled in 1805 and was known for many years as Franklin Mills. Settlers were attracted to the area due to its location along the Cuyahoga River as a place for water-powered mills. Later development came in the 1830s and 1840s as a result of the village's position along the route of the Pennsylvania and Ohio Canal. Leading up to the American Civil War, Franklin Mills was noted for its activity in the Underground Railroad. With the decline of the canal and the emergence of the railroad, the village became the home of the Atlantic and Great Western Railroad maintenance shops through the influence of Marvin Kent. In 1864 the village was renamed Kent in honor of and in gratitude for Marvin Kent's efforts. Today Kent is a college town best known as the home of the main campus of Kent State University, founded in 1910, and as the site of the 1970 Kent State shootings.Historically a manufacturing center, education is the city's largest economic sector with Kent State University the city's, and one of the region's, largest employers. The Kent City School District and the Kent Free Library provide additional education opportunities and resources. Many of Kent's demographic elements are influenced by the presence of the university, particularly the median age, median income, and those living below the poverty level. The city is governed by a council-manager system with a city manager, a nine-member city council, and a mayor. Kent has nearly 20 parks and preserves and hosts a number of annual festivals including ones related to Earth Day, folk music, and the U.S. Independence Day. In addition to the Kent State athletic teams, the city also hosts a number of amateur and local sporting events at various times during the year. Kent is part of the Cleveland-Akron media market and is the city of license for three local radio stations and three television stations and includes the regional affiliates for National Public Radio (NPR) and the Public Broadcasting Service (PBS). Although most residents commute to work in private vehicles, alternate transportation includes a public bus service and hike-and-bike trails. As the home of the Davey Tree Expert Company, Kent is known as "The Tree City" while residents are referred to as "Kentites". The city has produced a number of notable individuals, particularly in politics, athletics, and the entertainment industry.".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/ontology/abstract> "Barbara R. Snyder is an American academic and president of Case Western Reserve University. Snyder is the first woman to serve as Case Western Reserve's president.".
+<http://dbpedia.org/resource/McMaster_University> <http://dbpedia.org/ontology/abstract> "McMaster University (commonly referred to as McMaster or Mac) is a public research university whose main campus is located in Hamilton, Ontario, Canada. The main campus is located on 121 hectares (300 acres) of land in the residential neighbourhood of Westdale, adjacent to Hamilton's Royal Botanical Gardens. The university operates six academic faculties: the DeGroote School of Business, Engineering, Health Sciences, Humanities, Social Science, and Science. It is a member of the U15, a group of research-intensive universities in Canada.The university bears the name of Honourable William McMaster, a prominent Canadian Senator and banker who bequeathed C$900,000 to the founding of the university. McMaster University was incorporated under the terms of an act of the Legislative Assembly of Ontario in 1887, merging the Toronto Baptist College with Woodstock College. It opened in Toronto in 1890. Inadequate facilities and the gift of land in Hamilton prompted the institution to relocate in 1930. McMaster was controlled by the Baptist Convention of Ontario and Quebec until it became a privately chartered, publicly funded non-denominational institution in 1957.The university is co-educational, and has over 24,500 undergraduate and nearly 4,000 post-graduate students. Alumni and former students of the university can be found all across Canada and in 140 countries around the world. Notable alumni include government officials, academics, business leaders and two Nobel laureates. The university ranked 92nd in the 2013-2014 Times Higher Education World University Rankings, 92nd in the 2012 Academic Ranking of World Universities, and 140th in the 2013 QS World University Rankings. The McMaster athletic teams are known as the Marauders, and are members of the Canadian Interuniversity Sport.".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/ontology/abstract> "The University of Toronto (U of T, UToronto, or Toronto) is a public research university in Toronto, Ontario, Canada, situated on the grounds that surround Queen's Park. It was founded by royal charter in 1827 as King's College, the first institution of higher learning in Upper Canada. Originally controlled by the Church of England, the university assumed the present name in 1850 upon becoming a secular institution. As a collegiate university, it comprises twelve colleges that differ in character and history, each retaining substantial autonomy on financial and institutional affairs.Academically, the University of Toronto is noted for influential movements and curricula in literary criticism and communication theory, known collectively as the Toronto School. The university was the birthplace of insulin and stem cell research, and was the site of the first practical electron microscope, the development of multi-touch technology, the identification of Cygnus X-1 as a black hole, and the theory of NP completeness. By a significant margin, it receives the most annual research funding of any Canadian university. It is one of two members of the Association of American Universities located outside the United States.The Varsity Blues are the athletic teams representing the university in intercollegiate league matches, with particularly long and storied ties to gridiron football and ice hockey. The university's Hart House is an early example of the North American student centre, simultaneously serving cultural, intellectual and recreational interests within its large Gothic-revival complex.The University of Toronto has educated two Governors General and four Prime Ministers of Canada, four foreign leaders, fourteen Justices of the Supreme Court, and has been affiliated with ten Nobel laureates. The university ranks 1st in Canada and 20th in the world in the Times Higher Education World University Rankings, 1st in Canada and 28th in the Academic Ranking of World Universities, and also 1st in Canada and 17th globally in the QS World University Rankings.".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://purl.org/dc/elements/1.1/description> "President of Case Western Reserve University".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://xmlns.com/foaf/0.1/givenName> "Barbara".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://xmlns.com/foaf/0.1/name> "Blacksburg, Virginia".
+<http://dbpedia.org/resource/Stanford,_California> <http://xmlns.com/foaf/0.1/name> "Stanford".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://xmlns.com/foaf/0.1/name> "The University of British Columbia".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://xmlns.com/foaf/0.1/name> "Case Western Reserve University".
+<http://dbpedia.org/resource/Florida_State_University> <http://xmlns.com/foaf/0.1/name> "Florida State University".
+<http://dbpedia.org/resource/Harvard_University> <http://xmlns.com/foaf/0.1/name> "Harvard University".
+<http://dbpedia.org/resource/Harvard_University> <http://xmlns.com/foaf/0.1/name> "Universitas Harvardiana".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://xmlns.com/foaf/0.1/name> "Kent".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://xmlns.com/foaf/0.1/name> "City of Kent, Ohio".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://xmlns.com/foaf/0.1/name> "Barbara Snyder".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://xmlns.com/foaf/0.1/name> "Barbara R. Snyder".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://xmlns.com/foaf/0.1/name> "Snyder, Barbara".
+<http://dbpedia.org/resource/McMaster_University> <http://xmlns.com/foaf/0.1/name> "McMaster University".
+<http://dbpedia.org/resource/University_of_Toronto> <http://xmlns.com/foaf/0.1/name> "University of Toronto".
+<http://dbpedia.org/resource/University_of_Toronto> <http://xmlns.com/foaf/0.1/name> "Universitas Torontonensis".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://xmlns.com/foaf/0.1/nick> "UBC Thunderbirds".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://xmlns.com/foaf/0.1/nick> "Spartans".
+<http://dbpedia.org/resource/Florida_State_University> <http://xmlns.com/foaf/0.1/nick> "Seminoles".
+<http://dbpedia.org/resource/Harvard_University> <http://xmlns.com/foaf/0.1/nick> "Harvard Crimson".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://xmlns.com/foaf/0.1/nick> "The Tree City".
+<http://dbpedia.org/resource/McMaster_University> <http://xmlns.com/foaf/0.1/nick> "Marauders".
+<http://dbpedia.org/resource/University_of_Toronto> <http://xmlns.com/foaf/0.1/nick> "Varsity Blues".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://dbpedia.org/ontology/formerName> "McGill University College of British Columbia (1906–1915)".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/ontology/formerName> "King's College (1827–1849)".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://dbpedia.org/ontology/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/ontology/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/ontology/leaderTitle> "City manager".
+<http://dbpedia.org/resource/Blacksburg,_Virginia> <http://www.w3.org/2000/01/rdf-schema#comment> "Blacksburg is an incorporated town located in Montgomery County, Virginia, United States, with a population of 42,620 at the 2010 census.Blacksburg, Christiansburg, and Radford are the three principal jurisdictions of the Blacksburg-Christiansburg-Radford Metropolitan Statistical Area which encompasses those jurisdictions and all of Montgomery, Pulaski, and Giles counties for statistical purposes.".
+<http://dbpedia.org/resource/Stanford,_California> <http://www.w3.org/2000/01/rdf-schema#comment> "Stanford is a census-designated place (CDP) in Santa Clara County, California, United States and is the home of Stanford University. The population was 13,809 at the 2010 census, with a daily population of 35,000.Stanford is an unincorporated area of Santa Clara County and is adjacent to the city of Palo Alto. Stanford, California is a valid postal address, and has its own post office and ZIP codes: 94305 (campus buildings) and 94309 (post-office boxes).".
+<http://dbpedia.org/resource/University_of_British_Columbia> <http://www.w3.org/2000/01/rdf-schema#comment> "The University of British Columbia, commonly referred to as UBC, is a public research university in British Columbia, Canada.Founded in 1908 as the McGill University College of British Columbia, the university became independent and adopted its current name in 1915. It is the oldest institution of higher learning in British Columbia and enrolls over 57,000 students at its Vancouver and Okanagan Valley campuses.".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://www.w3.org/2000/01/rdf-schema#comment> "Case Western Reserve University (also known as Case Western Reserve, Case Western, Case, Reserve, and CWRU) is a private research university in Cleveland, Ohio, USA. The university was created in 1967 by the federation of Case Institute of Technology (founded in 1881 by Leonard Case Jr.) and Western Reserve University (founded in 1826 in the area that was once the Connecticut Western Reserve). TIME magazine described the merger as the creation of "Cleveland's Big-Leaguer" university.In U.S.".
+<http://dbpedia.org/resource/Florida_State_University> <http://www.w3.org/2000/01/rdf-schema#comment> "The Florida State University (commonly referred to as Florida State or FSU) is a space-grant and sea-grant public research university located in the state capital city of Tallahassee, Florida, United States. It is a research university with very high research activity as determined by the Carnegie Foundation. The university comprises 16 separate colleges and more than 110 centers, facilities, labs and institutes that offer more than 300 programs of study, including professional programs.".
+<http://dbpedia.org/resource/Harvard_University> <http://www.w3.org/2000/01/rdf-schema#comment> "Harvard University is a private Ivy League research university in Cambridge, Massachusetts, whose history, influence and wealth have made it one of the most prestigious universities in the world.Established in 1636 by the Massachusetts legislature and soon thereafter named for John Harvard (its first benefactor), Harvard is the United States' oldest institution of higher learning, and the Harvard Corporation (formally, the President and Fellows of Harvard College) is its first chartered corporation. ".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://www.w3.org/2000/01/rdf-schema#comment> "Kent is a city in the U.S. state of Ohio and the largest city in Portage County. It is located along the Cuyahoga River in Northeast Ohio on the western edge of the county. The population was 28,904 in the 2010 Census and 29,807 in the 2012 estimate.".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://www.w3.org/2000/01/rdf-schema#comment> "Barbara R. Snyder is an American academic and president of Case Western Reserve University. Snyder is the first woman to serve as Case Western Reserve's president.".
+<http://dbpedia.org/resource/McMaster_University> <http://www.w3.org/2000/01/rdf-schema#comment> "McMaster University (commonly referred to as McMaster or Mac) is a public research university whose main campus is located in Hamilton, Ontario, Canada. The main campus is located on 121 hectares (300 acres) of land in the residential neighbourhood of Westdale, adjacent to Hamilton's Royal Botanical Gardens. The university operates six academic faculties: the DeGroote School of Business, Engineering, Health Sciences, Humanities, Social Science, and Science.".
+<http://dbpedia.org/resource/University_of_Toronto> <http://www.w3.org/2000/01/rdf-schema#comment> "The University of Toronto (U of T, UToronto, or Toronto) is a public research university in Toronto, Ontario, Canada, situated on the grounds that surround Queen's Park. It was founded by royal charter in 1827 as King's College, the first institution of higher learning in Upper Canada. Originally controlled by the Church of England, the university assumed the present name in 1850 upon becoming a secular institution.".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://xmlns.com/foaf/0.1/surname> "Snyder".
+<http://dbpedia.org/resource/United_States> <http://www.w3.org/2000/01/rdf-schema#label> "United States".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://www.w3.org/2000/01/rdf-schema#label> "John L. Hennessy".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://www.w3.org/2000/01/rdf-schema#label> "Charles W. Steger".
+<http://dbpedia.org/resource/Garnett_S._Stokes> <http://www.w3.org/2000/01/rdf-schema#label> "Garnett S. Stokes".
+<http://dbpedia.org/resource/Virginia_Tech> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia Tech".
+<http://dbpedia.org/resource/Canada> <http://www.w3.org/2000/01/rdf-schema#label> "Canada".
+<http://dbpedia.org/resource/Florida> <http://www.w3.org/2000/01/rdf-schema#label> "Florida".
+<http://dbpedia.org/resource/Massachusetts> <http://www.w3.org/2000/01/rdf-schema#label> "Massachusetts".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://www.w3.org/2000/01/rdf-schema#label> "Christopher L. Eisgruber".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/footnoteF> "Does not include insular areas and United States Minor Outlying Islands, which have their own ISO 3166 codes.".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/tagline> "Invent the Future".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/property/university> "President of Virginia Polytechnic Institute and State University".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/affiliations> "APLUORAUURA".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://dbpedia.org/property/after> "Incumbent".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/property/after> "Incumbent".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/align> "right".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/align> "right".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://dbpedia.org/property/almaMater> "Villanova University".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/almaMater> "University of Chicago Law School".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/almaMater> "Oxford University".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/altFlag> "Vertical triband  with a red maple leaf in the centre".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/altMap> "Projection of North America with the United States in green".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/altMap> "Projection of North America with Canada in green".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/birthName> "Christopher Ludwig Eisgruber".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/campus> "Rural".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/caption> "One World Trade Center, built in its place".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/caption> "The former World Trade Center in Lower Manhattan on 9/11".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/caption> "Virginia Tech Seal".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/caption> "Ethnic origins of people in Canada".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/centre> "Florida: Outline • Index".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/centre> "Massachusetts: Outline • Index".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/children> "Danny".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/color> "Gold".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/color> "Black".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/color> "Blue".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/color> "Gray".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/color> "Green".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/color> "Red".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/color> "White".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/colors> "Chicago Maroon and Burnt Orange".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/colors> "Blue, Green, Cranberry".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/commonName> "the United States".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/commonName> "Canada".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/conventionalLongName> "United States of America".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/country> "U.S.".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/countryCode> "USA".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/currencyCode> "USD".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/currencyCode> "CAD".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/dateFormat> "dd-mm-yyyy mm-dd-yyyy yyyy-mm-dd".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/demonym> "Canadian".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/demonym> "Floridian".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/demonym> "Bay Stater  Massachusite  Massachusettsian".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/direction> "horizontal".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/direction> "vertical".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/drivesOn> "right".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/drivesOn> "right".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/east> "Atlantic Ocean".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/east> "Atlantic Ocean".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/endowment> "US$754.55 Million".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/flag> "Flag of Florida.svg".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/flag> "Flag_of_Massachusetts.svg".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/food> "Key lime pie, Orange".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/food> "Cranberry, Corn muffin, Navy bean, Boston cream pie, Chocolate chip cookie, Boston cream donut".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/footer> "Harvard University and MIT are both widely regarded as in the top handful of universities worldwide for academic research in a myriad of disciplines.".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/footnoteA> "English is the official language of at least 28 states; some sources give higher figures, based on differing definitions of "official". English and Hawaiian are both official languages in the state of Hawaii.".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/footnoteB> "English is the de facto language of American government and the sole language spoken at home by 80 percent of Americans aged five and older. 28 states and 5 territories have made English an official language. Other official languages include Hawaiian, Samoan, Chamorro, Carolinian, and Spanish.".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/footnoteC> "Whether the United States or China is larger has been disputed. The figure given is from the U.S. Central Intelligence Agency's The World Factbook. Other sources give smaller figures. All authoritative calculations of the country's size include only the 50 states and the District of Columbia, not the territories.".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/footnoteD> "The population estimate is of people whose usual residence is within the 50 states and the District of Columbia, regardless of nationality. It does not include those living in the territories .".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/footnoteE> "See Time in the United States for details about laws governing time zones in the United States.".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/former> "Florida Territory".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/former> "Province of Massachusetts Bay".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/formerNames> "* Virginia Agricultural and Mechanical College 
+* Virginia Agricultural and Mechanical College and Polytechnic Institute 
+* Virginia Polytechnic Institute".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/freeLabel> "Campus size".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/fullname> "State of Florida".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/fullname> "Commonwealth of Massachusetts".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/governor> "Rick Scott".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/hdiChange> "increase".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/hdiChange> "increase".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/image> "OneWorldTradeCenter.jpg".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/image> "WTC smoking on 9-11.jpeg".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/image> "MIT_Building_10_and_the_Great_Dome,_Cambridge_MA.jpg".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/image> "HarvardWidenerLibrary.jpg".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/imageCoat> "Great Seal of the United States .svg".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/imageFlag> "Flag of the United States.svg".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/imageFlag> "Flag of Canada.svg".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/imageMap> "USA orthographic.svg".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/imageMap> "Canada .svg".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/imageName> "Virginiatechseal.svg".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/iso3166code> "US".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/isocode> "US-FL".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/isocode> "US-MA".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/languages> "English".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/languages> "English 73.36%".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/languages> "Spanish 19.54%".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/largestcity> "capital".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://dbpedia.org/property/lccn> "n/89/106247".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/lieutenantGovernor> "Carlos López-Cantera".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/lieutenantGovernor> "Vacant".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/lowestpoint> "Atlantic Ocean".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/lowestpoint> "Atlantic Ocean".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/map> "Florida in United States.svg".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/map> "Massachusetts in United States.svg".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/motto> "Ut Prosim".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/motto> "Ense petit placidam sub libertate quietem".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/motto> "(By the sword we seek peace, but peace only under liberty)".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/mottoeng> "That I May Serve".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/mottoenglish> "By the sword she seeks peace under liberty".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://dbpedia.org/property/name> "Hennessy, John L.".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://dbpedia.org/property/name> "John Leroy Hennessy".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/property/name> "Charles W. Steger".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/property/name> "Steger, Charles W.".
+<http://dbpedia.org/resource/Garnett_S._Stokes> <http://dbpedia.org/property/name> "Stokes, Garnett S.".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/name> "Virginia Polytechnic Institute".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/name> "and State University".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/name> "Florida".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/name> "Massachusetts".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/name> "Christopher L. Eisgruber".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/name> "Eisgruber, Christopher L.".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/nationalAnthem> ""The Star-Spangled Banner"".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/nationalAnthem> "File:Star Spangled Banner instrumental.ogg".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/nationalAnthem> ""O Canada"".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/nationalAnthem> "File:Canada - Official Anthem (Instrumental).ogg".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/nationalMotto> ""In God we trust"".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/nativeName> "Canada".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/nickname> "The Sunshine State".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/nickname> "The Bay State, The Old Colony State, The Codfish State".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/north> "•".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://dbpedia.org/property/office> "Provost of Stanford University".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://dbpedia.org/property/office> "President of Stanford University".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/office> "President of Princeton University".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/officialName> "City of Kelowna".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/officialReligion> "none".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/officiallang> "None".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/property/placeOfBirth> "Richmond, Virginia".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/placeOfBirth> "Lafayette, Indiana, United States".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/populationDensityMetroKm> "auto".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/postalCodeType> "Postal code span".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/postalabbreviation> "FL".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/postalabbreviation> "MA".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/profession> "Lawyer, constitutional scholar, university administrator".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/provost> "Mark G. McNamee".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/pushpinMap> "Canada British Columbia".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/pushpinMapCaption> "Location of Kelowna in British Columbia".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/religion> "nontheist".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/routeMarker> "Florida 27.svg".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/routeMarker> "MA Route 24.svg".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/royalAnthem> ""God Save the Queen"".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/seal> "Seal of Florida.svg".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/seal> "Seal_of_Massachusetts.svg".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/senators> "Marco Rubio".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/settlementType> "City".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/shell> "New England Neptune, Neptunea lyrata decemcostata".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/ships> "Schooner Ernestina".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/property/shortDescription> "American academic administrator".
+<http://dbpedia.org/resource/Garnett_S._Stokes> <http://dbpedia.org/property/shortDescription> "American academic".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/shortDescription> "American lawyer and university president".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/property/signature> "Charles Steger signature.png".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/singleLine> "Y".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/slogan> "Make It Yours,".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/slogan> "The Spirit of America".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/song> ""Old Folks at Home"".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/song> "All Hail to Massachusetts".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/south> "•".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/sovereigntyNote> "from Great Britain".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/sovereigntyNote> "from the United Kingdom".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/sport> "Basketball".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/property/spouse> "Lori Martin".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/state> "expanded".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/state> "expanded".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/subdivisionType> "Country".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/succeeded> "Texas".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/symbolType> "Great Seal".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/symbolType> "Coat of Arms".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/property/termEnd> "present".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://dbpedia.org/property/thesisTitle> "A real-time language for small processors: design, definition and implementation".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/thumb> "right".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/timezoneDst> "Pacific Daylight Time".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/property/title> "Virginia Tech president".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/title> "The Sunshine State".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/title> "Topics related to Florida".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/title> "The Bay State".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/title> "Topics related to Massachusetts".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/titlestyle> "color:black; background-color:white;".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/titlestyle> "background:#15317E; color:#fff".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/tradabbreviation> "Fla.".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/property/tradabbreviation> "Mass.".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/property/type> "Land-Grant".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/tz1where> "Peninsula and "Big Bend" region".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/tz2where> "Panhandle west of the Apalachicola River".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/property/unitPref> "=".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/utcOffset> "−5 to −10".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/utcOffset> "−3.5 to −8".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/utcOffsetDst> "−4 to −10".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/property/utcOffsetDst> "−2.5 to −7".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/property/website> "www.myflorida.com".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/property/footnoteG> "Except U.S. Virgin Islands.".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/property/alumna> "Virginia Tech".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/ontology/abstract> "Kelowna (/kɛloʊnə/) is a city on Okanagan Lake in the Okanagan Valley, in the southern interior of British Columbia, Canada. It serves as the head office of the Regional District of Central Okanagan. Its name derives from an Okanagan language term for "grizzly bear". Kelowna is the third largest metropolitan area in the province and ranks as the 22nd largest in Canada, with a population of 179,839 in 2011.Nearby communities include the district municipality of West Kelowna (also referred to as Westbank, Westside) to the west across Okanagan Lake, Lake Country and Vernon to the north, as well as Peachland to the southwest and, further to the south, Summerland and Penticton.".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/ontology/abstract> "The United States of America (USA), commonly referred to as the United States (US), America or simply the States, is a federal republic consisting of 50 states and a federal district. The 48 contiguous states and the federal district of Washington, D.C., are in central North America between Canada and Mexico. The state of Alaska is the northwestern part of North America and the state of Hawaii is an archipelago in the mid-Pacific. The country also has five populated and nine unpopulated territories in the Pacific and the Caribbean. At 3.79 million square miles (9.83 million km2) in total and with around 317 million people, the United States is the third or fourth-largest country by total area and third largest by population. It is one of the world's most ethnically diverse and multicultural nations, the product of large-scale immigration from many countries. The geography and climate of the United States is also extremely diverse, and it is home to a wide variety of wildlife.Paleo-indians migrated from Asia to what is now the U.S. mainland around 15,000 years ago, with European colonization beginning in the 16th century. The United States emerged from 13 British colonies located along the Atlantic seaboard. Disputes between Great Britain and these colonies led to the American Revolution. On July 4, 1776, delegates from the 13 colonies unanimously issued the Declaration of Independence. The ensuing war ended in 1783 with the recognition of independence of the United States from the Kingdom of Great Britain, and was the first successful war of independence against a European colonial empire. The current Constitution was adopted on September 17, 1787. The first 10 amendments, collectively named the Bill of Rights, were ratified in 1791 and guarantee many fundamental civil rights and freedoms.Driven by the doctrine of manifest destiny, the United States embarked on a vigorous expansion across North America throughout the 19th century. This involved displacing native tribes, acquiring new territories, and gradually admitting new states. The American Civil War ended legal slavery in the country. By the end of the 19th century, the United States extended into the Pacific Ocean, and its economy was the world's largest. The Spanish–American War and World War I confirmed the country's status as a global military power. The United States emerged from World War II as a global superpower, the first country with nuclear weapons, and a permanent member of the United Nations Security Council. The end of the Cold War and the dissolution of the Soviet Union left the United States as the sole superpower.The United States is a developed country and has the world's largest national economy, with an estimated GDP in 2013 of $16.8 trillion—23% of global nominal GDP and 19% at purchasing-power parity. The economy is fueled by an abundance of natural resources and the world's highest worker productivity, with per capita GDP being the world's sixth-highest in 2010. While the U.S. economy is considered post-industrial, it continues to be one of the world's largest manufacturers. The U.S. has the highest mean and second-highest median household income in the OECD as well as the highest average wage, though it has the fourth most unequal income distribution among OECD nations with roughly 16% of the population living in poverty. The country accounts for 36.6% of global military spending, being the world's foremost economic and military power, a prominent political and cultural force, and a leader in scientific research and technological innovation.".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://dbpedia.org/ontology/abstract> "John LeRoy Hennessy (born September 22, 1952) is an American computer scientist, academician, and businessman. Hennessy is one of the founders of MIPS Computer Systems Inc. as well as Atheros and is the 10th President of Stanford University. Marc Andreessen called him "the godfather of Silicon Valley."".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://dbpedia.org/ontology/abstract> "Charles William Steger, Ph.D. (born June 16, 1947) is the 15th president of Virginia Polytechnic Institute and State University (Virginia Tech) in Blacksburg, Virginia, United States. He graduated in 1969 from Virginia Tech, where he also received his master's in architecture and doctoral degree in Environmental Science and Engineering.Steger served Virginia Tech at nearly every level possible. He was a Virginia Tech student, instructor (where he won two teaching excellence awards and co-authored a textbook now in its seventh edition), academic department head, college dean (the youngest dean of any college of architecture in the US), vice president, and finally president.In Steger's previous position as Vice President for Development and University Relations, he served as director of a six-year campaign which exceeded its $250 million goal raising $337.4 million with over 71,000 donors.On May 14, 2013, Steger announced that he is stepping down as the President of Virginia Tech. He will be succeeded on June 1st, 2014 by Timothy D. Sands, Executive Vice President for Academic Affairs and Provost at Purdue University.".
+<http://dbpedia.org/resource/Garnett_S._Stokes> <http://dbpedia.org/ontology/abstract> "Garnett Sue Stokes (born December 20, 1955 in Washington, D.C.) is the Provost and interim President of Florida State University. She previously served as the Dean of the Franklin College of Arts and Sciences for seven years at the University of Georgia in Athens, Georgia.".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/ontology/abstract> "Virginia Polytechnic Institute and State University, popularly known as Virginia Tech, is a public land-grant university with a main campus in Blacksburg, Virginia, educational facilities in six regions statewide, and a study-abroad site in Switzerland. The commonwealth's most comprehensive university and leading research institution, Virginia Tech offers 225 undergraduate and graduate degree programs to some 31,000 students and manages a research portfolio of $454 million. The university fulfills its land-grant mission of transforming knowledge to practice through technological leadership and by fueling economic growth and job creation locally, regionally, and across Virginia.The Virginia Tech Board of Visitors serves as the university's governing body. The board comprises 13 members who are appointed by the governor of Virginia. Serving as ex-officio, non-voting representatives are the president of the state Board of Agriculture and Consumer Services; the presidents of the university's faculty senate and staff senate; and an undergraduate student and a graduate student selected through a competitive review process.".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/ontology/abstract> "Canada /ˈkænədə/ is a country in North America consisting of 10 provinces and 3 territories. Located in the northern part of the continent, it extends from the Atlantic to the Pacific and northward into the Arctic Ocean. At 9.98 million square kilometres in total, Canada is the world's second-largest country by total area, and its common border with the United States is the world's longest land border shared by the same two countries.The land that is now Canada has been inhabited for millennia by various Aboriginal peoples. Beginning in the late 15th century, British and French colonies were established on the region's Atlantic coast. As a consequence of various conflicts, the United Kingdom gained and lost North American territories until left in the late 18th century with what mostly comprises Canada today. Pursuant to the British North America Act, on July 1, 1867 three colonies joined to form the autonomous federal dominion of Canada. This began an accretion of provinces and territories to the new self-governing dominion. In 1931 Britain granted Canada full independence in most matters with the Statute of Westminster 1931. The last ties were dissolved in 1982 with the Canada Act 1982.Canada is a federal parliamentary democracy and a constitutional monarchy, with Queen Elizabeth II as its head of state. Canada is a member of the Commonwealth of Nations. The country is officially bilingual at the federal level. It is one of the world's most ethnically diverse and multicultural nations, the product of large-scale immigration from many countries, with a population of approximately 35 million as of December 2012. Its advanced economy is one of the largest in the world, relying chiefly upon its abundant natural resources and well-developed trade networks. Canada's long and complex relationship with the United States has had a significant impact on its economy and culture.Canada is a developed country and one of the wealthiest in the world, with the eighth highest per capita income globally, and the eleventh highest ranking in the Human Development Index. It ranks among the highest in international measurements of education, government transparency, civil liberties, quality of life, and economic freedom. Canada's participation in economic international and intergovernmental institutions or groupings includes the G8 (Group of Eight); the Group of Ten (economic); the Group of Twenty (G-20 major economies); the North American Free Trade Agreement; and the Asia-Pacific Economic Cooperation forum. Canada's alliances include the North Atlantic Treaty Organization (NATO).".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/ontology/abstract> "Florida /ˈflɒrɪdə/ is a state in the southeastern region of the United States, bordered to the west by the Gulf of Mexico, to the north by Alabama and Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida. Florida is the 22nd most extensive, the 4th most populous, and the 8th most densely populated of the 50 United States. The state capital is Tallahassee, the largest city is Jacksonville, and the largest metropolitan area is the Miami metropolitan area.Much of Florida is a peninsula between the Gulf of Mexico, the Atlantic Ocean, and the Straits of Florida. Its geography is notable for a coastline, omnipresent water and the threat of hurricanes. Florida has the longest coastline in the contiguous United States, encompassing approximately 1,350 miles (2,170 km), and is the only state that borders both the Gulf of Mexico and the Atlantic Ocean. Much of the state is at or near sea level and is characterized by sedimentary soil. The climate varies from subtropical in the north to tropical in the south. Some of its most iconic animals, such as the American alligator, crocodile, Florida panther and the manatee, can be found in the Everglades National Park.Since the first European contact was made in 1513 by Spanish explorer Juan Ponce de León – who named it La Florida ([la floˈɾiða] "Flowery Land") upon landing there during the Easter season, Pascua Florida – Florida was a challenge for the European colonial powers before it gained statehood in the United States in 1845. It was a principal location of the Seminole Wars against the Indians, and racial segregation after the American Civil War. Today, it is distinguished by its large Hispanic community, and high population growth, as well as its increasing environmental concerns. Its economy relies mainly on tourism, agriculture, and transportation, which developed in the late 19th century. Florida is also known for its amusement parks, the production of oranges, and the Kennedy Space Center.Florida culture is a reflection of influences and multiple inheritance; Native American, European American, Hispanic and African American heritages can be found in the architecture and cuisine. Florida has attracted many writers such as Marjorie Kinnan Rawlings, Ernest Hemingway and Tennessee Williams, and continues to attract celebrities and athletes. It is internationally known for golf, tennis, auto racing, and water sports.".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/ontology/abstract> "Massachusetts /ˌmæsəˈtʃuːsɨts/, officially the Commonwealth of Massachusetts, is a state in the New England region of the northeastern United States. It is bordered by Rhode Island and Connecticut to the south, New York to the west, and Vermont and New Hampshire to the north; at its east lies the Atlantic Ocean. Massachusetts is the 7th smallest, but the 14th most populous and the 3rd most densely populated of the 50 United States. Massachusetts features two separate metropolitan areas: Greater Boston in the east and the Springfield metropolitan area in the west. Approximately two-thirds of Massachusetts' population lives in Greater Boston. Generally the Greater Boston boundary is regarded as the Atlantic Ocean to the east and areas just north, west, and south of Interstate 495 to the west, north, and south. Western Massachusetts features one urban area - the Knowledge Corridor along the Connecticut River - and a mix of college towns and rural areas. Many of Massachusetts' towns, cities, and counties have names identical to ones in England. Massachusetts is the most populous of the six New England states and has the nation's sixth highest GDP per capita.Massachusetts has played a significant historical, cultural, and commercial role in American history. Plymouth was the site of the colony founded in 1620 by the Pilgrims, passengers of the Mayflower. Harvard University, founded in 1636, is the oldest institution of higher learning in the United States. In 1692, the town of Salem and surrounding areas experienced one of America's most infamous cases of mass hysteria, the Salem witch trials. In the 18th century, the Protestant First Great Awakening, which swept the Atlantic world, originated from the pulpit of Northampton, Massachusetts preacher Jonathan Edwards. In the late 18th century, Boston became known as the "Cradle of Liberty" for the agitation there that led to the American Revolution and the independence of the United States from Great Britain. In 1777, General Henry Knox founded the Springfield Armory, which during the Industrial Revolution catalyzed numerous important technological advances, including interchangeable parts. In 1786, Shays' Rebellion, a populist revolt led by disaffected Revolutionary War veterans, led directly to the United States Constitutional Convention.Before the American Civil War, Massachusetts was a center for the temperance, transcendentalist, and abolitionist movements. In 1837, Mount Holyoke College, the United States' first college for women, was opened in the Connecticut River Valley town of South Hadley. In the late 19th century, the (now) Olympic sports of basketball and volleyball were invented in the Western Massachusetts cities of Springfield and Holyoke, respectively. In 2004, Massachusetts became the first U.S. state to legally recognize same-sex marriage as a result of the decision of the state's Supreme Judicial Court. Massachusetts has contributed many prominent politicians to national service, including members of the Adams family and the Kennedy family.Originally dependent on fishing, agriculture, and trade, Massachusetts was transformed into a manufacturing center during the Industrial Revolution. During the 20th century, Massachusetts' economy shifted from manufacturing to services. In the 21st century, Massachusetts is a leader in higher education, health care technology, high technology, and financial services.".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://dbpedia.org/ontology/abstract> "Christopher Ludwig Eisgruber (born September 24, 1961) is the 20th and current President of Princeton University.".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://purl.org/dc/elements/1.1/description> "American academic administrator".
+<http://dbpedia.org/resource/Garnett_S._Stokes> <http://purl.org/dc/elements/1.1/description> "American academic".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://purl.org/dc/elements/1.1/description> "American lawyer and university president".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://xmlns.com/foaf/0.1/givenName> "John L.".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://xmlns.com/foaf/0.1/givenName> "Charles W.".
+<http://dbpedia.org/resource/Garnett_S._Stokes> <http://xmlns.com/foaf/0.1/givenName> "Garnett S.".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://xmlns.com/foaf/0.1/givenName> "Christopher L.".
+<http://dbpedia.org/resource/Kelowna> <http://xmlns.com/foaf/0.1/name> "Kelowna".
+<http://dbpedia.org/resource/Kelowna> <http://xmlns.com/foaf/0.1/name> "City of Kelowna".
+<http://dbpedia.org/resource/United_States> <http://xmlns.com/foaf/0.1/name> "the United States".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://xmlns.com/foaf/0.1/name> "Hennessy, John L.".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://xmlns.com/foaf/0.1/name> "John Leroy Hennessy".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://xmlns.com/foaf/0.1/name> "John L. Hennessy".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://xmlns.com/foaf/0.1/name> "Charles W. Steger".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://xmlns.com/foaf/0.1/name> "Steger, Charles W.".
+<http://dbpedia.org/resource/Garnett_S._Stokes> <http://xmlns.com/foaf/0.1/name> "Garnett S. Stokes".
+<http://dbpedia.org/resource/Garnett_S._Stokes> <http://xmlns.com/foaf/0.1/name> "Stokes, Garnett S.".
+<http://dbpedia.org/resource/Virginia_Tech> <http://xmlns.com/foaf/0.1/name> "Virginia Polytechnic Institute".
+<http://dbpedia.org/resource/Virginia_Tech> <http://xmlns.com/foaf/0.1/name> "and State University".
+<http://dbpedia.org/resource/Canada> <http://xmlns.com/foaf/0.1/name> "Canada".
+<http://dbpedia.org/resource/Florida> <http://xmlns.com/foaf/0.1/name> "State of Florida".
+<http://dbpedia.org/resource/Massachusetts> <http://xmlns.com/foaf/0.1/name> "Commonwealth of Massachusetts".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://xmlns.com/foaf/0.1/name> "Christopher L. Eisgruber".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://xmlns.com/foaf/0.1/name> "Eisgruber, Christopher L.".
+<http://dbpedia.org/resource/Kelowna> <http://xmlns.com/foaf/0.1/nick> "K-Town".
+<http://dbpedia.org/resource/Virginia_Tech> <http://xmlns.com/foaf/0.1/nick> "Hokies".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/ontology/formerName> "* Virginia Polytechnic Institute (1944–1970)".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/ontology/formerName> "* Virginia Agricultural and Mechanical College and Polytechnic Institute (1896–1944)".
+<http://dbpedia.org/resource/Virginia_Tech> <http://dbpedia.org/ontology/formerName> "* Virginia Agricultural and Mechanical College (1892–1896)".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/ontology/leaderTitle> "Mayor".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/ontology/leaderTitle> "MP".
+<http://dbpedia.org/resource/Kelowna> <http://dbpedia.org/ontology/leaderTitle> "MLAs".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/ontology/leaderTitle> "President".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/ontology/leaderTitle> "Vice President".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/ontology/leaderTitle> "Chief Justice".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/ontology/leaderTitle> "Monarch".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/ontology/leaderTitle> "Prime Minister".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/ontology/leaderTitle> "Chief Justice".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/ontology/demonym> "American".
+<http://dbpedia.org/resource/Canada> <http://dbpedia.org/ontology/demonym> "Canadian".
+<http://dbpedia.org/resource/Florida> <http://dbpedia.org/ontology/demonym> "Floridian".
+<http://dbpedia.org/resource/Massachusetts> <http://dbpedia.org/ontology/demonym> "Bay Stater (official) Massachusite (traditional) Massachusettsian (archaic)".
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/ontology/longName> "United States of America".
+<http://dbpedia.org/resource/Kelowna> <http://www.w3.org/2000/01/rdf-schema#comment> "Kelowna (/kɛloʊnə/) is a city on Okanagan Lake in the Okanagan Valley, in the southern interior of British Columbia, Canada. It serves as the head office of the Regional District of Central Okanagan. Its name derives from an Okanagan language term for "grizzly bear".".
+<http://dbpedia.org/resource/United_States> <http://www.w3.org/2000/01/rdf-schema#comment> "The United States of America (USA), commonly referred to as the United States (US), America or simply the States, is a federal republic consisting of 50 states and a federal district. The 48 contiguous states and the federal district of Washington, D.C., are in central North America between Canada and Mexico. The state of Alaska is the northwestern part of North America and the state of Hawaii is an archipelago in the mid-Pacific.".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://www.w3.org/2000/01/rdf-schema#comment> "John LeRoy Hennessy (born September 22, 1952) is an American computer scientist, academician, and businessman. Hennessy is one of the founders of MIPS Computer Systems Inc. as well as Atheros and is the 10th President of Stanford University. Marc Andreessen called him "the godfather of Silicon Valley."".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://www.w3.org/2000/01/rdf-schema#comment> "Charles William Steger, Ph.D. (born June 16, 1947) is the 15th president of Virginia Polytechnic Institute and State University (Virginia Tech) in Blacksburg, Virginia, United States. He graduated in 1969 from Virginia Tech, where he also received his master's in architecture and doctoral degree in Environmental Science and Engineering.Steger served Virginia Tech at nearly every level possible.".
+<http://dbpedia.org/resource/Garnett_S._Stokes> <http://www.w3.org/2000/01/rdf-schema#comment> "Garnett Sue Stokes (born December 20, 1955 in Washington, D.C.) is the Provost and interim President of Florida State University. She previously served as the Dean of the Franklin College of Arts and Sciences for seven years at the University of Georgia in Athens, Georgia.".
+<http://dbpedia.org/resource/Virginia_Tech> <http://www.w3.org/2000/01/rdf-schema#comment> "Virginia Polytechnic Institute and State University, popularly known as Virginia Tech, is a public land-grant university with a main campus in Blacksburg, Virginia, educational facilities in six regions statewide, and a study-abroad site in Switzerland. The commonwealth's most comprehensive university and leading research institution, Virginia Tech offers 225 undergraduate and graduate degree programs to some 31,000 students and manages a research portfolio of $454 million.".
+<http://dbpedia.org/resource/Canada> <http://www.w3.org/2000/01/rdf-schema#comment> "Canada /ˈkænədə/ is a country in North America consisting of 10 provinces and 3 territories. Located in the northern part of the continent, it extends from the Atlantic to the Pacific and northward into the Arctic Ocean.".
+<http://dbpedia.org/resource/Florida> <http://www.w3.org/2000/01/rdf-schema#comment> "Florida /ˈflɒrɪdə/ is a state in the southeastern region of the United States, bordered to the west by the Gulf of Mexico, to the north by Alabama and Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida. Florida is the 22nd most extensive, the 4th most populous, and the 8th most densely populated of the 50 United States.".
+<http://dbpedia.org/resource/Massachusetts> <http://www.w3.org/2000/01/rdf-schema#comment> "Massachusetts /ˌmæsəˈtʃuːsɨts/, officially the Commonwealth of Massachusetts, is a state in the New England region of the northeastern United States. It is bordered by Rhode Island and Connecticut to the south, New York to the west, and Vermont and New Hampshire to the north; at its east lies the Atlantic Ocean. Massachusetts is the 7th smallest, but the 14th most populous and the 3rd most densely populated of the 50 United States.".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://www.w3.org/2000/01/rdf-schema#comment> "Christopher Ludwig Eisgruber (born September 24, 1961) is the 20th and current President of Princeton University.".
+<http://dbpedia.org/resource/John_L._Hennessy> <http://xmlns.com/foaf/0.1/surname> "Hennessy".
+<http://dbpedia.org/resource/Charles_W._Steger> <http://xmlns.com/foaf/0.1/surname> "Steger".
+<http://dbpedia.org/resource/Garnett_S._Stokes> <http://xmlns.com/foaf/0.1/surname> "Stokes".
+<http://dbpedia.org/resource/Christopher_L._Eisgruber> <http://xmlns.com/foaf/0.1/surname> "Eisgruber".

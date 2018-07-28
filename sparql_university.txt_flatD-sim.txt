@@ -1,0 +1,254 @@
+(11,9): 0.833
+("Toronto","University of Toronto"): 0.833
+(13,7): 0.833
+("Kent State University","Kent"): 0.833
+(13,9): 0.667
+("Kent State University","University of Toronto"): 0.667
+(12,9): 0.646
+("Case Western Reserve University","University of Toronto"): 0.646
+(13,12): 0.646
+("Kent State University","Case Western Reserve University"): 0.646
+(30,6): 0.575
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Kent,_Ohio>): 0.575
+(16,9): 0.500
+("Naylor, David","University of Toronto"): 0.500
+(18,9): 0.500
+("Lester Lefton","University of Toronto"): 0.500
+(19,9): 0.500
+("Lefton, Lester","University of Toronto"): 0.500
+(21,9): 0.500
+("Snyder, Barbara","University of Toronto"): 0.500
+(15,11): 0.500
+("David Naylor","Toronto"): 0.500
+(16,11): 0.500
+("Naylor, David","Toronto"): 0.500
+(18,11): 0.500
+("Lester Lefton","Toronto"): 0.500
+(19,11): 0.500
+("Lefton, Lester","Toronto"): 0.500
+(21,11): 0.500
+("Snyder, Barbara","Toronto"): 0.500
+(43,42): 0.500
+("2615060","396815"): 0.500
+(49,48): 0.500
+("630","213"): 0.500
+(55,50): 0.500
+("1793-08-27","1796"): 0.500
+(56,50): 0.500
+("1834-03-06","1796"): 0.500
+(57,50): 0.500
+("1998-01-01","1796"): 0.500
+(55,52): 0.500
+("1793-08-27","1814"): 0.500
+(55,54): 0.500
+("1793-08-27","1867"): 0.500
+(56,52): 0.500
+("1834-03-06","1814"): 0.500
+(55,53): 0.500
+("1793-08-27","1836"): 0.500
+(56,53): 0.500
+("1834-03-06","1836"): 0.500
+(57,53): 0.500
+("1998-01-01","1836"): 0.500
+(62,61): 0.500
+("43","41"): 0.500
+(65,64): 0.500
+("42","28"): 0.500
+(68,66): 0.500
+("416647","216"): 0.500
+(18,15): 0.500
+("Lester Lefton","David Naylor"): 0.500
+(18,16): 0.500
+("Lester Lefton","Naylor, David"): 0.500
+(19,15): 0.500
+("Lefton, Lester","David Naylor"): 0.500
+(19,16): 0.500
+("Lefton, Lester","Naylor, David"): 0.500
+(71,70): 0.500
+("1954-10-26","1946-07-27"): 0.500
+(21,15): 0.500
+("Snyder, Barbara","David Naylor"): 0.500
+(21,16): 0.500
+("Snyder, Barbara","Naylor, David"): 0.500
+(21,18): 0.500
+("Snyder, Barbara","Lester Lefton"): 0.500
+(21,19): 0.500
+("Snyder, Barbara","Lefton, Lester"): 0.500
+(38,37): 0.500
+("CIT: 1880","1910"): 0.500
+(39,37): 0.500
+("WRU: 1826","1910"): 0.500
+(40,37): 0.500
+("CWRU: 1967","1910"): 0.500
+(37,36): 0.500
+("1910","15"): 0.500
+(13,11): 0.500
+("Kent State University","Toronto"): 0.500
+(15,13): 0.500
+("David Naylor","Kent State University"): 0.500
+(16,13): 0.500
+("Naylor, David","Kent State University"): 0.500
+(18,13): 0.500
+("Lester Lefton","Kent State University"): 0.500
+(19,13): 0.500
+("Lefton, Lester","Kent State University"): 0.500
+(21,13): 0.500
+("Snyder, Barbara","Kent State University"): 0.500
+(12,7): 0.500
+("Case Western Reserve University","Kent"): 0.500
+(38,36): 0.500
+("CIT: 1880","15"): 0.500
+(39,36): 0.500
+("WRU: 1826","15"): 0.500
+(40,36): 0.500
+("CWRU: 1967","15"): 0.500
+(12,11): 0.500
+("Case Western Reserve University","Toronto"): 0.500
+(15,12): 0.500
+("David Naylor","Case Western Reserve University"): 0.500
+(16,12): 0.500
+("Naylor, David","Case Western Reserve University"): 0.500
+(18,12): 0.500
+("Lester Lefton","Case Western Reserve University"): 0.500
+(19,12): 0.500
+("Lefton, Lester","Case Western Reserve University"): 0.500
+(21,12): 0.500
+("Snyder, Barbara","Case Western Reserve University"): 0.500
+(9,7): 0.500
+("University of Toronto","Kent"): 0.500
+(11,7): 0.500
+("Toronto","Kent"): 0.500
+(43,41): 0.500
+("2615060","28904"): 0.500
+(49,47): 0.500
+("630","24"): 0.500
+(55,51): 0.500
+("1793-08-27","1805"): 0.500
+(57,52): 0.500
+("1998-01-01","1814"): 0.500
+(58,55): 0.500
+("November 1805","1793-08-27"): 0.500
+(56,51): 0.500
+("1834-03-06","1805"): 0.500
+(56,54): 0.500
+("1834-03-06","1867"): 0.500
+(58,56): 0.500
+("November 1805","1834-03-06"): 0.500
+(57,51): 0.500
+("1998-01-01","1805"): 0.500
+(57,54): 0.500
+("1998-01-01","1867"): 0.500
+(58,57): 0.500
+("November 1805","1998-01-01"): 0.500
+(62,61): 0.500
+("43","41"): 0.500
+(65,63): 0.500
+("42","9"): 0.500
+(68,67): 0.500
+("416647","330234"): 0.500
+(15,7): 0.500
+("David Naylor","Kent"): 0.500
+(16,7): 0.500
+("Naylor, David","Kent"): 0.500
+(18,7): 0.500
+("Lester Lefton","Kent"): 0.500
+(19,7): 0.500
+("Lefton, Lester","Kent"): 0.500
+(21,7): 0.500
+("Snyder, Barbara","Kent"): 0.500
+(42,41): 0.500
+("396815","28904"): 0.500
+(48,47): 0.500
+("213","24"): 0.500
+(51,50): 0.500
+("1805","1796"): 0.500
+(54,50): 0.500
+("1867","1796"): 0.500
+(58,50): 0.500
+("November 1805","1796"): 0.500
+(52,51): 0.500
+("1814","1805"): 0.500
+(54,52): 0.500
+("1867","1814"): 0.500
+(58,52): 0.500
+("November 1805","1814"): 0.500
+(53,51): 0.500
+("1836","1805"): 0.500
+(54,53): 0.500
+("1867","1836"): 0.500
+(58,53): 0.500
+("November 1805","1836"): 0.500
+(60,59): 0.500
+("Cleveland , 1981-2010 normals","Kent, Ohio"): 0.500
+(64,63): 0.500
+("28","9"): 0.500
+(67,66): 0.500
+("330234","216"): 0.500
+(15,9): 0.500
+("David Naylor","University of Toronto"): 0.500
+(10,6): 0.469
+(<http://dbpedia.org/resource/Toronto>,<http://dbpedia.org/resource/Kent,_Ohio>): 0.469
+(30,10): 0.459
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Toronto>): 0.459
+(5,0): 0.426
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/Kent_State_University>): 0.426
+(8,5): 0.382
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Case_Western_Reserve_University>): 0.382
+(8,0): 0.379
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Kent_State_University>): 0.379
+(17,14): 0.332
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/David_Naylor>): 0.332
+(20,8): 0.203
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/University_of_Toronto>): 0.203
+(20,10): 0.197
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Toronto>): 0.197
+(20,5): 0.197
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Case_Western_Reserve_University>): 0.197
+(10,8): 0.194
+(<http://dbpedia.org/resource/Toronto>,<http://dbpedia.org/resource/University_of_Toronto>): 0.194
+(20,0): 0.189
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Kent_State_University>): 0.189
+(20,6): 0.185
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Kent,_Ohio>): 0.185
+(20,17): 0.185
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Lester_Lefton>): 0.185
+(6,0): 0.184
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Kent_State_University>): 0.184
+(20,14): 0.180
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/David_Naylor>): 0.180
+(10,5): 0.175
+(<http://dbpedia.org/resource/Toronto>,<http://dbpedia.org/resource/Case_Western_Reserve_University>): 0.175
+(8,6): 0.174
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Kent,_Ohio>): 0.174
+(10,0): 0.172
+(<http://dbpedia.org/resource/Toronto>,<http://dbpedia.org/resource/Kent_State_University>): 0.172
+(6,5): 0.172
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Case_Western_Reserve_University>): 0.172
+(14,8): 0.166
+(<http://dbpedia.org/resource/David_Naylor>,<http://dbpedia.org/resource/University_of_Toronto>): 0.166
+(17,8): 0.166
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/University_of_Toronto>): 0.166
+(17,5): 0.165
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/Case_Western_Reserve_University>): 0.165
+(17,10): 0.165
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/Toronto>): 0.165
+(14,5): 0.165
+(<http://dbpedia.org/resource/David_Naylor>,<http://dbpedia.org/resource/Case_Western_Reserve_University>): 0.165
+(14,10): 0.164
+(<http://dbpedia.org/resource/David_Naylor>,<http://dbpedia.org/resource/Toronto>): 0.164
+(14,0): 0.163
+(<http://dbpedia.org/resource/David_Naylor>,<http://dbpedia.org/resource/Kent_State_University>): 0.163
+(17,0): 0.163
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/Kent_State_University>): 0.163
+(17,6): 0.163
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/Kent,_Ohio>): 0.163
+(14,6): 0.163
+(<http://dbpedia.org/resource/David_Naylor>,<http://dbpedia.org/resource/Kent,_Ohio>): 0.163
+(30,0): 0.150
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Kent_State_University>): 0.150
+(30,5): 0.150
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Case_Western_Reserve_University>): 0.150
+(30,8): 0.150
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/University_of_Toronto>): 0.150
+(30,14): 0.150
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/David_Naylor>): 0.150

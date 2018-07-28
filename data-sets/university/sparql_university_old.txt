@@ -1,0 +1,1011 @@
+﻿"s"	"p"	"o"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/David_Naylor"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Toronto"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/University_of_Chicago"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lester_Lefton"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Chicago"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Illinois"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kent_State_University"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ohio"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ontario"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kent,_Ohio"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/University_of_Toronto"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/settledDate"	1750
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/settledTitle"	"Settled"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/alumni"	196000
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/arwuEng"	12
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/arwuLife"	47
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/arwuSci"	14
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/arwuSci"	35
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/ft"	11
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/gur"	10
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/nobelLaureates"	89
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/quartersize"	200
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/shieldLink"	"Coat of arms of Toronto"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/university"	"http://dbpedia.org/resource/Kent_State_University"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/university"	"President of"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/2000density"	89.4
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/2000density"	109
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/2000densityus"	232
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/2000densityus"	282
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/2000pop"	12882135
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/2000pop"	11570808
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/admittancedate"	1818-12-03+02:00
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/admittancedate"	1803-03-01+02:00
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/admittancedate"	1867-07-01+02:00
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/admittanceorder"	"21.0"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/admittanceorder"	17
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/admittanceorder"	1953-08-07+02:00
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/admittanceorder"	"declared retroactively on"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/admittanceorder"	1
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/affiliations"	568
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/Association_of_American_Universities"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/National_Association_of_Independent_Colleges_and_Universities"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/Committee_on_Institutional_Cooperation"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/Universities_Research_Association"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/University_System_of_Ohio"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/Association_of_Public_and_Land-grant_Universities"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/Association_of_American_Universities"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/Association_of_Commonwealth_Universities"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/U15_Group_of_Canadian_Research_Universities"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/International_Association_of_Universities"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/Universities_Research_Association"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/affiliations"	"http://dbpedia.org/resource/Association_of_Universities_and_Colleges_of_Canada"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/align"	"right"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/almaMater"	"http://dbpedia.org/resource/University_of_Oxford"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/almaMater"	"http://dbpedia.org/resource/University_of_Toronto"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/almaMater"	"http://dbpedia.org/resource/University_of_Rochester"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/almaMater"	"http://dbpedia.org/resource/Northeastern_University"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/amphibian"	"http://dbpedia.org/resource/Tiger_salamander"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/amphibian"	"http://dbpedia.org/resource/Spotted_salamander"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/aprHighF"	60
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/aprLowF"	40
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/aprPrecipitationInch"	3.15
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/aprRecordHighF"	88
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/aprRecordLowF"	17
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/areaCode"	416437647
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/areaCode"	312773872847224
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/areaCode"	330234
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/areaLandKm"	23.75
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/areaLandSqMi"	227.2
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/areaLandSqMi"	9.17
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/areaMagnitude"	1
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/areaMetroKm"	7125
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/areaMetroSqMi"	10874
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/areaTotalKm"	630
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/areaTotalKm"	606.1
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/areaTotalKm"	24.04
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/areaTotalSqMi"	234
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/areaTotalSqMi"	9.28
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/areaUrbanKm"	1749
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/areaUrbanSqMi"	2122.8
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/areaWaterKm"	0.28
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/areaWaterPercent"	3
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/areaWaterSqMi"	6.9
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/areaWaterSqMi"	0.11
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/arearank"	25
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/arearank"	34
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/arearank"	4
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/arwuCan"	1
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/arwuN"	8
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/arwuSoc"	2
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/arwuSoc"	42
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/arwuW"	9
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/arwuW"	28
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/athletics"	"http://dbpedia.org/resource/National_Collegiate_Athletic_Association"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/athletics"	"http://dbpedia.org/resource/Division_III_(NCAA)"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/athletics"	"http://dbpedia.org/resource/University_Athletic_Association"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/athletics"	16
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/athletics"	"http://dbpedia.org/resource/National_Collegiate_Athletic_Association"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/athletics"	"http://dbpedia.org/resource/Mid-American_Conference"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/athletics"	"http://dbpedia.org/resource/Division_I_(NCAA)"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/athletics"	44
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/athletics"	"http://dbpedia.org/resource/Canadian_University_Field_Lacrosse_Association"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/athletics"	"http://dbpedia.org/resource/Canadian_Interuniversity_Sport"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/athletics"	"http://dbpedia.org/resource/Ontario_University_Athletics"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/augHighF"	82
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/augLowF"	63
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/augPrecipitationInch"	3.36
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/augRecordHighF"	100
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/augRecordLowF"	43
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/b"	"no"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/beverage"	"http://dbpedia.org/resource/Tomato_juice"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/bird"	"http://dbpedia.org/resource/Northern_Cardinal"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/bird"	"http://dbpedia.org/resource/Northern_Cardinal"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/bird"	"http://dbpedia.org/resource/Great_Northern_Loon"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/birthDate"	1954-10-26+02:00
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/birthDate"	1946-07-27+02:00
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/birthName"	"Christopher David Naylor"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/birthPlace"	"http://dbpedia.org/resource/Ontario"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/birthPlace"	"http://dbpedia.org/resource/Woodstock,_Ontario"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/birthPlace"	"http://dbpedia.org/resource/Canada"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/birthPlace"	"http://dbpedia.org/resource/Brookline,_Massachusetts"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/birthPlace"	"http://dbpedia.org/resource/Massachusetts"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/blank1Info"	"FEUZB"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/blank1Info"	2395512
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/blank1Name"	"GNBC Code"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/blank1Name"	"GNIS feature ID"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/blank1Name"	"GNIS feature ID"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/blankInfo"	30
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/blankInfo"	39
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/blankName"	"NTS Map"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/blankName"	"FIPS code"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/blankName"	"http://dbpedia.org/resource/Federal_Information_Processing_Standards"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/borderingstates"	"http://dbpedia.org/resource/Wisconsin"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/borderingstates"	"http://dbpedia.org/resource/Kentucky"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/borderingstates"	"http://dbpedia.org/resource/Missouri"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/borderingstates"	"http://dbpedia.org/resource/Indiana"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/borderingstates"	"http://dbpedia.org/resource/Iowa"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/butterfly"	"http://dbpedia.org/resource/Monarch_butterfly"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/calendar"	"Quarter"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/campus"	"Urban,"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/campus"	"http://dbpedia.org/resource/Suburb"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/campus"	"http://dbpedia.org/resource/College_town"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/campus"	"Urban,"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/cap"	4
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/capital"	"http://dbpedia.org/resource/Springfield,_Illinois"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/capital"	"http://dbpedia.org/resource/Columbus,_Ohio"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/capital"	"http://dbpedia.org/resource/Toronto"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/caption"	"Lefton Photo Taken in 2012"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/center"	"Toronto"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/centre"	"Illinois: Outline • Index"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/centre"	"Ohio: Outline • Index"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/chancellor"	"http://dbpedia.org/resource/Michael_Wilson_(Canadian_politician)"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/children"	"Karline Naylor"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/children"	"Max Naylor"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/children"	"Melinda Naylor"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/children"	"Sam Naylor"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/city"	"Chicago"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/city"	"http://dbpedia.org/resource/Kent,_Ohio"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/city"	"http://dbpedia.org/resource/Toronto"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/coatofarms"	"Coat of Arms of Ontario.png"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/colors"	"Maroon  White"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/colors"	"Kent State Blue and Kent State Gold"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/coordinatesDisplay"	1
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/coordinatesDisplay"	"inline,title"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/coordinatesDisplay"	"inline,title"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/coordinatesRegion"	"CA-ON"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/coordinatesRegion"	"US-IL"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/coordinatesRegion"	"US-OH"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/country"	"http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/country"	"http://dbpedia.org/resource/Canada"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/country"	"http://dbpedia.org/resource/Canada"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/dance"	"http://dbpedia.org/resource/Square_dance"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/date"	"August 2010"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/dateOfBirth"	1954-10-26+02:00
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/dateOfBirth"	1946-07-27+02:00
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/decHighF"	39
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/decLowF"	26
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/decPrecipitationInch"	2.83
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/decRecordHighF"	72
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/decRecordLowF"	"−12"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/demonym"	"Illinoisan"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/demonym"	"Ohioan; Buckeye"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/demonym"	"Ontarian"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/densityKm"	14.1
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/densityrank"	12
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/densityrank"	10
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/densityrank"	"3.0"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/direction"	"horizontal"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/direction"	"vertical"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/east"	"http://dbpedia.org/resource/Pickering,_Ontario"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/electoralvotes"	21
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/elevationFt"	597
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/elevationFt"	1050
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/elevationM"	76
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/elevationM"	320
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/endowment"	"US$6.67 billion"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/endowment"	"1.091E8"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/endowment"	"C$1.663 billion"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/entityadjective"	"Provincial"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/established"	1890
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/established"	1910
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/established"	1827-03-15+02:00
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/establishedDate"	1793-08-27+02:00
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/establishedDate"	1834-03-06+02:00
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/establishedDate"	1998-01-01+02:00
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/establishedDate"	1837-03-04+02:00
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/establishedDate"	"1770.0"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/establishedDate"	1805
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/establishedDate"	1867
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/establishedDate"	"November 1805"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/establishedTitle"	"http://dbpedia.org/resource/Municipal_corporation"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/establishedTitle"	"http://dbpedia.org/resource/Merger_(politics)"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/establishedTitle"	"Established"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/establishedTitle"	"http://dbpedia.org/resource/Municipal_corporation"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/establishedTitle"	"Settled"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/establishedTitle"	"Founded"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/establishedTitle"	"Incorporated"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/expiry"	2014-08-16+02:00
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/faculty"	2168
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/faculty"	2458
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/febHighF"	38
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/febLowF"	23
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/febPrecipitationInch"	2
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/febRecordHighF"	70
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/febRecordLowF"	"−6"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/fish"	"http://dbpedia.org/resource/Bluegill"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/flag"	"Flag of Illinois.svg"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/flag"	"Flag of Ohio.svg"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/flag"	"Flag of Ontario.svg"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/flagLink"	"Flag of Toronto"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/flagSize"	125
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/flaglink"	"http://dbpedia.org/resource/Flag_and_seal_of_Illinois"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/flaglink"	"http://dbpedia.org/resource/Flag_of_Ohio"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/flagsize"	100
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/flagsize"	200
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/flower"	"http://dbpedia.org/resource/Viola_(plant)"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/flower"	"http://dbpedia.org/resource/Dianthus_caryophyllus"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/flower"	"http://dbpedia.org/resource/Trillium_grandiflorum"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/food"	"Gold Rush Apple Popcorn"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/footer"	"Top: Soldier Field; Middle: Wrigley Field; Bottom: Toyota Park"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/footer"	"Top: United Center; Middle: U.S. Cellular Field Bottom: Allstate Arena"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/footer"	"Portage Park on the Northwest Side and Washington Square Park on the Near North Side."
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/footerAlign"	"left/right/center"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/forbes"	14
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/former"	"Illinois Territory"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/fossil"	"http://dbpedia.org/resource/Tullimonstrum"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/fossil"	"Isotelus maximus, a trilobite"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/founder"	"http://dbpedia.org/resource/John_Haymaker"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/fullname"	"State of Illinois"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/fullname"	"State of Ohio"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/gdpPerCapita"	"C$48,971"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/gdpPerCapitaRank"	7
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/gdpRank"	"1.0"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/gdpTotal"	"C$654.561 billion"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/gdpYear"	2011
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/gemstone"	"Ohio Flint"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/governmentType"	"http://dbpedia.org/resource/Mayor%E2%80%93council_government"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/governmentType"	"http://dbpedia.org/resource/Rob_Ford"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/governmentType"	"http://dbpedia.org/resource/Mayor%E2%80%93council_government"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/governmentType"	"http://dbpedia.org/resource/Council%E2%80%93manager_government"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/governor"	"http://dbpedia.org/resource/Pat_Quinn_(politician)"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/governor"	"http://dbpedia.org/resource/John_Kasich"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/grass"	"http://dbpedia.org/resource/Andropogon_gerardii"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/headerAlign"	"left/right/center"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/highestelev"	376.4
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/highestelev"	472
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/highestelevus"	1235
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/highestelevus"	1549
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/highestpoint"	"http://dbpedia.org/resource/Charles_Mound"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/highestpoint"	"http://dbpedia.org/resource/Campbell_Hill_(Ohio)"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/houseseats"	106
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/id"	"il0993"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/image"	0001-03-09+02:00
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/image"	"Allstate Arena.jpg"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/image"	"Portage Park Chicago Gate.JPG"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/image"	"Soldier FieldChi.jpg"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/image"	"US Cellular.jpg"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/image"	"United Center 060716.jpg"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/image"	"Washington Square Park & Newberry Library.JPG"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/image"	"Wrigley field 720.jpg"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/imageAlt"	"The seal of the University of Chicago. It is in the shape of a shield, with a drawing of a phoenix on the bottom and a book with the university's motto ""Crescat scientia; vita excolatur"" on the top."
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/imageBlankEmblem"	"City of Toronto Logo.png"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/imageCaption"	"From top left: Downtown Toronto featuring the CN Tower and Financial District from the Toronto Islands, City Hall, the Ontario Legislative Building, Casa Loma, Prince Edward Viaduct, and the Scarborough Bluffs"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/imageCaption"	"Clockwise from top: Downtown Chicago, the Chicago Theatre, the 'L', Navy Pier, Millennium Park, the Field Museum, and Willis Tower."
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/imageCaption"	"Downtown Kent, September 2009"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/imageFlag"	"Toronto Flag.svg"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/imageFlag"	"Flag of Chicago, Illinois.svg"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/imageMap"	"Toronto Location in Ontario.png"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/imageMap"	"US-IL-Chicago.png"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/imageMap"	"Ohio Portage Kent.png"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/imageName"	"University_of_Chicago_Modern_Etched_Seal 1.svg"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/imageSeal"	"Chicago city seal.png"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/imageSeal"	"Kentlogo.png"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/imageShield"	"Toronto Coat of Arms.jpg"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/imageSize"	250
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/imageSkyline"	"Montage of Toronto 7.jpg"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/imageSkyline"	"Chicago montage1.jpg"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/imageSkyline"	"Downtown Kent Ohio 2.jpg"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/imagesize"	300
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/imperialFirst"	"Y"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/incomerank"	17
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/incomerank"	"33.0"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/insect"	"http://dbpedia.org/resource/Coccinellidae"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/isocode"	"US-IL"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/isocode"	"US-OH"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/isocode"	"CA-ON"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/janHighF"	34
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/janLowF"	20
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/janPrecipitationInch"	2.02
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/janRecordHighF"	65
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/janRecordLowF"	"−22"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/julHighF"	84
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/julLowF"	64
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/julPrecipitationInch"	3.87
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/julRecordHighF"	103
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/julRecordLowF"	44
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/junHighF"	80
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/junLowF"	60
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/junPrecipitationInch"	3.13
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/junRecordHighF"	101
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/junRecordLowF"	39
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/labelMap"	"no"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/landarea"	143968
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/landarea"	106156
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/landareaKm"	917741
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/landareaus"	55593
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/landareaus"	40948
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/languages"	"Spanish"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/languages"	"English"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/languages"	"Other"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/languages"	"English 93.3%"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/languages"	"Other 4.5%"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/languages"	"Spanish 2.2%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/largestcity"	"http://dbpedia.org/resource/Chicago"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/largestcity"	"capital"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/largestcity"	"Toronto"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/largestmetro"	"http://dbpedia.org/resource/Chicago_metropolitan_area"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/largestmetro"	"http://dbpedia.org/resource/Cincinnati_metropolitan_area"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/largestmetro"	"http://dbpedia.org/resource/Greater_Toronto_Area"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/latd"	43
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/latd"	41
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/latd"	41
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/latinName"	"Universitas Chicagiensis"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/latitude"	36
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/latitude"	38
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/latitude"	41
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/latm"	42
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/latm"	52
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/latm"	9
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/latns"	"N"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/latns"	"N"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/latns"	"N"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/lats"	55
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/lats"	2
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/leaderName"	"http://dbpedia.org/resource/Toronto_City_Council"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/leaderName"	"http://dbpedia.org/resource/Norm_Kelly"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/leaderName"	"http://dbpedia.org/resource/Rob_Ford"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/leaderName"	50
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/leaderName"	"Rahm Emanuel"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/leaderName"	"Dave Ruller"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/leaderName"	"Jerry Fiala"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/Member_of_parliament"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/List_of_mayors_of_Toronto"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/leaderTitle"	"Council"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/leaderTitle"	"Deputy Mayor"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/Mayor_of_Chicago"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/Chicago_City_Council"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/Mayor"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/City_manager"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/legislature"	"http://dbpedia.org/resource/Illinois_General_Assembly"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/legislature"	"http://dbpedia.org/resource/Ohio_General_Assembly"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/legislature"	"Legislative Assembly of Ontario"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/length"	629
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/length"	355
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/lengthus"	395
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/lengthus"	220
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/lieutenantGovernor"	"http://dbpedia.org/resource/Sheila_Simon"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/lieutenantGovernor"	"http://dbpedia.org/resource/Mary_Taylor_(politician)"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Baptist: 11%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Buddhist: 1%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Catholic: 29%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Christian: 7%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Church of Christ: 1%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Congregationalist/
+United Church of Christ: 1%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Episcopalian/Anglican: 2%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Evangelical: 2%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Jewish: 1%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Lutheran: 7%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Methodist: 6%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Muslim/Islamic: 1%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"No religion: 15%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Non-denominational: 2%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Not specified: 4%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Other: 3%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Pentecostal: 2%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Presbyterian: 3%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/list"	"Protestant: 2%"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/liststyle"	"text-align:left;"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/location"	"Kent, Ohio"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/logo"	250
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/logo"	220
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/logo"	"Ontario logo.jpg"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/longd"	79
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/longd"	87
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/longd"	81
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/longew"	"W"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/longew"	"W"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/longew"	"W"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/longitude"	87
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/longitude"	80
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/longitude"	81
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/longm"	24
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/longm"	37
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/longm"	21
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/longs"	40
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/longs"	40
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/lowerhouse"	"http://dbpedia.org/resource/Illinois_House_of_Representatives"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/lowerhouse"	"http://dbpedia.org/resource/Ohio_House_of_Representatives"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/lowestelev"	85
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/lowestelev"	139
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/lowestelevus"	280
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/lowestelevus"	455
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/lowestpoint"	"Confluence of Mississippi River and Ohio River"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/lowestpoint"	"Ohio River at"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/mammal"	"http://dbpedia.org/resource/White-tailed_deer"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/mammal"	"http://dbpedia.org/resource/White-tailed_deer"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/map"	"Illinois in United States.svg"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/map"	"Ohio in United States.svg"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/map"	"Ontario in Canada.svg"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/mapCaption"	"Location of Toronto and its census metropolitan area in the province of Ontario"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/mapCaption"	"Location in the Chicago metropolitan area and Illinois"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/mapCaption"	"Location in Portage County, Ohio"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/mapsize"	220
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/marHighF"	48
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/marLowF"	30
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/marPrecipitationInch"	2.85
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/marRecordHighF"	81
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/marRecordLowF"	1
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/mascot"	"http://dbpedia.org/resource/Phoenix_(mythology)"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/mascot"	"Phoenix"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/mascot"	"Flash the Golden Eagle"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/mayHighF"	72
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/mayLowF"	51
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/mayPrecipitationInch"	3.61
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/mayRecordHighF"	94
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/mayRecordLowF"	30
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/meanelev"	180
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/meanelev"	260
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/meanelevus"	600
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/meanelevus"	850
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/medianhouseholdincome"	"54124.0"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/medianhouseholdincome"	"48071.0"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/mineral"	"http://dbpedia.org/resource/Fluorite"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/motto"	"Diversity Our Strength"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/motto"	"Crescat scientia; vita excolatur"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/motto"	", I Will"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/motto"	"State sovereignty, national union"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/motto"	"Excellence In Action"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/motto"	"http://dbpedia.org/resource/With_God,_all_things_are_possible"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/motto"	"""With God all things are possible."""
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/motto"	"Ut Incepit Fidelis Sic Permanet"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/mottoeng"	"Let knowledge grow from more to more; and so be human life enriched"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/n"	"Portal:Toronto, Ontario"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/name"	"David Naylor"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/name"	"Naylor, David"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/name"	"Toronto"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/name"	"University of Chicago"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/name"	"Lester Lefton"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/name"	"Lefton, Lester"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/name"	"Chicago"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/name"	"Illinois"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/name"	"Kent State University"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/name"	"Ohio"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/name"	"Ontario"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/name"	"Kent"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/namedFor"	"http://dbpedia.org/resource/Marvin_Kent"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/navbar"	"off"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/nickname"	"http://dbpedia.org/resource/Name_of_Toronto"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/nickname"	"http://dbpedia.org/resource/Chicago_Maroons"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/nickname"	"The Windy City, Chi-Town, The Second City, City of Broad Shoulders, and others found at List of nicknames for Chicago"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/nickname"	"Land of Lincoln; The ""Prairie State"""
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/nickname"	"http://dbpedia.org/resource/Kent_State_Golden_Flashes"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/nickname"	"Birthplace of Aviation; The Heart of It All"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/nickname"	"The Buckeye State; The Mother of Presidents;"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/nickname"	"The Tree City"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/north"	"http://dbpedia.org/resource/Markham,_Ontario"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/north"	"http://dbpedia.org/resource/Vaughan"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/north"	"•  Lake Erie"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/northeast"	"http://dbpedia.org/resource/Lake_Michigan"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/northwest"	"http://dbpedia.org/resource/Brampton"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/novHighF"	50
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/novLowF"	36
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/novPrecipitationInch"	3.22
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/novRecordHighF"	76
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/novRecordLowF"	2
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/octHighF"	62
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/octLowF"	45
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/octPrecipitationInch"	2.46
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/octRecordHighF"	84
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/octRecordLowF"	25
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/office"	"President of the University of Toronto"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/office"	"http://dbpedia.org/resource/List_of_U.S._states_by_date_of_statehood"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/office"	"http://dbpedia.org/resource/List_of_U.S._states_by_date_of_statehood"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/officialName"	"City of Toronto"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/officialName"	"City of Chicago"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/officialName"	"City of Kent, Ohio"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/officiallang"	"English"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/officiallang"	"None"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/officiallang"	"De facto: English"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/officiallang"	"De jure: None"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/officiallang"	"English"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/order"	15
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/order"	11
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/other"	"Fruit: Pawpaw"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/other"	"Wild flower: Great white trillium"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/pcwater"	3.99
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/pcwater"	8.7
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/percentwater"	14.8
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/photos"	45
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/placeOfBirth"	"http://dbpedia.org/resource/Ontario"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/placeOfBirth"	"http://dbpedia.org/resource/Woodstock,_Ontario"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/placeOfBirth"	"http://dbpedia.org/resource/Canada"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/placeOfBirth"	"http://dbpedia.org/resource/Brookline,_Massachusetts"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/placeOfBirth"	"http://dbpedia.org/resource/Massachusetts"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/popEstAsOf"	2012
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/poprank"	5
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/poprank"	7
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/population"	12851821
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/populationAsOf"	2011
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/populationAsOf"	2012
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/populationAsOf"	2010
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/populationDemonym"	"Torontonian"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/populationDemonym"	"Chicagoan"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/populationDemonym"	"Kentite"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/populationDensityKm"	4149
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/populationDensityKm"	4447.4
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/populationDensityKm"	1217
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/populationDensitySqMi"	11864.4
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/populationDensitySqMi"	3152
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/populationEst"	29807
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/populationMetro"	5583064
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/populationMetro"	9522434
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/populationRank"	3
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/populationTotal"	2615060
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/populationTotal"	2714856
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/populationTotal"	28904
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/populationUrban"	5132794
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/populationrank"	"1.0"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/populationyear"	2011
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/postalCode"	"http://dbpedia.org/resource/List_of_M_postal_codes_of_Canada"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/postalCode"	442404424244243
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/postalCodeType"	"Postal code span"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/postalCodeType"	"ZIP codes"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/postalabbreviation"	"IL, Ill."
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/postalabbreviation"	"OH"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/postalabbreviation"	"ON"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/postalcodeprefix"	"http://dbpedia.org/resource/List_of_N_postal_codes_of_Canada"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/postalcodeprefix"	"http://dbpedia.org/resource/List_of_K_postal_codes_of_Canada"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/postalcodeprefix"	"http://dbpedia.org/resource/List_of_L_postal_codes_of_Canada"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/postalcodeprefix"	"http://dbpedia.org/resource/List_of_M_postal_codes_of_Canada"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/postalcodeprefix"	"http://dbpedia.org/resource/List_of_P_postal_codes_of_Canada"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/postgrad"	9820
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/postgrad"	6030
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/postgrad"	6115
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/preceded"	"http://dbpedia.org/resource/Mississippi"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/preceded"	"http://dbpedia.org/resource/Tennessee"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/predecessor"	"http://dbpedia.org/resource/Robert_J._Birgeneau"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/predecessor"	"(Frank Iacobucci )"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/predecessor"	"(Vivek Goel )"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/predecessor"	"http://dbpedia.org/resource/Carol_Cartwright"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/premier"	"http://dbpedia.org/resource/Kathleen_Wynne"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/premierparty"	"http://dbpedia.org/resource/Ontario_Liberal_Party"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/president"	"http://dbpedia.org/resource/Robert_Zimmer"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/president"	"http://dbpedia.org/resource/Lester_Lefton"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/profession"	"http://dbpedia.org/resource/Professor"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/profession"	"Educator"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/pushpinMap"	"Canada"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/pushpinMap"	"USA"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/pushpinMap"	"USA"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/pushpinMapCaption"	"Location of Toronto in Canada"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/pushpinMapCaption"	"Location in the United States"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/pushpinMapCaption"	"Location in the United States"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/qsW"	9
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/quarter"	2003
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/quarter"	2002
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/quarterreleasedate"	2003
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/quarterreleasedate"	2002
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/representative"	12
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/representative"	12
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/reptile"	"http://dbpedia.org/resource/Painted_turtle"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/reptile"	"http://dbpedia.org/resource/Coluber_constrictor"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/residence"	"http://dbpedia.org/resource/Toronto"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/residence"	"http://dbpedia.org/resource/Ontario"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/residence"	"http://dbpedia.org/resource/Canada"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/routeMarker"	"Illinois 19.svg"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/routeMarker"	"OH-2.svg"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/s"	"no"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/seal"	"Seal of Illinois.svg"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/seal"	"Seal of Ohio.svg"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/seallink"	"http://dbpedia.org/resource/Seal_of_Ohio"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/sealsize"	100
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/sealsize"	200
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/senateseats"	24
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/senators"	"http://dbpedia.org/resource/Dick_Durbin"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/senators"	"http://dbpedia.org/resource/Mark_Kirk"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/senators"	"http://dbpedia.org/resource/Sherrod_Brown"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/senators"	"http://dbpedia.org/resource/Rob_Portman"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/sepHighF"	74
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/sepLowF"	56
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/sepPrecipitationInch"	3.57
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/sepRecordHighF"	95
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/sepRecordLowF"	30
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/settlementType"	"City"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/settlementType"	"http://dbpedia.org/resource/City"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/settlementType"	"http://dbpedia.org/resource/City"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/shieldSize"	85
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/shortDescription"	"Canadian physician"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/shortDescription"	"American psychologist"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/singleLine"	"Y"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/slogan"	"""Land of Lincoln"""
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/slogan"	"So Much to Discover"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/small"	"yes"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/soil"	"http://dbpedia.org/resource/Loam"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/song"	"http://dbpedia.org/resource/Illinois_(state_song)"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/song"	"""Beautiful Ohio"""
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/song"	"""Hang On Sloopy"""
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/source"	"The Weather Channel"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/south"	"Lake Ontario"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/south"	"•"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/spouse"	"Ilse Treurnicht"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/spouse"	"Linda Lefton"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/staff"	14772
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/staff"	2799
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/state"	"http://dbpedia.org/resource/Illinois"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/state"	"expanded"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/state"	"off"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/state"	"http://dbpedia.org/resource/Ohio"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/state"	"expanded"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/students"	14954
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/students"	28998
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/students"	41891
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/style"	"width:15em;float:right;margin:0em 0em 0em 1em;"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/Ontario"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/East_York"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/Old_Toronto"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/Scarborough,_Ontario"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/York,_Ontario"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/North_York"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/Etobicoke"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/Canada"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/Cook_County,_Illinois"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/DuPage_County,_Illinois"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/Ohio"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/Portage_County,_Ohio"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/subdivisionName"	"http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionType"	"http://dbpedia.org/resource/Provinces_and_territories_of_Canada"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionType"	"http://dbpedia.org/resource/Amalgamation_of_Toronto"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/subdivisionType"	"Country"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/subdivisionType"	"http://dbpedia.org/resource/List_of_counties_in_Illinois"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/subdivisionType"	"http://dbpedia.org/resource/List_of_sovereign_states"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/subdivisionType"	"http://dbpedia.org/resource/U.S._state"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/subdivisionType"	"http://dbpedia.org/resource/List_of_counties_in_Ohio"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/subdivisionType"	"http://dbpedia.org/resource/List_of_sovereign_states"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/subdivisionType"	"http://dbpedia.org/resource/U.S._state"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/succeeded"	"http://dbpedia.org/resource/Alabama"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/succeeded"	"http://dbpedia.org/resource/Louisiana"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/successor"	"http://dbpedia.org/resource/Meric_Gertler"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/successor"	"incumbent"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/survey"	"IL-10"
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/termEnd"	"October, 2013"
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/termEnd"	2014-07-01+02:00
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/termStart"	2005-10-01+02:00
+"http://dbpedia.org/resource/Lester_Lefton"	"http://dbpedia.org/property/termStart"	2006-07-01+02:00
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/thesW"	9
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/timezone"	"http://dbpedia.org/resource/Eastern_Time_Zone"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/timezone"	"http://dbpedia.org/resource/Central_Time_Zone"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/timezone"	"http://dbpedia.org/resource/Coordinated_Universal_Time"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/timezone"	"http://dbpedia.org/resource/Central_Time_Zone"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/timezone"	"http://dbpedia.org/resource/Coordinated_Universal_Time"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/timezone"	"http://dbpedia.org/resource/Eastern_Time_Zone"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/timezone"	"Central: UTC-6/-5"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/timezone"	"Eastern: UTC-5"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/timezone"	"Eastern: UTC-5/-4"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/timezone"	"http://dbpedia.org/resource/Eastern_Time_Zone"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/timezoneDst"	"http://dbpedia.org/resource/Eastern_Time_Zone"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/timezoneDst"	"http://dbpedia.org/resource/Central_Time_Zone"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/timezoneDst"	"http://dbpedia.org/resource/Eastern_Time_Zone"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/title"	"Chicago Cityscape, Chicago, Cook County, IL"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/title"	"Religious affiliation"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/title"	"The Land of Lincoln"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/title"	"Topics related to Illinois"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/title"	"The Buckeye State"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/title"	"Topics related to Ohio"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/totalarea"	149998
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/totalarea"	116096
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/totalareaKm"	1076395
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/totalareaus"	57914
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/totalareaus"	44825
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/tree"	"http://dbpedia.org/resource/List_of_Quercus_species"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/tree"	"http://dbpedia.org/resource/Aesculus_glabra"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/tree"	"http://dbpedia.org/resource/Pinus_strobus"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/twin"	"http://dbpedia.org/resource/Dudince"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/twin1Country"	"http://dbpedia.org/resource/Slovakia"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/type"	"Private nondenominational coeducational"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/type"	"http://dbpedia.org/resource/Public_university"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/undergrad"	5134
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/undergrad"	22968
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/undergrad"	35776
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/unitPref"	"Metric"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/unitPref"	"Imperial"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/unitPref"	"Imperial"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/upperhouse"	"http://dbpedia.org/resource/Illinois_Senate"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/upperhouse"	"http://dbpedia.org/resource/Ohio_Senate"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/usnwrNu"	5
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/utcOffset"	-5
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/utcOffset"	"360.0"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/utcOffset"	"−5"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/utcOffsetDst"	-4
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/utcOffsetDst"	"300.0"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/utcOffsetDst"	"−4"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/v"	"no"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/viceroy"	"http://dbpedia.org/resource/David_Onley"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/viceroytype"	"Lieutenant Governor"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/wamoNu"	46
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/waterarea"	5981
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/waterarea"	10040
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/waterareaKm"	158654
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/waterareaus"	2320
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/waterareaus"	3877
+"http://dbpedia.org/resource/David_Naylor"	"http://dbpedia.org/property/website"	"http://www.president.utoronto.ca/"
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/website"	"http://www.uchicago.edu/"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/website"	"http://www.cityofchicago.org"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/website"	"www.illinois.gov"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/website"	"http://www.kent.edu"
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/website"	"www.ohio.gov"
+"http://dbpedia.org/resource/Ontario"	"http://dbpedia.org/property/website"	"www.ontario.ca"
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/website"	"http://kentohio.org"
+"http://dbpedia.org/resource/Toronto"	"http://dbpedia.org/property/west"	"http://dbpedia.org/resource/Mississauga"
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/width"	150
+"http://dbpedia.org/resource/Chicago"	"http://dbpedia.org/property/width"	225
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/width"	340
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/width"	355
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/widthus"	210
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/widthus"	220
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/wsj"	5
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/yearRecordHighF"	103
+"http://dbpedia.org/resource/Kent,_Ohio"	"http://dbpedia.org/property/yearRecordLowF"	"−22"
+"http://dbpedia.org/resource/Illinois"	"http://dbpedia.org/property/years"	0001-12-03+02:00
+"http://dbpedia.org/resource/Ohio"	"http://dbpedia.org/property/years"	0001-03-01+02:00
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/arwuMed"	50
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/ec"	4
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/forbesBus"	4
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/usnwrBus"	5
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/usnwrLaw"	6
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/usnwrMedr"	13
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/usnwrSw"	2
+"http://dbpedia.org/resource/University_of_Chicago"	"http://dbpedia.org/property/wordnet_type"	"http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"
+"http://dbpedia.org/resource/Kent_State_University"	"http://dbpedia.org/property/wordnet_type"	"http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/United_States"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Canada"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/hasPhotoCollection"	"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Robert_Zimmer"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/footnoteF"	"Does not include insular areas and United States Minor Outlying Islands, which have their own ISO 3166 codes."
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gdpNominalPerCapitaYear"	2012
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gdpPppPerCapitaYear"	2013
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/align"	"right"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/almaMater"	"http://dbpedia.org/resource/Brandeis_University"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/almaMater"	"http://dbpedia.org/resource/Harvard_University"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/altMap"	"Projection of North America with the United States in green"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/altMap"	"Projection of North America with Canada in green"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/areaKm"	9826675
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/areaKm"	9984670
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/areaMagnitude"	1000000000000
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/areaMagnitude"	1000000000000
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/areaRank"	3
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/areaRank"	2
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/areaSqMi"	3794101
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/areaSqMi"	3854085
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/birthDate"	1947-11-05+02:00
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/callingCode"	"http://dbpedia.org/resource/North_American_Numbering_Plan"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/callingCode"	"http://dbpedia.org/resource/Telephone_numbers_in_Canada"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/capital"	"http://dbpedia.org/resource/Washington,_D.C."
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/capital"	"http://dbpedia.org/resource/Ottawa"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/caption"	"One World Trade Center, built in its place"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/caption"	"The former World Trade Center in Lower Manhattan on 9/11"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/caption"	"Ethnic origins of people in Canada"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/cctld"	"http://dbpedia.org/resource/.ca"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/children"	"David Zimmer"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/children"	"Alex Zimmer"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/children"	"Benjamin Zimmer"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/color"	"Gold"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/color"	"Black"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/color"	"Blue"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/color"	"Gray"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/color"	"Green"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/color"	"Red"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/color"	"White"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/commonName"	"the United States"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/commonName"	"Canada"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/conventionalLongName"	"United States of America"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/countryCode"	"USA"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/currency"	"http://dbpedia.org/resource/%7B%7B"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/currency"	"http://dbpedia.org/resource/Canadian_dollar"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/currencyCode"	"USD"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/currencyCode"	"CAD"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/dateFormat"	"dd-mm-yyyy mm-dd-yyyy yyyy-mm-dd"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/dateOfBirth"	1947-11-05+02:00
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/demonym"	"http://dbpedia.org/resource/Americans"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/demonym"	"Canadian"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/direction"	"horizontal"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/drivesOn"	"right"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/drivesOn"	"right"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/establishedDate"	1776-07-04+02:00
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/establishedDate"	1783-09-03+02:00
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/establishedDate"	1788-06-21+02:00
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/establishedDate"	1867-07-01+02:00
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/establishedDate"	1931-12-11+02:00
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/establishedDate"	1982-04-17+02:00
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/establishedEvent"	"http://dbpedia.org/resource/United_States_Declaration_of_Independence"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/establishedEvent"	"http://dbpedia.org/resource/Treaty_of_Paris_(1783)"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/establishedEvent"	"http://dbpedia.org/resource/Constitution_of_Canada"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/establishedEvent"	"http://dbpedia.org/resource/Statute_of_Westminster_1931"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/establishedEvent"	"http://dbpedia.org/resource/Canada_Act_1982"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/ethnicGroups"	76.7
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/faculty"	2547
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/footnoteA"	"English is the official language of at least 28 states; some sources give higher figures, based on differing definitions of ""official"". English and Hawaiian are both official languages in the state of Hawaii."
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/footnoteB"	"English is the de facto language of American government and the sole language spoken at home by 80 percent of Americans aged five and older. 28 states and 5 territories have made English an official language. Other official languages include Hawaiian, Samoan, Chamorro, Carolinian, and Spanish."
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/footnoteC"	"Whether the United States or China is larger has been disputed. The figure given is from the U.S. Central Intelligence Agency's The World Factbook. Other sources give smaller figures. All authoritative calculations of the country's size include only the 50 states and the District of Columbia, not the territories."
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/footnoteD"	"The population estimate is of people whose usual residence is within the 50 states and the District of Columbia, regardless of nationality. It does not include those living in the territories ."
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/footnoteE"	"See Time in the United States for details about laws governing time zones in the United States."
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/formerNames"	"King's College"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/gdpNominalPerCapita"	"52852.0"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gdpNominalPerCapita"	"51871.0"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/gdpNominalPerCapitaRank"	9
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gdpNominalPerCapitaRank"	10
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/gdpNominalRank"	"1.0"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gdpNominalRank"	10
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/gdpNominalYear"	2013
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gdpNominalYear"	2013
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/gdpPppPerCapita"	"52852.0"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gdpPppPerCapita"	"43146.0"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/gdpPppPerCapitaRank"	7
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gdpPppPerCapitaRank"	9
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/gdpPppRank"	"1.0"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gdpPppRank"	13
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/gdpPppYear"	2013
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gdpPppYear"	2013
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/gini"	47.7
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/gini"	32.1
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/giniRank"	39
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/giniRank"	"103.0"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/giniYear"	2011
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/giniYear"	2005
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/governmentType"	"http://dbpedia.org/resource/Federalism"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/governmentType"	"http://dbpedia.org/resource/Republic"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/governmentType"	"http://dbpedia.org/resource/Presidential_system"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/hdi"	0.937
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/hdi"	0.911
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/hdiChange"	"increase"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/hdiChange"	"increase"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/hdiRank"	"3.0"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/hdiRank"	11
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/hdiYear"	2013
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/hdiYear"	2013
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/height"	200
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/hrlrN"	1
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/hrlrW"	25
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/image"	"OneWorldTradeCenter.jpg"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/image"	"WTC smoking on 9-11.jpeg"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/imageCoat"	"Great Seal of the United States .svg"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/imageFlag"	"Flag of the United States.svg"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/imageFlag"	"Flag of Canada.svg"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/imageMap"	"USA orthographic.svg"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/imageMap"	"Canada .svg"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/imagesize"	180
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/iso3166code"	"US"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/label"	"http://dbpedia.org/resource/European_Canadian"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/label"	"http://dbpedia.org/resource/Asian_Canadian"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/label"	"http://dbpedia.org/resource/Aboriginal_peoples_in_Canada"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/label"	"http://dbpedia.org/resource/Black_Canadians"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/label"	"http://dbpedia.org/resource/Latin_American_Canadian"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/label"	"http://dbpedia.org/resource/Ethnic_origins_of_people_in_Canada"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/languages"	"English"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/languagesType"	"http://dbpedia.org/resource/National_language"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/largestCity"	"http://dbpedia.org/resource/New_York_City"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/largestCity"	"http://dbpedia.org/resource/Toronto"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/latd"	38
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/latd"	45
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/latinName"	"Universitas Torontonensis"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/latm"	53
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/latm"	24
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/latns"	"N"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/latns"	"N"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/leaderName"	"http://dbpedia.org/resource/John_Roberts"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/leaderName"	"http://dbpedia.org/resource/David_Johnston"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/leaderName"	"http://dbpedia.org/resource/Elizabeth_II"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/leaderName"	"http://dbpedia.org/resource/Stephen_Harper"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/leaderName"	"http://dbpedia.org/resource/Beverley_McLachlin"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/Chief_Justice_of_the_United_States"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/Vice_President_of_the_United_States"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/President_of_the_United_States"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/Monarchy_of_Canada"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/Prime_Minister_of_Canada"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/leaderTitle"	"http://dbpedia.org/resource/Chief_Justice_of_Canada"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/legislature"	"http://dbpedia.org/resource/United_States_Congress"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/legislature"	"http://dbpedia.org/resource/Parliament_of_Canada"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/logo"	280
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/longd"	77
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/longd"	75
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/longew"	"W"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/longew"	"W"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/longm"	1
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/longm"	40
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/lowerHouse"	"http://dbpedia.org/resource/United_States_House_of_Representatives"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/lowerHouse"	"http://dbpedia.org/resource/House_of_Commons_of_Canada"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/macMed"	3
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/mapWidth"	220
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/mapWidth"	220
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/mottoeng"	"As a tree through the ages"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/name"	"University of Toronto"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/name"	"Zimmer, Robert"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/name"	"Robert Jeffrey Zimmer"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/nationalAnthem"	"""The Star-Spangled Banner"""
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/nationalAnthem"	"File:Star Spangled Banner instrumental.ogg"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/nationalAnthem"	"""O Canada"""
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/nationalAnthem"	"File:Canada - Official Anthem (Instrumental).ogg"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/nationalMotto"	"""In God we trust"""
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/nativeName"	"Canada"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/nickname"	"http://dbpedia.org/resource/Toronto_Varsity_Blues"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/office"	"President of the University of Chicago"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/officialLanguages"	"http://dbpedia.org/resource/French_language"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/officialLanguages"	"http://dbpedia.org/resource/English_language"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/officialReligion"	"none"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/order"	13
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/percentWater"	6.76
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/percentWater"	8.92
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/populationCensus"	33476688
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/populationCensusYear"	2011
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/populationDensityKm"	34.2
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/populationDensityKm"	3.41
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/populationDensityRank"	180
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/populationDensityRank"	228
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/populationDensitySqMi"	88.6
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/populationDensitySqMi"	8.3
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/populationEstimate"	35344962
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/populationEstimateRank"	"3.0"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/populationEstimateRank"	37
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/populationEstimateYear"	2013
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/populationEstimateYear"	2014
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/postgrad"	13464
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/predecessor"	"http://dbpedia.org/resource/Don_Michael_Randel"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/president"	"http://dbpedia.org/resource/Meric_Gertler"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/profession"	"http://dbpedia.org/resource/Mathematician"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/province"	"http://dbpedia.org/resource/Ontario"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/qsW"	17
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/residence"	"Chicago, Illinois, USA"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/royalAnthem"	"""God Save the Queen"""
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/shortDescription"	"President of the University of Chicago"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/sovereigntyNote"	"from Great Britain"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/sovereigntyNote"	"from the United Kingdom"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/sovereigntyType"	"http://dbpedia.org/resource/American_Revolution"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/sovereigntyType"	"http://dbpedia.org/resource/Canadian_Confederation"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/spouse"	"http://dbpedia.org/resource/Shadi_Bartsch"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/spouse"	"Terese Schwartzman"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/staff"	4590
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/symbolType"	"Great Seal"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/symbolType"	"Coat of Arms"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/termStart"	2006-07-01+02:00
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesN"	1
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesW"	20
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/thumb"	"right"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/title"	20
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/titlestyle"	"color:black; background-color:white;"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/type"	"http://dbpedia.org/resource/Public_university"
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/undergrad"	33795
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/uniname"	"University of Toronto"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/upperHouse"	"http://dbpedia.org/resource/United_States_Senate"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/upperHouse"	"http://dbpedia.org/resource/Senate_of_Canada"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/utcOffset"	"−5 to −10"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/utcOffset"	"−3.5 to −8"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/utcOffsetDst"	"−4 to −10"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/utcOffsetDst"	"−2.5 to −7"
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/value"	0.3
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/value"	0.5
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/value"	1.2
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/value"	2.9
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/value"	4.3
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/value"	14.2
+"http://dbpedia.org/resource/Canada"	"http://dbpedia.org/property/value"	76.7
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/website"	"http://www.utoronto.ca"
+"http://dbpedia.org/resource/Robert_Zimmer"	"http://dbpedia.org/property/website"	"http://president.uchicago.edu/"
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/width"	100
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/width"	200
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/arwuMed"	25
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/footnoteG"	"Except U.S. Virgin Islands."
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/ef"	8
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/efRank"	6
+"http://dbpedia.org/resource/United_States"	"http://dbpedia.org/property/efYear"	2007
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesArthum"	12
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesEngtech"	22
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesHeal"	15
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesLife"	26
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesPhyssci"	17
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesRch"	14
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesRep"	16
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesSocsci"	19
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/thesTch"	20
+"http://dbpedia.org/resource/University_of_Toronto"	"http://dbpedia.org/property/wordnet_type"	"http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"

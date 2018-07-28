@@ -1,0 +1,98 @@
+(<http://dbpedia.org/resource/Kent_State_University>) (0) :
+	1910 : 0.143 - 14.3%
+	196000 : 0.143 - 14.3%
+	27855 : 0.143 - 14.3%
+	42185 : 0.143 - 14.3%
+	Kent : 0.143 - 14.3%
+	State : 0.143 - 14.3%
+	University : 0.143 - 14.3%
+(<http://dbpedia.org/resource/Ohio>) (4) :
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>) (5) :
+	1826 : 0.0909 - 9.09%
+	1880 : 0.0909 - 9.09%
+	1967 : 0.0909 - 9.09%
+	CIT: : 0.0909 - 9.09%
+	CWRU: : 0.0909 - 9.09%
+	Case : 0.0909 - 9.09%
+	Reserve : 0.0909 - 9.09%
+	University : 0.0909 - 9.09%
+	Urban, : 0.0909 - 9.09%
+	WRU: : 0.0909 - 9.09%
+	Western : 0.0909 - 9.09%
+(<http://dbpedia.org/resource/Kent,_Ohio>) (6) :
+	1805 : 0.0909 - 9.09%
+	1867 : 0.0909 - 9.09%
+	24 : 0.0909 - 9.09%
+	28904 : 0.0909 - 9.09%
+	330234 : 0.0909 - 9.09%
+	41 : 0.0909 - 9.09%
+	9 : 0.0909 - 9.09%
+	Kent : 0.0909 - 9.09%
+	Kent, : 0.0909 - 9.09%
+	November : 0.0909 - 9.09%
+	Ohio : 0.0909 - 9.09%
+(<http://dbpedia.org/resource/University_of_Toronto>) (8) :
+	15 : 0.167 - 16.7%
+	Canada : 0.167 - 16.7%
+	Toronto : 0.167 - 16.7%
+	University : 0.167 - 16.7%
+	Urban, : 0.167 - 16.7%
+	of : 0.167 - 16.7%
+(<http://dbpedia.org/resource/Toronto>) (10) :
+	1793-08-27 : 0.1 - 10%
+	1834-03-06 : 0.1 - 10%
+	1998-01-01 : 0.1 - 10%
+	2615060 : 0.1 - 10%
+	416647 : 0.1 - 10%
+	42 : 0.1 - 10%
+	43 : 0.1 - 10%
+	630 : 0.1 - 10%
+	City : 0.1 - 10%
+	Toronto : 0.1 - 10%
+(<http://dbpedia.org/resource/David_Naylor>) (14) :
+	1954-10-26 : 0.167 - 16.7%
+	David : 0.167 - 16.7%
+	Naylor : 0.167 - 16.7%
+	Naylor, : 0.167 - 16.7%
+	Ontario : 0.167 - 16.7%
+	Woodstock, : 0.167 - 16.7%
+(<http://dbpedia.org/resource/Lester_Lefton>) (17) :
+	1946-07-27 : 0.2 - 20%
+	Educator : 0.2 - 20%
+	Lefton : 0.2 - 20%
+	Lefton, : 0.2 - 20%
+	Lester : 0.2 - 20%
+(<http://dbpedia.org/resource/Barbara_Snyder>) (20) :
+	Barbara : 0.5 - 50%
+	Snyder, : 0.5 - 50%
+(<http://dbpedia.org/resource/Private_university>) (22) :
+(<http://dbpedia.org/resource/Public_university>) (23) :
+(<http://dbpedia.org/resource/United_States>) (24) :
+(<http://www.case.edu/>) (26) :
+(<http://www.utoronto.ca>) (27) :
+(<http://www.kentohio.org/>) (28) :
+(<http://www.president.utoronto.ca/>) (29) :
+(<http://dbpedia.org/resource/Cleveland>) (30) :
+	, : 0.0833 - 8.33%
+	1796 : 0.0833 - 8.33%
+	1814 : 0.0833 - 8.33%
+	1836 : 0.0833 - 8.33%
+	1981-2010 : 0.0833 - 8.33%
+	213 : 0.0833 - 8.33%
+	216 : 0.0833 - 8.33%
+	28 : 0.0833 - 8.33%
+	396815 : 0.0833 - 8.33%
+	41 : 0.0833 - 8.33%
+	Cleveland : 0.0833 - 8.33%
+	normals : 0.0833 - 8.33%
+(<http://www.city.cleveland.oh.us/>) (31) :
+(<http://www.kent.edu>) (32) :
+(<http://dbpedia.org/resource/College_town>) (33) :
+(<http://dbpedia.org/resource/Suburb>) (34) :
+(<http://dbpedia.org/resource/John_Haymaker>) (44) :
+(<http://dbpedia.org/resource/City>) (45) :
+(<http://dbpedia.org/resource/Eastern_Time_Zone_(North_America)>) (69) :
+(<http://dbpedia.org/resource/Massachusetts>) (72) :
+(<http://dbpedia.org/resource/Woodstock,_Ontario>) (73) :
+(<http://dbpedia.org/resource/Brookline,_Massachusetts>) (74) :
+(<http://dbpedia.org/resource/Professor>) (75) :

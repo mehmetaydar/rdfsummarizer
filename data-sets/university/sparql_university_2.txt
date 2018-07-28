@@ -1,0 +1,502 @@
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/David_Naylor>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Toronto>.
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lester_Lefton>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cleveland>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kent_State_University>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Case_Western_Reserve_University>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kent,_Ohio>.
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Barbara_Snyder>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/University_of_Toronto>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/settledDate> "1750".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/settledTitle> "Settled".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/alumni> "196000".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/arwuEng> "12".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/arwuLife> "47".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/arwuSci> "35".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/shieldLink> "Coat of arms of Toronto".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/university> <http://dbpedia.org/resource/Kent_State_University>.
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/university> "President of".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/affiliations> <http://dbpedia.org/resource/University_System_of_Ohio>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/affiliations> <http://dbpedia.org/resource/Association_of_Public_and_Land-grant_Universities>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/affiliations> <http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/affiliations> <http://dbpedia.org/resource/Association_of_American_Universities>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/affiliations> <http://dbpedia.org/resource/Association_of_Commonwealth_Universities>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/affiliations> <http://dbpedia.org/resource/U15_Group_of_Canadian_Research_Universities>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/affiliations> <http://dbpedia.org/resource/International_Association_of_Universities>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/affiliations> <http://dbpedia.org/resource/Universities_Research_Association>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/affiliations> <http://dbpedia.org/resource/Association_of_Universities_and_Colleges_of_Canada>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/almaMater> <http://dbpedia.org/resource/University_of_Oxford>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/almaMater> <http://dbpedia.org/resource/University_of_Toronto>.
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/almaMater> <http://dbpedia.org/resource/University_of_Rochester>.
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/almaMater> <http://dbpedia.org/resource/Northeastern_University>.
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/almaMater> "Ohio State University ( )".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/almaMater> "University of Chicago Law School ( )".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/aprHighF> "60".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/aprLowF> "40".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/aprPrecipitationInch> "3.15".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/aprRecordHighF> "88".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/aprRecordLowF> "17".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/areaCode> "416437647".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/areaCode> "216".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/areaCode> "330234".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/areaLandKm> "201.24".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/areaLandKm> "23.75".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/areaLandSqMi> "77.7".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/areaLandSqMi> "9.17".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/areaMetroKm> "7125".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/areaTotalKm> "630".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/areaTotalKm> "213.6".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/areaTotalKm> "24.04".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/areaTotalSqMi> "82.47".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/areaTotalSqMi> "9.28".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/areaUrbanKm> "1749".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/areaWaterKm> "12.35".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/areaWaterKm> "0.28".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/areaWaterSqMi> "4.77".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/areaWaterSqMi> "0.11".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/arwuCan> "1".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/arwuNu> "53".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/arwuSoc> "42".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/arwuW> "99".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/arwuW> "28".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/athletics> "16".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/athletics> <http://dbpedia.org/resource/National_Collegiate_Athletic_Association>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/athletics> <http://dbpedia.org/resource/Mid-American_Conference>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/athletics> <http://dbpedia.org/resource/Division_I_(NCAA)>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/athletics> "19".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/athletics> "NCAA Division III UAA".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/athletics> "44".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/athletics> <http://dbpedia.org/resource/Canadian_University_Field_Lacrosse_Association>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/athletics> <http://dbpedia.org/resource/Canadian_Interuniversity_Sport>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/athletics> <http://dbpedia.org/resource/Ontario_University_Athletics>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/augHighF> "82".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/augLowF> "63".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/augPrecipitationInch> "3.36".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/augRecordHighF> "100".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/augRecordLowF> "43".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/b> "no".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/battalions> "6".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/birthDate> "1954-10-26+02:00".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/birthDate> "1946-07-27+02:00".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/birthDate> "1955-07-23+02:00".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/birthName> "Christopher David Naylor".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Ontario>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Woodstock,_Ontario>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Canada>.
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Brookline,_Massachusetts>.
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Massachusetts>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/blank1Info> "FEUZB".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/blank1Info> "2395512".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/blank1Name> "GNBC Code".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/blank1Name> "GNIS feature ID".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/blank1Name> "GNIS feature ID".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/blankInfo> "30".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/blankInfo> "39".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/blankInfo> "39".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/blankName> "NTS Map".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/blankName> <http://dbpedia.org/resource/Federal_Information_Processing_Standards>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/blankName> <http://dbpedia.org/resource/Federal_Information_Processing_Standards>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/calendar> "Semester".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/campus> <http://dbpedia.org/resource/Suburb>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/campus> <http://dbpedia.org/resource/College_town>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/campus> "Urban,".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/campus> "Urban,".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/caption> "Lefton Photo Taken in 2012".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/caption> "The seal of Case Western Reserve University".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/center> "Toronto".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/chancellor> <http://dbpedia.org/resource/Michael_Wilson_(Canadian_politician)>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/chief> "Patrick Kelly".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/children> "Karline Naylor".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/children> "Max Naylor".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/children> "Melinda Naylor".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/children> "Sam Naylor".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Kent,_Ohio>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Cleveland>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Toronto>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/colors> "Kent State Blue and Kent State Gold".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/colors> "CWRU Blue (PMS 294), White and CWRU Grey (PMS 7545)".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/coordinatesDisplay> "1".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/coordinatesDisplay> "inline,title".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/coordinatesDisplay> "inline,title".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/coordinatesRegion> "CA-ON".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/coordinatesRegion> "US-OH".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/coordinatesRegion> "US-OH".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/country> <http://dbpedia.org/resource/United_States>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/country> <http://dbpedia.org/resource/United_States>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/country> <http://dbpedia.org/resource/Canada>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/date> "August 2010".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/dateOfBirth> "1954-10-26+02:00".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/dateOfBirth> "1946-07-27+02:00".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/dateOfBirth> "1955-07-23+02:00".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/decHighF> "39".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/decLowF> "26".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/decPrecipitationInch> "2.83".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/decRecordHighF> "72".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/decRecordLowF> "−12".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/east> <http://dbpedia.org/resource/Pickering,_Ontario>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/elevationFt> "653".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/elevationFt> "1050".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/elevationM> "76".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/elevationM> "199".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/elevationM> "320".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/endowment> "1.091E8".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/endowment> "US $1.6 billion".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/endowment> "C$1.663 billion".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/engines> "20".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/established> "1863-04-09+02:00".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/established> "1910".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/established> "CIT: 1880".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/established> "CWRU: 1967".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/established> "WRU: 1826".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/established> "1827-03-15+02:00".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/establishedDate> "1793-08-27+02:00".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/establishedDate> "1834-03-06+02:00".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/establishedDate> "1998-01-01+02:00".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/establishedDate> "1796".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/establishedDate> "1814".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/establishedDate> "1836".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedDate> "1805".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedDate> "1867".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedDate> "November 1805".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/establishedTitle> <http://dbpedia.org/resource/Municipal_corporation>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/establishedTitle> <http://dbpedia.org/resource/Merger_(politics)>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/establishedTitle> "Established".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/establishedTitle> "Founded".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/establishedTitle> "Incorporated".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedTitle> "Founded".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/establishedTitle> "Incorporated".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/faculty> "2458".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/faculty> "2400".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/faculty> "2547".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/febHighF> "38".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/febLowF> "23".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/febPrecipitationInch> "2".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/febRecordHighF> "70".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/febRecordLowF> "−6".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/fireboats> "1".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/firstresponderblsorals> "First Responder BLS".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/flagLink> "Flag of Toronto".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/flagSize> "125".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/forbes> "89".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/formerNames> "King's College".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/John_Haymaker>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Mayor%E2%80%93council_government>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Rob_Ford>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Council%E2%80%93manager_government>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/hazmat> "1".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/hrlrN> "1".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/hrlrW> "25".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageBlankEmblem> "City of Toronto Logo.png".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageCaption> "From top left: Downtown Toronto featuring the CN Tower and Financial District from the Toronto Islands, City Hall, the Ontario Legislative Building, Casa Loma, Prince Edward Viaduct, and the Scarborough Bluffs".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/imageCaption> "Downtown Kent, September 2009".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageFlag> "Toronto Flag.svg".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/imageFlag> "Flag of Cleveland, Ohio.svg".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageMap> "Toronto Location in Ontario.png".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/imageMap> "Cleveland-CuyahogaCoOH.png".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/imageMap> "Ohio Portage Kent.png".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/imageName> "Case Western Reserve University seal.svg".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/imageSeal> "Cleveland seal-T.png".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/imageSeal> "Kentlogo.png".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageShield> "Toronto Coat of Arms.jpg".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/imageSize> "200".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/imageSkyline> "Montage of Toronto 7.jpg".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/imageSkyline> "Montage Cleveland 1.jpg".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/imageSkyline> "Downtown Kent Ohio 2.jpg".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/imperialFirst> "Y".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/janHighF> "34".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/janLowF> "20".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/janPrecipitationInch> "2.02".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/janRecordHighF> "65".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/janRecordLowF> "−22".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/julHighF> "84".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/julLowF> "64".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/julPrecipitationInch> "3.87".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/julRecordHighF> "103".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/julRecordLowF> "44".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/junHighF> "80".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/junLowF> "60".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/junPrecipitationInch> "3.13".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/junRecordHighF> "101".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/junRecordLowF> "39".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/latd> "43".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/latd> "41".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/latd> "41".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/latinName> "Universitas Torontonensis".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/latitude> "41".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/latm> "42".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/latm> "28".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/latm> "9".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/latns> "N".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/lats> "56".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/lats> "2".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Toronto_City_Council>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Norm_Kelly>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Rob_Ford>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/leaderName> "Frank G. Jackson".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/leaderName> "Dave Ruller".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/leaderName> "Jerry Fiala".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Member_of_parliament>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/List_of_mayors_of_Toronto>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/leaderTitle> "Council".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/leaderTitle> "Deputy Mayor".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Mayor>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Mayor>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/City_manager>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/location> "Kent, Ohio".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/logo> "220".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/logo> "200".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/logo> "280".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/longd> "79".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/longd> "81".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/longd> "81".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/longew> "W".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/longitude> "81".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/longm> "24".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/longm> "40".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/longm> "21".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/longs> "11".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/longs> "40".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/macMed> "3".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/mapCaption> "Location of Toronto and its census metropolitan area in the province of Ontario".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/mapCaption> "Location in Cuyahoga County".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/mapCaption> "Location in Portage County, Ohio".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/mapsize> "220".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/mapsize> "200".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/marHighF> "48".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/marLowF> "30".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/marPrecipitationInch> "2.85".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/marRecordHighF> "81".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/marRecordLowF> "1".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/mascot> "Flash the Golden Eagle".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/mayHighF> "72".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/mayLowF> "51".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/mayPrecipitationInch> "3.61".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/mayRecordHighF> "94".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/mayRecordLowF> "30".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/motto> "Diversity Our Strength".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/motto> "Progress & Prosperity".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/motto> "Excellence In Action".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/motto> "Think Beyond the Possible".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/mottoeng> "As a tree through the ages".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/n> "Portal:Toronto, Ontario".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/name> "David Naylor".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/name> "Naylor, David".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/name> "Toronto".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/name> "Lester Lefton".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/name> "Lefton, Lester".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/name> "Cleveland".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/name> "Cleveland Division of Fire".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/name> "Kent State University".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/name> "Case Western Reserve University".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/name> "Kent".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/name> "Barbara R. Snyder".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/name> "Snyder, Barbara".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/name> "University of Toronto".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/namedFor> <http://dbpedia.org/resource/Marvin_Kent>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/nickname> <http://dbpedia.org/resource/Name_of_Toronto>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/nickname> <http://dbpedia.org/resource/The_Forest_City>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/nickname> <http://dbpedia.org/resource/Kent_State_Golden_Flashes>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/nickname> <http://dbpedia.org/resource/Spartan_army>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/nickname> "The Tree City".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/nickname> <http://dbpedia.org/resource/Toronto_Varsity_Blues>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/north> <http://dbpedia.org/resource/Markham,_Ontario>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/north> <http://dbpedia.org/resource/Vaughan>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/northwest> <http://dbpedia.org/resource/Brampton>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/novHighF> "50".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/novLowF> "36".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/novPrecipitationInch> "3.22".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/novRecordHighF> "76".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/novRecordLowF> "2".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/octHighF> "62".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/octLowF> "45".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/octPrecipitationInch> "2.46".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/octRecordHighF> "84".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/octRecordLowF> "25".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/office> "President of the University of Toronto".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/office> "President of Case Western Reserve University".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/officialName> "City of Toronto".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/officialName> "City of Cleveland".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/officialName> "City of Kent, Ohio".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/order> "15".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/order> "11".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Ontario>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Woodstock,_Ontario>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Canada>.
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Brookline,_Massachusetts>.
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Massachusetts>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/popEstAsOf> "2012".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/popEstAsOf> "2012".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/populationAsOf> "2011".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationAsOf> "2010".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/populationAsOf> "2010".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationBlank> "3497711".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationBlank> "Clevelander".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationBlank1Title> <http://dbpedia.org/resource/Combined_Statistical_Area>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationBlank2Title> <http://dbpedia.org/resource/Demonym>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/populationDemonym> "Torontonian".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/populationDemonym> "Kentite".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/populationDensityKm> "4149".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationDensityKm> "1971.8".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/populationDensityKm> "1217".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationDensitySqMi> "5107".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/populationDensitySqMi> "3152".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationEst> "390928".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/populationEst> "29807".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/populationMetro> "5583064".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationMetro> "2068283".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/populationTotal> "2615060".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/populationTotal> "396815".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/populationTotal> "28904".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/populationUrban> "5132794".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/postalCode> <http://dbpedia.org/resource/List_of_M_postal_codes_of_Canada>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/postalCode> "441".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/postalCode> "442404424244243".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/postalCodeType> "Postal code span".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/postalCodeType> "ZIP codes".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/postgrad> "6030".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/postgrad> "6115".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/postgrad> "5458".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/postgrad> "13464".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/predecessor> <http://dbpedia.org/resource/Robert_J._Birgeneau>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/predecessor> "(Frank Iacobucci )".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/predecessor> "(Vivek Goel )".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/predecessor> <http://dbpedia.org/resource/Carol_Cartwright>.
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/predecessor> <http://dbpedia.org/resource/Edward_M._Hundert>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/Lester_Lefton>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/Barbara_Snyder>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/Meric_Gertler>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/profession> <http://dbpedia.org/resource/Professor>.
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/profession> "Educator".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/province> <http://dbpedia.org/resource/Ontario>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/pushpinLabelPosition> "right".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/pushpinMap> "Canada".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/pushpinMap> "USA Ohio".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/pushpinMap> "USA".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/pushpinMapCaption> "Location of Toronto in Canada".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/pushpinMapCaption> "Location in Ohio".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/pushpinMapCaption> "Location in the United States".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/pushpinMapsize> "250".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/qsW> "164".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/qsW> "17".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/rescues> "4".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/residence> <http://dbpedia.org/resource/Toronto>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/residence> <http://dbpedia.org/resource/Ontario>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/residence> <http://dbpedia.org/resource/Canada>.
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/residence> <http://dbpedia.org/resource/Cleveland>.
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/residence> <http://dbpedia.org/resource/Ohio>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/s> "no".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/sepHighF> "74".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/sepLowF> "56".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/sepPrecipitationInch> "3.57".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/sepRecordHighF> "95".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/sepRecordLowF> "30".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/settlementType> "City".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/settlementType> <http://dbpedia.org/resource/City>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/settlementType> <http://dbpedia.org/resource/City>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/shieldSize> "85".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/shortDescription> "Canadian physician".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/shortDescription> "American psychologist".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/shortDescription> "President of Case Western Reserve University".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/singleLine> "Y".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/source> "The Weather Channel".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/south> "Lake Ontario".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/spouse> "Ilse Treurnicht".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/spouse> "Linda Lefton".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/spouse> "Michael J. Snyder".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/staff> "2799".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/staff> "4590".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/staffing> "Career".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Ohio>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Ohio>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/stations> "23".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/strength> "760".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/students> "28998".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/students> "41891".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/Ontario>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/East_York>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/Old_Toronto>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/Scarborough,_Ontario>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/York,_Ontario>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/North_York>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/Etobicoke>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/Canada>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/Cuyahoga_County,_Ohio>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/Ohio>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/Portage_County,_Ohio>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/subdivisionName> <http://dbpedia.org/resource/United_States>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionType> <http://dbpedia.org/resource/Provinces_and_territories_of_Canada>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionType> <http://dbpedia.org/resource/Amalgamation_of_Toronto>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/subdivisionType> "Country".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/subdivisionType> <http://dbpedia.org/resource/List_of_counties_in_Ohio>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/subdivisionType> <http://dbpedia.org/resource/List_of_sovereign_states>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/subdivisionType> <http://dbpedia.org/resource/U.S._state>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/subdivisionType> <http://dbpedia.org/resource/List_of_counties_in_Ohio>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/subdivisionType> <http://dbpedia.org/resource/List_of_sovereign_states>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/subdivisionType> <http://dbpedia.org/resource/U.S._state>.
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/successor> <http://dbpedia.org/resource/Meric_Gertler>.
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/successor> "incumbent".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/taskForce> "1".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/termEnd> "October, 2013".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/termEnd> "2014-07-01+02:00".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/termStart> "2005-10-01+02:00".
+<http://dbpedia.org/resource/Lester_Lefton> <http://dbpedia.org/property/termStart> "2006-07-01+02:00".
+<http://dbpedia.org/resource/Barbara_Snyder> <http://dbpedia.org/property/termStart> "2007-07-01+02:00".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesN> "1".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/thesW> "88".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesW> "20".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Time_Zone>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Time_Zone>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Time_Zone>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/timezoneDst> <http://dbpedia.org/resource/Eastern_Time_Zone>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/timezoneDst> <http://dbpedia.org/resource/Eastern_Time_Zone>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/timezoneDst> <http://dbpedia.org/resource/Eastern_Time_Zone>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/trucks> "10".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/twin> <http://dbpedia.org/resource/Dudince>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/twin1Country> <http://dbpedia.org/resource/Slovakia>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Public_university>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Private_university>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Public_university>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/undergrad> "22968".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/undergrad> "35776".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/undergrad> "4227".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/undergrad> "33795".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/uniname> "University of Toronto".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/unitPref> "Metric".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/unitPref> "Imperial".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/unitPref> "Imperial".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/usnwrNu> "37".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/utcOffset> "-5".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/utcOffset> "−5".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/utcOffset> "−5".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/utcOffsetDst> "-4".
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/utcOffsetDst> "−4".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/utcOffsetDst> "−4".
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/v> "no".
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/wamoNu> "4".
+<http://dbpedia.org/resource/David_Naylor> <http://dbpedia.org/property/website> <http://www.president.utoronto.ca/>.
+<http://dbpedia.org/resource/Cleveland> <http://dbpedia.org/property/website> <http://www.city.cleveland.oh.us/>.
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/website> <http://www.kent.edu>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/website> <http://www.case.edu/>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/website> <http://kentohio.org>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/website> <http://www.utoronto.ca>.
+<http://dbpedia.org/resource/Toronto> <http://dbpedia.org/property/west> <http://dbpedia.org/resource/Mississauga>.
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/yearRecordHighF> "103".
+<http://dbpedia.org/resource/Kent,_Ohio> <http://dbpedia.org/property/yearRecordLowF> "−22".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/arwuMed> "25".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesArthum> "12".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesEngtech> "22".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesHeal> "15".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesLife> "26".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesPhyssci> "17".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesRch> "14".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesRep> "16".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesSocsci> "19".
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/thesTch> "20".
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/wordnet_type> <http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2>.
+<http://dbpedia.org/resource/Case_Western_Reserve_University> <http://dbpedia.org/property/wordnet_type> <http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2>.
+<http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/property/wordnet_type> <http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2>.

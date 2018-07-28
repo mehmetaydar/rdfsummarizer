@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>-f triple -g "C:\Users\maydar\Documents\PHD COURSES\SEMANTIC STUDY\dbpedia\infobox\infobox_properties_en.nt.bz2.nt.bz2.nt"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>-f triple -mts 10000000 -g "C:\Users\maydar\Documents\Sony Backup\PHD\SEMANTIC STUDY\dbpedia\infobox\infobox_properties_en.nt.bz2.nt.bz2.nt" -nlb "C:\Users\maydar\Documents\Sony Backup\PHD\SEMANTIC STUDY\schema discovery study\dbpedia_noise_props.csv"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

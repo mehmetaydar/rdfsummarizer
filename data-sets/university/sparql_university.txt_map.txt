@@ -1,0 +1,262 @@
+-vertex_mapping-
+169
+111 $|$ "(Frank Iacobucci )"
+112 $|$ "(Vivek Goel )"
+123 $|$ "American psychologist"
+92 $|$ "As a tree through the ages"
+44 $|$ "August 2010"
+144 $|$ "Barbara R. Snyder is an American academic and president of Case Western Reserve University. Snyder is the first woman to serve as Case Western Reserve's president."
+98 $|$ "Barbara R. Snyder"
+15 $|$ "Barbara Snyder"
+148 $|$ "Barbara"
+47 $|$ "C$1.663 billion"
+42 $|$ "CA-ON"
+48 $|$ "CIT: 1880"
+40 $|$ "CWRU Blue (PMS 294), White and CWRU Grey (PMS 7545)"
+49 $|$ "CWRU: 1967"
+115 $|$ "Canada"
+122 $|$ "Canadian physician"
+129 $|$ "Career"
+142 $|$ "Case Western Reserve University (also known as Case Western Reserve, Case Western, Case, Reserve, and CWRU) is a private research university in Cleveland, Ohio, USA. The university was created in 1967 by the federation of Case Institute of Technology (founded in 1881 by Leonard Case Jr.) and Western Reserve University (founded in 1826 in the area that was once the Connecticut Western Reserve). TIME magazine described the merger as the creation of "Cleveland's Big-Leaguer" university.In U.S. News & World Report's 2013 rankings, Case Western Reserve's undergraduate program ranked 37th among national universities. The University is associated with 16 Nobel Laureates. Other notable alumni include Paul Buchheit, creator and lead developer of Gmail; Craig Newmark, founder of craigslist.org; and Peter Tippett, who developed the anti-virus software, Vaccine, which Symantec purchased and turned into the popular Norton AntiVirus. Case Western Reserve is particularly well known[citation needed] for its medical school, dental school, law school, Frances Payne Bolton School of Nursing, Department of Biomedical Engineering and its biomedical teaching and research capabilities. Case Western is a member of the Association of American Universities.The university is approximately five miles (8 km) east of downtown Cleveland in University Circle. It is contained within a 550-acre (220 ha) area containing numerous educational, medical, and cultural institutions. Case Western Reserve has a number of programs taught in conjunction with nearby institutions, including the Cleveland Clinic, the University Hospitals of Cleveland, the Louis Stokes Cleveland Department of Veteran's Affairs Medical Center, Cleveland Institute of Music, the Cleveland Hearing & Speech Center, the Cleveland Museum of Art, the Cleveland Museum of Natural History, and the Cleveland Play House.Case Western Reserve was the site of the famous Michelson-Morley interferometer experiment, conducted in 1887 by A. A. Michelson of Case School of Applied Science and E. W. Morley of Western Reserve University. This experiment proved the non-existence of the luminiferous ether and was later cited as convincing evidence in support of special relativity as proposed by Albert Einstein in 1905. Michelson became the first American to win a Nobel Prize in science. The commemorative Michelson-Morley Memorial Fountain is located on campus, near where the actual experiment was performed."
+163 $|$ "Case Western Reserve University (also known as Case Western Reserve, Case Western, Case, Reserve, and CWRU) is a private research university in Cleveland, Ohio, USA. The university was created in 1967 by the federation of Case Institute of Technology (founded in 1881 by Leonard Case Jr.) and Western Reserve University (founded in 1826 in the area that was once the Connecticut Western Reserve). TIME magazine described the merger as the creation of "Cleveland's Big-Leaguer" university.In U.S."
+67 $|$ "Case Western Reserve University seal.svg"
+11 $|$ "Case Western Reserve University"
+25 $|$ "Christopher David Naylor"
+137 $|$ "Christopher David Naylor, OC FRCPC FRSC (born October 26, 1954) is a Canadian physician, medical researcher and former president of the University of Toronto."
+158 $|$ "City manager"
+104 $|$ "City of Cleveland"
+105 $|$ "City of Kent, Ohio"
+59 $|$ "City of Toronto Logo.png"
+103 $|$ "City of Toronto"
+121 $|$ "City"
+140 $|$ "Cleveland /ˈkliːvlənd/ is a city in the U.S. state of Ohio and is the county seat of Cuyahoga County, the most populous county in the state. The city is located in northeastern Ohio on the southern shore of Lake Erie, approximately 60 miles (97 km) west of the Pennsylvania border. It was founded in 1796 near the mouth of the Cuyahoga River, and became a manufacturing center owing to its location on the lake shore, as well as being connected to numerous canals and railroad lines. Cleveland's economy has diversified sectors that include manufacturing, financial services, healthcare, and biomedical. Cleveland is home to the Rock and Roll Hall of Fame.As of the 2010 Census, the city proper had a total population of 396,815, making Cleveland the 45th largest city in the United States, and the second largest city in Ohio after Columbus. Greater Cleveland, the Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area, ranked 28th largest in the United States with 2,068,283 people in 2011. Cleveland is part of the larger Cleveland-Akron-Canton, OH Combined Statistical Area, which in 2013 had a population of 3,501,538, and ranked as the country's 15th largest CSA.Residents of Cleveland are called "Clevelanders". Nicknames for the city include "The Forest City", "Metropolis of the Western Reserve", "The Rock and Roll Capital of the World", "C-Town", "The Cleve", and the more historical "Sixth City". Due to Lake Erie’s proximity to the city, the Cleveland area is sometimes locally referred to as "The North Coast"."
+161 $|$ "Cleveland /ˈkliːvlənd/ is a city in the U.S. state of Ohio and is the county seat of Cuyahoga County, the most populous county in the state. The city is located in northeastern Ohio on the southern shore of Lake Erie, approximately 60 miles (97 km) west of the Pennsylvania border. It was founded in 1796 near the mouth of the Cuyahoga River, and became a manufacturing center owing to its location on the lake shore, as well as being connected to numerous canals and railroad lines."
+96 $|$ "Cleveland Division of Fire"
+68 $|$ "Cleveland seal-T.png"
+7 $|$ "Cleveland"
+65 $|$ "Cleveland-CuyahogaCoOH.png"
+106 $|$ "Clevelander"
+19 $|$ "Coat of arms of Toronto"
+81 $|$ "Council"
+130 $|$ "Country"
+79 $|$ "Dave Ruller"
+1 $|$ "David Naylor"
+146 $|$ "David"
+82 $|$ "Deputy Mayor"
+88 $|$ "Diversity Our Strength"
+73 $|$ "Downtown Kent Ohio 2.jpg"
+61 $|$ "Downtown Kent, September 2009"
+113 $|$ "Educator"
+52 $|$ "Established"
+90 $|$ "Excellence In Action"
+26 $|$ "FEUZB"
+56 $|$ "First Responder BLS"
+63 $|$ "Flag of Cleveland, Ohio.svg"
+57 $|$ "Flag of Toronto"
+87 $|$ "Flash the Golden Eagle"
+53 $|$ "Founded"
+78 $|$ "Frank G. Jackson"
+60 $|$ "From top left: Downtown Toronto featuring the CN Tower and Financial District from the Toronto Islands, City Hall, the Ontario Legislative Building, Casa Loma, Prince Edward Viaduct, and the Scarborough Bluffs"
+27 $|$ "GNBC Code"
+28 $|$ "GNIS feature ID"
+151 $|$ "Golden Flashes"
+126 $|$ "Ilse Treurnicht"
+134 $|$ "Imperial"
+54 $|$ "Incorporated"
+80 $|$ "Jerry Fiala"
+35 $|$ "Karline Naylor"
+39 $|$ "Kent State Blue and Kent State Gold"
+141 $|$ "Kent State University (also known as Kent, Kent State, and KSU) is a public research university located in Kent, Ohio, United States. The university has eight campuses around the Northeast Ohio region with the main campus in Kent being the largest. Other campuses are located in Ashtabula, Burton, East Liverpool, Jackson Township, New Philadelphia, Salem, and Warren, Ohio.As of September 2012, Kent State is one of the largest universities in Ohio with an enrollment of 41,891 students in the eight-campus system and 28,998 students at the main campus in Kent. It is ranked by the Carnegie Foundation as one of the top 77 public research universities in the US and one of the top 76 in community engagement. In 2010, Kent State was ranked as one of the top 200 universities in the world by Times Higher Education. Kent State offers over 300 degree programs, among them 250 baccalaureate, 40 associate's, 50 master's, and 23 doctoral programs of study, which include such notable programs as nursing, business, history, library science, aeronautics, journalism, fashion design and the Liquid Crystal Institute.The university was established in 1910 as the Kent State Normal School as a teacher-training school. The first classes were held in 1912 at various locations and in temporary buildings in Kent. Since then, the university has grown to include many additional baccalaureate and graduate programs of study in the arts and sciences, research opportunities, as well as over 1,000 acres (405 ha) and 119 buildings on the Kent campus. During the late 1960s and early 1970s, the university was known internationally for its student activism in opposition to US involvement in the Vietnam war, due mainly to the events of May 4, 1970."
+162 $|$ "Kent State University (also known as Kent, Kent State, and KSU) is a public research university located in Kent, Ohio, United States. The university has eight campuses around the Northeast Ohio region with the main campus in Kent being the largest."
+9 $|$ "Kent State University"
+143 $|$ "Kent is a city in the U.S. state of Ohio and the largest city in Portage County. It is located along the Cuyahoga River in Northeast Ohio on the western edge of the county. The population was 28,904 in the 2010 Census and 29,807 in the 2012 estimate. The city is counted as part of the Akron Metropolitan Statistical Area and the larger Cleveland-Akron-Canton Combined Statistical Area.Part of the Connecticut Western Reserve, Kent was settled in 1805 and was known for many years as Franklin Mills. Settlers were attracted to the area due to its location along the Cuyahoga River as a place for water-powered mills. Later development came in the 1830s and 1840s as a result of the village's position along the route of the Pennsylvania and Ohio Canal. Leading up to the American Civil War, Franklin Mills was noted for its activity in the Underground Railroad. With the decline of the canal and the emergence of the railroad, the village became the home of the Atlantic and Great Western Railroad maintenance shops through the influence of Marvin Kent. In 1864 the village was renamed Kent in honor of and in gratitude for Marvin Kent's efforts. Today Kent is a college town best known as the home of the main campus of Kent State University, founded in 1910, and as the site of the 1970 Kent State shootings.Historically a manufacturing center, education is the city's largest economic sector with Kent State University the city's, and one of the region's, largest employers. The Kent City School District and the Kent Free Library provide additional education opportunities and resources. Many of Kent's demographic elements are influenced by the presence of the university, particularly the median age, median income, and those living below the poverty level. The city is governed by a council-manager system with a city manager, a nine-member city council, and a mayor. Kent has nearly 20 parks and preserves and hosts a number of annual festivals including ones related to Earth Day, folk music, and the U.S. Independence Day. In addition to the Kent State athletic teams, the city also hosts a number of amateur and local sporting events at various times during the year. Kent is part of the Cleveland-Akron media market and is the city of license for three local radio stations and three television stations and includes the regional affiliates for National Public Radio (NPR) and the Public Broadcasting Service (PBS). Although most residents commute to work in private vehicles, alternate transportation includes a public bus service and hike-and-bike trails. As the home of the Davey Tree Expert Company, Kent is known as "The Tree City" while residents are referred to as "Kentites". The city has produced a number of notable individuals, particularly in politics, athletics, and the entertainment industry."
+164 $|$ "Kent is a city in the U.S. state of Ohio and the largest city in Portage County. It is located along the Cuyahoga River in Northeast Ohio on the western edge of the county. The population was 28,904 in the 2010 Census and 29,807 in the 2012 estimate."
+97 $|$ "Kent"
+13 $|$ "Kent, Ohio"
+108 $|$ "Kentite"
+69 $|$ "Kentlogo.png"
+154 $|$ "King's College (1827–1849)"
+58 $|$ "King's College"
+125 $|$ "Lake Ontario"
+32 $|$ "Lefton Photo Taken in 2012"
+167 $|$ "Lefton"
+95 $|$ "Lefton, Lester"
+139 $|$ "Lester A. Lefton is an American academic and higher education administrator. He was the President of Kent State University (2006–2014). He has 35 years of experience in higher education, having served for 25 years at a public institution and nine at private institutions. During his career, he has been a psychology professor, dean and provost, as well as a psychology textbook author.Born in Brookline, Massachusetts, Lefton completed his bachelor's in psychology from Northeastern University in Boston in 1969. He earned his doctorate in experimental psychology, specializing in visual perception and focusing on cognitive psychology in 1974 from the University of Rochester, where he held a U.S. Public Health Service Predoctoral Fellowship."
+160 $|$ "Lester A. Lefton is an American academic and higher education administrator. He was the President of Kent State University (2006–2014). He has 35 years of experience in higher education, having served for 25 years at a public institution and nine at private institutions."
+5 $|$ "Lester Lefton"
+147 $|$ "Lester"
+127 $|$ "Linda Lefton"
+85 $|$ "Location in Cuyahoga County"
+119 $|$ "Location in Ohio"
+86 $|$ "Location in Portage County, Ohio"
+120 $|$ "Location in the United States"
+84 $|$ "Location of Toronto and its census metropolitan area in the province of Ontario"
+118 $|$ "Location of Toronto in Canada"
+156 $|$ "MPPs"
+157 $|$ "MPs"
+36 $|$ "Max Naylor"
+155 $|$ "Mayor"
+37 $|$ "Melinda Naylor"
+133 $|$ "Metric"
+128 $|$ "Michael J. Snyder"
+72 $|$ "Montage Cleveland 1.jpg"
+71 $|$ "Montage of Toronto 7.jpg"
+77 $|$ "N"
+23 $|$ "NCAA Division III UAA"
+29 $|$ "NTS Map"
+166 $|$ "Naylor"
+94 $|$ "Naylor, David"
+51 $|$ "November 1805"
+132 $|$ "October, 2013"
+66 $|$ "Ohio Portage Kent.png"
+21 $|$ "Ohio State University ( )"
+34 $|$ "Patrick Kelly"
+93 $|$ "Portal:Toronto, Ontario"
+109 $|$ "Postal code span"
+102 $|$ "President of Case Western Reserve University"
+101 $|$ "President of the University of Toronto"
+20 $|$ "President of"
+89 $|$ "Progress & Prosperity"
+38 $|$ "Sam Naylor"
+30 $|$ "Semester"
+18 $|$ "Settled"
+168 $|$ "Snyder"
+99 $|$ "Snyder, Barbara"
+152 $|$ "Spartans"
+149 $|$ "T.O., T-Dot, Hogtown, The Queen City, Toronto the Good, The City Within a Park"
+150 $|$ "The Forest City"
+100 $|$ "The Tree City"
+145 $|$ "The University of Toronto (U of T, UToronto, or Toronto) is a public research university in Toronto, Ontario, Canada, situated on the grounds that surround Queen's Park. It was founded by royal charter in 1827 as King's College, the first institution of higher learning in Upper Canada. Originally controlled by the Church of England, the university assumed the present name in 1850 upon becoming a secular institution. As a collegiate university, it comprises twelve colleges that differ in character and history, each retaining substantial autonomy on financial and institutional affairs.Academically, the University of Toronto is noted for influential movements and curricula in literary criticism and communication theory, known collectively as the Toronto School. The university was the birthplace of insulin and stem cell research, and was the site of the first practical electron microscope, the development of multi-touch technology, the identification of Cygnus X-1 as a black hole, and the theory of NP completeness. By a significant margin, it receives the most annual research funding of any Canadian university. It is one of two members of the Association of American Universities located outside the United States.The Varsity Blues are the athletic teams representing the university in intercollegiate league matches, with particularly long and storied ties to gridiron football and ice hockey. The university's Hart House is an early example of the North American student centre, simultaneously serving cultural, intellectual and recreational interests within its large Gothic-revival complex.The University of Toronto has educated two Governors General and four Prime Ministers of Canada, four foreign leaders, fourteen Justices of the Supreme Court, and has been affiliated with ten Nobel laureates. The university ranks 1st in Canada and 20th in the world in the Times Higher Education World University Rankings, 1st in Canada and 28th in the Academic Ranking of World Universities, and also 1st in Canada and 17th globally in the QS World University Rankings."
+165 $|$ "The University of Toronto (U of T, UToronto, or Toronto) is a public research university in Toronto, Ontario, Canada, situated on the grounds that surround Queen's Park. It was founded by royal charter in 1827 as King's College, the first institution of higher learning in Upper Canada. Originally controlled by the Church of England, the university assumed the present name in 1850 upon becoming a secular institution."
+124 $|$ "The Weather Channel"
+33 $|$ "The seal of Case Western Reserve University"
+91 $|$ "Think Beyond the Possible"
+138 $|$ "Toronto (/tɵˈrɒntoʊ/, local /ˈtrɒnoʊ/) is the most populous city in Canada and the provincial capital of Ontario. It is located in Southern Ontario on the northwestern shore of Lake Ontario. The history of Toronto began in the late 18th century when the British Crown purchased its land from the Mississaugas of the New Credit. The settlement established there became York, which lieutenant governor John Graves Simcoe designated as the capital of Upper Canada. The city was ransacked in the Battle of York during the War of 1812. In 1834, York became a city and renamed Toronto. It was damaged in two huge fires in 1849 and 1904. Since 1954, the city occasionally expanded its borders through amalgamation with surrounding municipalities, most recently occurring in 1998.According to the 2011 Census, the city has 2.6 million residents, making it the fifth-most populous city in North America. However, in 2012, the municipal government published a population estimate of 2,791,140, which led to media reports claiming Toronto as the fourth most populous city in North America and the most populous Great Lakes city, surpassing Chicago. The census metropolitan area (CMA) had a population of 5,583,064, and the Greater Toronto Area (GTA) had a population of 6,054,191 in the 2011 Census. Toronto is at the heart of the Greater Toronto Area, and of the densely populated region in Southern Ontario known as the Golden Horseshoe. Its cosmopolitan and international population reflects its role as an important destination for immigrants to Canada. Toronto is one of the world's most diverse cities by percentage of non-native-born residents, with about 49% of the population born outside Canada.As Canada's commercial capital, it is home to the Toronto Stock Exchange and the five largest banks in the nation. Leading economic sectors in the city include finance, business services, telecommunications, aerospace, transportation, media, arts, publishing, software production, medical research, education, tourism, and engineering. Toronto is considered an alpha world city by the Globalization and World Cities (GaWC) study group. The city is also consistently rated as one of the world's most livable cities by the Economist Intelligence Unit and the Mercer Quality of Living Survey."
+159 $|$ "Toronto (/tɵˈrɒntoʊ/, local /ˈtrɒnoʊ/) is the most populous city in Canada and the provincial capital of Ontario. It is located in Southern Ontario on the northwestern shore of Lake Ontario. The history of Toronto began in the late 18th century when the British Crown purchased its land from the Mississaugas of the New Credit. The settlement established there became York, which lieutenant governor John Graves Simcoe designated as the capital of Upper Canada."
+70 $|$ "Toronto Coat of Arms.jpg"
+62 $|$ "Toronto Flag.svg"
+64 $|$ "Toronto Location in Ontario.png"
+3 $|$ "Toronto"
+107 $|$ "Torontonian"
+46 $|$ "US $1.6 billion"
+43 $|$ "US-OH"
+116 $|$ "USA Ohio"
+117 $|$ "USA"
+76 $|$ "Universitas Torontonensis"
+22 $|$ "University of Chicago Law School ( )"
+17 $|$ "University of Toronto"
+31 $|$ "Urban,"
+153 $|$ "Varsity Blues"
+83 $|$ "W"
+50 $|$ "WRU: 1826"
+74 $|$ "Y"
+110 $|$ "ZIP codes"
+131 $|$ "incumbent"
+41 $|$ "inline,title"
+24 $|$ "no"
+114 $|$ "right"
+45 $|$ "−12"
+75 $|$ "−22"
+136 $|$ "−4"
+135 $|$ "−5"
+55 $|$ "−6"
+14 $|$ <http://dbpedia.org/resource/Barbara_Snyder>
+10 $|$ <http://dbpedia.org/resource/Case_Western_Reserve_University>
+6 $|$ <http://dbpedia.org/resource/Cleveland>
+0 $|$ <http://dbpedia.org/resource/David_Naylor>
+12 $|$ <http://dbpedia.org/resource/Kent,_Ohio>
+8 $|$ <http://dbpedia.org/resource/Kent_State_University>
+4 $|$ <http://dbpedia.org/resource/Lester_Lefton>
+2 $|$ <http://dbpedia.org/resource/Toronto>
+16 $|$ <http://dbpedia.org/resource/University_of_Toronto>
+-label_mapping-
+89
+80 $|$ <http://dbpedia.org/ontology/abstract>
+85 $|$ <http://dbpedia.org/ontology/formerName>
+86 $|$ <http://dbpedia.org/ontology/leaderTitle>
+4 $|$ <http://dbpedia.org/property/almaMater>
+5 $|$ <http://dbpedia.org/property/athletics>
+6 $|$ <http://dbpedia.org/property/b>
+7 $|$ <http://dbpedia.org/property/birthName>
+8 $|$ <http://dbpedia.org/property/blank1Info>
+9 $|$ <http://dbpedia.org/property/blank1Name>
+10 $|$ <http://dbpedia.org/property/blankName>
+11 $|$ <http://dbpedia.org/property/calendar>
+12 $|$ <http://dbpedia.org/property/campus>
+13 $|$ <http://dbpedia.org/property/caption>
+14 $|$ <http://dbpedia.org/property/center>
+15 $|$ <http://dbpedia.org/property/chief>
+16 $|$ <http://dbpedia.org/property/children>
+17 $|$ <http://dbpedia.org/property/colors>
+18 $|$ <http://dbpedia.org/property/coordinatesDisplay>
+19 $|$ <http://dbpedia.org/property/coordinatesRegion>
+20 $|$ <http://dbpedia.org/property/date>
+21 $|$ <http://dbpedia.org/property/decRecordLowF>
+22 $|$ <http://dbpedia.org/property/endowment>
+23 $|$ <http://dbpedia.org/property/established>
+24 $|$ <http://dbpedia.org/property/establishedDate>
+25 $|$ <http://dbpedia.org/property/establishedTitle>
+26 $|$ <http://dbpedia.org/property/febRecordLowF>
+27 $|$ <http://dbpedia.org/property/firstresponderblsorals>
+28 $|$ <http://dbpedia.org/property/flagLink>
+29 $|$ <http://dbpedia.org/property/formerNames>
+30 $|$ <http://dbpedia.org/property/imageBlankEmblem>
+31 $|$ <http://dbpedia.org/property/imageCaption>
+32 $|$ <http://dbpedia.org/property/imageFlag>
+33 $|$ <http://dbpedia.org/property/imageMap>
+34 $|$ <http://dbpedia.org/property/imageName>
+35 $|$ <http://dbpedia.org/property/imageSeal>
+36 $|$ <http://dbpedia.org/property/imageShield>
+37 $|$ <http://dbpedia.org/property/imageSkyline>
+38 $|$ <http://dbpedia.org/property/imperialFirst>
+39 $|$ <http://dbpedia.org/property/janRecordLowF>
+40 $|$ <http://dbpedia.org/property/latinName>
+41 $|$ <http://dbpedia.org/property/latns>
+42 $|$ <http://dbpedia.org/property/leaderName>
+43 $|$ <http://dbpedia.org/property/leaderTitle>
+44 $|$ <http://dbpedia.org/property/location>
+45 $|$ <http://dbpedia.org/property/longew>
+46 $|$ <http://dbpedia.org/property/mapCaption>
+47 $|$ <http://dbpedia.org/property/mascot>
+48 $|$ <http://dbpedia.org/property/motto>
+49 $|$ <http://dbpedia.org/property/mottoeng>
+50 $|$ <http://dbpedia.org/property/n>
+51 $|$ <http://dbpedia.org/property/name>
+52 $|$ <http://dbpedia.org/property/nickname>
+53 $|$ <http://dbpedia.org/property/office>
+54 $|$ <http://dbpedia.org/property/officialName>
+55 $|$ <http://dbpedia.org/property/populationBlank>
+56 $|$ <http://dbpedia.org/property/populationDemonym>
+57 $|$ <http://dbpedia.org/property/postalCodeType>
+58 $|$ <http://dbpedia.org/property/predecessor>
+59 $|$ <http://dbpedia.org/property/profession>
+60 $|$ <http://dbpedia.org/property/pushpinLabelPosition>
+61 $|$ <http://dbpedia.org/property/pushpinMap>
+62 $|$ <http://dbpedia.org/property/pushpinMapCaption>
+63 $|$ <http://dbpedia.org/property/s>
+1 $|$ <http://dbpedia.org/property/settledTitle>
+64 $|$ <http://dbpedia.org/property/settlementType>
+2 $|$ <http://dbpedia.org/property/shieldLink>
+65 $|$ <http://dbpedia.org/property/shortDescription>
+66 $|$ <http://dbpedia.org/property/singleLine>
+67 $|$ <http://dbpedia.org/property/source>
+68 $|$ <http://dbpedia.org/property/south>
+69 $|$ <http://dbpedia.org/property/spouse>
+70 $|$ <http://dbpedia.org/property/staffing>
+71 $|$ <http://dbpedia.org/property/subdivisionType>
+72 $|$ <http://dbpedia.org/property/successor>
+73 $|$ <http://dbpedia.org/property/termEnd>
+74 $|$ <http://dbpedia.org/property/uniname>
+75 $|$ <http://dbpedia.org/property/unitPref>
+3 $|$ <http://dbpedia.org/property/university>
+76 $|$ <http://dbpedia.org/property/utcOffset>
+77 $|$ <http://dbpedia.org/property/utcOffsetDst>
+78 $|$ <http://dbpedia.org/property/v>
+79 $|$ <http://dbpedia.org/property/yearRecordLowF>
+81 $|$ <http://purl.org/dc/elements/1.1/description>
+87 $|$ <http://www.w3.org/2000/01/rdf-schema#comment>
+0 $|$ <http://www.w3.org/2000/01/rdf-schema#label>
+82 $|$ <http://xmlns.com/foaf/0.1/givenName>
+83 $|$ <http://xmlns.com/foaf/0.1/name>
+84 $|$ <http://xmlns.com/foaf/0.1/nick>
+88 $|$ <http://xmlns.com/foaf/0.1/surname>

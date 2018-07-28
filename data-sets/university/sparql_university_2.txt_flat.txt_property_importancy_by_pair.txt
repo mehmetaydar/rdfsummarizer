@@ -1,0 +1,351 @@
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/David_Naylor>) (4,0) :	sim: 0.459
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.067	6.7%
+	<http://dbpedia.org/property/almaMater> ( 10 ) : 0.067	6.7%
+	<http://dbpedia.org/property/birthDate> ( 37 ) : 0.067	6.7%
+	<http://dbpedia.org/property/birthPlace> ( 39 ) : 0.067	6.7%
+	<http://dbpedia.org/property/dateOfBirth> ( 57 ) : 0.067	6.7%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.067	6.7%
+	<http://dbpedia.org/property/order> ( 162 ) : 0.067	6.7%
+	<http://dbpedia.org/property/placeOfBirth> ( 163 ) : 0.067	6.7%
+	<http://dbpedia.org/property/predecessor> ( 179 ) : 0.067	6.7%
+	<http://dbpedia.org/property/profession> ( 181 ) : 0.067	6.7%
+	<http://dbpedia.org/property/shortDescription> ( 198 ) : 0.067	6.7%
+	<http://dbpedia.org/property/spouse> ( 202 ) : 0.067	6.7%
+	<http://dbpedia.org/property/successor> ( 211 ) : 0.067	6.7%
+	<http://dbpedia.org/property/termEnd> ( 213 ) : 0.067	6.7%
+	<http://dbpedia.org/property/termStart> ( 214 ) : 0.067	6.7%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/David_Naylor>) (14,0) :	sim: 0.454
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.091	9.1%
+	<http://dbpedia.org/property/almaMater> ( 10 ) : 0.091	9.1%
+	<http://dbpedia.org/property/birthDate> ( 37 ) : 0.091	9.1%
+	<http://dbpedia.org/property/dateOfBirth> ( 57 ) : 0.091	9.1%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.091	9.1%
+	<http://dbpedia.org/property/office> ( 160 ) : 0.091	9.1%
+	<http://dbpedia.org/property/predecessor> ( 179 ) : 0.091	9.1%
+	<http://dbpedia.org/property/residence> ( 189 ) : 0.091	9.1%
+	<http://dbpedia.org/property/shortDescription> ( 198 ) : 0.091	9.1%
+	<http://dbpedia.org/property/spouse> ( 202 ) : 0.091	9.1%
+	<http://dbpedia.org/property/termStart> ( 214 ) : 0.091	9.1%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Toronto>) (6,2) :	sim: 0.429
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.023	2.3%
+	<http://dbpedia.org/property/areaCode> ( 16 ) : 0.023	2.3%
+	<http://dbpedia.org/property/areaTotalKm> ( 20 ) : 0.023	2.3%
+	<http://dbpedia.org/property/blank1Name> ( 41 ) : 0.023	2.3%
+	<http://dbpedia.org/property/blankInfo> ( 42 ) : 0.023	2.3%
+	<http://dbpedia.org/property/blankName> ( 43 ) : 0.023	2.3%
+	<http://dbpedia.org/property/coordinatesDisplay> ( 53 ) : 0.023	2.3%
+	<http://dbpedia.org/property/coordinatesRegion> ( 54 ) : 0.023	2.3%
+	<http://dbpedia.org/property/elevationM> ( 65 ) : 0.023	2.3%
+	<http://dbpedia.org/property/establishedDate> ( 69 ) : 0.023	2.3%
+	<http://dbpedia.org/property/establishedTitle> ( 70 ) : 0.023	2.3%
+	<http://dbpedia.org/property/imageFlag> ( 90 ) : 0.023	2.3%
+	<http://dbpedia.org/property/imageMap> ( 91 ) : 0.023	2.3%
+	<http://dbpedia.org/property/imageSkyline> ( 96 ) : 0.023	2.3%
+	<http://dbpedia.org/property/latd> ( 113 ) : 0.023	2.3%
+	<http://dbpedia.org/property/latm> ( 116 ) : 0.023	2.3%
+	<http://dbpedia.org/property/latns> ( 117 ) : 0.023	2.3%
+	<http://dbpedia.org/property/leaderName> ( 119 ) : 0.023	2.3%
+	<http://dbpedia.org/property/leaderTitle> ( 120 ) : 0.023	2.3%
+	<http://dbpedia.org/property/longd> ( 123 ) : 0.023	2.3%
+	<http://dbpedia.org/property/longew> ( 124 ) : 0.023	2.3%
+	<http://dbpedia.org/property/longm> ( 126 ) : 0.023	2.3%
+	<http://dbpedia.org/property/mapCaption> ( 129 ) : 0.023	2.3%
+	<http://dbpedia.org/property/mapsize> ( 130 ) : 0.023	2.3%
+	<http://dbpedia.org/property/motto> ( 142 ) : 0.023	2.3%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.023	2.3%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.023	2.3%
+	<http://dbpedia.org/property/officialName> ( 161 ) : 0.023	2.3%
+	<http://dbpedia.org/property/populationAsOf> ( 165 ) : 0.023	2.3%
+	<http://dbpedia.org/property/populationDensityKm> ( 170 ) : 0.023	2.3%
+	<http://dbpedia.org/property/populationMetro> ( 173 ) : 0.023	2.3%
+	<http://dbpedia.org/property/populationTotal> ( 174 ) : 0.023	2.3%
+	<http://dbpedia.org/property/postalCode> ( 176 ) : 0.023	2.3%
+	<http://dbpedia.org/property/pushpinMap> ( 184 ) : 0.023	2.3%
+	<http://dbpedia.org/property/pushpinMapCaption> ( 185 ) : 0.023	2.3%
+	<http://dbpedia.org/property/settlementType> ( 196 ) : 0.023	2.3%
+	<http://dbpedia.org/property/subdivisionName> ( 209 ) : 0.023	2.3%
+	<http://dbpedia.org/property/subdivisionType> ( 210 ) : 0.023	2.3%
+	<http://dbpedia.org/property/timezone> ( 217 ) : 0.023	2.3%
+	<http://dbpedia.org/property/timezoneDst> ( 218 ) : 0.023	2.3%
+	<http://dbpedia.org/property/unitPref> ( 225 ) : 0.023	2.3%
+	<http://dbpedia.org/property/utcOffset> ( 227 ) : 0.023	2.3%
+	<http://dbpedia.org/property/utcOffsetDst> ( 228 ) : 0.023	2.3%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/Kent_State_University>) (10,8) :	sim: 0.419
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.050	5.0%
+	<http://dbpedia.org/property/athletics> ( 29 ) : 0.050	5.0%
+	<http://dbpedia.org/property/campus> ( 45 ) : 0.050	5.0%
+	<http://dbpedia.org/property/city> ( 51 ) : 0.050	5.0%
+	<http://dbpedia.org/property/colors> ( 52 ) : 0.050	5.0%
+	<http://dbpedia.org/property/country> ( 55 ) : 0.050	5.0%
+	<http://dbpedia.org/property/endowment> ( 66 ) : 0.050	5.0%
+	<http://dbpedia.org/property/established> ( 68 ) : 0.050	5.0%
+	<http://dbpedia.org/property/faculty> ( 71 ) : 0.050	5.0%
+	<http://dbpedia.org/property/logo> ( 122 ) : 0.050	5.0%
+	<http://dbpedia.org/property/motto> ( 142 ) : 0.050	5.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.050	5.0%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.050	5.0%
+	<http://dbpedia.org/property/postgrad> ( 178 ) : 0.050	5.0%
+	<http://dbpedia.org/property/president> ( 180 ) : 0.050	5.0%
+	<http://dbpedia.org/property/state> ( 205 ) : 0.050	5.0%
+	<http://dbpedia.org/property/type> ( 222 ) : 0.050	5.0%
+	<http://dbpedia.org/property/undergrad> ( 223 ) : 0.050	5.0%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.050	5.0%
+	<http://dbpedia.org/property/wordnet_type> ( 245 ) : 0.050	5.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Lester_Lefton>) (14,4) :	sim: 0.418
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.111	11.1%
+	<http://dbpedia.org/property/almaMater> ( 10 ) : 0.111	11.1%
+	<http://dbpedia.org/property/birthDate> ( 37 ) : 0.111	11.1%
+	<http://dbpedia.org/property/dateOfBirth> ( 57 ) : 0.111	11.1%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.111	11.1%
+	<http://dbpedia.org/property/predecessor> ( 179 ) : 0.111	11.1%
+	<http://dbpedia.org/property/shortDescription> ( 198 ) : 0.111	11.1%
+	<http://dbpedia.org/property/spouse> ( 202 ) : 0.111	11.1%
+	<http://dbpedia.org/property/termStart> ( 214 ) : 0.111	11.1%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Cleveland>) (12,6) :	sim: 0.410
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.019	1.9%
+	<http://dbpedia.org/property/areaCode> ( 16 ) : 0.019	1.9%
+	<http://dbpedia.org/property/areaLandKm> ( 17 ) : 0.019	1.9%
+	<http://dbpedia.org/property/areaLandSqMi> ( 18 ) : 0.019	1.9%
+	<http://dbpedia.org/property/areaTotalKm> ( 20 ) : 0.019	1.9%
+	<http://dbpedia.org/property/areaTotalSqMi> ( 21 ) : 0.019	1.9%
+	<http://dbpedia.org/property/areaWaterKm> ( 23 ) : 0.019	1.9%
+	<http://dbpedia.org/property/areaWaterSqMi> ( 24 ) : 0.019	1.9%
+	<http://dbpedia.org/property/blank1Name> ( 41 ) : 0.019	1.9%
+	<http://dbpedia.org/property/blankInfo> ( 42 ) : 0.019	1.9%
+	<http://dbpedia.org/property/blankName> ( 43 ) : 0.019	1.9%
+	<http://dbpedia.org/property/coordinatesDisplay> ( 53 ) : 0.019	1.9%
+	<http://dbpedia.org/property/coordinatesRegion> ( 54 ) : 0.019	1.9%
+	<http://dbpedia.org/property/elevationFt> ( 64 ) : 0.019	1.9%
+	<http://dbpedia.org/property/elevationM> ( 65 ) : 0.019	1.9%
+	<http://dbpedia.org/property/establishedDate> ( 69 ) : 0.019	1.9%
+	<http://dbpedia.org/property/establishedTitle> ( 70 ) : 0.019	1.9%
+	<http://dbpedia.org/property/imageMap> ( 91 ) : 0.019	1.9%
+	<http://dbpedia.org/property/imageSeal> ( 93 ) : 0.019	1.9%
+	<http://dbpedia.org/property/imageSkyline> ( 96 ) : 0.019	1.9%
+	<http://dbpedia.org/property/latd> ( 113 ) : 0.019	1.9%
+	<http://dbpedia.org/property/latm> ( 116 ) : 0.019	1.9%
+	<http://dbpedia.org/property/latns> ( 117 ) : 0.019	1.9%
+	<http://dbpedia.org/property/lats> ( 118 ) : 0.019	1.9%
+	<http://dbpedia.org/property/leaderName> ( 119 ) : 0.019	1.9%
+	<http://dbpedia.org/property/leaderTitle> ( 120 ) : 0.019	1.9%
+	<http://dbpedia.org/property/longd> ( 123 ) : 0.019	1.9%
+	<http://dbpedia.org/property/longew> ( 124 ) : 0.019	1.9%
+	<http://dbpedia.org/property/longm> ( 126 ) : 0.019	1.9%
+	<http://dbpedia.org/property/longs> ( 127 ) : 0.019	1.9%
+	<http://dbpedia.org/property/mapCaption> ( 129 ) : 0.019	1.9%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.019	1.9%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.019	1.9%
+	<http://dbpedia.org/property/officialName> ( 161 ) : 0.019	1.9%
+	<http://dbpedia.org/property/popEstAsOf> ( 164 ) : 0.019	1.9%
+	<http://dbpedia.org/property/populationAsOf> ( 165 ) : 0.019	1.9%
+	<http://dbpedia.org/property/populationDensityKm> ( 170 ) : 0.019	1.9%
+	<http://dbpedia.org/property/populationDensitySqMi> ( 171 ) : 0.019	1.9%
+	<http://dbpedia.org/property/populationEst> ( 172 ) : 0.019	1.9%
+	<http://dbpedia.org/property/populationTotal> ( 174 ) : 0.019	1.9%
+	<http://dbpedia.org/property/postalCode> ( 176 ) : 0.019	1.9%
+	<http://dbpedia.org/property/pushpinMap> ( 184 ) : 0.019	1.9%
+	<http://dbpedia.org/property/pushpinMapCaption> ( 185 ) : 0.019	1.9%
+	<http://dbpedia.org/property/settlementType> ( 196 ) : 0.019	1.9%
+	<http://dbpedia.org/property/subdivisionName> ( 209 ) : 0.019	1.9%
+	<http://dbpedia.org/property/subdivisionType> ( 210 ) : 0.019	1.9%
+	<http://dbpedia.org/property/timezone> ( 217 ) : 0.019	1.9%
+	<http://dbpedia.org/property/timezoneDst> ( 218 ) : 0.019	1.9%
+	<http://dbpedia.org/property/unitPref> ( 225 ) : 0.019	1.9%
+	<http://dbpedia.org/property/utcOffset> ( 227 ) : 0.019	1.9%
+	<http://dbpedia.org/property/utcOffsetDst> ( 228 ) : 0.019	1.9%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.019	1.9%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Toronto>) (12,2) :	sim: 0.333
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.023	2.3%
+	<http://dbpedia.org/property/areaCode> ( 16 ) : 0.023	2.3%
+	<http://dbpedia.org/property/areaTotalKm> ( 20 ) : 0.023	2.3%
+	<http://dbpedia.org/property/blank1Info> ( 40 ) : 0.023	2.3%
+	<http://dbpedia.org/property/blank1Name> ( 41 ) : 0.023	2.3%
+	<http://dbpedia.org/property/blankInfo> ( 42 ) : 0.023	2.3%
+	<http://dbpedia.org/property/blankName> ( 43 ) : 0.023	2.3%
+	<http://dbpedia.org/property/coordinatesDisplay> ( 53 ) : 0.023	2.3%
+	<http://dbpedia.org/property/coordinatesRegion> ( 54 ) : 0.023	2.3%
+	<http://dbpedia.org/property/elevationM> ( 65 ) : 0.023	2.3%
+	<http://dbpedia.org/property/establishedDate> ( 69 ) : 0.023	2.3%
+	<http://dbpedia.org/property/establishedTitle> ( 70 ) : 0.023	2.3%
+	<http://dbpedia.org/property/governmentType> ( 84 ) : 0.023	2.3%
+	<http://dbpedia.org/property/imageCaption> ( 89 ) : 0.023	2.3%
+	<http://dbpedia.org/property/imageMap> ( 91 ) : 0.023	2.3%
+	<http://dbpedia.org/property/imageSkyline> ( 96 ) : 0.023	2.3%
+	<http://dbpedia.org/property/latd> ( 113 ) : 0.023	2.3%
+	<http://dbpedia.org/property/latm> ( 116 ) : 0.023	2.3%
+	<http://dbpedia.org/property/latns> ( 117 ) : 0.023	2.3%
+	<http://dbpedia.org/property/leaderName> ( 119 ) : 0.023	2.3%
+	<http://dbpedia.org/property/leaderTitle> ( 120 ) : 0.023	2.3%
+	<http://dbpedia.org/property/longd> ( 123 ) : 0.023	2.3%
+	<http://dbpedia.org/property/longew> ( 124 ) : 0.023	2.3%
+	<http://dbpedia.org/property/longm> ( 126 ) : 0.023	2.3%
+	<http://dbpedia.org/property/mapCaption> ( 129 ) : 0.023	2.3%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.023	2.3%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.023	2.3%
+	<http://dbpedia.org/property/officialName> ( 161 ) : 0.023	2.3%
+	<http://dbpedia.org/property/populationAsOf> ( 165 ) : 0.023	2.3%
+	<http://dbpedia.org/property/populationDemonym> ( 169 ) : 0.023	2.3%
+	<http://dbpedia.org/property/populationDensityKm> ( 170 ) : 0.023	2.3%
+	<http://dbpedia.org/property/populationTotal> ( 174 ) : 0.023	2.3%
+	<http://dbpedia.org/property/postalCode> ( 176 ) : 0.023	2.3%
+	<http://dbpedia.org/property/postalCodeType> ( 177 ) : 0.023	2.3%
+	<http://dbpedia.org/property/pushpinMap> ( 184 ) : 0.023	2.3%
+	<http://dbpedia.org/property/pushpinMapCaption> ( 185 ) : 0.023	2.3%
+	<http://dbpedia.org/property/settlementType> ( 196 ) : 0.023	2.3%
+	<http://dbpedia.org/property/subdivisionName> ( 209 ) : 0.023	2.3%
+	<http://dbpedia.org/property/subdivisionType> ( 210 ) : 0.023	2.3%
+	<http://dbpedia.org/property/timezone> ( 217 ) : 0.023	2.3%
+	<http://dbpedia.org/property/timezoneDst> ( 218 ) : 0.023	2.3%
+	<http://dbpedia.org/property/unitPref> ( 225 ) : 0.023	2.3%
+	<http://dbpedia.org/property/utcOffset> ( 227 ) : 0.023	2.3%
+	<http://dbpedia.org/property/utcOffsetDst> ( 228 ) : 0.023	2.3%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (16,10) :	sim: 0.326
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.050	5.0%
+	<http://dbpedia.org/property/arwuW> ( 28 ) : 0.050	5.0%
+	<http://dbpedia.org/property/athletics> ( 29 ) : 0.050	5.0%
+	<http://dbpedia.org/property/campus> ( 45 ) : 0.050	5.0%
+	<http://dbpedia.org/property/city> ( 51 ) : 0.050	5.0%
+	<http://dbpedia.org/property/country> ( 55 ) : 0.050	5.0%
+	<http://dbpedia.org/property/endowment> ( 66 ) : 0.050	5.0%
+	<http://dbpedia.org/property/established> ( 68 ) : 0.050	5.0%
+	<http://dbpedia.org/property/faculty> ( 71 ) : 0.050	5.0%
+	<http://dbpedia.org/property/logo> ( 122 ) : 0.050	5.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.050	5.0%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.050	5.0%
+	<http://dbpedia.org/property/postgrad> ( 178 ) : 0.050	5.0%
+	<http://dbpedia.org/property/president> ( 180 ) : 0.050	5.0%
+	<http://dbpedia.org/property/qsW> ( 187 ) : 0.050	5.0%
+	<http://dbpedia.org/property/thesW> ( 216 ) : 0.050	5.0%
+	<http://dbpedia.org/property/type> ( 222 ) : 0.050	5.0%
+	<http://dbpedia.org/property/undergrad> ( 223 ) : 0.050	5.0%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.050	5.0%
+	<http://dbpedia.org/property/wordnet_type> ( 245 ) : 0.050	5.0%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Kent_State_University>) (16,8) :	sim: 0.304
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.053	5.3%
+	<http://dbpedia.org/property/affiliations> ( 9 ) : 0.053	5.3%
+	<http://dbpedia.org/property/athletics> ( 29 ) : 0.053	5.3%
+	<http://dbpedia.org/property/campus> ( 45 ) : 0.053	5.3%
+	<http://dbpedia.org/property/city> ( 51 ) : 0.053	5.3%
+	<http://dbpedia.org/property/country> ( 55 ) : 0.053	5.3%
+	<http://dbpedia.org/property/endowment> ( 66 ) : 0.053	5.3%
+	<http://dbpedia.org/property/established> ( 68 ) : 0.053	5.3%
+	<http://dbpedia.org/property/faculty> ( 71 ) : 0.053	5.3%
+	<http://dbpedia.org/property/logo> ( 122 ) : 0.053	5.3%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.053	5.3%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.053	5.3%
+	<http://dbpedia.org/property/postgrad> ( 178 ) : 0.053	5.3%
+	<http://dbpedia.org/property/president> ( 180 ) : 0.053	5.3%
+	<http://dbpedia.org/property/staff> ( 203 ) : 0.053	5.3%
+	<http://dbpedia.org/property/type> ( 222 ) : 0.053	5.3%
+	<http://dbpedia.org/property/undergrad> ( 223 ) : 0.053	5.3%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.053	5.3%
+	<http://dbpedia.org/property/wordnet_type> ( 245 ) : 0.053	5.3%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/Lester_Lefton>) (10,4) :	sim: 0.178
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.333	33.3%
+	<http://dbpedia.org/property/caption> ( 46 ) : 0.333	33.3%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.333	33.3%
+(<http://dbpedia.org/resource/Kent_State_University>,<http://dbpedia.org/resource/Cleveland>) (8,6) :	sim: 0.173
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.167	16.7%
+	<http://dbpedia.org/property/established> ( 68 ) : 0.167	16.7%
+	<http://dbpedia.org/property/motto> ( 142 ) : 0.167	16.7%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.167	16.7%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.167	16.7%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.167	16.7%
+(<http://dbpedia.org/resource/Kent_State_University>,<http://dbpedia.org/resource/Toronto>) (8,2) :	sim: 0.169
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.250	25.0%
+	<http://dbpedia.org/property/motto> ( 142 ) : 0.250	25.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.250	25.0%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.250	25.0%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/Toronto>) (10,2) :	sim: 0.168
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.250	25.0%
+	<http://dbpedia.org/property/motto> ( 142 ) : 0.250	25.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.250	25.0%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.250	25.0%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/Cleveland>) (10,6) :	sim: 0.166
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.167	16.7%
+	<http://dbpedia.org/property/established> ( 68 ) : 0.167	16.7%
+	<http://dbpedia.org/property/motto> ( 142 ) : 0.167	16.7%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.167	16.7%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.167	16.7%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.167	16.7%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Kent_State_University>) (14,8) :	sim: 0.163
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Cleveland>) (16,6) :	sim: 0.161
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.200	20.0%
+	<http://dbpedia.org/property/established> ( 68 ) : 0.200	20.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.200	20.0%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.200	20.0%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.200	20.0%
+(<http://dbpedia.org/resource/Kent_State_University>,<http://dbpedia.org/resource/Lester_Lefton>) (8,4) :	sim: 0.161
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (14,10) :	sim: 0.161
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Cleveland>) (14,6) :	sim: 0.160
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Kent_State_University>,<http://dbpedia.org/resource/David_Naylor>) (8,0) :	sim: 0.160
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.333	33.3%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.333	33.3%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.333	33.3%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Lester_Lefton>) (6,4) :	sim: 0.160
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/David_Naylor>) (6,0) :	sim: 0.159
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.333	33.3%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.333	33.3%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.333	33.3%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/David_Naylor>) (10,0) :	sim: 0.159
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.333	33.3%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.333	33.3%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.333	33.3%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Barbara_Snyder>) (16,14) :	sim: 0.158
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Toronto>) (16,2) :	sim: 0.158
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.333	33.3%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.333	33.3%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.333	33.3%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Lester_Lefton>) (16,4) :	sim: 0.157
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/David_Naylor>) (16,0) :	sim: 0.157
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.333	33.3%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.333	33.3%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.333	33.3%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Kent_State_University>) (12,8) :	sim: 0.156
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.250	25.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.250	25.0%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.250	25.0%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.250	25.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Toronto>) (14,2) :	sim: 0.155
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (12,10) :	sim: 0.155
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.250	25.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.250	25.0%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.250	25.0%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.250	25.0%
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/Toronto>) (4,2) :	sim: 0.155
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Kent,_Ohio>) (16,12) :	sim: 0.155
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.250	25.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.250	25.0%
+	<http://dbpedia.org/property/nickname> ( 147 ) : 0.250	25.0%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.250	25.0%
+(<http://dbpedia.org/resource/Toronto>,<http://dbpedia.org/resource/David_Naylor>) (2,0) :	sim: 0.155
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Kent,_Ohio>) (14,12) :	sim: 0.153
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Lester_Lefton>) (12,4) :	sim: 0.153
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.500	50.0%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/David_Naylor>) (12,0) :	sim: 0.153
+	<http://dbpedia.org/property/hasPhotoCollection> ( 0 ) : 0.333	33.3%
+	<http://dbpedia.org/property/name> ( 145 ) : 0.333	33.3%
+	<http://dbpedia.org/property/website> ( 231 ) : 0.333	33.3%

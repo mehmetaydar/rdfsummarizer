@@ -1,0 +1,219 @@
+(<http://dbpedia.org/resource/Toronto>."Toronto" , <http://dbpedia.org/resource/University_of_Toronto>."University of Toronto") (11,9) :	sim: 0.833
+(<http://dbpedia.org/resource/Kent,_Ohio>."Kent State University" , <http://dbpedia.org/resource/Kent_State_University>."Kent") (13,7) :	sim: 0.833
+(<http://dbpedia.org/resource/University_of_Toronto>."Kent State University" , <http://dbpedia.org/resource/Kent_State_University>."University of Toronto") (13,9) :	sim: 0.667
+(<http://dbpedia.org/resource/University_of_Toronto>."Case Western Reserve University" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."University of Toronto") (12,9) :	sim: 0.646
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>."Kent State University" , <http://dbpedia.org/resource/Kent_State_University>."Case Western Reserve University") (13,12) :	sim: 0.646
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Kent,_Ohio>) (30,6) :	sim: 0.575
+	<http://dbpedia.org/property/website> ( 6 ) : 0.100	10.0%
+	<http://dbpedia.org/property/populationTotal> ( 11 ) : 0.100	10.0%
+	<http://dbpedia.org/property/settlementType> ( 13 ) : 0.100	10.0%
+	<http://dbpedia.org/property/areaTotalKm> ( 14 ) : 0.100	10.0%
+	<http://dbpedia.org/property/establishedDate> ( 15 ) : 0.100	10.0%
+	<http://dbpedia.org/property/location> ( 16 ) : 0.100	10.0%
+	<http://dbpedia.org/property/latd> ( 17 ) : 0.100	10.0%
+	<http://dbpedia.org/property/latm> ( 18 ) : 0.100	10.0%
+	<http://dbpedia.org/property/areaCode> ( 19 ) : 0.100	10.0%
+	<http://dbpedia.org/property/timezone> ( 20 ) : 0.100	10.0%
+(<http://dbpedia.org/resource/David_Naylor>."Naylor, David" , <http://dbpedia.org/resource/University_of_Toronto>."University of Toronto") (16,9) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lester Lefton" , <http://dbpedia.org/resource/University_of_Toronto>."University of Toronto") (18,9) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lefton, Lester" , <http://dbpedia.org/resource/University_of_Toronto>."University of Toronto") (19,9) :	sim: 0.500
+(<http://dbpedia.org/resource/Barbara_Snyder>."Snyder, Barbara" , <http://dbpedia.org/resource/University_of_Toronto>."University of Toronto") (21,9) :	sim: 0.500
+(<http://dbpedia.org/resource/David_Naylor>."David Naylor" , <http://dbpedia.org/resource/Toronto>."Toronto") (15,11) :	sim: 0.500
+(<http://dbpedia.org/resource/David_Naylor>."Naylor, David" , <http://dbpedia.org/resource/Toronto>."Toronto") (16,11) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lester Lefton" , <http://dbpedia.org/resource/Toronto>."Toronto") (18,11) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lefton, Lester" , <http://dbpedia.org/resource/Toronto>."Toronto") (19,11) :	sim: 0.500
+(<http://dbpedia.org/resource/Barbara_Snyder>."Snyder, Barbara" , <http://dbpedia.org/resource/Toronto>."Toronto") (21,11) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."2615060" , <http://dbpedia.org/resource/Toronto>."396815") (43,42) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."630" , <http://dbpedia.org/resource/Toronto>."213") (49,48) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1793-08-27" , <http://dbpedia.org/resource/Toronto>."1796") (55,50) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1834-03-06" , <http://dbpedia.org/resource/Toronto>."1796") (56,50) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1998-01-01" , <http://dbpedia.org/resource/Toronto>."1796") (57,50) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1793-08-27" , <http://dbpedia.org/resource/Toronto>."1814") (55,52) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."1793-08-27" , <http://dbpedia.org/resource/Kent,_Ohio>."1867") (55,54) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1834-03-06" , <http://dbpedia.org/resource/Toronto>."1814") (56,52) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1793-08-27" , <http://dbpedia.org/resource/Toronto>."1836") (55,53) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1834-03-06" , <http://dbpedia.org/resource/Toronto>."1836") (56,53) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1998-01-01" , <http://dbpedia.org/resource/Toronto>."1836") (57,53) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."43" , <http://dbpedia.org/resource/Toronto>."41") (62,61) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."42" , <http://dbpedia.org/resource/Toronto>."28") (65,64) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."416647" , <http://dbpedia.org/resource/Toronto>."216") (68,66) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lester Lefton" , <http://dbpedia.org/resource/David_Naylor>."David Naylor") (18,15) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lester Lefton" , <http://dbpedia.org/resource/David_Naylor>."Naylor, David") (18,16) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lefton, Lester" , <http://dbpedia.org/resource/David_Naylor>."David Naylor") (19,15) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lefton, Lester" , <http://dbpedia.org/resource/David_Naylor>."Naylor, David") (19,16) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."1954-10-26" , <http://dbpedia.org/resource/David_Naylor>."1946-07-27") (71,70) :	sim: 0.500
+(<http://dbpedia.org/resource/Barbara_Snyder>."Snyder, Barbara" , <http://dbpedia.org/resource/David_Naylor>."David Naylor") (21,15) :	sim: 0.500
+(<http://dbpedia.org/resource/Barbara_Snyder>."Snyder, Barbara" , <http://dbpedia.org/resource/David_Naylor>."Naylor, David") (21,16) :	sim: 0.500
+(<http://dbpedia.org/resource/Barbara_Snyder>."Snyder, Barbara" , <http://dbpedia.org/resource/Lester_Lefton>."Lester Lefton") (21,18) :	sim: 0.500
+(<http://dbpedia.org/resource/Barbara_Snyder>."Snyder, Barbara" , <http://dbpedia.org/resource/Lester_Lefton>."Lefton, Lester") (21,19) :	sim: 0.500
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>."CIT: 1880" , <http://dbpedia.org/resource/Kent_State_University>."1910") (38,37) :	sim: 0.500
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>."WRU: 1826" , <http://dbpedia.org/resource/Kent_State_University>."1910") (39,37) :	sim: 0.500
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>."CWRU: 1967" , <http://dbpedia.org/resource/Kent_State_University>."1910") (40,37) :	sim: 0.500
+(<http://dbpedia.org/resource/University_of_Toronto>."1910" , <http://dbpedia.org/resource/Kent_State_University>."15") (37,36) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."Kent State University" , <http://dbpedia.org/resource/Kent_State_University>."Toronto") (13,11) :	sim: 0.500
+(<http://dbpedia.org/resource/David_Naylor>."David Naylor" , <http://dbpedia.org/resource/Kent_State_University>."Kent State University") (15,13) :	sim: 0.500
+(<http://dbpedia.org/resource/David_Naylor>."Naylor, David" , <http://dbpedia.org/resource/Kent_State_University>."Kent State University") (16,13) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lester Lefton" , <http://dbpedia.org/resource/Kent_State_University>."Kent State University") (18,13) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lefton, Lester" , <http://dbpedia.org/resource/Kent_State_University>."Kent State University") (19,13) :	sim: 0.500
+(<http://dbpedia.org/resource/Barbara_Snyder>."Snyder, Barbara" , <http://dbpedia.org/resource/Kent_State_University>."Kent State University") (21,13) :	sim: 0.500
+(<http://dbpedia.org/resource/Kent,_Ohio>."Case Western Reserve University" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."Kent") (12,7) :	sim: 0.500
+(<http://dbpedia.org/resource/University_of_Toronto>."CIT: 1880" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."15") (38,36) :	sim: 0.500
+(<http://dbpedia.org/resource/University_of_Toronto>."WRU: 1826" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."15") (39,36) :	sim: 0.500
+(<http://dbpedia.org/resource/University_of_Toronto>."CWRU: 1967" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."15") (40,36) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."Case Western Reserve University" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."Toronto") (12,11) :	sim: 0.500
+(<http://dbpedia.org/resource/David_Naylor>."David Naylor" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."Case Western Reserve University") (15,12) :	sim: 0.500
+(<http://dbpedia.org/resource/David_Naylor>."Naylor, David" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."Case Western Reserve University") (16,12) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lester Lefton" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."Case Western Reserve University") (18,12) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lefton, Lester" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."Case Western Reserve University") (19,12) :	sim: 0.500
+(<http://dbpedia.org/resource/Barbara_Snyder>."Snyder, Barbara" , <http://dbpedia.org/resource/Case_Western_Reserve_University>."Case Western Reserve University") (21,12) :	sim: 0.500
+(<http://dbpedia.org/resource/University_of_Toronto>."University of Toronto" , <http://dbpedia.org/resource/Kent,_Ohio>."Kent") (9,7) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."Toronto" , <http://dbpedia.org/resource/Kent,_Ohio>."Kent") (11,7) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."2615060" , <http://dbpedia.org/resource/Kent,_Ohio>."28904") (43,41) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."630" , <http://dbpedia.org/resource/Kent,_Ohio>."24") (49,47) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."1793-08-27" , <http://dbpedia.org/resource/Kent,_Ohio>."1805") (55,51) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1998-01-01" , <http://dbpedia.org/resource/Toronto>."1814") (57,52) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."November 1805" , <http://dbpedia.org/resource/Kent,_Ohio>."1793-08-27") (58,55) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."1834-03-06" , <http://dbpedia.org/resource/Kent,_Ohio>."1805") (56,51) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."1834-03-06" , <http://dbpedia.org/resource/Kent,_Ohio>."1867") (56,54) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."November 1805" , <http://dbpedia.org/resource/Kent,_Ohio>."1834-03-06") (58,56) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."1998-01-01" , <http://dbpedia.org/resource/Kent,_Ohio>."1805") (57,51) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."1998-01-01" , <http://dbpedia.org/resource/Kent,_Ohio>."1867") (57,54) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."November 1805" , <http://dbpedia.org/resource/Kent,_Ohio>."1998-01-01") (58,57) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."43" , <http://dbpedia.org/resource/Kent,_Ohio>."41") (62,61) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."42" , <http://dbpedia.org/resource/Kent,_Ohio>."9") (65,63) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>."416647" , <http://dbpedia.org/resource/Kent,_Ohio>."330234") (68,67) :	sim: 0.500
+(<http://dbpedia.org/resource/David_Naylor>."David Naylor" , <http://dbpedia.org/resource/Kent,_Ohio>."Kent") (15,7) :	sim: 0.500
+(<http://dbpedia.org/resource/David_Naylor>."Naylor, David" , <http://dbpedia.org/resource/Kent,_Ohio>."Kent") (16,7) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lester Lefton" , <http://dbpedia.org/resource/Kent,_Ohio>."Kent") (18,7) :	sim: 0.500
+(<http://dbpedia.org/resource/Lester_Lefton>."Lefton, Lester" , <http://dbpedia.org/resource/Kent,_Ohio>."Kent") (19,7) :	sim: 0.500
+(<http://dbpedia.org/resource/Barbara_Snyder>."Snyder, Barbara" , <http://dbpedia.org/resource/Kent,_Ohio>."Kent") (21,7) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."396815" , <http://dbpedia.org/resource/Kent,_Ohio>."28904") (42,41) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."213" , <http://dbpedia.org/resource/Kent,_Ohio>."24") (48,47) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1805" , <http://dbpedia.org/resource/Kent,_Ohio>."1796") (51,50) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1867" , <http://dbpedia.org/resource/Kent,_Ohio>."1796") (54,50) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."November 1805" , <http://dbpedia.org/resource/Kent,_Ohio>."1796") (58,50) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1814" , <http://dbpedia.org/resource/Kent,_Ohio>."1805") (52,51) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1867" , <http://dbpedia.org/resource/Kent,_Ohio>."1814") (54,52) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."November 1805" , <http://dbpedia.org/resource/Kent,_Ohio>."1814") (58,52) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1836" , <http://dbpedia.org/resource/Kent,_Ohio>."1805") (53,51) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."1867" , <http://dbpedia.org/resource/Kent,_Ohio>."1836") (54,53) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."November 1805" , <http://dbpedia.org/resource/Kent,_Ohio>."1836") (58,53) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."Cleveland , 1981-2010 normals" , <http://dbpedia.org/resource/Kent,_Ohio>."Kent, Ohio") (60,59) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."28" , <http://dbpedia.org/resource/Kent,_Ohio>."9") (64,63) :	sim: 0.500
+(<http://dbpedia.org/resource/Cleveland>."330234" , <http://dbpedia.org/resource/Kent,_Ohio>."216") (67,66) :	sim: 0.500
+(<http://dbpedia.org/resource/David_Naylor>."David Naylor" , <http://dbpedia.org/resource/University_of_Toronto>."University of Toronto") (15,9) :	sim: 0.500
+(<http://dbpedia.org/resource/Toronto>,<http://dbpedia.org/resource/Kent,_Ohio>) (10,6) :	sim: 0.469
+	<http://dbpedia.org/property/name> ( 3 ) : 0.111	11.1%
+	<http://dbpedia.org/property/populationTotal> ( 11 ) : 0.111	11.1%
+	<http://dbpedia.org/property/settlementType> ( 13 ) : 0.111	11.1%
+	<http://dbpedia.org/property/areaTotalKm> ( 14 ) : 0.111	11.1%
+	<http://dbpedia.org/property/establishedDate> ( 15 ) : 0.111	11.1%
+	<http://dbpedia.org/property/latd> ( 17 ) : 0.111	11.1%
+	<http://dbpedia.org/property/latm> ( 18 ) : 0.111	11.1%
+	<http://dbpedia.org/property/areaCode> ( 19 ) : 0.111	11.1%
+	<http://dbpedia.org/property/timezone> ( 20 ) : 0.111	11.1%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Toronto>) (30,10) :	sim: 0.459
+	<http://dbpedia.org/property/populationTotal> ( 11 ) : 0.125	12.5%
+	<http://dbpedia.org/property/settlementType> ( 13 ) : 0.125	12.5%
+	<http://dbpedia.org/property/areaTotalKm> ( 14 ) : 0.125	12.5%
+	<http://dbpedia.org/property/establishedDate> ( 15 ) : 0.125	12.5%
+	<http://dbpedia.org/property/latd> ( 17 ) : 0.125	12.5%
+	<http://dbpedia.org/property/latm> ( 18 ) : 0.125	12.5%
+	<http://dbpedia.org/property/areaCode> ( 19 ) : 0.125	12.5%
+	<http://dbpedia.org/property/timezone> ( 20 ) : 0.125	12.5%
+(<http://dbpedia.org/resource/Case_Western_Reserve_University>,<http://dbpedia.org/resource/Kent_State_University>) (5,0) :	sim: 0.426
+	<http://dbpedia.org/property/state> ( 2 ) : 0.111	11.1%
+	<http://dbpedia.org/property/name> ( 3 ) : 0.111	11.1%
+	<http://dbpedia.org/property/type> ( 4 ) : 0.111	11.1%
+	<http://dbpedia.org/property/country> ( 5 ) : 0.111	11.1%
+	<http://dbpedia.org/property/website> ( 6 ) : 0.111	11.1%
+	<http://dbpedia.org/property/president> ( 7 ) : 0.111	11.1%
+	<http://dbpedia.org/property/city> ( 8 ) : 0.111	11.1%
+	<http://dbpedia.org/property/campus> ( 9 ) : 0.111	11.1%
+	<http://dbpedia.org/property/established> ( 10 ) : 0.111	11.1%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (8,5) :	sim: 0.382
+	<http://dbpedia.org/property/name> ( 3 ) : 0.125	12.5%
+	<http://dbpedia.org/property/type> ( 4 ) : 0.125	12.5%
+	<http://dbpedia.org/property/country> ( 5 ) : 0.125	12.5%
+	<http://dbpedia.org/property/website> ( 6 ) : 0.125	12.5%
+	<http://dbpedia.org/property/president> ( 7 ) : 0.125	12.5%
+	<http://dbpedia.org/property/city> ( 8 ) : 0.125	12.5%
+	<http://dbpedia.org/property/campus> ( 9 ) : 0.125	12.5%
+	<http://dbpedia.org/property/established> ( 10 ) : 0.125	12.5%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Kent_State_University>) (8,0) :	sim: 0.379
+	<http://dbpedia.org/property/name> ( 3 ) : 0.125	12.5%
+	<http://dbpedia.org/property/type> ( 4 ) : 0.125	12.5%
+	<http://dbpedia.org/property/country> ( 5 ) : 0.125	12.5%
+	<http://dbpedia.org/property/website> ( 6 ) : 0.125	12.5%
+	<http://dbpedia.org/property/president> ( 7 ) : 0.125	12.5%
+	<http://dbpedia.org/property/city> ( 8 ) : 0.125	12.5%
+	<http://dbpedia.org/property/campus> ( 9 ) : 0.125	12.5%
+	<http://dbpedia.org/property/established> ( 10 ) : 0.125	12.5%
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/David_Naylor>) (17,14) :	sim: 0.332
+	<http://dbpedia.org/property/name> ( 3 ) : 0.167	16.7%
+	<http://dbpedia.org/property/dateOfBirth> ( 21 ) : 0.167	16.7%
+	<http://dbpedia.org/property/birthDate> ( 22 ) : 0.167	16.7%
+	<http://dbpedia.org/property/birthPlace> ( 23 ) : 0.167	16.7%
+	<http://dbpedia.org/property/profession> ( 24 ) : 0.167	16.7%
+	<http://dbpedia.org/property/placeOfBirth> ( 25 ) : 0.167	16.7%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/University_of_Toronto>) (20,8) :	sim: 0.203
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Toronto>) (20,10) :	sim: 0.197
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (20,5) :	sim: 0.197
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Toronto>,<http://dbpedia.org/resource/University_of_Toronto>) (10,8) :	sim: 0.194
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Kent_State_University>) (20,0) :	sim: 0.189
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Kent,_Ohio>) (20,6) :	sim: 0.185
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/Lester_Lefton>) (20,17) :	sim: 0.185
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Kent_State_University>) (6,0) :	sim: 0.184
+	<http://dbpedia.org/property/name> ( 3 ) : 0.500	50.0%
+	<http://dbpedia.org/property/website> ( 6 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Barbara_Snyder>,<http://dbpedia.org/resource/David_Naylor>) (20,14) :	sim: 0.180
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Toronto>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (10,5) :	sim: 0.175
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/University_of_Toronto>,<http://dbpedia.org/resource/Kent,_Ohio>) (8,6) :	sim: 0.174
+	<http://dbpedia.org/property/name> ( 3 ) : 0.500	50.0%
+	<http://dbpedia.org/property/website> ( 6 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Toronto>,<http://dbpedia.org/resource/Kent_State_University>) (10,0) :	sim: 0.172
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Kent,_Ohio>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (6,5) :	sim: 0.172
+	<http://dbpedia.org/property/name> ( 3 ) : 0.500	50.0%
+	<http://dbpedia.org/property/website> ( 6 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/David_Naylor>,<http://dbpedia.org/resource/University_of_Toronto>) (14,8) :	sim: 0.166
+	<http://dbpedia.org/property/name> ( 3 ) : 0.500	50.0%
+	<http://dbpedia.org/property/website> ( 6 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/University_of_Toronto>) (17,8) :	sim: 0.166
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (17,5) :	sim: 0.165
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/Toronto>) (17,10) :	sim: 0.165
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/David_Naylor>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (14,5) :	sim: 0.165
+	<http://dbpedia.org/property/name> ( 3 ) : 0.500	50.0%
+	<http://dbpedia.org/property/website> ( 6 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/David_Naylor>,<http://dbpedia.org/resource/Toronto>) (14,10) :	sim: 0.164
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/David_Naylor>,<http://dbpedia.org/resource/Kent_State_University>) (14,0) :	sim: 0.163
+	<http://dbpedia.org/property/name> ( 3 ) : 0.500	50.0%
+	<http://dbpedia.org/property/website> ( 6 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/Kent_State_University>) (17,0) :	sim: 0.163
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Lester_Lefton>,<http://dbpedia.org/resource/Kent,_Ohio>) (17,6) :	sim: 0.163
+	<http://dbpedia.org/property/name> ( 3 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/David_Naylor>,<http://dbpedia.org/resource/Kent,_Ohio>) (14,6) :	sim: 0.163
+	<http://dbpedia.org/property/name> ( 3 ) : 0.500	50.0%
+	<http://dbpedia.org/property/website> ( 6 ) : 0.500	50.0%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Kent_State_University>) (30,0) :	sim: 0.150
+	<http://dbpedia.org/property/website> ( 6 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/Case_Western_Reserve_University>) (30,5) :	sim: 0.150
+	<http://dbpedia.org/property/website> ( 6 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/University_of_Toronto>) (30,8) :	sim: 0.150
+	<http://dbpedia.org/property/website> ( 6 ) : 1.000	100.0%
+(<http://dbpedia.org/resource/Cleveland>,<http://dbpedia.org/resource/David_Naylor>) (30,14) :	sim: 0.150
+	<http://dbpedia.org/property/website> ( 6 ) : 1.000	100.0%

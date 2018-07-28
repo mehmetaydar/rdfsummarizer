@@ -1,0 +1,95 @@
+
+
+Formula: -9	Min threshold: 0	Max threshold: 1
+
+
+Min threshold: 0	Max threshold: 1
+
+um-try-per-loop: 10	increment: 0.1
+Try: 0
+
+
+threshold: 0.1	 stability: 100	 summaryGraph_cRMSD: 0
+clusters: 1	labelsSize: 383
+clusteredPercentage: %3.24675
+avg_members_in_clusters: 5
+value = summaryGraphStability* clusteredPercentage / (summaryGraph_cRMSD + 0.75);
+value: 432.9
+Try: 1
+
+
+threshold: 0.2	 stability: 100	 summaryGraph_cRMSD: 0.349927
+clusters: 4	labelsSize: 383
+clusteredPercentage: %8.44156
+avg_members_in_clusters: 3.25
+value = summaryGraphStability* clusteredPercentage / (summaryGraph_cRMSD + 0.75);
+value: 767.465
+Try: 2
+
+
+threshold: 0.3	 stability: 100	 summaryGraph_cRMSD: 2.64266
+clusters: 8	labelsSize: 383
+clusteredPercentage: %18.1818
+avg_members_in_clusters: 3.5
+value = summaryGraphStability* clusteredPercentage / (summaryGraph_cRMSD + 0.75);
+value: 535.916
+Try: 3
+
+
+threshold: 0.4	 stability: 100	 summaryGraph_cRMSD: 2.66208
+clusters: 8	labelsSize: 383
+clusteredPercentage: %46.7532
+avg_members_in_clusters: 9
+value = summaryGraphStability* clusteredPercentage / (summaryGraph_cRMSD + 0.75);
+value: 1370.23
+Try: 4
+
+
+threshold: 0.5	 stability: 100	 summaryGraph_cRMSD: 0.828711
+clusters: 5	labelsSize: 383
+clusteredPercentage: %68.1818
+avg_members_in_clusters: 21
+value = summaryGraphStability* clusteredPercentage / (summaryGraph_cRMSD + 0.75);
+value: 4318.83
+Try: 5
+
+
+threshold: 0.6	 stability: 100	 summaryGraph_cRMSD: 1.23567
+clusters: 5	labelsSize: 383
+clusteredPercentage: %76.6234
+avg_members_in_clusters: 23.6
+value = summaryGraphStability* clusteredPercentage / (summaryGraph_cRMSD + 0.75);
+value: 3858.81
+Try: 6
+
+
+threshold: 0.7	 stability: 100	 summaryGraph_cRMSD: 1.22491
+clusters: 5	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: 24.4
+value = summaryGraphStability* clusteredPercentage / (summaryGraph_cRMSD + 0.75);
+value: 4011.36
+Try: 7
+
+
+threshold: 0.8	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: 122
+value = summaryGraphStability* clusteredPercentage / (summaryGraph_cRMSD + 0.75);
+value: 9429.21
+Try: 8
+
+
+threshold: 0.9	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: 122
+value = summaryGraphStability* clusteredPercentage / (summaryGraph_cRMSD + 0.75);
+value: 9429.21
+
+opt_threshold: 0.9
+opt-value: 9429.21
+opt-stability: 100
+opt-cRMSD: 0.0901639
+opt-clusteredPercentage: 79.2208

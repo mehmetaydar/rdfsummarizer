@@ -1,0 +1,207 @@
+
+
+Min threshold: 0	Max threshold: 1
+threshold: 0	 stability: 100	 summaryGraph_cRMSD: 0
+clusters: 1	labelsSize: 383
+clusteredPercentage: %3.24675
+avg_members_in_clusters: %5
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 144.893
+threshold: 0.1	 stability: 100	 summaryGraph_cRMSD: 0
+clusters: 1	labelsSize: 383
+clusteredPercentage: %3.24675
+avg_members_in_clusters: %5
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 144.893
+threshold: 0.2	 stability: 100	 summaryGraph_cRMSD: 0.349927
+clusters: 4	labelsSize: 383
+clusteredPercentage: %8.44156
+avg_members_in_clusters: %3.25
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 579.572
+threshold: 0.3	 stability: 100	 summaryGraph_cRMSD: 2.64266
+clusters: 8	labelsSize: 383
+clusteredPercentage: %18.1818
+avg_members_in_clusters: %3.5
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1159.14
+threshold: 0.4	 stability: 100	 summaryGraph_cRMSD: 2.62907
+clusters: 8	labelsSize: 383
+clusteredPercentage: %47.4026
+avg_members_in_clusters: %9.125
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1159.14
+threshold: 0.5	 stability: 100	 summaryGraph_cRMSD: 0.828711
+clusters: 5	labelsSize: 383
+clusteredPercentage: %68.1818
+avg_members_in_clusters: %21
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 724.466
+threshold: 0.6	 stability: 100	 summaryGraph_cRMSD: 1.23567
+clusters: 5	labelsSize: 383
+clusteredPercentage: %76.6234
+avg_members_in_clusters: %23.6
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 724.466
+threshold: 0.7	 stability: 100	 summaryGraph_cRMSD: 0.504752
+clusters: 3	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %40.6667
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 434.679
+threshold: 0.8	 stability: 100	 summaryGraph_cRMSD: 0.0901639
+clusters: 1	labelsSize: 383
+clusteredPercentage: %79.2208
+avg_members_in_clusters: %122
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 144.893
+threshold: 0.9	 stability: 72.9167	 summaryGraph_cRMSD: 0.590164
+clusters: 2	labelsSize: 383
+clusteredPercentage: %80.5195
+avg_members_in_clusters: %62
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 211.302
+
+opt_threshold: 0.4
+opt-value: 1159.14
+opt-stability: 100
+opt-cRMSD: 2.62907
+opt-clusteredPercentage: 47.4026
+
+
+Min threshold: 0.3	Max threshold: 0.5
+threshold: 0.3	 stability: 100	 summaryGraph_cRMSD: 2.64266
+clusters: 8	labelsSize: 383
+clusteredPercentage: %18.1818
+avg_members_in_clusters: %3.5
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1159.14
+threshold: 0.32	 stability: 100	 summaryGraph_cRMSD: 3.50866
+clusters: 9	labelsSize: 383
+clusteredPercentage: %22.7273
+avg_members_in_clusters: %3.88889
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1304.04
+threshold: 0.34	 stability: 100	 summaryGraph_cRMSD: 3.3772
+clusters: 9	labelsSize: 383
+clusteredPercentage: %28.5714
+avg_members_in_clusters: %4.88889
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1304.04
+threshold: 0.36	 stability: 100	 summaryGraph_cRMSD: 2.8888
+clusters: 8	labelsSize: 383
+clusteredPercentage: %34.4156
+avg_members_in_clusters: %6.625
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1159.14
+threshold: 0.38	 stability: 100	 summaryGraph_cRMSD: 2.79542
+clusters: 8	labelsSize: 383
+clusteredPercentage: %42.2078
+avg_members_in_clusters: %8.125
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1159.14
+threshold: 0.4	 stability: 100	 summaryGraph_cRMSD: 2.62907
+clusters: 8	labelsSize: 383
+clusteredPercentage: %47.4026
+avg_members_in_clusters: %9.125
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1159.14
+threshold: 0.42	 stability: 100	 summaryGraph_cRMSD: 2.55205
+clusters: 8	labelsSize: 383
+clusteredPercentage: %53.2468
+avg_members_in_clusters: %10.25
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1159.14
+threshold: 0.44	 stability: 100	 summaryGraph_cRMSD: 1.925
+clusters: 6	labelsSize: 383
+clusteredPercentage: %58.4416
+avg_members_in_clusters: %15
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 869.359
+threshold: 0.46	 stability: 100	 summaryGraph_cRMSD: 1.3921
+clusters: 5	labelsSize: 383
+clusteredPercentage: %61.6883
+avg_members_in_clusters: %19
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 724.466
+threshold: 0.48	 stability: 100	 summaryGraph_cRMSD: 0.859497
+clusters: 5	labelsSize: 383
+clusteredPercentage: %64.9351
+avg_members_in_clusters: %20
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 724.466
+
+opt_threshold: 0.34
+opt-value: 1304.04
+opt-stability: 100
+opt-cRMSD: 3.3772
+opt-clusteredPercentage: 28.5714
+
+
+Min threshold: 0.32	Max threshold: 0.36
+threshold: 0.32	 stability: 100	 summaryGraph_cRMSD: 3.50866
+clusters: 9	labelsSize: 383
+clusteredPercentage: %22.7273
+avg_members_in_clusters: %3.88889
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 937.992
+threshold: 0.324	 stability: 100	 summaryGraph_cRMSD: 3.47565
+clusters: 9	labelsSize: 383
+clusteredPercentage: %23.3766
+avg_members_in_clusters: %4
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 937.992
+threshold: 0.328	 stability: 100	 summaryGraph_cRMSD: 3.90866
+clusters: 10	labelsSize: 383
+clusteredPercentage: %25.974
+avg_members_in_clusters: %4
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1042.21
+threshold: 0.332	 stability: 100	 summaryGraph_cRMSD: 3.90866
+clusters: 10	labelsSize: 383
+clusteredPercentage: %25.974
+avg_members_in_clusters: %4
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 1042.21
+threshold: 0.336	 stability: 100	 summaryGraph_cRMSD: 3.35417
+clusters: 9	labelsSize: 383
+clusteredPercentage: %25.974
+avg_members_in_clusters: %4.44444
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 937.992
+threshold: 0.34	 stability: 100	 summaryGraph_cRMSD: 3.3772
+clusters: 9	labelsSize: 383
+clusteredPercentage: %28.5714
+avg_members_in_clusters: %4.88889
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 937.992
+threshold: 0.344	 stability: 100	 summaryGraph_cRMSD: 2.82774
+clusters: 8	labelsSize: 383
+clusteredPercentage: %29.8701
+avg_members_in_clusters: %5.75
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 833.77
+threshold: 0.348	 stability: 100	 summaryGraph_cRMSD: 2.92176
+clusters: 8	labelsSize: 383
+clusteredPercentage: %33.1169
+avg_members_in_clusters: %6.375
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 833.77
+threshold: 0.352	 stability: 100	 summaryGraph_cRMSD: 2.92176
+clusters: 8	labelsSize: 383
+clusteredPercentage: %33.1169
+avg_members_in_clusters: %6.375
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 833.77
+threshold: 0.356	 stability: 100	 summaryGraph_cRMSD: 2.92176
+clusters: 8	labelsSize: 383
+clusteredPercentage: %33.1169
+avg_members_in_clusters: %6.375
+value = summaryGraphStability*(float)numGoodClusters / summaryGraph_cRMSD_add;
+value: 833.77
+
+opt_threshold: 0.332
+opt-value: 1042.21
+opt-stability: 100
+opt-cRMSD: 3.90866
+opt-clusteredPercentage: 25.974

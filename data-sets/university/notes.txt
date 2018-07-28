@@ -1,0 +1,136 @@
+To Generate Mappings
+-f triple -g "data-sets/university/sparql_university_2.txt"  
+-f triple -g "data-sets/university/sparql_university.txt"  
+-f csv -g "data-sets/university/sparql_university.txt"  --- this is old ,csv version
+
+To Generate the Sim Results
+-f flat  -g "data-sets/university/sparql_university_2.txt_flat.txt" -gm "data-sets/university/sparql_university_2.txt_map.txt"
+-f flat  -g "data-sets/university/sparql_university.txt_flat.txt" -gm "data-sets/university/sparql_university.txt_map.txt"
+-f flat  -g "sparql_university.txt_flat.txt" -gm "sparql_university.txt_map.txt"
+
+
+
+
+
+
+issue is at i+20 and j=4 at paiindex=20 to k=36 iteration
+error:throw "For value nodes there shouldn't be any label at all!";
+
+
+
+<http://dbpedia.org/resource/Kent_State_University> <http://dbpedia.org/property/alumni> 196000 .
+
+
+
+
+University Dataset Query:
+SELECT ?s ?p ?o WHERE {
+?s ?p ?o .
+FILTER (?s IN 
+            (
+<http://dbpedia.org/resource/Kent_State_University>,
+<http://dbpedia.org/resource/Case_Western_Reserve_University>,
+<http://dbpedia.org/resource/University_of_Toronto>,
+<http://dbpedia.org/resource/Kent,_Ohio>,
+<http://dbpedia.org/resource/Cleveland>,
+<http://dbpedia.org/resource/Toronto>,
+<http://dbpedia.org/resource/Lester_Lefton>,
+<http://dbpedia.org/resource/Barbara_Snyder>,
+<http://dbpedia.org/resource/David_Naylor>
+
+            )) . 
+FILTER (langMatches(lang(?o),"en")).		
+FILTER (!?p IN 
+            (
+<http://www.w3.org/2002/07/owl#sameAs>
+	    )).
+}
+
+
+
+University_2 Dataset Query:
+SELECT ?s ?p ?o WHERE {
+?s ?p ?o .
+FILTER (?s IN 
+            (
+<http://dbpedia.org/resource/Kent_State_University>,
+<http://dbpedia.org/resource/Case_Western_Reserve_University>,
+<http://dbpedia.org/resource/University_of_Toronto>,
+<http://dbpedia.org/resource/Kent,_Ohio>,
+<http://dbpedia.org/resource/Cleveland>,
+<http://dbpedia.org/resource/Toronto>,
+<http://dbpedia.org/resource/Lester_Lefton>,
+<http://dbpedia.org/resource/Barbara_Snyder>,
+<http://dbpedia.org/resource/David_Naylor>
+
+            )) .
+FILTER (!?p IN 
+            (
+<http://www.w3.org/2000/01/rdf-schema#comment>,
+<http://dbpedia.org/ontology/abstract>,
+<http://dbpedia.org/ontology/wikiPageExternalLink>,
+<http://dbpedia.org/ontology/thumbnail>,
+<http://xmlns.com/foaf/0.1/depiction>,
+<http://purl.org/dc/terms/subject>,
+<http://dbpedia.org/property/altCoat>,
+<http://dbpedia.org/property/altFlag>
+        )).
+FILTER regex(?p, "^http://dbpedia.org/property", "i")        
+
+}
+
+
+
+
+University_3 Dataset Query:
+SELECT ?s ?p ?o WHERE {
+?s ?p ?o .
+FILTER (?s IN 
+            (
+<http://dbpedia.org/resource/Kent_State_University>,
+<http://dbpedia.org/resource/Case_Western_Reserve_University>,
+<http://dbpedia.org/resource/University_of_Toronto>,
+<http://dbpedia.org/resource/University_of_British_Columbia>,
+<http://dbpedia.org/resource/Stanford_University>,
+<http://dbpedia.org/resource/Harvard_University>,
+<http://dbpedia.org/resource/McMaster_University>,
+<http://dbpedia.org/resource/Princeton_University>,
+<http://dbpedia.org/resource/Virginia_Tech>,
+<http://dbpedia.org/resource/Florida_State_University>, 
+<http://dbpedia.org/resource/Kent,_Ohio>,
+<http://dbpedia.org/resource/Cleveland>,
+<http://dbpedia.org/resource/Toronto>,
+<http://dbpedia.org/resource/Kelowna>,
+<http://dbpedia.org/resource/Cambridge,_Massachusetts>,
+<http://dbpedia.org/resource/Stanford,_California>,
+<http://dbpedia.org/resource/Hamilton,_Ontario>,
+<http://dbpedia.org/resource/Princeton,_New_Jersey>,
+<http://dbpedia.org/resource/Blacksburg,_Virginia>,
+<http://dbpedia.org/resource/Tallahassee,_Florida>,
+<http://dbpedia.org/resource/Ohio>,
+<http://dbpedia.org/resource/Ontario>,
+<http://dbpedia.org/resource/British_Columbia>,
+<http://dbpedia.org/resource/Massachusetts>,
+<http://dbpedia.org/resource/California>,
+<http://dbpedia.org/resource/New_Jersey>,
+<http://dbpedia.org/resource/Virginia>,
+<http://dbpedia.org/resource/Florida>,
+<http://dbpedia.org/resource/Lester_Lefton>,
+<http://dbpedia.org/resource/Barbara_Snyder>,
+<http://dbpedia.org/resource/David_Naylor>,
+<http://dbpedia.org/resource/John_L._Hennessy>,
+<http://dbpedia.org/resource/Drew_Gilpin_Faust>,
+<http://dbpedia.org/resource/Patrick_Deane_(professor)>, 
+<http://dbpedia.org/resource/Christopher_L._Eisgruber>,
+<http://dbpedia.org/resource/Charles_W._Steger>,
+<http://dbpedia.org/resource/Garnett_S._Stokes>,
+<http://dbpedia.org/resource/United_States>,
+<http://dbpedia.org/resource/Canada> 
+
+            )) . 
+FILTER (langMatches(lang(?o),"en")).		
+FILTER (!?p IN 
+            (
+<http://www.w3.org/2002/07/owl#sameAs>
+	    )).
+}

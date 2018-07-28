@@ -1,0 +1,987 @@
+-vertex_mapping-
+727
+385 $|$ ""Beautiful Ohio""
+155 $|$ ""Florida's Capital City""
+497 $|$ ""Fruitful in Unity""
+653 $|$ ""God Save the Queen""
+386 $|$ ""Hang On Sloopy""
+196 $|$ ""I Love You, California""
+634 $|$ ""In God we trust""
+157 $|$ ""Literis Antiquis Novis Institutis Decora."  It can be translated as: "Distinguished for Classical Learning and New Institutions.""
+632 $|$ ""O Canada""
+665 $|$ ""Old Folks at Home""
+162 $|$ ""Tally""
+630 $|$ ""The Star-Spangled Banner""
+349 $|$ ""With God all things are possible.""
+217 $|$ "#ddd"
+468 $|$ "'Hail, U.B.C'.; 'High on Olympus'"
+124 $|$ "(As of 2007)
+627 $|$ "(By the sword we seek peace, but peace only under liberty)"
+22 $|$ "(Colombie-Britannique )"
+183 $|$ "(Frank Iacobucci )"
+184 $|$ "(Vivek Goel )"
+56 $|$ "* Central Valley
+45 $|$ "* Eastern California
+600 $|$ "* Virginia Agricultural and Mechanical College 
+713 $|$ "* Virginia Agricultural and Mechanical College (1892–1896)"
+712 $|$ "* Virginia Agricultural and Mechanical College and Polytechnic Institute (1896–1944)"
+711 $|$ "* Virginia Polytechnic Institute (1944–1970)"
+199 $|$ "/ Pacific Ocean"
+688 $|$ "="
+229 $|$ "A circular seal with the words "Virginia" on the top and "Sic Semper Tyrannis" on the bottom. In the center, a woman wearing a blue toga and Athenian helmet stands on the chest of dead man wearing a purple breastplate and skirt. The woman holds a spear and sheathed sword. The man holds a broken chain while his crown lies away from the figures. Orange leaves encircle the seal."
+675 $|$ "A real-time language for small processors: design, definition and implementation"
+308 $|$ "A view of downtown Blacksburg"
+553 $|$ "APLUORAUURA"
+168 $|$ "Acting President of the University of Winnipeg"
+420 $|$ "Administrator"
+666 $|$ "All Hail to Massachusetts"
+502 $|$ "All things cohere in Christ"
+354 $|$ "Ambitious City, Steeltown, The Hammer"
+659 $|$ "American academic administrator"
+660 $|$ "American academic"
+194 $|$ "American historian, president of Harvard University"
+661 $|$ "American lawyer and university president"
+195 $|$ "American psychologist"
+721 $|$ "American"
+283 $|$ "April 2013"
+211 $|$ "Articles Relating to Tallahassee and Leon County"
+510 $|$ "Arvind Gupta"
+503 $|$ "As a tree through the ages"
+289 $|$ "Atlantic Ocean"
+454 $|$ "August 2010"
+68 $|$ "August 2012"
+180 $|$ "BC"
+145 $|$ "Badwater Basin in"
+529 $|$ "Barbara R. Snyder"
+528 $|$ "Barbara Snyder"
+523 $|$ "Barbara"
+669 $|$ "Basketball"
+585 $|$ "Bay Stater  Massachusite  Massachusettsian"
+722 $|$ "Bay Stater (official) Massachusite (traditional) Massachusettsian (archaic)"
+18 $|$ "Beale Air Force Base main gate"
+95 $|$ "Beale-afb-main-gate-sign.jpg"
+356 $|$ "Birthplace of Aviation; The Heart of It All"
+570 $|$ "Black"
+343 $|$ "Blacksburg's location within Virginia"
+334 $|$ "Blacksburg, Virginia"
+318 $|$ "Blacksburg-downtown-mainst.jpg"
+60 $|$ "Blue & Gold"
+450 $|$ "Blue and Gold"
+571 $|$ "Blue"
+577 $|$ "Blue, Green, Cranberry"
+147 $|$ "British Columbia in Canada.svg"
+70 $|$ "British Columbian"
+276 $|$ "Buff and Blue"
+629 $|$ "By the sword she seeks peace under liberty"
+456 $|$ "C$1.16 billion"
+460 $|$ "C$1.663 billion"
+91 $|$ "C$217.749 billion"
+90 $|$ "C$47,579"
+303 $|$ "C$48,971"
+304 $|$ "C$654.561 billion"
+181 $|$ "CA"
+120 $|$ "CA-BC"
+64 $|$ "CA-ON"
+581 $|$ "CAD"
+461 $|$ "CIT: 1880"
+447 $|$ "CWRU Blue (PMS 294), White and CWRU Grey (PMS 7545)"
+462 $|$ "CWRU: 1967"
+218 $|$ "Calif., Cali.,"
+190 $|$ "California 1.svg"
+87 $|$ "California Republic"
+148 $|$ "California in United States.svg"
+393 $|$ "California"
+36 $|$ "California: Outline • Index"
+71 $|$ "Californian"
+116 $|$ "Cambridge Montage.jpg"
+108 $|$ "Cambridge ma highlight.png"
+141 $|$ "Cambridge, MA"
+171 $|$ "Cambridge, Massachusetts"
+188 $|$ "Cambridge, Massachusetts, U.S."
+96 $|$ "Camp Pendleton front gate.jpg"
+603 $|$ "Campus size"
+616 $|$ "Canada
+648 $|$ "Canada British Columbia"
+186 $|$ "Canada"
+122 $|$ "Canada: Alberta, Northwest Territories, Yukon. U.S.A: Alaska, Idaho, Montana, Washington"
+193 $|$ "Canadian physician"
+583 $|$ "Canadian"
+401 $|$ "Capital of the United States of America"
+278 $|$ "Cardinal and white"
+417 $|$ "Cardinal"
+390 $|$ "Career"
+21 $|$ "Carl Vinson, Nimitz and Ronald Reagan at North Island Naval Air Station"
+621 $|$ "Carlos López-Cantera"
+477 $|$ "Case Western Reserve University seal.svg"
+524 $|$ "Case Western Reserve University"
+452 $|$ "Category:Harvard University"
+27 $|$ "Catharine Drew Gilpin"
+311 $|$ "Census Bureau map of Princeton Township, New Jersey.gif"
+341 $|$ "Census Bureau map of the former Princeton Township , New Jersey"
+394 $|$ "Central: UTC-6/-5"
+662 $|$ "Charles Steger signature.png"
+703 $|$ "Charles W. Steger"
+697 $|$ "Charles W."
+576 $|$ "Chicago Maroon and Burnt Orange"
+718 $|$ "Chief Justice"
+306 $|$ "Chris Christie"
+26 $|$ "Christopher David Naylor"
+708 $|$ "Christopher L. Eisgruber"
+699 $|$ "Christopher L."
+560 $|$ "Christopher Ludwig Eisgruber"
+419 $|$ "City Council"
+246 $|$ "City Manager"
+539 $|$ "City manager"
+172 $|$ "City of Cleveland"
+360 $|$ "City of Hamilton"
+640 $|$ "City of Kelowna"
+508 $|$ "City of Kent, Ohio"
+169 $|$ "City of Tallahassee"
+99 $|$ "City of Toronto Logo.png"
+170 $|$ "City of Toronto"
+75 $|$ "City"
+421 $|$ "Clerk"
+112 $|$ "Cleveland seal-T.png"
+410 $|$ "Cleveland"
+109 $|$ "Cleveland-CuyahogaCoOH.png"
+175 $|$ "Clevelander"
+102 $|$ "Clockwise from top left: Christ Church, University Hall at Harvard University, Ray and Maria Stata Center at the Massachusetts Institute of Technology, the Cambridge skyline and the Charles River at night, and Cambridge City Hall."
+97 $|$ "Coast Guard Island May 2009.jpg"
+19 $|$ "Coast Guard Island in the Oakland Estuary"
+44 $|$ "Coat of Arms of British Columbia.png"
+481 $|$ "Coat of Arms of Kelowna, British Columbia.svg"
+274 $|$ "Coat of Arms of Ontario.png"
+673 $|$ "Coat of Arms"
+13 $|$ "Coat of arms of Toronto"
+418 $|$ "College of New Jersey (1746–1896)"
+297 $|$ "College of New Jersey"
+86 $|$ "Colony of Virginia"
+605 $|$ "Commonwealth of Massachusetts"
+88 $|$ "Commonwealth of Virginia"
+24 $|$ "Constance Rooke"
+132 $|$ "Council"
+204 $|$ "Country"
+591 $|$ "Cranberry, Corn muffin, Navy bean, Boston cream pie, Chocolate chip cookie, Boston cream donut"
+449 $|$ "Crimson"
+568 $|$ "Danny"
+487 $|$ "Dave Ruller"
+511 $|$ "David Farrar  and Cynthia Mathieson"
+234 $|$ "David Naylor"
+230 $|$ "David"
+362 $|$ "De facto: English"
+363 $|$ "De jure: None"
+250 $|$ "Deane"
+242 $|$ "Deane, Patrick"
+284 $|$ "December 2011"
+133 $|$ "Deputy Mayor"
+156 $|$ "Diversity Our Strength"
+550 $|$ "Does not include insular areas and United States Minor Outlying Islands, which have their own ISO 3166 codes."
+482 $|$ "Downtown Kent Ohio 2.jpg"
+471 $|$ "Downtown Kent, September 2009"
+100 $|$ "Downtown Tallahassee"
+33 $|$ "Drew Gilpin Faust in 2011"
+237 $|$ "Drew Gilpin Faust"
+231 $|$ "Drew Gilpin"
+395 $|$ "Eastern: UTC-5"
+396 $|$ "Eastern: UTC-5/-4"
+185 $|$ "Educator"
+726 $|$ "Eisgruber"
+709 $|$ "Eisgruber, Christopher L."
+377 $|$ "Ellipse sign 33.svg"
+320 $|$ "English  71.3%"
+618 $|$ "English 73.36%"
+323 $|$ "English 93.3%"
+123 $|$ "English 94.6%, Spanish 5.4%"
+594 $|$ "English is the de facto language of American government and the sole language spoken at home by 80 percent of Americans aged five and older. 28 states and 5 territories have made English an official language. Other official languages include Hawaiian, Samoan, Chamorro, Carolinian, and Spanish."
+593 $|$ "English is the official language of at least 28 states; some sources give higher figures, based on differing definitions of "official". English and Hawaiian are both official languages in the state of Hawaii."
+173 $|$ "English"
+626 $|$ "Ense petit placidam sub libertate quietem"
+74 $|$ "Established"
+565 $|$ "Ethnic origins of people in Canada"
+347 $|$ "Excellence In Action"
+694 $|$ "Except U.S. Virgin Islands."
+29 $|$ "FEUZB"
+644 $|$ "FL"
+478 $|$ "FSU_seal.svg"
+248 $|$ "Faust"
+238 $|$ "Faust, Drew Gilpin"
+67 $|$ "February 2012"
+465 $|$ "Fight for FSU"
+633 $|$ "File:Canada - Official Anthem (Instrumental).ogg"
+631 $|$ "File:Star Spangled Banner instrumental.ogg"
+79 $|$ "First Responder BLS"
+683 $|$ "Fla."
+81 $|$ "Flag of British Columbia.svg"
+82 $|$ "Flag of California.svg"
+614 $|$ "Flag of Canada.svg"
+105 $|$ "Flag of Cleveland, Ohio.svg"
+588 $|$ "Flag of Florida.svg"
+295 $|$ "Flag of Hamilton, Ontario"
+309 $|$ "Flag of Hamilton.svg"
+473 $|$ "Flag of Kelowna, British Columbia.svg"
+292 $|$ "Flag of New Jersey.svg"
+293 $|$ "Flag of Ohio.svg"
+294 $|$ "Flag of Ontario.svg"
+103 $|$ "Flag of Tallahassee, Florida.png"
+83 $|$ "Flag of Toronto"
+80 $|$ "Flag of Virginia.svg"
+613 $|$ "Flag of the United States.svg"
+589 $|$ "Flag_of_Massachusetts.svg"
+345 $|$ "Flash the Golden Eagle"
+651 $|$ "Florida 27.svg"
+525 $|$ "Florida State University"
+598 $|$ "Florida Territory"
+623 $|$ "Florida in United States.svg"
+518 $|$ "Florida"
+566 $|$ "Florida: Outline • Index"
+584 $|$ "Floridian"
+94 $|$ "Fort Irwin National Training Center - Welcome sign - 1.jpg"
+77 $|$ "Founded"
+131 $|$ "Frank G. Jackson"
+101 $|$ "From top left: Downtown Toronto featuring the CN Tower and Financial District from the Toronto Islands, City Hall, the Ontario Legislative Building, Casa Loma, Prince Edward Viaduct, and the Scarborough Bluffs"
+364 $|$ "Fruit: Pawpaw"
+31 $|$ "GNBC Code"
+30 $|$ "GNIS feature ID"
+448 $|$ "Garnet  and Gold"
+512 $|$ "Garnett S. Stokes"
+698 $|$ "Garnett S."
+139 $|$ "Gavin Newsom"
+569 $|$ "Gold"
+416 $|$ "Golden Flashes"
+572 $|$ "Gray"
+612 $|$ "Great Seal of the United States
+672 $|$ "Great Seal"
+573 $|$ "Green"
+316 $|$ "Hamilton Coat of Arms.PNG"
+271 $|$ "Hamilton"
+317 $|$ "HamiltonOntarioSkylineC.JPG"
+366 $|$ "Hamiltonian"
+534 $|$ "Harvard Crimson"
+592 $|$ "Harvard University and MIT are both widely regarded as in the top handful of universities worldwide for academic research in a myriad of disciplines."
+526 $|$ "Harvard University"
+479 $|$ "Harvard Wreath Logo 1.svg"
+611 $|$ "HarvardWidenerLibrary.jpg"
+723 $|$ "Hennessy"
+700 $|$ "Hennessy, John L."
+710 $|$ "Hokies"
+388 $|$ "Homefacts.com"
+384 $|$ "Honeoye"
+261 $|$ "Horse"
+159 $|$ "I have found it"
+200 $|$ "Ilse Treurnicht"
+224 $|$ "Imperial"
+76 $|$ "Incorporated"
+554 $|$ "Incumbent"
+551 $|$ "Invent the Future"
+298 $|$ "Isotelus maximus, a trilobite"
+498 $|$ "It Is Yours"
+499 $|$ "It is up to you"
+93 $|$ "Jerry Brown"
+488 $|$ "Jerry Fiala"
+42 $|$ "Jessica Rosenberg"
+702 $|$ "John L. Hennessy"
+696 $|$ "John L."
+701 $|$ "John Leroy Hennessy"
+505 $|$ "K-Town"
+38 $|$ "Karline Naylor"
+483 $|$ "Kelowna Skyline.jpg"
+444 $|$ "Kelowna"
+472 $|$ "Kelowna's skyline from West Kelowna"
+275 $|$ "Kent State Blue and Kent State Gold"
+411 $|$ "Kent State University"
+527 $|$ "Kent"
+490 $|$ "Kent, Ohio"
+509 $|$ "Kentite"
+480 $|$ "Kentlogo.png"
+590 $|$ "Key lime pie, Orange"
+538 $|$ "King's College (1827–1849)"
+467 $|$ "King's College"
+369 $|$ "L0R, L8E to L8W, L9A to L9C, L9G to L9H, L9K"
+643 $|$ "Lafayette, Indiana, United States"
+198 $|$ "Lake Ontario"
+685 $|$ "Land-Grant"
+646 $|$ "Lawyer, constitutional scholar, university administrator"
+43 $|$ "Leah Rosenberg"
+34 $|$ "Lefton Photo Taken in 2012"
+249 $|$ "Lefton"
+240 $|$ "Lefton, Lester"
+137 $|$ "Legislative Assembly of British Columbia"
+332 $|$ "Legislative Assembly of Ontario"
+353 $|$ "Leland Stanford Junior University"
+106 $|$ "Leon County Florida Incorporated and Unincorporated areas Tallahassee Highlighted.svg"
+203 $|$ "Leon"
+239 $|$ "Lester Lefton"
+232 $|$ "Lester"
+348 $|$ "Liberty and prosperity"
+225 $|$ "Lieutenant Governor"
+201 $|$ "Linda Lefton"
+328 $|$ "Linda McDermott"
+399 $|$ "Links to related articles"
+329 $|$ "Liz Lempert"
+152 $|$ "Location in Cuyahoga County"
+149 $|$ "Location in Leon County and the state of Florida"
+151 $|$ "Location in Middlesex County in Massachusetts"
+375 $|$ "Location in Ohio"
+492 $|$ "Location in Portage County, Ohio"
+491 $|$ "Location in Santa Clara County and the state of California"
+514 $|$ "Location in the United States"
+340 $|$ "Location in the province of Ontario, Canada"
+649 $|$ "Location of Kelowna in British Columbia"
+150 $|$ "Location of Toronto and its census metropolitan area in the province of Ontario"
+187 $|$ "Location of Toronto in Canada"
+670 $|$ "Lori Martin"
+652 $|$ "MA Route 24.svg"
+645 $|$ "MA"
+610 $|$ "MIT_Building_10_and_the_Great_Dome,_Cambridge_MA.jpg"
+715 $|$ "MLAs"
+714 $|$ "MP"
+244 $|$ "MPPs"
+245 $|$ "MPs"
+493 $|$ "Mac the Marauder"
+440 $|$ "Main Campus:"
+663 $|$ "Make It Yours,"
+312 $|$ "Map of Mercer County highlighting Princeton.jpg"
+310 $|$ "Map of Ontario HAMILTON.svg"
+313 $|$ "Map of USA VA.svg"
+535 $|$ "Marauders"
+656 $|$ "Marco Rubio"
+647 $|$ "Mark G. McNamee"
+451 $|$ "Maroon and Grey"
+684 $|$ "Mass."
+624 $|$ "Massachusetts in United States.svg"
+567 $|$ "Massachusetts: Outline • Index"
+39 $|$ "Max Naylor"
+134 $|$ "Mayor"
+537 $|$ "McGill University College of British Columbia (1906–1915)"
+466 $|$ "McGill University College of British Columbia"
+521 $|$ "McMaster University"
+40 $|$ "Melinda Naylor"
+223 $|$ "Metric"
+517 $|$ "Michael J. Snyder"
+719 $|$ "Monarch"
+117 $|$ "Montage Cleveland 1.jpg"
+115 $|$ "Montage of Toronto 7.jpg"
+208 $|$ "Mountain  UTC−8 & −7"
+130 $|$ "N"
+404 $|$ "N.J."
+15 $|$ "N/A"
+436 $|$ "NCAA Division III UAA"
+371 $|$ "NJ"
+197 $|$ "NOAA"
+32 $|$ "NTS Map"
+12 $|$ "Navy blue flag with the circular Seal of Virginia centered on it."
+247 $|$ "Naylor"
+235 $|$ "Naylor, David"
+657 $|$ "New England Neptune, Neptunea lyrata decemcostata"
+337 $|$ "New Jersey in United States.svg"
+391 $|$ "New Jersey"
+272 $|$ "New Jersey: Outline • Index"
+422 $|$ "New Jerseyan (official), New Jerseyite"
+286 $|$ "New Jerseyan , New Jerseyite"
+28 $|$ "New York City, New York, U.S."
+174 $|$ "New York, New York"
+300 $|$ "Newspaper"
+262 $|$ "None"
+464 $|$ "November 1805"
+372 $|$ "OH"
+378 $|$ "OH-2.svg"
+373 $|$ "ON"
+207 $|$ "October, 2013"
+305 $|$ "Ohio Flint"
+475 $|$ "Ohio Portage Kent.png"
+336 $|$ "Ohio River at"
+434 $|$ "Ohio State University ( )"
+338 $|$ "Ohio in United States.svg"
+273 $|$ "Ohio: Outline • Index"
+423 $|$ "Ohioan; Buckeye (colloq.)"
+287 $|$ "Ohioan; Buckeye"
+163 $|$ "Old Dominion; Mother of Presidents; Mother of States"
+400 $|$ "Old Nassau"
+291 $|$ "Old Nassau.ogg"
+562 $|$ "One World Trade Center, built in its place"
+608 $|$ "OneWorldTradeCenter.jpg"
+288 $|$ "Ontarian"
+339 $|$ "Ontario in Canada.svg"
+335 $|$ "Ontario logo.jpg"
+277 $|$ "Orange and black"
+321 $|$ "Other 14.1%"
+324 $|$ "Other 4.5%"
+557 $|$ "Oxford University"
+209 $|$ "PDT"
+210 $|$ "PST"
+676 $|$ "Pacific Daylight Time"
+165 $|$ "Pacific Ocean"
+687 $|$ "Panhandle west of the Apalachicola River"
+241 $|$ "Patrick Deane"
+37 $|$ "Patrick Kelly"
+233 $|$ "Patrick"
+686 $|$ "Peninsula and "Big Bend" region"
+515 $|$ "Portal:Harvard University"
+160 $|$ "Portal:Toronto, Ontario"
+177 $|$ "Postal code span"
+214 $|$ "President and Vice-Chancellor of McMaster University"
+506 $|$ "President of Case Western Reserve University"
+167 $|$ "President of Harvard University"
+639 $|$ "President of Princeton University"
+638 $|$ "President of Stanford University"
+215 $|$ "President of University of Winnipeg"
+552 $|$ "President of Virginia Polytechnic Institute and State University"
+166 $|$ "President of the University of Toronto"
+14 $|$ "President of"
+716 $|$ "President"
+720 $|$ "Prime Minister"
+412 $|$ "Princeton University"
+342 $|$ "Princeton highlighted in Mercer County. Inset map: Mercer County highlighted in the State of New Jersey."
+361 $|$ "Princeton"
+333 $|$ "Princeton, NJ"
+414 $|$ "Princeton, New Jersey"
+367 $|$ "Princetonian"
+158 $|$ "Progress & Prosperity"
+559 $|$ "Projection of North America with Canada in green"
+558 $|$ "Projection of North America with the United States in green"
+599 $|$ "Province of Massachusetts Bay"
+296 $|$ "Province of New Jersey"
+73 $|$ "Provincial"
+637 $|$ "Provost of Stanford University"
+264 $|$ "Quarter"
+138 $|$ "Ralph Northam"
+574 $|$ "Red"
+216 $|$ "Religion in California"
+642 $|$ "Richmond, Virginia"
+606 $|$ "Rick Scott"
+330 $|$ "Robert W. Bruschi"
+331 $|$ "Ron Rordam"
+561 $|$ "Rural"
+41 $|$ "Sam Naylor"
+474 $|$ "Santa_Clara_County_California_Incorporated_and_Unincorporated_areas_Stanford_Highlighted.svg"
+470 $|$ "School Song"
+658 $|$ "Schooner Ernestina"
+192 $|$ "Seal of California.svg"
+654 $|$ "Seal of Florida.svg"
+443 $|$ "Seal of Harvard University"
+379 $|$ "Seal of New Jersey.svg"
+381 $|$ "Seal of Ohio.svg"
+270 $|$ "Seal of Stanford University"
+110 $|$ "Seal of Tallahassee, Florida.png"
+191 $|$ "Seal of Virginia.svg"
+655 $|$ "Seal_of_Massachusetts.svg"
+380 $|$ "Seal_of_New_Jersey.svg"
+111 $|$ "Sealofcambridgema.gif"
+597 $|$ "See Time in the United States for details about laws governing time zones in the United States."
+263 $|$ "Semester"
+533 $|$ "Seminoles"
+11 $|$ "Settled"
+307 $|$ "Skyline of downtown Hamilton"
+114 $|$ "Skyline.png"
+540 $|$ "Snyder"
+530 $|$ "Snyder, Barbara"
+382 $|$ "So Much to Discover"
+161 $|$ "South African"
+322 $|$ "Spanish 14.6%"
+619 $|$ "Spanish 19.54%"
+325 $|$ "Spanish 2.2%"
+532 $|$ "Spartans"
+220 $|$ "Standard time"
+315 $|$ "Stanford University seal 2003.svg"
+413 $|$ "Stanford University"
+507 $|$ "Stanford"
+89 $|$ "State of California"
+604 $|$ "State of Florida"
+301 $|$ "State of New Jersey"
+302 $|$ "State of Ohio"
+205 $|$ "State"
+724 $|$ "Steger"
+704 $|$ "Steger, Charles W."
+725 $|$ "Stokes"
+705 $|$ "Stokes, Garnett S."
+500 $|$ "Strength, Skill, Character"
+266 $|$ "Suburban, ref|It is often claimed that Stanford has the largest contiguous campus in the world (or the United States) but that depends on definitions.  Berry College with over , Paul Smith's College with , and the United States Air Force Academy with  are larger but are not usually classified as universities.  Duke University at  does have more land, but it is not contiguous. However the University of the South has over
+265 $|$ "Suburban,"
+221 $|$ "Summer time"
+445 $|$ "Suzanne Labarge"
+243 $|$ "T.O., T-Dot, Hogtown, The Queen City, Toronto the Good, The City Within a Park"
+226 $|$ "Tallahassee"
+140 $|$ "Tallahassee, Florida , 1981–2010 normals, extremes 1892–present"
+236 $|$ "Tallahassee, Florida"
+92 $|$ "Terry McAuliffe"
+671 $|$ "Texas"
+628 $|$ "That I May Serve"
+679 $|$ "The Bay State"
+636 $|$ "The Bay State, The Old Colony State, The Codfish State"
+397 $|$ "The Buckeye State"
+357 $|$ "The Buckeye State; The Mother of Presidents;"
+415 $|$ "The Forest City"
+355 $|$ "The Garden State"
+164 $|$ "The Golden State"
+469 $|$ "The Harvard Crimson"
+212 $|$ "The Old Dominion"
+664 $|$ "The Spirit of America"
+299 $|$ "The Stanford Daily"
+635 $|$ "The Sunshine State"
+504 $|$ "The Tree City"
+441 $|$ "The University of British Columbia seal"
+520 $|$ "The University of British Columbia"
+516 $|$ "The Weather Channel"
+563 $|$ "The former World Trade Center in Lower Manhattan on 9/11"
+20 $|$ "The main gate of Camp Pendleton"
+596 $|$ "The population estimate is of people whose usual residence is within the 50 states and the District of Columbia, regardless of nationality. It does not include those living in the territories
+442 $|$ "The seal of Case Western Reserve University"
+352 $|$ "The wind of freedom blows"
+494 $|$ "Think Beyond the Possible"
+98 $|$ "Three Carriers at NAS North Island.jpg"
+358 $|$ "Tigers"
+346 $|$ "Together Aspire – Together Achieve"
+678 $|$ "Topics related to Florida"
+680 $|$ "Topics related to Massachusetts"
+398 $|$ "Topics related to Ohio"
+213 $|$ "Topics related to Virginia"
+113 $|$ "Toronto Coat of Arms.jpg"
+104 $|$ "Toronto Flag.svg"
+107 $|$ "Toronto Location in Ontario.png"
+35 $|$ "Toronto"
+176 $|$ "Torontonian"
+269 $|$ "Trenton"
+501 $|$ "Truth"
+282 $|$ "U.S."
+476 $|$ "UBC COA.svg"
+531 $|$ "UBC Thunderbirds"
+457 $|$ "US $1.6 billion"
+222 $|$ "US"
+459 $|$ "US$32.3 billion"
+458 $|$ "US$548 million"
+154 $|$ "US$61,021"
+587 $|$ "US$754.55 Million"
+121 $|$ "US-CA"
+63 $|$ "US-FL"
+65 $|$ "US-MA"
+279 $|$ "US-NJ"
+66 $|$ "US-OH"
+119 $|$ "US-VA"
+374 $|$ "USA Ohio"
+615 $|$ "USA orthographic.svg"
+513 $|$ "USA"
+580 $|$ "USD"
+351 $|$ "Under God's Power She Flourishes"
+85 $|$ "United States Armed Forces in California. From left to right: Fort Irwin, Camp Pendleton, NAS North Island, Beale Air Force Base, and Coast Guard Island"
+579 $|$ "United States of America"
+281 $|$ "United States"
+485 $|$ "Universitas Harvardiana"
+327 $|$ "Universitas Princetoniensis"
+486 $|$ "Universitas Torontonensis"
+446 $|$ "University Endowment Lands and Kelowna"
+435 $|$ "University of Chicago Law School ( )"
+556 $|$ "University of Chicago Law School"
+522 $|$ "University of Toronto"
+439 $|$ "Urban area"
+438 $|$ "Urban,"
+350 $|$ "Ut Incepit Fidelis Sic Permanet"
+625 $|$ "Ut Prosim"
+179 $|$ "VA"
+314 $|$ "VAMap-doton-Blacksburg.PNG"
+622 $|$ "Vacant"
+437 $|$ "Vancouver:, Okanagan:208.6 ha ,"
+536 $|$ "Varsity Blues"
+496 $|$ "Veritas"
+135 $|$ "Vice Mayor"
+717 $|$ "Vice President"
+555 $|$ "Villanova University"
+495 $|$ "Vires, artes, mores"
+706 $|$ "Virginia Polytechnic Institute"
+564 $|$ "Virginia Tech Seal"
+677 $|$ "Virginia Tech president"
+695 $|$ "Virginia Tech"
+146 $|$ "Virginia in United States.svg"
+153 $|$ "Virginia is located on the Atlantic coast along the line that divides the Northern and Southern halves of the United States. It runs mostly east to west. It includes a small peninsula across a bay which is discontinuous with the rest of the state."
+344 $|$ "Virginia's location within the United States"
+69 $|$ "Virginian"
+617 $|$ "Virginiatechseal.svg"
+142 $|$ "W"
+463 $|$ "WRU: 1826"
+609 $|$ "WTC smoking on 9-11.jpeg"
+489 $|$ "Walter Gray"
+387 $|$ "Weather Channel"
+17 $|$ "Welcome sign at Fort Irwin National Training Center"
+595 $|$ "Whether the United States or China is larger has been disputed. The figure given is from the U.S. Central Intelligence Agency's The World Factbook. Other sources give smaller figures. All authoritative calculations of the country's size include only the 50 states and the District of Columbia, not the territories."
+575 $|$ "White"
+365 $|$ "Wild flower: Great white trillium"
+25 $|$ "Wine"
+118 $|$ "Y"
+178 $|$ "ZIP code"
+370 $|$ "ZIP codes"
+707 $|$ "and State University"
+368 $|$ "auto"
+392 $|$ "autocollapse"
+682 $|$ "background:#15317E; color:#fff"
+403 $|$ "background:#FFFFFF;color:#8C1515;border:1px solid #8C1515;"
+519 $|$ "background:#FFFFFF;color:#991111;border:1px solid #991111;"
+402 $|$ "background:black;color:#FF6600"
+326 $|$ "capital"
+16 $|$ "center"
+681 $|$ "color:black; background-color:white;"
+582 $|$ "dd-mm-yyyy mm-dd-yyyy yyyy-mm-dd"
+260 $|$ "declared retroactively on"
+62 $|$ "display=inline,title"
+202 $|$ "expanded"
+667 $|$ "from Great Britain"
+668 $|$ "from the United Kingdom"
+182 $|$ "green"
+72 $|$ "horizontal"
+607 $|$ "increase"
+206 $|$ "incumbent"
+61 $|$ "inline,title"
+620 $|$ "n/89/106247"
+376 $|$ "need to specify a number. If not here, then in demographics or economy"
+23 $|$ "no"
+641 $|$ "none"
+650 $|$ "nontheist"
+189 $|$ "percent"
+674 $|$ "present"
+453 $|$ "q13371"
+280 $|$ "region:US_type:city"
+136 $|$ "religion"
+84 $|$ "right"
+219 $|$ "section"
+578 $|$ "the United States"
+586 $|$ "vertical"
+228 $|$ "www.gov.bc.ca"
+693 $|$ "www.myflorida.com"
+407 $|$ "www.nj.gov"
+408 $|$ "www.ohio.gov"
+409 $|$ "www.ontario.ca"
+227 $|$ "www.virginia.gov"
+383 $|$ "yes"
+359 $|$ "•  Lake Erie"
+389 $|$ "•"
+455 $|$ "−12"
+319 $|$ "−16"
+78 $|$ "−2"
+692 $|$ "−2.5 to −7"
+484 $|$ "−22"
+144 $|$ "−282"
+690 $|$ "−3.5 to −8"
+691 $|$ "−4 to −10"
+406 $|$ "−4"
+689 $|$ "−5 to −10"
+405 $|$ "−5"
+285 $|$ "−6"
+290 $|$ "−8"
+143 $|$ "−86.0"
+48 $|$ *
+46 $|$ **
+51 $|$ ***
+128 $|$ 2
+129 $|$ 2.2%"
+127 $|$ 28
+126 $|$ 32
+125 $|$ 57
+430 $|$ <http://dbpedia.org/resource/Barbara_Snyder>
+259 $|$ <http://dbpedia.org/resource/Blacksburg,_Virginia>
+7 $|$ <http://dbpedia.org/resource/British_Columbia>
+8 $|$ <http://dbpedia.org/resource/California>
+9 $|$ <http://dbpedia.org/resource/Cambridge,_Massachusetts>
+546 $|$ <http://dbpedia.org/resource/Canada>
+426 $|$ <http://dbpedia.org/resource/Case_Western_Reserve_University>
+543 $|$ <http://dbpedia.org/resource/Charles_W._Steger>
+549 $|$ <http://dbpedia.org/resource/Christopher_L._Eisgruber>
+10 $|$ <http://dbpedia.org/resource/Cleveland>
+0 $|$ <http://dbpedia.org/resource/David_Naylor>
+4 $|$ <http://dbpedia.org/resource/Drew_Gilpin_Faust>
+547 $|$ <http://dbpedia.org/resource/Florida>
+427 $|$ <http://dbpedia.org/resource/Florida_State_University>
+544 $|$ <http://dbpedia.org/resource/Garnett_S._Stokes>
+251 $|$ <http://dbpedia.org/resource/Hamilton,_Ontario>
+428 $|$ <http://dbpedia.org/resource/Harvard_University>
+542 $|$ <http://dbpedia.org/resource/John_L._Hennessy>
+433 $|$ <http://dbpedia.org/resource/Kelowna>
+429 $|$ <http://dbpedia.org/resource/Kent,_Ohio>
+252 $|$ <http://dbpedia.org/resource/Kent_State_University>
+5 $|$ <http://dbpedia.org/resource/Lester_Lefton>
+548 $|$ <http://dbpedia.org/resource/Massachusetts>
+431 $|$ <http://dbpedia.org/resource/McMaster_University>
+253 $|$ <http://dbpedia.org/resource/New_Jersey>
+254 $|$ <http://dbpedia.org/resource/Ohio>
+255 $|$ <http://dbpedia.org/resource/Ontario>
+6 $|$ <http://dbpedia.org/resource/Patrick_Deane_(professor)>
+258 $|$ <http://dbpedia.org/resource/Princeton,_New_Jersey>
+256 $|$ <http://dbpedia.org/resource/Princeton_University>
+424 $|$ <http://dbpedia.org/resource/Stanford,_California>
+257 $|$ <http://dbpedia.org/resource/Stanford_University>
+1 $|$ <http://dbpedia.org/resource/Tallahassee,_Florida>
+2 $|$ <http://dbpedia.org/resource/Toronto>
+541 $|$ <http://dbpedia.org/resource/United_States>
+425 $|$ <http://dbpedia.org/resource/University_of_British_Columbia>
+432 $|$ <http://dbpedia.org/resource/University_of_Toronto>
+3 $|$ <http://dbpedia.org/resource/Virginia>
+545 $|$ <http://dbpedia.org/resource/Virginia_Tech>
+601 $|$ Agricultural and Mechanical College and Polytechnic Institute 
+52 $|$ Angeles Metropolitan Area
+49 $|$ California
+50 $|$ Coast
+57 $|$ Coast (California)
+53 $|$ Diego metropolitan area
+54 $|$ Empire
+47 $|$ Empire 
+58 $|$ Francisco Bay Area
+59 $|$ Nevada"
+602 $|$ Polytechnic Institute"
+55 $|$ Valley"
+268 $|$ |name="noteLargest"|group=note"
+267 $|$ |name="noteLargest"|group=note".
+-label_mapping-
+256
+146 $|$ <http://dbpedia.org/ontology/demonym>
+197 $|$ <http://dbpedia.org/ontology/formerName>
+145 $|$ <http://dbpedia.org/ontology/leaderTitle>
+255 $|$ <http://dbpedia.org/ontology/longName>
+148 $|$ <http://dbpedia.org/property/admittanceorder>
+217 $|$ <http://dbpedia.org/property/affiliations>
+4 $|$ <http://dbpedia.org/property/after>
+5 $|$ <http://dbpedia.org/property/align>
+198 $|$ <http://dbpedia.org/property/almaMater>
+6 $|$ <http://dbpedia.org/property/alt>
+218 $|$ <http://dbpedia.org/property/altMap>
+7 $|$ <http://dbpedia.org/property/alternatename>
+254 $|$ <http://dbpedia.org/property/alumna>
+149 $|$ <http://dbpedia.org/property/animal>
+199 $|$ <http://dbpedia.org/property/athletics>
+8 $|$ <http://dbpedia.org/property/b>
+9 $|$ <http://dbpedia.org/property/before>
+10 $|$ <http://dbpedia.org/property/beverage>
+11 $|$ <http://dbpedia.org/property/birthName>
+12 $|$ <http://dbpedia.org/property/birthPlace>
+13 $|$ <http://dbpedia.org/property/blank1Info>
+14 $|$ <http://dbpedia.org/property/blank1Name>
+15 $|$ <http://dbpedia.org/property/blankName>
+150 $|$ <http://dbpedia.org/property/calendar>
+151 $|$ <http://dbpedia.org/property/campus>
+153 $|$ <http://dbpedia.org/property/capital>
+16 $|$ <http://dbpedia.org/property/caption>
+17 $|$ <http://dbpedia.org/property/center>
+18 $|$ <http://dbpedia.org/property/centre>
+200 $|$ <http://dbpedia.org/property/chancellor>
+19 $|$ <http://dbpedia.org/property/chief>
+20 $|$ <http://dbpedia.org/property/children>
+201 $|$ <http://dbpedia.org/property/city>
+21 $|$ <http://dbpedia.org/property/coatofarms>
+22 $|$ <http://dbpedia.org/property/col>
+219 $|$ <http://dbpedia.org/property/color>
+34 $|$ <http://dbpedia.org/property/colors>
+202 $|$ <http://dbpedia.org/property/colours>
+220 $|$ <http://dbpedia.org/property/commonName>
+203 $|$ <http://dbpedia.org/property/commons>
+221 $|$ <http://dbpedia.org/property/conventionalLongName>
+35 $|$ <http://dbpedia.org/property/coordinatesDisplay>
+36 $|$ <http://dbpedia.org/property/coordinatesRegion>
+154 $|$ <http://dbpedia.org/property/coordinatesType>
+155 $|$ <http://dbpedia.org/property/country>
+222 $|$ <http://dbpedia.org/property/countryCode>
+223 $|$ <http://dbpedia.org/property/currencyCode>
+204 $|$ <http://dbpedia.org/property/d>
+156 $|$ <http://dbpedia.org/property/dance>
+37 $|$ <http://dbpedia.org/property/date>
+224 $|$ <http://dbpedia.org/property/dateFormat>
+157 $|$ <http://dbpedia.org/property/decRecordLowF>
+38 $|$ <http://dbpedia.org/property/demonym>
+39 $|$ <http://dbpedia.org/property/direction>
+225 $|$ <http://dbpedia.org/property/drivesOn>
+158 $|$ <http://dbpedia.org/property/east>
+205 $|$ <http://dbpedia.org/property/endowment>
+40 $|$ <http://dbpedia.org/property/entityadjective>
+206 $|$ <http://dbpedia.org/property/established>
+207 $|$ <http://dbpedia.org/property/establishedDate>
+41 $|$ <http://dbpedia.org/property/establishedTitle>
+42 $|$ <http://dbpedia.org/property/febRecordLowF>
+208 $|$ <http://dbpedia.org/property/fightsong>
+159 $|$ <http://dbpedia.org/property/filename>
+43 $|$ <http://dbpedia.org/property/firstresponderblsorals>
+44 $|$ <http://dbpedia.org/property/flag>
+45 $|$ <http://dbpedia.org/property/flagLink>
+1 $|$ <http://dbpedia.org/property/flagalt>
+46 $|$ <http://dbpedia.org/property/float>
+226 $|$ <http://dbpedia.org/property/food>
+47 $|$ <http://dbpedia.org/property/footer>
+48 $|$ <http://dbpedia.org/property/footerAlign>
+227 $|$ <http://dbpedia.org/property/footnoteA>
+228 $|$ <http://dbpedia.org/property/footnoteB>
+229 $|$ <http://dbpedia.org/property/footnoteC>
+230 $|$ <http://dbpedia.org/property/footnoteD>
+231 $|$ <http://dbpedia.org/property/footnoteE>
+215 $|$ <http://dbpedia.org/property/footnoteF>
+253 $|$ <http://dbpedia.org/property/footnoteG>
+49 $|$ <http://dbpedia.org/property/former>
+160 $|$ <http://dbpedia.org/property/formerNames>
+161 $|$ <http://dbpedia.org/property/fossil>
+162 $|$ <http://dbpedia.org/property/free>
+163 $|$ <http://dbpedia.org/property/freeLabel>
+50 $|$ <http://dbpedia.org/property/fullname>
+51 $|$ <http://dbpedia.org/property/gdpPerCapita>
+52 $|$ <http://dbpedia.org/property/gdpTotal>
+164 $|$ <http://dbpedia.org/property/gemstone>
+53 $|$ <http://dbpedia.org/property/governor>
+165 $|$ <http://dbpedia.org/property/grass>
+233 $|$ <http://dbpedia.org/property/hdiChange>
+54 $|$ <http://dbpedia.org/property/image>
+55 $|$ <http://dbpedia.org/property/imageBlankEmblem>
+56 $|$ <http://dbpedia.org/property/imageCaption>
+234 $|$ <http://dbpedia.org/property/imageCoat>
+57 $|$ <http://dbpedia.org/property/imageFlag>
+58 $|$ <http://dbpedia.org/property/imageMap>
+166 $|$ <http://dbpedia.org/property/imageName>
+59 $|$ <http://dbpedia.org/property/imageSeal>
+60 $|$ <http://dbpedia.org/property/imageShield>
+61 $|$ <http://dbpedia.org/property/imageSkyline>
+62 $|$ <http://dbpedia.org/property/imperialFirst>
+235 $|$ <http://dbpedia.org/property/iso3166code>
+63 $|$ <http://dbpedia.org/property/isocode>
+167 $|$ <http://dbpedia.org/property/janRecordLowF>
+168 $|$ <http://dbpedia.org/property/labelMap>
+64 $|$ <http://dbpedia.org/property/landborders>
+65 $|$ <http://dbpedia.org/property/languages>
+169 $|$ <http://dbpedia.org/property/largestcity>
+170 $|$ <http://dbpedia.org/property/latinName>
+71 $|$ <http://dbpedia.org/property/latns>
+236 $|$ <http://dbpedia.org/property/lccn>
+72 $|$ <http://dbpedia.org/property/leaderName>
+73 $|$ <http://dbpedia.org/property/leaderTitle>
+74 $|$ <http://dbpedia.org/property/left>
+75 $|$ <http://dbpedia.org/property/legislature>
+76 $|$ <http://dbpedia.org/property/lieutenantGovernor>
+77 $|$ <http://dbpedia.org/property/location>
+171 $|$ <http://dbpedia.org/property/logo>
+78 $|$ <http://dbpedia.org/property/longew>
+79 $|$ <http://dbpedia.org/property/lowestelev>
+80 $|$ <http://dbpedia.org/property/lowestelevus>
+81 $|$ <http://dbpedia.org/property/lowestpoint>
+82 $|$ <http://dbpedia.org/property/map>
+83 $|$ <http://dbpedia.org/property/mapCaption>
+84 $|$ <http://dbpedia.org/property/mapalt>
+172 $|$ <http://dbpedia.org/property/marineFish>
+173 $|$ <http://dbpedia.org/property/marineMammal>
+174 $|$ <http://dbpedia.org/property/mascot>
+85 $|$ <http://dbpedia.org/property/medianhouseholdincome>
+209 $|$ <http://dbpedia.org/property/metricFirst>
+175 $|$ <http://dbpedia.org/property/mineral>
+86 $|$ <http://dbpedia.org/property/motto>
+176 $|$ <http://dbpedia.org/property/mottoeng>
+87 $|$ <http://dbpedia.org/property/mottoenglish>
+88 $|$ <http://dbpedia.org/property/n>
+237 $|$ <http://dbpedia.org/property/nationalAnthem>
+238 $|$ <http://dbpedia.org/property/nationalMotto>
+89 $|$ <http://dbpedia.org/property/nationality>
+177 $|$ <http://dbpedia.org/property/nativeName>
+90 $|$ <http://dbpedia.org/property/nickname>
+178 $|$ <http://dbpedia.org/property/north>
+179 $|$ <http://dbpedia.org/property/northeast>
+91 $|$ <http://dbpedia.org/property/northwest>
+92 $|$ <http://dbpedia.org/property/office>
+93 $|$ <http://dbpedia.org/property/officialName>
+239 $|$ <http://dbpedia.org/property/officialReligion>
+94 $|$ <http://dbpedia.org/property/officiallang>
+180 $|$ <http://dbpedia.org/property/other>
+95 $|$ <http://dbpedia.org/property/placeOfBirth>
+96 $|$ <http://dbpedia.org/property/populationBlank>
+97 $|$ <http://dbpedia.org/property/populationDemonym>
+181 $|$ <http://dbpedia.org/property/populationDensityKm>
+240 $|$ <http://dbpedia.org/property/populationDensityMetroKm>
+182 $|$ <http://dbpedia.org/property/populationDensitySqMi>
+183 $|$ <http://dbpedia.org/property/postalCode>
+98 $|$ <http://dbpedia.org/property/postalCodeType>
+99 $|$ <http://dbpedia.org/property/postalabbreviation>
+100 $|$ <http://dbpedia.org/property/precipitationColour>
+101 $|$ <http://dbpedia.org/property/predecessor>
+210 $|$ <http://dbpedia.org/property/president>
+102 $|$ <http://dbpedia.org/property/profession>
+211 $|$ <http://dbpedia.org/property/provost>
+184 $|$ <http://dbpedia.org/property/pushpinLabelPosition>
+103 $|$ <http://dbpedia.org/property/pushpinMap>
+104 $|$ <http://dbpedia.org/property/pushpinMapCaption>
+105 $|$ <http://dbpedia.org/property/q>
+185 $|$ <http://dbpedia.org/property/reason>
+241 $|$ <http://dbpedia.org/property/religion>
+186 $|$ <http://dbpedia.org/property/reptile>
+106 $|$ <http://dbpedia.org/property/residence>
+107 $|$ <http://dbpedia.org/property/right>
+187 $|$ <http://dbpedia.org/property/rock>
+108 $|$ <http://dbpedia.org/property/routeMarker>
+242 $|$ <http://dbpedia.org/property/royalAnthem>
+109 $|$ <http://dbpedia.org/property/s>
+110 $|$ <http://dbpedia.org/property/seal>
+140 $|$ <http://dbpedia.org/property/sealalt>
+243 $|$ <http://dbpedia.org/property/senators>
+0 $|$ <http://dbpedia.org/property/settledTitle>
+111 $|$ <http://dbpedia.org/property/settlementType>
+244 $|$ <http://dbpedia.org/property/shell>
+2 $|$ <http://dbpedia.org/property/shieldLink>
+245 $|$ <http://dbpedia.org/property/ships>
+112 $|$ <http://dbpedia.org/property/shortDescription>
+246 $|$ <http://dbpedia.org/property/signature>
+113 $|$ <http://dbpedia.org/property/singleLine>
+188 $|$ <http://dbpedia.org/property/slogan>
+189 $|$ <http://dbpedia.org/property/small>
+190 $|$ <http://dbpedia.org/property/soil>
+114 $|$ <http://dbpedia.org/property/song>
+115 $|$ <http://dbpedia.org/property/source>
+116 $|$ <http://dbpedia.org/property/south>
+117 $|$ <http://dbpedia.org/property/southwest>
+247 $|$ <http://dbpedia.org/property/sovereigntyNote>
+212 $|$ <http://dbpedia.org/property/species>
+248 $|$ <http://dbpedia.org/property/sport>
+118 $|$ <http://dbpedia.org/property/spouse>
+191 $|$ <http://dbpedia.org/property/staffing>
+119 $|$ <http://dbpedia.org/property/state>
+120 $|$ <http://dbpedia.org/property/subdivisionName>
+121 $|$ <http://dbpedia.org/property/subdivisionType>
+249 $|$ <http://dbpedia.org/property/succeeded>
+122 $|$ <http://dbpedia.org/property/successor>
+250 $|$ <http://dbpedia.org/property/symbolType>
+216 $|$ <http://dbpedia.org/property/tagline>
+192 $|$ <http://dbpedia.org/property/tartan>
+123 $|$ <http://dbpedia.org/property/termEnd>
+251 $|$ <http://dbpedia.org/property/thesisTitle>
+252 $|$ <http://dbpedia.org/property/thumb>
+124 $|$ <http://dbpedia.org/property/timezone>
+213 $|$ <http://dbpedia.org/property/timezoneDst>
+125 $|$ <http://dbpedia.org/property/title>
+126 $|$ <http://dbpedia.org/property/titlebar>
+193 $|$ <http://dbpedia.org/property/titlestyle>
+127 $|$ <http://dbpedia.org/property/totalType>
+128 $|$ <http://dbpedia.org/property/tradabbreviation>
+129 $|$ <http://dbpedia.org/property/type>
+130 $|$ <http://dbpedia.org/property/tz1where>
+131 $|$ <http://dbpedia.org/property/tz2where>
+214 $|$ <http://dbpedia.org/property/uniname>
+132 $|$ <http://dbpedia.org/property/unitPref>
+3 $|$ <http://dbpedia.org/property/university>
+194 $|$ <http://dbpedia.org/property/utcOffset>
+195 $|$ <http://dbpedia.org/property/utcOffsetDst>
+133 $|$ <http://dbpedia.org/property/v>
+134 $|$ <http://dbpedia.org/property/viceroytype>
+135 $|$ <http://dbpedia.org/property/voy>
+136 $|$ <http://dbpedia.org/property/website>
+137 $|$ <http://dbpedia.org/property/west>
+138 $|$ <http://dbpedia.org/property/wikt>
+196 $|$ <http://dbpedia.org/property/wildflower>
+139 $|$ <http://dbpedia.org/property/yearRecordLowF>
+141 $|$ <http://purl.org/dc/elements/1.1/description>
+142 $|$ <http://xmlns.com/foaf/0.1/givenName>
+143 $|$ <http://xmlns.com/foaf/0.1/name>
+144 $|$ <http://xmlns.com/foaf/0.1/nick>
+147 $|$ <http://xmlns.com/foaf/0.1/surname>
+31 $|$ Central
+69 $|$ Chinese
+29 $|$ Coastal
+66 $|$ English
+28 $|$ Imperial
+23 $|$ Inland
+26 $|$ Los
+67 $|$ Multilingual
+32 $|$ North
+30 $|$ Northern
+27 $|$ San
+33 $|$ Sierra
+25 $|$ South
+24 $|$ Southern
+68 $|$ Spanish
+70 $|$ Tagalog
+232 $|$ Virginia
+152 $|$ |name="noteLargest"|group=note".

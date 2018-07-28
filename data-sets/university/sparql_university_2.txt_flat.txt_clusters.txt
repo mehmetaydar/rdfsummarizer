@@ -1,0 +1,1120 @@
+CLUSTER LIST:
+
+C-Barbara_Snyder>-1
+	<http://dbpedia.org/resource/Lester_Lefton> (4) (17)
+	<http://dbpedia.org/resource/David_Naylor> (0) (20)
+	<http://dbpedia.org/resource/Barbara_Snyder> (14) (11)
+
+C-Cleveland>-1
+	<http://dbpedia.org/resource/Cleveland> (6) (74)
+	<http://dbpedia.org/resource/Toronto> (2) (69)
+	<http://dbpedia.org/resource/Kent,_Ohio> (12) (130)
+
+C-Case_Western_Reserve_University>-1
+	<http://dbpedia.org/resource/Case_Western_Reserve_University> (10) (31)
+	<http://dbpedia.org/resource/Kent_State_University> (8) (25)
+
+C-David_Naylor>
+	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/David_Naylor> (1) (0)
+
+C-Toronto>
+	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Toronto> (3) (0)
+
+C-Lester_Lefton>
+	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lester_Lefton> (5) (0)
+
+C-Cleveland>-2
+	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cleveland> (7) (0)
+
+C-Kent_State_University>
+	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kent_State_University> (9) (0)
+
+C-Case_Western_Reserve_University>-2
+	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Case_Western_Reserve_University> (11) (0)
+
+C-Kent,_Ohio>
+	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kent,_Ohio> (13) (0)
+
+C-Barbara_Snyder>-2
+	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Barbara_Snyder> (15) (0)
+
+C-University_of_Toronto>-1
+	<http://dbpedia.org/resource/University_of_Toronto> (16) (47)
+
+C-University_of_Toronto>-2
+	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/University_of_Toronto> (17) (0)
+
+C-University_System_of_Ohio>
+	<http://dbpedia.org/resource/University_System_of_Ohio> (26) (0)
+
+C-Association_of_Public_and_Land-grant_Universities>
+	<http://dbpedia.org/resource/Association_of_Public_and_Land-grant_Universities> (27) (0)
+
+C-North_Central_Association_of_Colleges_and_Schools>
+	<http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools> (28) (0)
+
+C-Association_of_American_Universities>
+	<http://dbpedia.org/resource/Association_of_American_Universities> (29) (0)
+
+C-Association_of_Commonwealth_Universities>
+	<http://dbpedia.org/resource/Association_of_Commonwealth_Universities> (30) (0)
+
+C-U15_Group_of_Canadian_Research_Universities>
+	<http://dbpedia.org/resource/U15_Group_of_Canadian_Research_Universities> (31) (0)
+
+C-International_Association_of_Universities>
+	<http://dbpedia.org/resource/International_Association_of_Universities> (32) (0)
+
+C-Universities_Research_Association>
+	<http://dbpedia.org/resource/Universities_Research_Association> (33) (0)
+
+C-Association_of_Universities_and_Colleges_of_Canada>
+	<http://dbpedia.org/resource/Association_of_Universities_and_Colleges_of_Canada> (34) (0)
+
+C-University_of_Oxford>
+	<http://dbpedia.org/resource/University_of_Oxford> (35) (0)
+
+C-University_of_Rochester>
+	<http://dbpedia.org/resource/University_of_Rochester> (36) (0)
+
+C-Northeastern_University>
+	<http://dbpedia.org/resource/Northeastern_University> (37) (0)
+
+C-National_Collegiate_Athletic_Association>
+	<http://dbpedia.org/resource/National_Collegiate_Athletic_Association> (69) (0)
+
+C-Mid-American_Conference>
+	<http://dbpedia.org/resource/Mid-American_Conference> (70) (0)
+
+C-Division_I_(NCAA)>
+	<http://dbpedia.org/resource/Division_I_(NCAA)> (71) (0)
+
+C-Canadian_University_Field_Lacrosse_Association>
+	<http://dbpedia.org/resource/Canadian_University_Field_Lacrosse_Association> (75) (0)
+
+C-Canadian_Interuniversity_Sport>
+	<http://dbpedia.org/resource/Canadian_Interuniversity_Sport> (76) (0)
+
+C-Ontario_University_Athletics>
+	<http://dbpedia.org/resource/Ontario_University_Athletics> (77) (0)
+
+C-Ontario>
+	<http://dbpedia.org/resource/Ontario> (89) (0)
+
+C-Woodstock,_Ontario>
+	<http://dbpedia.org/resource/Woodstock,_Ontario> (90) (0)
+
+C-Canada>
+	<http://dbpedia.org/resource/Canada> (91) (0)
+
+C-Brookline,_Massachusetts>
+	<http://dbpedia.org/resource/Brookline,_Massachusetts> (92) (0)
+
+C-Massachusetts>
+	<http://dbpedia.org/resource/Massachusetts> (93) (0)
+
+C-Federal_Information_Processing_Standards>
+	<http://dbpedia.org/resource/Federal_Information_Processing_Standards> (101) (0)
+
+C-Suburb>
+	<http://dbpedia.org/resource/Suburb> (103) (0)
+
+C-College_town>
+	<http://dbpedia.org/resource/College_town> (104) (0)
+
+C-Michael_Wilson_(Canadian_politician)>
+	<http://dbpedia.org/resource/Michael_Wilson_(Canadian_politician)> (109) (0)
+
+C-United_States>
+	<http://dbpedia.org/resource/United_States> (120) (0)
+
+C-Pickering,_Ontario>
+	<http://dbpedia.org/resource/Pickering,_Ontario> (126) (0)
+
+C-Municipal_corporation>
+	<http://dbpedia.org/resource/Municipal_corporation> (151) (0)
+
+C-Merger_(politics)>
+	<http://dbpedia.org/resource/Merger_(politics)> (152) (0)
+
+C-John_Haymaker>
+	<http://dbpedia.org/resource/John_Haymaker> (169) (0)
+
+C-Mayor%E2%80%93council_government>
+	<http://dbpedia.org/resource/Mayor%E2%80%93council_government> (170) (0)
+
+C-Rob_Ford>
+	<http://dbpedia.org/resource/Rob_Ford> (171) (0)
+
+C-Council%E2%80%93manager_government>
+	<http://dbpedia.org/resource/Council%E2%80%93manager_government> (172) (0)
+
+C-Toronto_City_Council>
+	<http://dbpedia.org/resource/Toronto_City_Council> (207) (0)
+
+C-Norm_Kelly>
+	<http://dbpedia.org/resource/Norm_Kelly> (208) (0)
+
+C-Member_of_parliament>
+	<http://dbpedia.org/resource/Member_of_parliament> (212) (0)
+
+C-Member_of_Provincial_Parliament_(Ontario)>
+	<http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)> (213) (0)
+
+C-List_of_mayors_of_Toronto>
+	<http://dbpedia.org/resource/List_of_mayors_of_Toronto> (214) (0)
+
+C-Mayor>
+	<http://dbpedia.org/resource/Mayor> (217) (0)
+
+C-City_manager>
+	<http://dbpedia.org/resource/City_manager> (218) (0)
+
+C-Marvin_Kent>
+	<http://dbpedia.org/resource/Marvin_Kent> (256) (0)
+
+C-Name_of_Toronto>
+	<http://dbpedia.org/resource/Name_of_Toronto> (257) (0)
+
+C-The_Forest_City>
+	<http://dbpedia.org/resource/The_Forest_City> (258) (0)
+
+C-Kent_State_Golden_Flashes>
+	<http://dbpedia.org/resource/Kent_State_Golden_Flashes> (259) (0)
+
+C-Spartan_army>
+	<http://dbpedia.org/resource/Spartan_army> (260) (0)
+
+C-Toronto_Varsity_Blues>
+	<http://dbpedia.org/resource/Toronto_Varsity_Blues> (262) (0)
+
+C-Markham,_Ontario>
+	<http://dbpedia.org/resource/Markham,_Ontario> (263) (0)
+
+C-Vaughan>
+	<http://dbpedia.org/resource/Vaughan> (264) (0)
+
+C-Brampton>
+	<http://dbpedia.org/resource/Brampton> (265) (0)
+
+C-Combined_Statistical_Area>
+	<http://dbpedia.org/resource/Combined_Statistical_Area> (283) (0)
+
+C-Demonym>
+	<http://dbpedia.org/resource/Demonym> (284) (0)
+
+C-List_of_M_postal_codes_of_Canada>
+	<http://dbpedia.org/resource/List_of_M_postal_codes_of_Canada> (300) (0)
+
+C-Robert_J._Birgeneau>
+	<http://dbpedia.org/resource/Robert_J._Birgeneau> (309) (0)
+
+C-Carol_Cartwright>
+	<http://dbpedia.org/resource/Carol_Cartwright> (312) (0)
+
+C-Edward_M._Hundert>
+	<http://dbpedia.org/resource/Edward_M._Hundert> (313) (0)
+
+C-Meric_Gertler>
+	<http://dbpedia.org/resource/Meric_Gertler> (314) (0)
+
+C-Professor>
+	<http://dbpedia.org/resource/Professor> (315) (0)
+
+C-Ohio>
+	<http://dbpedia.org/resource/Ohio> (327) (0)
+
+C-City>
+	<http://dbpedia.org/resource/City> (332) (0)
+
+C-East_York>
+	<http://dbpedia.org/resource/East_York> (347) (0)
+
+C-Old_Toronto>
+	<http://dbpedia.org/resource/Old_Toronto> (348) (0)
+
+C-Scarborough,_Ontario>
+	<http://dbpedia.org/resource/Scarborough,_Ontario> (349) (0)
+
+C-York,_Ontario>
+	<http://dbpedia.org/resource/York,_Ontario> (350) (0)
+
+C-North_York>
+	<http://dbpedia.org/resource/North_York> (351) (0)
+
+C-Etobicoke>
+	<http://dbpedia.org/resource/Etobicoke> (352) (0)
+
+C-Cuyahoga_County,_Ohio>
+	<http://dbpedia.org/resource/Cuyahoga_County,_Ohio> (353) (0)
+
+C-Portage_County,_Ohio>
+	<http://dbpedia.org/resource/Portage_County,_Ohio> (354) (0)
+
+C-Provinces_and_territories_of_Canada>
+	<http://dbpedia.org/resource/Provinces_and_territories_of_Canada> (355) (0)
+
+C-Amalgamation_of_Toronto>
+	<http://dbpedia.org/resource/Amalgamation_of_Toronto> (356) (0)
+
+C-List_of_counties_in_Ohio>
+	<http://dbpedia.org/resource/List_of_counties_in_Ohio> (358) (0)
+
+C-List_of_sovereign_states>
+	<http://dbpedia.org/resource/List_of_sovereign_states> (359) (0)
+
+C-U.S._state>
+	<http://dbpedia.org/resource/U.S._state> (360) (0)
+
+C-Eastern_Time_Zone>
+	<http://dbpedia.org/resource/Eastern_Time_Zone> (367) (0)
+
+C-Dudince>
+	<http://dbpedia.org/resource/Dudince> (369) (0)
+
+C-Slovakia>
+	<http://dbpedia.org/resource/Slovakia> (370) (0)
+
+C-Public_university>
+	<http://dbpedia.org/resource/Public_university> (371) (0)
+
+C-Private_university>
+	<http://dbpedia.org/resource/Private_university> (372) (0)
+
+C->-1
+	<http://www.president.utoronto.ca/> (384) (0)
+
+C->-2
+	<http://www.city.cleveland.oh.us/> (385) (0)
+
+C-www.kent.edu>
+	<http://www.kent.edu> (386) (0)
+
+C->-3
+	<http://www.case.edu/> (387) (0)
+
+C-kentohio.org>
+	<http://kentohio.org> (388) (0)
+
+C-www.utoronto.ca>
+	<http://www.utoronto.ca> (389) (0)
+
+C-Mississauga>
+	<http://dbpedia.org/resource/Mississauga> (390) (0)
+
+C-synset-university-noun-2>
+	<http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2> (393) (0)
+
+Printing Un-clusterred Nodes:
+"1750" (18) (0)
+"Settled" (19) (0)
+"196000" (20) (0)
+"12" (21) (0)
+"47" (22) (0)
+"35" (23) (0)
+"Coat of arms of Toronto" (24) (0)
+"President of" (25) (0)
+"Ohio State University ( )" (38) (0)
+"University of Chicago Law School ( )" (39) (0)
+"60" (40) (0)
+"40" (41) (0)
+"3.15" (42) (0)
+"88" (43) (0)
+"17" (44) (0)
+"416437647" (45) (0)
+"216" (46) (0)
+"330234" (47) (0)
+"201.24" (48) (0)
+"23.75" (49) (0)
+"77.7" (50) (0)
+"9.17" (51) (0)
+"7125" (52) (0)
+"630" (53) (0)
+"213.6" (54) (0)
+"24.04" (55) (0)
+"82.47" (56) (0)
+"9.28" (57) (0)
+"1749" (58) (0)
+"12.35" (59) (0)
+"0.28" (60) (0)
+"4.77" (61) (0)
+"0.11" (62) (0)
+"1" (63) (0)
+"53" (64) (0)
+"42" (65) (0)
+"99" (66) (0)
+"28" (67) (0)
+"16" (68) (0)
+"19" (72) (0)
+"NCAA Division III UAA" (73) (0)
+"44" (74) (0)
+"82" (78) (0)
+"63" (79) (0)
+"3.36" (80) (0)
+"100" (81) (0)
+"43" (82) (0)
+"no" (83) (0)
+"6" (84) (0)
+"1954-10-26+02:00" (85) (0)
+"1946-07-27+02:00" (86) (0)
+"1955-07-23+02:00" (87) (0)
+"Christopher David Naylor" (88) (0)
+"FEUZB" (94) (0)
+"2395512" (95) (0)
+"GNBC Code" (96) (0)
+"GNIS feature ID" (97) (0)
+"30" (98) (0)
+"39" (99) (0)
+"NTS Map" (100) (0)
+"Semester" (102) (0)
+"Urban," (105) (0)
+"Lefton Photo Taken in 2012" (106) (0)
+"The seal of Case Western Reserve University" (107) (0)
+"Toronto" (108) (0)
+"Patrick Kelly" (110) (0)
+"Karline Naylor" (111) (0)
+"Max Naylor" (112) (0)
+"Melinda Naylor" (113) (0)
+"Sam Naylor" (114) (0)
+"Kent State Blue and Kent State Gold" (115) (0)
+"CWRU Blue (PMS 294), White and CWRU Grey (PMS 7545)" (116) (0)
+"inline,title" (117) (0)
+"CA-ON" (118) (0)
+"US-OH" (119) (0)
+"August 2010" (121) (0)
+"26" (122) (0)
+"2.83" (123) (0)
+"72" (124) (0)
+"−12" (125) (0)
+"653" (127) (0)
+"1050" (128) (0)
+"76" (129) (0)
+"199" (130) (0)
+"320" (131) (0)
+"1.091E8" (132) (0)
+"US $1.6 billion" (133) (0)
+"C$1.663 billion" (134) (0)
+"20" (135) (0)
+"1863-04-09+02:00" (136) (0)
+"1910" (137) (0)
+"CIT: 1880" (138) (0)
+"CWRU: 1967" (139) (0)
+"WRU: 1826" (140) (0)
+"1827-03-15+02:00" (141) (0)
+"1793-08-27+02:00" (142) (0)
+"1834-03-06+02:00" (143) (0)
+"1998-01-01+02:00" (144) (0)
+"1796" (145) (0)
+"1814" (146) (0)
+"1836" (147) (0)
+"1805" (148) (0)
+"1867" (149) (0)
+"November 1805" (150) (0)
+"Established" (153) (0)
+"Founded" (154) (0)
+"Incorporated" (155) (0)
+"2458" (156) (0)
+"2400" (157) (0)
+"2547" (158) (0)
+"38" (159) (0)
+"23" (160) (0)
+"2" (161) (0)
+"70" (162) (0)
+"−6" (163) (0)
+"First Responder BLS" (164) (0)
+"Flag of Toronto" (165) (0)
+"125" (166) (0)
+"89" (167) (0)
+"King's College" (168) (0)
+"25" (173) (0)
+"City of Toronto Logo.png" (174) (0)
+"From top left: Downtown Toronto featuring the CN Tower and Financial District from the Toronto Islands, City Hall, the Ontario Legislative Building, Casa Loma, Prince Edward Viaduct, and the Scarborough Bluffs" (175) (0)
+"Downtown Kent, September 2009" (176) (0)
+"Toronto Flag.svg" (177) (0)
+"Flag of Cleveland, Ohio.svg" (178) (0)
+"Toronto Location in Ontario.png" (179) (0)
+"Cleveland-CuyahogaCoOH.png" (180) (0)
+"Ohio Portage Kent.png" (181) (0)
+"Case Western Reserve University seal.svg" (182) (0)
+"Cleveland seal-T.png" (183) (0)
+"Kentlogo.png" (184) (0)
+"Toronto Coat of Arms.jpg" (185) (0)
+"200" (186) (0)
+"Montage of Toronto 7.jpg" (187) (0)
+"Montage Cleveland 1.jpg" (188) (0)
+"Downtown Kent Ohio 2.jpg" (189) (0)
+"Y" (190) (0)
+"34" (191) (0)
+"2.02" (192) (0)
+"65" (193) (0)
+"−22" (194) (0)
+"84" (195) (0)
+"64" (196) (0)
+"3.87" (197) (0)
+"103" (198) (0)
+"80" (199) (0)
+"3.13" (200) (0)
+"101" (201) (0)
+"41" (202) (0)
+"Universitas Torontonensis" (203) (0)
+"9" (204) (0)
+"N" (205) (0)
+"56" (206) (0)
+"Frank G. Jackson" (209) (0)
+"Dave Ruller" (210) (0)
+"Jerry Fiala" (211) (0)
+"Council" (215) (0)
+"Deputy Mayor" (216) (0)
+"Kent, Ohio" (219) (0)
+"220" (220) (0)
+"280" (221) (0)
+"79" (222) (0)
+"81" (223) (0)
+"W" (224) (0)
+"24" (225) (0)
+"21" (226) (0)
+"11" (227) (0)
+"3" (228) (0)
+"Location of Toronto and its census metropolitan area in the province of Ontario" (229) (0)
+"Location in Cuyahoga County" (230) (0)
+"Location in Portage County, Ohio" (231) (0)
+"48" (232) (0)
+"2.85" (233) (0)
+"Flash the Golden Eagle" (234) (0)
+"51" (235) (0)
+"3.61" (236) (0)
+"94" (237) (0)
+"Diversity Our Strength" (238) (0)
+"Progress & Prosperity" (239) (0)
+"Excellence In Action" (240) (0)
+"Think Beyond the Possible" (241) (0)
+"As a tree through the ages" (242) (0)
+"Portal:Toronto, Ontario" (243) (0)
+"David Naylor" (244) (0)
+"Naylor, David" (245) (0)
+"Lester Lefton" (246) (0)
+"Lefton, Lester" (247) (0)
+"Cleveland" (248) (0)
+"Cleveland Division of Fire" (249) (0)
+"Kent State University" (250) (0)
+"Case Western Reserve University" (251) (0)
+"Kent" (252) (0)
+"Barbara R. Snyder" (253) (0)
+"Snyder, Barbara" (254) (0)
+"University of Toronto" (255) (0)
+"The Tree City" (261) (0)
+"50" (266) (0)
+"36" (267) (0)
+"3.22" (268) (0)
+"62" (269) (0)
+"45" (270) (0)
+"2.46" (271) (0)
+"President of the University of Toronto" (272) (0)
+"President of Case Western Reserve University" (273) (0)
+"City of Toronto" (274) (0)
+"City of Cleveland" (275) (0)
+"City of Kent, Ohio" (276) (0)
+"15" (277) (0)
+"2012" (278) (0)
+"2011" (279) (0)
+"2010" (280) (0)
+"3497711" (281) (0)
+"Clevelander" (282) (0)
+"Torontonian" (285) (0)
+"Kentite" (286) (0)
+"4149" (287) (0)
+"1971.8" (288) (0)
+"1217" (289) (0)
+"5107" (290) (0)
+"3152" (291) (0)
+"390928" (292) (0)
+"29807" (293) (0)
+"5583064" (294) (0)
+"2068283" (295) (0)
+"2615060" (296) (0)
+"396815" (297) (0)
+"28904" (298) (0)
+"5132794" (299) (0)
+"441" (301) (0)
+"442404424244243" (302) (0)
+"Postal code span" (303) (0)
+"ZIP codes" (304) (0)
+"6030" (305) (0)
+"6115" (306) (0)
+"5458" (307) (0)
+"13464" (308) (0)
+"(Frank Iacobucci )" (310) (0)
+"(Vivek Goel )" (311) (0)
+"Educator" (316) (0)
+"right" (317) (0)
+"Canada" (318) (0)
+"USA Ohio" (319) (0)
+"USA" (320) (0)
+"Location of Toronto in Canada" (321) (0)
+"Location in Ohio" (322) (0)
+"Location in the United States" (323) (0)
+"250" (324) (0)
+"164" (325) (0)
+"4" (326) (0)
+"74" (328) (0)
+"3.57" (329) (0)
+"95" (330) (0)
+"City" (331) (0)
+"85" (333) (0)
+"Canadian physician" (334) (0)
+"American psychologist" (335) (0)
+"The Weather Channel" (336) (0)
+"Lake Ontario" (337) (0)
+"Ilse Treurnicht" (338) (0)
+"Linda Lefton" (339) (0)
+"Michael J. Snyder" (340) (0)
+"2799" (341) (0)
+"4590" (342) (0)
+"Career" (343) (0)
+"760" (344) (0)
+"28998" (345) (0)
+"41891" (346) (0)
+"Country" (357) (0)
+"incumbent" (361) (0)
+"October, 2013" (362) (0)
+"2014-07-01+02:00" (363) (0)
+"2005-10-01+02:00" (364) (0)
+"2006-07-01+02:00" (365) (0)
+"2007-07-01+02:00" (366) (0)
+"10" (368) (0)
+"22968" (373) (0)
+"35776" (374) (0)
+"4227" (375) (0)
+"33795" (376) (0)
+"Metric" (377) (0)
+"Imperial" (378) (0)
+"37" (379) (0)
+"-5" (380) (0)
+"−5" (381) (0)
+"-4" (382) (0)
+"−4" (383) (0)
+"22" (391) (0)
+"14" (392) (0)
+
+CLUSTER RELATIONS:
+
+C-Barbara_Snyder>-1
+	Stability Ratio:34.5238 %
+	Property Coverage Ratio:42.029 %
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/hasPhotoCollection>	C-David_Naylor>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/hasPhotoCollection>	C-Lester_Lefton>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/hasPhotoCollection>	C-Barbara_Snyder>-2
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/university>	C-Case_Western_Reserve_University>-1
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/almaMater>	C-University_of_Toronto>-1
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/almaMater>	C-University_of_Oxford>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/almaMater>	C-University_of_Rochester>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/almaMater>	C-Northeastern_University>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/birthPlace>	C-Ontario>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/birthPlace>	C-Woodstock,_Ontario>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/birthPlace>	C-Canada>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/birthPlace>	C-Brookline,_Massachusetts>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/birthPlace>	C-Massachusetts>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/placeOfBirth>	C-Ontario>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/placeOfBirth>	C-Woodstock,_Ontario>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/placeOfBirth>	C-Canada>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/placeOfBirth>	C-Brookline,_Massachusetts>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/placeOfBirth>	C-Massachusetts>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/predecessor>	C-Robert_J._Birgeneau>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/predecessor>	C-Carol_Cartwright>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/predecessor>	C-Edward_M._Hundert>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/profession>	C-Professor>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/residence>	C-Cleveland>-1
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/residence>	C-Ontario>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/residence>	C-Canada>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/residence>	C-Ohio>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/successor>	C-Meric_Gertler>
+	C-Barbara_Snyder>-1	<http://dbpedia.org/property/website>	C->-1
+
+C-Cleveland>-1
+	Stability Ratio:39.6226 %
+	Property Coverage Ratio:20.3226 %
+	C-Cleveland>-1	<http://dbpedia.org/property/hasPhotoCollection>	C-Toronto>
+	C-Cleveland>-1	<http://dbpedia.org/property/hasPhotoCollection>	C-Cleveland>-2
+	C-Cleveland>-1	<http://dbpedia.org/property/hasPhotoCollection>	C-Kent,_Ohio>
+	C-Cleveland>-1	<http://dbpedia.org/property/blankName>	C-Federal_Information_Processing_Standards>
+	C-Cleveland>-1	<http://dbpedia.org/property/east>	C-Pickering,_Ontario>
+	C-Cleveland>-1	<http://dbpedia.org/property/establishedTitle>	C-Municipal_corporation>
+	C-Cleveland>-1	<http://dbpedia.org/property/establishedTitle>	C-Merger_(politics)>
+	C-Cleveland>-1	<http://dbpedia.org/property/founder>	C-John_Haymaker>
+	C-Cleveland>-1	<http://dbpedia.org/property/governmentType>	C-Mayor%E2%80%93council_government>
+	C-Cleveland>-1	<http://dbpedia.org/property/governmentType>	C-Rob_Ford>
+	C-Cleveland>-1	<http://dbpedia.org/property/governmentType>	C-Council%E2%80%93manager_government>
+	C-Cleveland>-1	<http://dbpedia.org/property/leaderName>	C-Rob_Ford>
+	C-Cleveland>-1	<http://dbpedia.org/property/leaderName>	C-Toronto_City_Council>
+	C-Cleveland>-1	<http://dbpedia.org/property/leaderName>	C-Norm_Kelly>
+	C-Cleveland>-1	<http://dbpedia.org/property/leaderTitle>	C-Member_of_parliament>
+	C-Cleveland>-1	<http://dbpedia.org/property/leaderTitle>	C-Member_of_Provincial_Parliament_(Ontario)>
+	C-Cleveland>-1	<http://dbpedia.org/property/leaderTitle>	C-List_of_mayors_of_Toronto>
+	C-Cleveland>-1	<http://dbpedia.org/property/leaderTitle>	C-Mayor>
+	C-Cleveland>-1	<http://dbpedia.org/property/leaderTitle>	C-City_manager>
+	C-Cleveland>-1	<http://dbpedia.org/property/namedFor>	C-Marvin_Kent>
+	C-Cleveland>-1	<http://dbpedia.org/property/nickname>	C-Name_of_Toronto>
+	C-Cleveland>-1	<http://dbpedia.org/property/nickname>	C-The_Forest_City>
+	C-Cleveland>-1	<http://dbpedia.org/property/north>	C-Markham,_Ontario>
+	C-Cleveland>-1	<http://dbpedia.org/property/north>	C-Vaughan>
+	C-Cleveland>-1	<http://dbpedia.org/property/northwest>	C-Brampton>
+	C-Cleveland>-1	<http://dbpedia.org/property/populationBlank1Title>	C-Combined_Statistical_Area>
+	C-Cleveland>-1	<http://dbpedia.org/property/populationBlank2Title>	C-Demonym>
+	C-Cleveland>-1	<http://dbpedia.org/property/postalCode>	C-List_of_M_postal_codes_of_Canada>
+	C-Cleveland>-1	<http://dbpedia.org/property/settlementType>	C-City>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-Ontario>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-Canada>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-United_States>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-Ohio>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-East_York>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-Old_Toronto>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-Scarborough,_Ontario>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-York,_Ontario>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-North_York>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-Etobicoke>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-Cuyahoga_County,_Ohio>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionName>	C-Portage_County,_Ohio>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionType>	C-Provinces_and_territories_of_Canada>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionType>	C-Amalgamation_of_Toronto>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionType>	C-List_of_counties_in_Ohio>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionType>	C-List_of_sovereign_states>
+	C-Cleveland>-1	<http://dbpedia.org/property/subdivisionType>	C-U.S._state>
+	C-Cleveland>-1	<http://dbpedia.org/property/timezone>	C-Eastern_Time_Zone>
+	C-Cleveland>-1	<http://dbpedia.org/property/timezoneDst>	C-Eastern_Time_Zone>
+	C-Cleveland>-1	<http://dbpedia.org/property/twin>	C-Dudince>
+	C-Cleveland>-1	<http://dbpedia.org/property/twin1Country>	C-Slovakia>
+	C-Cleveland>-1	<http://dbpedia.org/property/website>	C->-2
+	C-Cleveland>-1	<http://dbpedia.org/property/website>	C-kentohio.org>
+	C-Cleveland>-1	<http://dbpedia.org/property/west>	C-Mississauga>
+
+C-Case_Western_Reserve_University>-1
+	Stability Ratio:61.9048 %
+	Property Coverage Ratio:38.2353 %
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/hasPhotoCollection>	C-Kent_State_University>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/hasPhotoCollection>	C-Case_Western_Reserve_University>-2
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/affiliations>	C-University_System_of_Ohio>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/affiliations>	C-Association_of_Public_and_Land-grant_Universities>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/affiliations>	C-North_Central_Association_of_Colleges_and_Schools>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/athletics>	C-National_Collegiate_Athletic_Association>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/athletics>	C-Mid-American_Conference>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/athletics>	C-Division_I_(NCAA)>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/campus>	C-Suburb>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/campus>	C-College_town>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/city>	C-Cleveland>-1
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/country>	C-United_States>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/nickname>	C-Kent_State_Golden_Flashes>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/nickname>	C-Spartan_army>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/president>	C-Barbara_Snyder>-1
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/state>	C-Ohio>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/type>	C-Public_university>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/type>	C-Private_university>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/website>	C-www.kent.edu>
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/website>	C->-3
+	C-Case_Western_Reserve_University>-1	<http://dbpedia.org/property/wordnet_type>	C-synset-university-noun-2>
+
+C-David_Naylor>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Toronto>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Lester_Lefton>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Cleveland>-2
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Kent_State_University>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Case_Western_Reserve_University>-2
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Kent,_Ohio>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Barbara_Snyder>-2
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-University_of_Toronto>-1
+	Stability Ratio:100 %
+	Property Coverage Ratio:34.5455 %
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/hasPhotoCollection>	C-University_of_Toronto>-2
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/affiliations>	C-Association_of_American_Universities>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/affiliations>	C-Association_of_Commonwealth_Universities>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/affiliations>	C-U15_Group_of_Canadian_Research_Universities>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/affiliations>	C-International_Association_of_Universities>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/affiliations>	C-Universities_Research_Association>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/affiliations>	C-Association_of_Universities_and_Colleges_of_Canada>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/athletics>	C-Canadian_University_Field_Lacrosse_Association>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/athletics>	C-Canadian_Interuniversity_Sport>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/athletics>	C-Ontario_University_Athletics>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/chancellor>	C-Michael_Wilson_(Canadian_politician)>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/city>	C-Cleveland>-1
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/country>	C-Canada>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/nickname>	C-Toronto_Varsity_Blues>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/president>	C-Meric_Gertler>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/province>	C-Ontario>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/type>	C-Public_university>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/website>	C-www.utoronto.ca>
+	C-University_of_Toronto>-1	<http://dbpedia.org/property/wordnet_type>	C-synset-university-noun-2>
+
+C-University_of_Toronto>-2
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-University_System_of_Ohio>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Association_of_Public_and_Land-grant_Universities>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-North_Central_Association_of_Colleges_and_Schools>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Association_of_American_Universities>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Association_of_Commonwealth_Universities>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-U15_Group_of_Canadian_Research_Universities>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-International_Association_of_Universities>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Universities_Research_Association>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Association_of_Universities_and_Colleges_of_Canada>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-University_of_Oxford>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-University_of_Rochester>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Northeastern_University>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-National_Collegiate_Athletic_Association>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Mid-American_Conference>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Division_I_(NCAA)>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Canadian_University_Field_Lacrosse_Association>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Canadian_Interuniversity_Sport>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Ontario_University_Athletics>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Ontario>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Woodstock,_Ontario>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Canada>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Brookline,_Massachusetts>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Massachusetts>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Federal_Information_Processing_Standards>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Suburb>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-College_town>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Michael_Wilson_(Canadian_politician)>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-United_States>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Pickering,_Ontario>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Municipal_corporation>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Merger_(politics)>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-John_Haymaker>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Mayor%E2%80%93council_government>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Rob_Ford>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Council%E2%80%93manager_government>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Toronto_City_Council>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Norm_Kelly>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Member_of_parliament>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Member_of_Provincial_Parliament_(Ontario)>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-List_of_mayors_of_Toronto>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Mayor>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-City_manager>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Marvin_Kent>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Name_of_Toronto>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-The_Forest_City>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Kent_State_Golden_Flashes>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Spartan_army>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Toronto_Varsity_Blues>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Markham,_Ontario>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Vaughan>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Brampton>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Combined_Statistical_Area>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Demonym>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-List_of_M_postal_codes_of_Canada>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Robert_J._Birgeneau>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Carol_Cartwright>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Edward_M._Hundert>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Meric_Gertler>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Professor>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Ohio>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-City>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-East_York>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Old_Toronto>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Scarborough,_Ontario>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-York,_Ontario>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-North_York>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Etobicoke>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Cuyahoga_County,_Ohio>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Portage_County,_Ohio>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Provinces_and_territories_of_Canada>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Amalgamation_of_Toronto>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-List_of_counties_in_Ohio>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-List_of_sovereign_states>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-U.S._state>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Eastern_Time_Zone>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Dudince>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Slovakia>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Public_university>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Private_university>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C->-1
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C->-2
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-www.kent.edu>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C->-3
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-kentohio.org>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-www.utoronto.ca>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-Mississauga>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
+
+C-synset-university-noun-2>
+	Stability Ratio:100 %
+	Property Coverage Ratio:100 %
