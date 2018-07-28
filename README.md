@@ -25,6 +25,7 @@ Checkout the code to /root/rolesim/clean-v1-opt1
 
 Then run: 
 ```
+cd /root/rolesim/clean-v1-opt1
 ./rsimrun -h 
 ```
 
