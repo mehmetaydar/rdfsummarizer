@@ -1,9 +1,6 @@
 # rdfsummarizer
 An RDF summarizer. Creates a summary graph (a conceptual summary) from a given RDF graph
 
-Mehmet Aydar
-Serkan Ayvaz
-
 This is the source code for RdfSummarizer, A classification algorithm for RDF data set. 
 
 It is intended for research purposes only.  
