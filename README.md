@@ -12,9 +12,9 @@ For any other uses, please contact Mehmet Aydar or Serkan Ayvaz, Department of C
 Any references to this project or this software should cite the following work:
 
 -- Publication Paper Info --
-The paper is submitted to "Journal on Data Semantics", titled as "Dynamic Discovery of Type Classes and Relations in Semantic Web Data"
-Full Publication info will be listed later. 
-Please contact the authors before using it.
+The paper is published in the "Journal on Data Semantics", titled as "Dynamic Discovery of Type Classes and Relations in Semantic Web Data"
+DOI: 10.1007/s13740-019-00102-6. 
+Please cite the paper above if you use this work.
 
 Software notes:
 (1) The program is written in C++.  Executing the program with the -h option
