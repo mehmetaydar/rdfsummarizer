@@ -3,7 +3,8 @@ An RDF summarizer. Creates a summary graph (a conceptual summary) from a given R
 
 This is the source code for RdfSummarizer, A classification algorithm for RDF data set. 
 
-It is intended for research purposes only.  
+This is a research project. Details can be found in the article: https://link.springer.com/article/10.1007/s13740-019-00102-6
+
 For any other uses, please contact Mehmet Aydar or Serkan Ayvaz, Department of Computer Science, Kent State University (mehmetaydar@gmail.com, serkan.ayvaz@eng.bau.edu.tr).
 
 Any references to this project or this software should cite the following work:
